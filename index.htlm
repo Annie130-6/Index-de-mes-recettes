@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Grand Index de mes recettes</title>
+</head>
+<body>
+  <h1>📚 Grand Index de mes recettes</h1>
+  <p>Recherche dans mes livres de cuisine.</p>
+
+  <input id="search" placeholder="Rechercher une recette ou un ingrédient..." />
+
+  <div id="results"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
