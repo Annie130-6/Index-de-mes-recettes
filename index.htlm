@@ -1,18 +1,52 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Grand Index de mes recettes</title>
+
+  <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
+
+<header>
   <h1>📚 Grand Index de mes recettes</h1>
-  <p>Recherche dans mes livres de cuisine.</p>
 
-  <input id="search" placeholder="Rechercher une recette ou un ingrédient..." />
+  <nav>
+    <button id="btnLivres">📚 Livres</button>
+    <button id="btnRecettes">🍽️ Recettes</button>
+    <button id="btnFavoris">⭐ Favoris</button>
+    <button id="btnIngredients">🥕 Ingrédients</button>
+  </nav>
+</header>
 
-  <div id="results"></div>
+<main>
 
-  <script src="js/app.js"></script>
+<section id="pageLivres">
+    <h2>Mes livres</h2>
+
+    <div id="listeLivres"></div>
+</section>
+
+<section id="pageRecettes" style="display:none;">
+    <input id="search" placeholder="Rechercher une recette...">
+
+    <div id="results"></div>
+</section>
+
+<section id="pageFavoris" style="display:none;">
+    <h2>Mes favoris</h2>
+</section>
+
+<section id="pageIngredients" style="display:none;">
+    <h2>Recherche par ingrédients</h2>
+</section>
+
+</main>
+
+<script src="js/app.js"></script>
+
 </body>
 </html>
