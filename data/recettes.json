@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "livreId": 1,
+    "titre": "Dumplings sichuanais au porc avec sauce",
+    "page": 132,
+    "categorie": "Plat principal",
+    "sousCategorie": "Dumplings",
+    "cuisine": "Asiatique",
+    "tempsPreparation": null,
+    "tempsCuisson": null,
+    "tempsTotal": null,
+    "portions": null,
+    "ingredients": [],
+    "notes": "",
+    "favori": false,
+    "statut": "À indexer"
+  }
+]
