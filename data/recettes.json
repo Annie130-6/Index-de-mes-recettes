@@ -109,7 +109,6 @@
     "favori": false,
     "statut": "Indexé"
   },
-  ,
 {
   "id": 11,
   "livreId": 1,
@@ -678,7 +677,7 @@
   "titre": "Morue au bacon, beurre aux canneberges, noisettes torréfiées",
   "page": 168,
   "categorie": "Plat",
-  "ingredientPrincipal": "Pétoncle",
+  "ingredientPrincipal": "Morue",
   "image": "kitchen-galerie.jpg",
   "favori": false,
   "statut": "Indexé"
