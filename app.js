@@ -1,83 +1,94 @@
-let recettes = [];
 let livres = [];
+let recettes = [];
 
-const pages = {
-  livres: document.getElementById("pageLivres"),
-  recettes: document.getElementById("pageRecettes"),
-  favoris: document.getElementById("pageFavoris"),
-  ingredients: document.getElementById("pageIngredients")
-};
+const pageLivres = document.getElementById("pageLivres");
+const pageRecettes = document.getElementById("pageRecettes");
+const pageFavoris = document.getElementById("pageFavoris");
+const pageIngredients = document.getElementById("pageIngredients");
+const search = document.getElementById("search");
+const results = document.getElementById("results");
 
-const listeLivres = document.getElementById("listeLivres");
-const recherche = document.getElementById("search");
-const resultats = document.getElementById("results");
-
-document.getElementById("btnLivres").addEventListener("click", () => afficherPage("livres"));
-document.getElementById("btnRecettes").addEventListener("click", () => afficherPage("recettes"));
-document.getElementById("btnFavoris").addEventListener("click", () => afficherPage("favoris"));
-document.getElementById("btnIngredients").addEventListener("click", () => afficherPage("ingredients"));
+document.getElementById("btnLivres").addEventListener("click", afficherLivres);
+document.getElementById("btnRecettes").addEventListener("click", () => afficherRecettes(recettes));
+document.getElementById("btnFavoris").addEventListener("click", afficherFavoris);
+document.getElementById("btnIngredients").addEventListener("click", afficherIngredients);
 
 async function chargerDonnees() {
-  const livresResponse = await fetch("data/livres.json");
-  livres = await livresResponse.json();
-
-  const recettesResponse = await fetch("data/recettes.json");
-  recettes = await recettesResponse.json();
+  livres = await fetch("data/livres.json").then(r => r.json());
+  recettes = await fetch("data/recettes.json").then(r => r.json());
 
   afficherLivres();
-  afficherRecettes(recettes);
 }
 
-function afficherPage(nomPage) {
-  Object.values(pages).forEach(page => page.style.display = "none");
-  pages[nomPage].style.display = "block";
-}
-
-function trouverLivre(livreId) {
-  return livres.find(livre => livre.id === livreId);
+function cacherPages() {
+  pageLivres.style.display = "none";
+  pageRecettes.style.display = "none";
+  pageFavoris.style.display = "none";
+  pageIngredients.style.display = "none";
 }
 
 function afficherLivres() {
-  listeLivres.innerHTML = "";
+  cacherPages();
+  pageLivres.style.display = "block";
+
+  pageLivres.innerHTML = "<h2>📚 Mes livres</h2>";
 
   livres.forEach(livre => {
-    listeLivres.innerHTML += `
+    pageLivres.innerHTML += `
       <div>
         <h3>${livre.titre}</h3>
         <p>${livre.langue} · ${livre.nbRecettes} recettes · ${livre.statut}</p>
+        <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
       </div>
       <hr>
     `;
   });
+}
+
+function afficherRecettesDuLivre(livreId) {
+  const recettesLivre = recettes.filter(r => r.livreId === livreId);
+  afficherRecettes(recettesLivre);
 }
 
 function afficherRecettes(liste) {
-  resultats.innerHTML = "";
+  cacherPages();
+  pageRecettes.style.display = "block";
+
+  results.innerHTML = "";
 
   liste.forEach(recette => {
-    const livre = trouverLivre(recette.livreId);
-
-    resultats.innerHTML += `
+    results.innerHTML += `
       <div>
         <h3>${recette.titre}</h3>
-        <p>📚 ${livre ? livre.titre : "Livre inconnu"} · 📄 page ${recette.page}</p>
-        <p>${recette.categorie} · ${recette.cuisine}</p>
+        <p>Page ${recette.page} · ${recette.categorie} · ${recette.ingredientPrincipal}</p>
       </div>
       <hr>
     `;
   });
 }
 
-recherche.addEventListener("input", () => {
-  const texte = recherche.value.toLowerCase();
+function afficherFavoris() {
+  cacherPages();
+  pageFavoris.style.display = "block";
+  pageFavoris.innerHTML = "<h2>⭐ Favoris</h2><p>Bientôt disponible.</p>";
+}
 
-  const filtre = recettes.filter(recette =>
-    recette.titre.toLowerCase().includes(texte) ||
-    recette.categorie.toLowerCase().includes(texte) ||
-    recette.cuisine.toLowerCase().includes(texte)
+function afficherIngredients() {
+  cacherPages();
+  pageIngredients.style.display = "block";
+  pageIngredients.innerHTML = "<h2>🥕 Ingrédients</h2><p>Bientôt disponible.</p>";
+}
+
+search.addEventListener("input", () => {
+  const texte = search.value.toLowerCase();
+
+  const filtres = recettes.filter(r =>
+    r.titre.toLowerCase().includes(texte) ||
+    r.categorie.toLowerCase().includes(texte) ||
+    r.ingredientPrincipal.toLowerCase().includes(texte)
   );
 
-  afficherRecettes(filtre);
+  afficherRecettes(filtres);
 });
 
 chargerDonnees();
