@@ -14,8 +14,13 @@ document.getElementById("btnFavoris").addEventListener("click", afficherFavoris)
 document.getElementById("btnIngredients").addEventListener("click", afficherIngredients);
 
 async function chargerDonnees() {
-  livres = await fetch("data/livres.json?v=2").then(r => r.json());
-recettes = await fetch("data/recettes.json?v=2").then(r => r.json());
+  const version = Date.now();
+
+  livres = await fetch(`data/livres.json?v=${version}`).then(r => r.json());
+  recettes = await fetch(`data/recettes.json?v=${version}`).then(r => r.json());
+
+  alert("Recettes chargées : " + recettes.length);
+
   afficherLivres();
 }
 
