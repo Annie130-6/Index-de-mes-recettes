@@ -8,14 +8,16 @@ const pageIngredients = document.getElementById("pageIngredients");
 const search = document.getElementById("search");
 const results = document.getElementById("results");
 
-document.getElementById("btnLivres").addEventListener("click", afficherLivres);
-document.getElementById("btnRecettes").addEventListener("click", () => afficherRecettes(recettes));
-document.getElementById("btnFavoris").addEventListener("click", afficherFavoris);
-document.getElementById("btnIngredients").addEventListener("click", afficherIngredients);
-
 async function chargerDonnees() {
-  livres = await fetch("data/livres.json").then(r => r.json());
-  recettes = await fetch("data/recettes.json").then(r => r.json());
+  const v = Date.now();
+
+  livres = await fetch(`data/livres.json?v=${v}`).then(r => r.json());
+  recettes = await fetch(`data/recettes.json?v=${v}`).then(r => r.json());
+
+  document.getElementById("btnLivres").onclick = afficherLivres;
+  document.getElementById("btnRecettes").onclick = () => afficherRecettes(recettes);
+  document.getElementById("btnFavoris").onclick = afficherFavoris;
+  document.getElementById("btnIngredients").onclick = afficherIngredients;
 
   afficherLivres();
 }
@@ -31,7 +33,7 @@ function afficherLivres() {
   cacherPages();
   pageLivres.style.display = "block";
 
-  pageLivres.innerHTML = "<h2>📚 Mes livres</h2>";
+  pageLivres.innerHTML = `<h2>📚 Mes livres</h2>`;
 
   livres.forEach(livre => {
     pageLivres.innerHTML += `
@@ -54,7 +56,7 @@ function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
 
-  results.innerHTML = "";
+  results.innerHTML = `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
   liste.forEach(recette => {
     results.innerHTML += `
