@@ -51,7 +51,8 @@ function afficherRecettesDuLivre(livreId) {
 function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
-  results.innerHTML = "";
+
+  results.innerHTML = `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
   liste.forEach(recette => {
     results.innerHTML += `
