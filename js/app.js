@@ -14,8 +14,8 @@ document.getElementById("btnFavoris").addEventListener("click", afficherFavoris)
 document.getElementById("btnIngredients").addEventListener("click", afficherIngredients);
 
 async function chargerDonnees() {
-  livres = await fetch("data/livres.json").then(r => r.json());
-  recettes = await fetch("data/recettes.json").then(r => r.json());
+  livres = await fetch("data/livres.json?v=2").then(r => r.json());
+recettes = await fetch("data/recettes.json?v=2").then(r => r.json());
   afficherLivres();
 }
 
