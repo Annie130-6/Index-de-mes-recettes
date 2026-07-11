@@ -3,8 +3,18 @@
     "id": 1,
     "titre": "Kitchen Galerie",
     "langue": "Français",
-    "editeur": "Kitchen Galerie",
+    "editeur": "Les Éditions de l’Homme",
     "nbRecettes": 88,
-    "statut": "Complet"
+    "statut": "Complet",
+    "couverture": "kitchen-galerie.jpg"
+  },
+  {
+    "id": 2,
+    "titre": "La cuisine asiatique pour tous",
+    "langue": "Français",
+    "editeur": "",
+    "nbRecettes": 0,
+    "statut": "Indexation en cours",
+    "couverture": "cuisine-asiatique-pour-tous.jpg"
   }
 ]
