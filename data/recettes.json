@@ -967,10 +967,6 @@
   "favori": false,
   "statut": "Indexé"
 },
-  Oui, option 1 : une seule entrée par vraie recette, sans reproduire les renvois de l’index papier.
-
-Avant de coller ce bloc, dans data/recettes.json, garde les recettes 1 à 88 et supprime tout ce qui commence à l’ID 89. Ensuite, après l’accolade de la recette 88, ajoute une virgule et colle ceci. Cette première page va des IDs 89 à 167.
-
 {
   "id": 89,
   "livreId": 2,
@@ -1839,5 +1835,258 @@ Avant de coller ce bloc, dans data/recettes.json, garde les recettes 1 à 88 et 
   "image": "IMG_1430.jpeg",
   "favori": false,
   "statut": "Indexé"
-}
+},
+{
+  "id": 168,
+  "livreId": 2,
+  "titre": "Curry panang de poulet aux cacahuètes",
+  "page": 119,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Poulet",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 169,
+  "livreId": 2,
+  "titre": "Gambas aux cacahuètes",
+  "page": 53,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Crevette",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 170,
+  "livreId": 2,
+  "titre": "Salade de concombre aux cacahuètes et au piment",
+  "page": 139,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "Concombre",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 171,
+  "livreId": 2,
+  "titre": "Fruits de mer aux épices",
+  "page": 276,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Fruits de mer",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 172,
+  "livreId": 2,
+  "titre": "Sauté de calmars et de tomates au vermicelle",
+  "page": 176,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Calmar",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 173,
+  "livreId": 2,
+  "titre": "Calmars à la balinaise",
+  "page": 71,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Calmar",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 174,
+  "livreId": 2,
+  "titre": "Canard braisé aux champignons",
+  "page": 166,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Canard",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 175,
+  "livreId": 2,
+  "titre": "Canard laqué et crêpes mandarin",
+  "page": 32,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Canard",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 176,
+  "livreId": 2,
+  "titre": "Pudding à la carotte",
+  "page": 288,
+  "categorie": "Dessert",
+  "ingredientPrincipal": "Carotte",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 177,
+  "livreId": 2,
+  "titre": "Raita à la carotte",
+  "page": 236,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "Carotte",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 178,
+  "livreId": 2,
+  "titre": "Champignons et vinaigrette à l'oignon nouveau",
+  "page": 206,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "Champignon",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 179,
+  "livreId": 2,
+  "titre": "Poulet de satin noir",
+  "page": 38,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Poulet",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 180,
+  "livreId": 2,
+  "titre": "Soupe aux won-tons",
+  "page": 25,
+  "categorie": "Soupe",
+  "ingredientPrincipal": "Porc",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 181,
+  "livreId": 2,
+  "titre": "Soupe du Sichuan",
+  "page": 38,
+  "categorie": "Soupe",
+  "ingredientPrincipal": "Champignon",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 182,
+  "livreId": 2,
+  "titre": "Curry de chou-fleur, de tomate et de petits pois",
+  "page": 252,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Chou-fleur",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 183,
+  "livreId": 2,
+  "titre": "Chou-fleur et haricots kilomètres sautés",
+  "page": 121,
+  "categorie": "Accompagnement",
+  "ingredientPrincipal": "Chou-fleur",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 184,
+  "livreId": 2,
+  "titre": "Chutney de coriandre",
+  "page": 236,
+  "categorie": "Condiment",
+  "ingredientPrincipal": "Coriandre",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 185,
+  "livreId": 2,
+  "titre": "Chutney de mangue sucré",
+  "page": 188,
+  "categorie": "Condiment",
+  "ingredientPrincipal": "Mangue",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 186,
+  "livreId": 2,
+  "titre": "Croquettes au crabe, aux crevettes et aux pommes de terre",
+  "page": 158,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "Crabe",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 187,
+  "livreId": 2,
+  "titre": "Dim sums au crabe",
+  "page": 36,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "Crabe",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 188,
+  "livreId": 2,
+  "titre": "Sauté de vermicelle au crabe",
+  "page": 163,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Crabe",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 189,
+  "livreId": 2,
+  "titre": "Crêpes aux crevettes",
+  "page": 106,
+  "categorie": "Entrée",
+  "ingredientPrincipal": "Crevette",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
+{
+  "id": 190,
+  "livreId": 2,
+  "titre": "Crêpes de pois cassés et de riz aux légumes",
+  "page": 194,
+  "categorie": "Plat",
+  "ingredientPrincipal": "Légumes",
+  "image": "IMG_1430.jpeg",
+  "favori": false,
+  "statut": "Indexé"
+},
 ]
