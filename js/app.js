@@ -8,18 +8,24 @@ const pageIngredients = document.getElementById("pageIngredients");
 const search = document.getElementById("search");
 const results = document.getElementById("results");
 
-document.getElementById("btnLivres").addEventListener("click", afficherLivres);
-document.getElementById("btnRecettes").addEventListener("click", () => afficherRecettes(recettes));
-document.getElementById("btnFavoris").addEventListener("click", afficherFavoris);
-document.getElementById("btnIngredients").addEventListener("click", afficherIngredients);
-
 async function chargerDonnees() {
-  const version = Date.now();
+     const version = Date.now();
 
-  livres = await fetch(`data/livres.json?v=${version}`).then(r => r.json());
-  recettes = await fetch(`data/recettes.json?v=${version}`).then(r => r.json());
+  document.body.insertAdjacentHTML('afterbegin', '<p style="background:yellow">Début du chargement...</p>');
 
-  alert("Recettes chargées : " + recettes.length);
+  try {
+    const rL = await fetch(`data/livres.json?v=${version}`);
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">livres.json statut: ${rL.status}</p>`);
+    livres = await rL.json();
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Livres chargés: ${livres.length}</p>`);
+
+    const rR = await fetch(`data/recettes.json?v=${version}`);
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">recettes.json statut: ${rR.status}</p>`);
+    recettes = await rR.json();
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Recettes chargées: ${recettes.length}</p>`);
+  } catch (err) {
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
+  }
 
   afficherLivres();
 }
@@ -34,7 +40,8 @@ function cacherPages() {
 function afficherLivres() {
   cacherPages();
   pageLivres.style.display = "block";
-  pageLivres.innerHTML = "<h2>📚 Mes livres</h2>";
+
+  pageLivres.innerHTML = `<h2>📚 Mes livres</h2>`;
 
   livres.forEach(livre => {
     pageLivres.innerHTML += `
