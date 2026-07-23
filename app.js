@@ -35,7 +35,9 @@ function cacherPages() {
   pageRecettes.style.display = "none";
   pageFavoris.style.display = "none";
   pageIngredients.style.display = "none";
+  pageAgenda.style.display = "none";
 }
+
 
 function afficherLivres() {
   cacherPages();
