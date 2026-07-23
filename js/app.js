@@ -16,7 +16,10 @@ async function chargerDonnees() {
   try {
     const rL = await fetch(`data/livres.json?v=${version}`);
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">livres.json statut: ${rL.status}</p>`);
-    livres = await rL.json();
+    const texteLivres = await rL.text();
+document.body.insertAdjacentHTML('afterbegin', `<p style="background:orange">TEXTE BRUT: ${texteLivres.substring(0,300)}</p>`);
+livres = JSON.parse(texteLivres);
+
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Livres chargés: ${livres.length}</p>`);
 
     const rR = await fetch(`data/recettes.json?v=${version}`);
