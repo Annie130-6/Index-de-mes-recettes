@@ -29,12 +29,6 @@ async function chargerDonnees() {
   afficherLivres();
 }
 
-  } catch (err) {
-    document.getElementById("pageLivres").innerHTML = `<p style="color:red">ERREUR: ${err.message}</p>`;
-  }
-}
-
-
 function cacherPages() {
   pageLivres.style.display = "none";
   pageRecettes.style.display = "none";
