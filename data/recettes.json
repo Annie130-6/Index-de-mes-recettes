@@ -3464,7 +3464,6 @@
   "favori": false,
   "statut": "Indexé"
 },
-  [
 {"id":316,"livreId":2,"titre":"Kebabs de porc au piment","page":61,"categorie":"Plat","ingredientPrincipal":"Porc","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
 {"id":317,"livreId":2,"titre":"Papillotes de laitue au porc","page":164,"categorie":"Plat","ingredientPrincipal":"Porc","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
 {"id":318,"livreId":2,"titre":"Rouleaux de printemps en manteau de laitue","page":167,"categorie":"Entrée","ingredientPrincipal":"Pâte","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
