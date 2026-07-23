@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+  <script>
+window.onerror = function(msg, url, line) {
+  document.body.insertAdjacentHTML('afterbegin', '<p style="background:red;color:white">JS ERREUR: ' + msg + ' (ligne ' + line + ')</p>');
+};
+</script>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
