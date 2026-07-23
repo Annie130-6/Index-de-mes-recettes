@@ -10,17 +10,23 @@ const results = document.getElementById("results");
 
 async function chargerDonnees() {
   const v = Date.now();
+  try {
+    const rLivres = await fetch(`data/livres.json?v=${v}`);
+    const rRecettes = await fetch(`data/recettes.json?v=${v}`);
+    livres = await rLivres.json();
+    recettes = await rRecettes.json();
 
-  livres = await fetch(`data/livres.json?v=${v}`).then(r => r.json());
-  recettes = await fetch(`data/recettes.json?v=${v}`).then(r => r.json());
+    document.getElementById("btnLivres").onclick = afficherLivres;
+    document.getElementById("btnRecettes").onclick = () => afficherRecettes(recettes);
+    document.getElementById("btnFavoris").onclick = afficherFavoris;
+    document.getElementById("btnIngredients").onclick = afficherIngredients;
 
-  document.getElementById("btnLivres").onclick = afficherLivres;
-  document.getElementById("btnRecettes").onclick = () => afficherRecettes(recettes);
-  document.getElementById("btnFavoris").onclick = afficherFavoris;
-  document.getElementById("btnIngredients").onclick = afficherIngredients;
-
-  afficherLivres();
+    afficherLivres();
+  } catch (err) {
+    document.getElementById("pageLivres").innerHTML = `<p style="color:red">ERREUR: ${err.message}</p>`;
+  }
 }
+
 
 function cacherPages() {
   pageLivres.style.display = "none";
