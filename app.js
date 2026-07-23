@@ -9,7 +9,8 @@ const search = document.getElementById("search");
 const results = document.getElementById("results");
 
 async function chargerDonnees() {
-  const version = Date.now();
+     const version = Date.now();
+
   document.body.insertAdjacentHTML('afterbegin', '<p style="background:yellow">Début du chargement...</p>');
 
   try {
