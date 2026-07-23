@@ -9,6 +9,17 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 
+  <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.getRegistrations().then(regs => {
+    alert("Service workers trouvés : " + regs.length);
+    regs.forEach(r => r.unregister());
+  });
+} else {
+  alert("Pas de service worker supporté");
+}
+</script>
+
 <body>
 
 <header>
