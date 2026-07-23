@@ -106,3 +106,118 @@ search.addEventListener("input", () => {
 });
 
 chargerDonnees();
+
+
+const pageAgenda = document.getElementById("pageAgenda");
+const btnAgenda = document.getElementById("btnAgenda");
+let anneeAffichee = new Date().getFullYear();
+let moisAffiche = new Date().getMonth();
+let recetteEnCoursId = null;
+let recetteEnCoursTitre = null;
+
+btnAgenda.addEventListener("click", () => {
+  cacherPages();
+  pageAgenda.style.display = "block";
+  afficherAgenda();
+});
+
+function chargerAgenda() {
+  const data = localStorage.getItem("agendaRecettes");
+  return data ? JSON.parse(data) : {};
+}
+
+function sauvegarderAgenda(agenda) {
+  localStorage.setItem("agendaRecettes", JSON.stringify(agenda));
+}
+
+function ouvrirModalAgenda(recetteId, titre) {
+  recetteEnCoursId = recetteId;
+  recetteEnCoursTitre = titre;
+  document.getElementById("modalTitreRecette").textContent = titre;
+  document.getElementById("modalDateInput").value = new Date().toISOString().split("T")[0];
+  document.getElementById("modalAgenda").style.display = "flex";
+}
+
+document.getElementById("modalAnnuler").addEventListener("click", () => {
+  document.getElementById("modalAgenda").style.display = "none";
+});
+
+document.getElementById("modalConfirmer").addEventListener("click", () => {
+  const date = document.getElementById("modalDateInput").value;
+  if (!date) { alert("Choisis une date."); return; }
+  const agenda = chargerAgenda();
+  if (!agenda[date]) agenda[date] = [];
+  agenda[date].push({ id: recetteEnCoursId, titre: recetteEnCoursTitre });
+  sauvegarderAgenda(agenda);
+  document.getElementById("modalAgenda").style.display = "none";
+  afficherAgenda();
+});
+
+function afficherAgenda() {
+  cacherPages();
+  pageAgenda.style.display = "block";
+
+  const agenda = chargerAgenda();
+  const premierJour = new Date(anneeAffichee, moisAffiche, 1);
+  const nbJours = new Date(anneeAffichee, moisAffiche + 1, 0).getDate();
+  let premierJourSemaine = premierJour.getDay();
+  premierJourSemaine = premierJourSemaine === 0 ? 6 : premierJourSemaine - 1;
+
+  const nomsMois = ["Janvier","Février","Mars","Avril","Mai","Juin","Juillet","Août","Septembre","Octobre","Novembre","Décembre"];
+
+  let html = `
+    <h2>📅 Agenda</h2>
+    <div class="agenda-nav">
+      <button onclick="moisPrecedent()">◀</button>
+      <strong>${nomsMois[moisAffiche]} ${anneeAffichee}</strong>
+      <button onclick="moisSuivant()">▶</button>
+    </div>
+    <div class="agenda-grille">
+      <div class="agenda-entete">Lun</div>
+      <div class="agenda-entete">Mar</div>
+      <div class="agenda-entete">Mer</div>
+      <div class="agenda-entete">Jeu</div>
+      <div class="agenda-entete">Ven</div>
+      <div class="agenda-entete">Sam</div>
+      <div class="agenda-entete">Dim</div>
+  `;
+
+  for (let i = 0; i < premierJourSemaine; i++) {
+    html += `<div class="agenda-case agenda-vide"></div>`;
+  }
+
+  for (let jour = 1; jour <= nbJours; jour++) {
+    const dateStr = `${anneeAffichee}-${String(moisAffiche+1).padStart(2,"0")}-${String(jour).padStart(2,"0")}`;
+    const recettesJour = agenda[dateStr] || [];
+
+    html += `<div class="agenda-case"><div class="agenda-jour">${jour}</div>`;
+    recettesJour.forEach((r, index) => {
+      html += `<div class="agenda-recette" onclick="supprimerDuCalendrier('${dateStr}', ${index})">${r.titre} ✕</div>`;
+    });
+    html += `</div>`;
+  }
+
+  html += `</div>`;
+  pageAgenda.innerHTML = html;
+}
+
+function moisPrecedent() {
+  moisAffiche--;
+  if (moisAffiche < 0) { moisAffiche = 11; anneeAffichee--; }
+  afficherAgenda();
+}
+
+function moisSuivant() {
+  moisAffiche++;
+  if (moisAffiche > 11) { moisAffiche = 0; anneeAffichee++; }
+  afficherAgenda();
+}
+
+function supprimerDuCalendrier(dateStr, index) {
+  const agenda = chargerAgenda();
+  agenda[dateStr].splice(index, 1);
+  if (agenda[dateStr].length === 0) delete agenda[dateStr];
+  sauvegarderAgenda(agenda);
+  afficherAgenda();
+}
+
