@@ -9,19 +9,26 @@ const search = document.getElementById("search");
 const results = document.getElementById("results");
 
 async function chargerDonnees() {
-  const v = Date.now();
+  const version = Date.now();
+  document.body.insertAdjacentHTML('afterbegin', '<p style="background:yellow">Début du chargement...</p>');
+
   try {
-    const rLivres = await fetch(`data/livres.json?v=${v}`);
-    const rRecettes = await fetch(`data/recettes.json?v=${v}`);
-    livres = await rLivres.json();
-    recettes = await rRecettes.json();
+    const rL = await fetch(`data/livres.json?v=${version}`);
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">livres.json statut: ${rL.status}</p>`);
+    livres = await rL.json();
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Livres chargés: ${livres.length}</p>`);
 
-    document.getElementById("btnLivres").onclick = afficherLivres;
-    document.getElementById("btnRecettes").onclick = () => afficherRecettes(recettes);
-    document.getElementById("btnFavoris").onclick = afficherFavoris;
-    document.getElementById("btnIngredients").onclick = afficherIngredients;
+    const rR = await fetch(`data/recettes.json?v=${version}`);
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">recettes.json statut: ${rR.status}</p>`);
+    recettes = await rR.json();
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Recettes chargées: ${recettes.length}</p>`);
+  } catch (err) {
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
+  }
 
-    afficherLivres();
+  afficherLivres();
+}
+
   } catch (err) {
     document.getElementById("pageLivres").innerHTML = `<p style="color:red">ERREUR: ${err.message}</p>`;
   }
