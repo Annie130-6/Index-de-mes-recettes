@@ -73,11 +73,13 @@ function afficherRecettes(liste) {
       <div>
         <h3>${recette.titre}</h3>
         <p>Page ${recette.page} · ${recette.categorie} · ${recette.ingredientPrincipal}</p>
+        <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
       </div>
       <hr>
     `;
   });
 }
+
 
 function afficherFavoris() {
   cacherPages();
