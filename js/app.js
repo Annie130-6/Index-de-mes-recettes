@@ -24,7 +24,16 @@ livres = JSON.parse(texteLivres);
 
     const rR = await fetch(`data/recettes.json?v=${version}`);
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">recettes.json statut: ${rR.status}</p>`);
-    recettes = await rR.json();
+    const texteRecettes = await rR.text();
+try {
+  recettes = JSON.parse(texteRecettes);
+} catch (e) {
+  document.body.insertAdjacentHTML('afterbegin', `<p style="background:orange">ERREUR À LA POSITION: ${e.message}</p>`);
+  const pos = parseInt(e.message.match(/position (\d+)/)?.[1] || 0);
+  document.body.insertAdjacentHTML('afterbegin', `<p style="background:cyan">CONTEXTE: ...${texteRecettes.substring(Math.max(0,pos-100), pos+100)}...</p>`);
+  throw e;
+}
+
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Recettes chargées: ${recettes.length}</p>`);
   } catch (err) {
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
