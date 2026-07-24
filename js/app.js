@@ -230,3 +230,12 @@ function supprimerDuCalendrier(dateStr, index) {
   afficherAgenda();
 }
 
+const btnLivres = document.getElementById("btnLivres");
+const btnRecettes = document.getElementById("btnRecettes");
+const btnFavoris = document.getElementById("btnFavoris");
+const btnIngredients = document.getElementById("btnIngredients");
+
+btnLivres.addEventListener("click", afficherLivres);
+btnRecettes.addEventListener("click", () => afficherRecettes(recettes));
+btnFavoris.addEventListener("click", afficherFavoris);
+btnIngredients.addEventListener("click", afficherIngredients);
