@@ -12,3 +12,6 @@ body{
 .modal-overlay { position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.5); align-items:center; justify-content:center; z-index:1000; }
 .modal-box { background:white; padding:20px; border-radius:8px; max-width:300px; width:90%; margin:auto; }
 .modal-actions { display:flex; justify-content:space-between; margin-top:15px; }
+
+#search { width:100%; max-width:500px; padding:12px; font-size:1.1em; border:1px solid #ccc; border-radius:8px; margin:10px 0; }
+
