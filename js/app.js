@@ -123,6 +123,8 @@ function afficherFavoris() {
   pageFavoris.innerHTML = "<h2>⭐ Favoris</h2><p>Bientôt disponible.</p>";
 }
 
+let rechercheIngredient = "";
+
 function afficherIngredients() {
   cacherPages();
   pageIngredients.style.display = "block";
@@ -140,16 +142,27 @@ function afficherIngredients() {
 
   const liste = Object.keys(compte)
     .filter(m => compte[m] >= 2)
+    .filter(m => m.includes(sansAccents(rechercheIngredient)))
     .sort((a, b) => a.localeCompare(b, "fr"));
 
-  let html = `<h2>🥕 Ingrédients (${liste.length})</h2><div class="chips">`;
+  let html = `<h2>🥕 Ingrédients (${liste.length})</h2>
+    <input id="chercheIng" placeholder="Filtrer les ingrédients..." value="${rechercheIngredient}">
+    <div class="chips">`;
   liste.forEach(m => {
     html += `<span class="chip" onclick="filtrerParIngredient('${m}')">${m} (${compte[m]})</span>`;
   });
   html += `</div>`;
 
   pageIngredients.innerHTML = html;
+
+  const champ = document.getElementById("chercheIng");
+  champ.addEventListener("input", () => {
+    rechercheIngredient = champ.value;
+    afficherIngredients();
+    document.getElementById("chercheIng").focus();
+  });
 }
+
 
 
 function filtrerParIngredient(mot) {
