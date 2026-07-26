@@ -474,8 +474,9 @@ function ajouterIngredients(recetteId) {
 
 
 function viderEpicerie() {
-  selectionEpicerie = [];
-  sauvegarderSelectionEpicerie();
+  ingredientsEpicerie = {};
+  sauvegarderIngredientsEpicerie();
   afficherEpicerie();
 }
+
 
