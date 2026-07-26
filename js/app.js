@@ -86,6 +86,9 @@ function afficherRecettes(liste) {
     }
     const coeur = estFavori(recette.id) ? "❤️" : "🤍";
 
+      const panier = estDansEpicerie(recette.id) ? "🛒" : "🧺";
+
+
     html += `
       <div>
         <h3>${recette.titre}</h3>
