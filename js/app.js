@@ -383,3 +383,11 @@ function basculerFavori(id) {
   localStorage.setItem("favorisRecettes", JSON.stringify(favoris));
   appliquerFiltres();
 }
+
+
+
+const motsIgnores = new Set(["de","des","du","la","le","les","au","aux","et","en","avec",
+"pour","ma","mon","mes","sa","son","ses","un","une","dans","sur","sous","par","ou","a",
+"l","d","the","style","facon","facile","maison","rapide","petits","petites","petit",
+"petite","grand","grande","notre","nos","leur","qui","que","plus","tres","bon",
+"bonne","meilleur","meilleure","classique","simple"]);
