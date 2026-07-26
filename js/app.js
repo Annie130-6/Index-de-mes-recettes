@@ -77,18 +77,30 @@ function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
 
-  results.innerHTML = `<h2>🍽️ Recettes (${liste.length})</h2>`;
+  let html = `<div class="filtres">
+    <button class="btn-mode" onclick="basculerMode()">Mode : ${modeCategories}</button>
+    <div class="chips">`;
+  toutesLesCategories().forEach(c => {
+    const actif = categoriesChoisies.includes(c) ? " chip-actif" : "";
+    html += `<span class="chip${actif}" onclick="basculerCategorie('${c.replace(/'/g, "\\'")}')">${c}</span>`;
+  });
+  html += `</div></div>`;
+
+  html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
   liste.forEach(recette => {
-    results.innerHTML += `
+    html += `
       <div>
         <h3>${recette.titre}</h3>
-        <p>Page ${recette.page} · ${recette.categorie} · ${recette.ingredientPrincipal}</p>
-           <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
+        <p>Page ${recette.page} · ${categoriesDeRecette(recette).join(" · ")}</p>
+        <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
+        <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
       </div>
       <hr>
     `;
   });
+
+  results.innerHTML = html;
 }
 
 function afficherFavoris() {
@@ -107,8 +119,8 @@ function afficherIngredients() {
   return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
 
-search.addEventListener("input", () => {
-  const texte = sansAccents(search.value);
+search.addEventListener("input", appliquerFiltres);
+
 
   const filtres = recettes.filter(r =>
     sansAccents(r.titre).includes(texte) ||
@@ -245,3 +257,70 @@ btnLivres.addEventListener("click", afficherLivres);
 btnRecettes.addEventListener("click", () => afficherRecettes(recettes));
 btnFavoris.addEventListener("click", afficherFavoris);
 btnIngredients.addEventListener("click", afficherIngredients);
+
+let categoriesChoisies = [];
+let modeCategories = "ET";
+let catsAjoutees = {};
+
+function chargerCatsAjoutees() {
+  const data = localStorage.getItem("categoriesRecettes");
+  catsAjoutees = data ? JSON.parse(data) : {};
+}
+chargerCatsAjoutees();
+
+function categoriesDeRecette(r) {
+  const base = [];
+  if (Array.isArray(r.categories)) base.push(...r.categories);
+  if (r.categorie) base.push(r.categorie);
+  if (r.ingredientPrincipal) base.push(r.ingredientPrincipal);
+  const ajout = catsAjoutees[r.id] || [];
+  return [...new Set([...base, ...ajout])];
+}
+
+function toutesLesCategories() {
+  const s = new Set();
+  recettes.forEach(r => categoriesDeRecette(r).forEach(c => s.add(c)));
+  return [...s].sort((a, b) => a.localeCompare(b, "fr"));
+}
+
+function ajouterCategorie(recetteId) {
+  const c = prompt("Nouvelle catégorie pour cette recette :");
+  if (!c || !c.trim()) return;
+  if (!catsAjoutees[recetteId]) catsAjoutees[recetteId] = [];
+  if (!catsAjoutees[recetteId].includes(c.trim())) catsAjoutees[recetteId].push(c.trim());
+  localStorage.setItem("categoriesRecettes", JSON.stringify(catsAjoutees));
+  appliquerFiltres();
+}
+
+function basculerCategorie(cat) {
+  if (categoriesChoisies.includes(cat)) {
+    categoriesChoisies = categoriesChoisies.filter(c => c !== cat);
+  } else {
+    categoriesChoisies.push(cat);
+  }
+  appliquerFiltres();
+}
+
+function basculerMode() {
+  modeCategories = modeCategories === "ET" ? "OU" : "ET";
+  appliquerFiltres();
+}
+
+function appliquerFiltres() {
+  const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
+  const choisies = categoriesChoisies.map(sansAccents);
+
+  const filtres = recettes.filter(r => {
+    const cats = categoriesDeRecette(r).map(sansAccents);
+    const champs = sansAccents(r.titre) + " " + cats.join(" ");
+    const okTexte = mots.every(m => champs.includes(m));
+    const okCats = choisies.length === 0 ? true
+      : modeCategories === "ET"
+        ? choisies.every(c => cats.includes(c))
+        : choisies.some(c => cats.includes(c));
+    return okTexte && okCats;
+  });
+
+  afficherRecettes(filtres);
+}
+
