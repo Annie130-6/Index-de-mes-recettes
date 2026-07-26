@@ -122,16 +122,6 @@ function afficherIngredients() {
 search.addEventListener("input", appliquerFiltres);
 
 
-  const filtres = recettes.filter(r =>
-    sansAccents(r.titre).includes(texte) ||
-    sansAccents(r.categorie).includes(texte) ||
-    sansAccents(r.ingredientPrincipal).includes(texte)
-  );
-
-  afficherRecettes(filtres);
-});
-
-
 chargerDonnees();
 
 
