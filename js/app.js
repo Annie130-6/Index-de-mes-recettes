@@ -7,6 +7,8 @@ const pageFavoris = document.getElementById("pageFavoris");
 const pageIngredients = document.getElementById("pageIngredients");
 const search = document.getElementById("search");
 const results = document.getElementById("results");
+const pageEpicerie = document.getElementById("pageEpicerie");
+
 
 async function chargerDonnees() {
   const version = Date.now();
@@ -30,6 +32,7 @@ function cacherPages() {
   pageFavoris.style.display = "none";
   pageIngredients.style.display = "none";
   pageAgenda.style.display = "none";
+  pageEpicerie.style.display = "none";
 }
 
 function afficherLivres() {
@@ -368,6 +371,22 @@ function appliquerFiltres() {
 
 let notes = JSON.parse(localStorage.getItem("notesRecettes") || "{}");
 let favoris = JSON.parse(localStorage.getItem("favorisRecettes") || "[]");
+
+let selectionEpicerie = JSON.parse(localStorage.getItem("selectionEpicerie") || "[]");
+
+function sauvegarderSelectionEpicerie() {
+  localStorage.setItem("selectionEpicerie", JSON.stringify(selectionEpicerie));
+}
+function estDansEpicerie(id) { return selectionEpicerie.includes(id); }
+
+function basculerSelectionEpicerie(id) {
+  selectionEpicerie = estDansEpicerie(id)
+    ? selectionEpicerie.filter(x => x !== id)
+    : [...selectionEpicerie, id];
+  sauvegarderSelectionEpicerie();
+  appliquerFiltres();
+}
+
 
 function noteDe(id) { return notes[id] || 0; }
 function estFavori(id) { return favoris.includes(id); }
