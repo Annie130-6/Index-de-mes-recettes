@@ -7,8 +7,10 @@
     "categorie": "Entrée",
     "ingredientPrincipal": "Agneau",
     "image": "kitchen-galerie.jpg",
-    "favori": false,
-    "statut": "Indexé"
+          "favori": false,
+      "statut": "Indexé",
+      "ingredients": ["Carrés d'agneau du Québec", "Huile d'olive", "Gousses d'ail entières pelées", "Branches de thym", "Beurre non salé", "Poivre noir frais moulu", "Sel", "Sucre", "Eau froide", "Feuilles de gélatine", "Menthe effeuillée"]
+
   },
   {
     "id": 2,
