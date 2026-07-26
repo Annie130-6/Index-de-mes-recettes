@@ -235,10 +235,12 @@ function afficherAgenda() {
   let html = `
     <h2>📅 Agenda</h2>
     <div class="agenda-nav">
-      <button onclick="moisPrecedent()">◀</button>
-      <strong>${nomsMois[moisAffiche]} ${anneeAffichee}</strong>
-      <button onclick="moisSuivant()">▶</button>
-    </div>
+  <button onclick="moisPrecedent()">◀</button>
+  <strong>${nomsMois[moisAffiche]} ${anneeAffichee}</strong>
+  <button onclick="moisSuivant()">▶</button>
+  <button onclick="ajouterAgendaAEpicerie()">🛒 Ajouter le mois à l'épicerie</button>
+</div>
+
     <div class="agenda-grille">
       <div class="agenda-entete">Lun</div>
       <div class="agenda-entete">Mar</div>
@@ -434,3 +436,45 @@ function ajouterIngredients(recetteId) {
   localStorage.setItem("ingredientsRecettes", JSON.stringify(ingAjoutes));
   appliquerFiltres();
 }
+
+  function afficherEpicerie() {
+  cacherPages();
+  pageEpicerie.style.display = "block";
+
+  const recettesSelectionnees = recettes.filter(r => estDansEpicerie(r.id));
+
+  if (recettesSelectionnees.length === 0) {
+    pageEpicerie.innerHTML = `<h2>🛒 Liste d'épicerie</h2>
+      <p>Aucune recette sélectionnée. Coche des recettes (🧺) ou ajoute ton agenda du mois.</p>`;
+    return;
+  }
+
+  const groupes = {};
+  recettesSelectionnees.forEach(r => {
+    ingredientsDeRecette(r).forEach(ing => {
+      if (!groupes[ing]) groupes[ing] = [];
+      groupes[ing].push(r.titre);
+    });
+  });
+
+  const ingredientsTries = Object.keys(groupes).sort((a, b) => a.localeCompare(b, "fr"));
+
+  let html = `<h2>🛒 Liste d'épicerie (${recettesSelectionnees.length} recette${recettesSelectionnees.length > 1 ? "s" : ""})</h2>
+    <button onclick="viderEpicerie()">Vider la liste</button>
+    <ul class="liste-epicerie">`;
+
+  ingredientsTries.forEach(ing => {
+    const recettesPourIng = [...new Set(groupes[ing])].join(", ");
+    html += `<li>${ing} <em>(${recettesPourIng})</em></li>`;
+  });
+
+  html += `</ul>`;
+  pageEpicerie.innerHTML = html;
+}
+
+function viderEpicerie() {
+  selectionEpicerie = [];
+  sauvegarderSelectionEpicerie();
+  afficherEpicerie();
+}
+
