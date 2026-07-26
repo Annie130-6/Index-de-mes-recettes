@@ -294,11 +294,13 @@ const btnLivres = document.getElementById("btnLivres");
 const btnRecettes = document.getElementById("btnRecettes");
 const btnFavoris = document.getElementById("btnFavoris");
 const btnIngredients = document.getElementById("btnIngredients");
+const btnEpicerie = document.getElementById("btnEpicerie");
 
 btnLivres.addEventListener("click", afficherLivres);
 btnRecettes.addEventListener("click", () => afficherRecettes(recettes));
 btnFavoris.addEventListener("click", () => afficherRecettes(recettes.filter(r => estFavori(r.id))));
 btnIngredients.addEventListener("click", afficherIngredients);
+btnEpicerie.addEventListener("click", afficherEpicerie);
 
 let categoriesChoisies = [];
 let modeCategories = "ET";
