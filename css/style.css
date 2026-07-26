@@ -20,3 +20,7 @@ body{
 .chips { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px; }
 .chip { background:#eee; border-radius:14px; padding:5px 12px; font-size:0.9em; cursor:pointer; }
 .chip-actif { background:#2e7d32; color:white; }
+
+.etoile { font-size:1.3em; cursor:pointer; color:#ccc; }
+.etoile-pleine { color:#f5b301; }
+.coeur { font-size:1.3em; cursor:pointer; margin-left:10px; }
