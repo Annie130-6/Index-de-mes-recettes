@@ -386,3 +386,24 @@ const motsIgnores = new Set(["de","des","du","la","le","les","au","aux","et","en
 "l","d","the","style","facon","facile","maison","rapide","petits","petites","petit",
 "petite","grand","grande","notre","nos","leur","qui","que","plus","tres","bon",
 "bonne","meilleur","meilleure","classique","simple"]);
+
+
+
+let ingAjoutes = JSON.parse(localStorage.getItem("ingredientsRecettes") || "{}");
+
+function ingredientsDeRecette(r) {
+  const base = Array.isArray(r.ingredients) ? r.ingredients : [];
+  const ajout = ingAjoutes[r.id] || [];
+  return [...new Set([...base, ...ajout])];
+}
+
+function ajouterIngredients(recetteId) {
+  const saisie = prompt("Ingrédients (séparés par des virgules) :",
+    (ingAjoutes[recetteId] || []).join(", "));
+  if (saisie === null) return;
+  const liste = saisie.split(",").map(s => s.trim()).filter(s => s);
+  if (liste.length) ingAjoutes[recetteId] = liste;
+  else delete ingAjoutes[recetteId];
+  localStorage.setItem("ingredientsRecettes", JSON.stringify(ingAjoutes));
+  appliquerFiltres();
+}
