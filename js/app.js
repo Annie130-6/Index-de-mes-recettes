@@ -117,7 +117,8 @@ function afficherIngredients() {
 
   recettes.forEach(r => {
     const mots = new Set();
-    if (r.ingredientPrincipal) mots.add(sansAccents(r.ingredientPrincipal));
+        ingredientsDeRecette(r).forEach(i => mots.add(sansAccents(i)));
+
     sansAccents(r.titre).split(/[^a-z0-9]+/).forEach(m => {
       if (m.length >= 4 && !motsIgnores.has(m)) mots.add(m);
     });
