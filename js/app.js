@@ -388,6 +388,45 @@ function sauvegarderIngredientsEpicerie() {
 
 function estDansEpicerie(id) { return !!ingredientsEpicerie[id]; }
 
+function estDansEpicerie(id) { return !!ingredientsEpicerie[id]; }
+
+let recetteEpicerieEnCoursId = null;
+
+function ouvrirModalEpicerie(recetteId, titre) {
+  recetteEpicerieEnCoursId = recetteId;
+  const recette = recettes.find(r => r.id === recetteId);
+  const ingredients = ingredientsDeRecette(recette);
+  const dejaChoisis = ingredientsEpicerie[recetteId] || ingredients;
+
+  document.getElementById("modalEpicerieTitre").textContent = titre;
+  let html = "";
+  ingredients.forEach(ing => {
+    const checked = dejaChoisis.includes(ing) ? "checked" : "";
+    html += `<label><input type="checkbox" value="${ing.replace(/"/g, "&quot;")}" ${checked}> ${ing}</label><br>`;
+  });
+  document.getElementById("modalEpicerieListe").innerHTML = html;
+  document.getElementById("modalEpicerie").style.display = "flex";
+}
+
+document.getElementById("modalEpicerieAnnuler").addEventListener("click", () => {
+  document.getElementById("modalEpicerie").style.display = "none";
+});
+
+document.getElementById("modalEpicerieConfirmer").addEventListener("click", () => {
+  const cases = document.querySelectorAll("#modalEpicerieListe input[type=checkbox]:checked");
+  const choisis = Array.from(cases).map(c => c.value);
+  if (choisis.length) {
+    ingredientsEpicerie[recetteEpicerieEnCoursId] = choisis;
+  } else {
+    delete ingredientsEpicerie[recetteEpicerieEnCoursId];
+  }
+  sauvegarderIngredientsEpicerie();
+  document.getElementById("modalEpicerie").style.display = "none";
+  appliquerFiltres();
+});
+
+function noteDe(id) { return notes[id] || 0; }
+
 
 
 function noteDe(id) { return notes[id] || 0; }
