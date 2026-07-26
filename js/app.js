@@ -454,25 +454,30 @@ function ajouterIngredients(recetteId) {
   const groupes = {};
   recettesSelectionnees.forEach(r => {
     ingredientsDeRecette(r).forEach(ing => {
-      if (!groupes[ing]) groupes[ing] = [];
-      groupes[ing].push(r.titre);
+      const cle = sansAccents(ing.trim());
+      if (!groupes[cle]) {
+        groupes[cle] = { affichage: ing.trim(), recettes: [] };
+      }
+      groupes[cle].recettes.push(r.titre);
     });
   });
 
-  const ingredientsTries = Object.keys(groupes).sort((a, b) => a.localeCompare(b, "fr"));
+  const clesTriees = Object.keys(groupes).sort((a, b) => a.localeCompare(b, "fr"));
 
   let html = `<h2>🛒 Liste d'épicerie (${recettesSelectionnees.length} recette${recettesSelectionnees.length > 1 ? "s" : ""})</h2>
     <button onclick="viderEpicerie()">Vider la liste</button>
     <ul class="liste-epicerie">`;
 
-  ingredientsTries.forEach(ing => {
-    const recettesPourIng = [...new Set(groupes[ing])].join(", ");
-    html += `<li>${ing} <em>(${recettesPourIng})</em></li>`;
+  clesTriees.forEach(cle => {
+    const groupe = groupes[cle];
+    const recettesPourIng = [...new Set(groupe.recettes)].join(", ");
+    html += `<li>${groupe.affichage} <em>(${recettesPourIng})</em></li>`;
   });
 
   html += `</ul>`;
   pageEpicerie.innerHTML = html;
 }
+
 
 function viderEpicerie() {
   selectionEpicerie = [];
