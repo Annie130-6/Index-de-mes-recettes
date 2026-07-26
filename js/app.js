@@ -379,20 +379,14 @@ function appliquerFiltres() {
 let notes = JSON.parse(localStorage.getItem("notesRecettes") || "{}");
 let favoris = JSON.parse(localStorage.getItem("favorisRecettes") || "[]");
 
-let selectionEpicerie = JSON.parse(localStorage.getItem("selectionEpicerie") || "[]");
+let ingredientsEpicerie = JSON.parse(localStorage.getItem("ingredientsEpicerie") || "{}");
 
-function sauvegarderSelectionEpicerie() {
-  localStorage.setItem("selectionEpicerie", JSON.stringify(selectionEpicerie));
+function sauvegarderIngredientsEpicerie() {
+  localStorage.setItem("ingredientsEpicerie", JSON.stringify(ingredientsEpicerie));
 }
-function estDansEpicerie(id) { return selectionEpicerie.includes(id); }
 
-function basculerSelectionEpicerie(id) {
-  selectionEpicerie = estDansEpicerie(id)
-    ? selectionEpicerie.filter(x => x !== id)
-    : [...selectionEpicerie, id];
-  sauvegarderSelectionEpicerie();
-  appliquerFiltres();
-}
+function estDansEpicerie(id) { return !!ingredientsEpicerie[id]; }
+
 
 
 function noteDe(id) { return notes[id] || 0; }
