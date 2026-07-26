@@ -9,38 +9,20 @@ const search = document.getElementById("search");
 const results = document.getElementById("results");
 
 async function chargerDonnees() {
-     const version = Date.now();
-
-  document.body.insertAdjacentHTML('afterbegin', '<p style="background:yellow">Début du chargement...</p>');
-
+  const version = Date.now();
   try {
     const rL = await fetch(`data/livres.json?v=${version}`);
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">livres.json statut: ${rL.status}</p>`);
-    const texteLivres = await rL.text();
-document.body.insertAdjacentHTML('afterbegin', `<p style="background:orange">TEXTE BRUT: ${texteLivres.substring(0,300)}</p>`);
-livres = JSON.parse(texteLivres);
-
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Livres chargés: ${livres.length}</p>`);
+    livres = await rL.json();
 
     const rR = await fetch(`data/recettes.json?v=${version}`);
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">recettes.json statut: ${rR.status}</p>`);
-    const texteRecettes = await rR.text();
-try {
-  recettes = JSON.parse(texteRecettes);
-} catch (e) {
-  document.body.insertAdjacentHTML('afterbegin', `<p style="background:orange">ERREUR À LA POSITION: ${e.message}</p>`);
-  const pos = parseInt(e.message.match(/position (\d+)/)?.[1] || 0);
-  document.body.insertAdjacentHTML('afterbegin', `<p style="background:cyan">CONTEXTE: ...${texteRecettes.substring(Math.max(0,pos-100), pos+100)}...</p>`);
-  throw e;
-}
-
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:yellow">Recettes chargées: ${recettes.length}</p>`);
+    recettes = await rR.json();
   } catch (err) {
-    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
+    document.body.insertAdjacentHTML('afterbegin',
+      `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
   }
-
   afficherLivres();
 }
+
 
 function cacherPages() {
   pageLivres.style.display = "none";
