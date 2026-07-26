@@ -106,14 +106,22 @@ function afficherIngredients() {
 search.addEventListener("input", () => {
   const texte = search.value.toLowerCase();
 
+  function sansAccents(texte) {
+  return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+}
+
+search.addEventListener("input", () => {
+  const texte = sansAccents(search.value);
+
   const filtres = recettes.filter(r =>
-    r.titre.toLowerCase().includes(texte) ||
-    r.categorie.toLowerCase().includes(texte) ||
-    r.ingredientPrincipal.toLowerCase().includes(texte)
+    sansAccents(r.titre).includes(texte) ||
+    sansAccents(r.categorie).includes(texte) ||
+    sansAccents(r.ingredientPrincipal).includes(texte)
   );
 
   afficherRecettes(filtres);
 });
+
 
 chargerDonnees();
 
