@@ -103,9 +103,6 @@ function afficherIngredients() {
   pageIngredients.innerHTML = "<h2>🥕 Ingrédients</h2><p>Bientôt disponible.</p>";
 }
 
-search.addEventListener("input", () => {
-  const texte = search.value.toLowerCase();
-
   function sansAccents(texte) {
   return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 }
