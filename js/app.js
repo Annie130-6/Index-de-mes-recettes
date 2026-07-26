@@ -57,14 +57,19 @@ function afficherLivres() {
   pageLivres.innerHTML = `<h2>📚 Mes livres</h2>`;
 
   livres.forEach(livre => {
-    pageLivres.innerHTML += `
-      <div>
-        <h3>${livre.titre}</h3>
-        <p>${livre.langue} · ${livre.nbRecettes} recettes · ${livre.statut}</p>
-        <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
+       
+        pageLivres.innerHTML += `
+      <div class="livre">
+        <img src="images/${livre.couverture}" alt="${livre.titre}">
+        <div>
+          <h3>${livre.titre}</h3>
+          <p>${livre.langue} · ${livre.nbRecettes} recettes · ${livre.statut}</p>
+          <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
+        </div>
       </div>
       <hr>
     `;
+     
   });
 }
 
