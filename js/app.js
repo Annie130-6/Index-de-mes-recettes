@@ -437,7 +437,10 @@ function ajouterIngredients(recetteId) {
   cacherPages();
   pageEpicerie.style.display = "block";
 
-  const recettesSelectionnees = recettes.filter(r => estDansEpicerie(r.id));
+  const idsSelectionnes = Object.keys(ingredientsEpicerie).map(Number);
+    
+const recettesSelectionnees = recettes.filter(r => idsSelectionnes.includes(r.id));
+
 
   if (recettesSelectionnees.length === 0) {
     pageEpicerie.innerHTML = `<h2>🛒 Liste d'épicerie</h2>
@@ -447,7 +450,8 @@ function ajouterIngredients(recetteId) {
 
   const groupes = {};
   recettesSelectionnees.forEach(r => {
-    ingredientsDeRecette(r).forEach(ing => {
+    (ingredientsEpicerie[r.id] || []).forEach(ing => {
+
       const cle = sansAccents(ing.trim());
       if (!groupes[cle]) {
         groupes[cle] = { affichage: ing.trim(), recettes: [] };
