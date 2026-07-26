@@ -254,7 +254,7 @@ const btnIngredients = document.getElementById("btnIngredients");
 
 btnLivres.addEventListener("click", afficherLivres);
 btnRecettes.addEventListener("click", () => afficherRecettes(recettes));
-btnFavoris.addEventListener("click", afficherFavoris);
+btnFavoris.addEventListener("click", () => afficherRecettes(recettes.filter(r => estFavori(r.id))));
 btnIngredients.addEventListener("click", afficherIngredients);
 
 let categoriesChoisies = [];
