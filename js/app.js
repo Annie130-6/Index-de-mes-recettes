@@ -88,17 +88,26 @@ function afficherRecettes(liste) {
 
   html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
-  liste.forEach(recette => {
+    liste.forEach(recette => {
+    let etoiles = "";
+    for (let n = 1; n <= 3; n++) {
+      const pleine = noteDe(recette.id) >= n ? " etoile-pleine" : "";
+      etoiles += `<span class="etoile${pleine}" onclick="noter(${recette.id}, ${n})">★</span>`;
+    }
+    const coeur = estFavori(recette.id) ? "❤️" : "🤍";
+
     html += `
       <div>
         <h3>${recette.titre}</h3>
         <p>Page ${recette.page} · ${categoriesDeRecette(recette).join(" · ")}</p>
+        <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
         <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
         <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
       </div>
       <hr>
     `;
   });
+
 
   results.innerHTML = html;
 }
