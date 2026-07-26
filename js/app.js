@@ -126,8 +126,28 @@ function afficherFavoris() {
 function afficherIngredients() {
   cacherPages();
   pageIngredients.style.display = "block";
-  pageIngredients.innerHTML = "<h2>🥕 Ingrédients</h2><p>Bientôt disponible.</p>";
+
+  const compte = {};
+  recettes.forEach(r => {
+    const ing = r.ingredientPrincipal;
+    if (ing) compte[ing] = (compte[ing] || 0) + 1;
+  });
+
+  const liste = Object.keys(compte).sort((a, b) => a.localeCompare(b, "fr"));
+
+  let html = `<h2>🥕 Ingrédients (${liste.length})</h2><div class="chips">`;
+  liste.forEach(ing => {
+    html += `<span class="chip" onclick="filtrerParIngredient('${ing.replace(/'/g, "\\'")}')">${ing} (${compte[ing]})</span>`;
+  });
+  html += `</div>`;
+
+  pageIngredients.innerHTML = html;
 }
+
+function filtrerParIngredient(ing) {
+  afficherRecettes(recettes.filter(r => r.ingredientPrincipal === ing));
+}
+
 
   function sansAccents(texte) {
   return texte.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
