@@ -43,8 +43,9 @@
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
     "image": "kitchen-galerie.jpg",
-    "favori": false,
-    "statut": "Indexé"
+          "favori": false,
+      "statut": "Indexé",
+      "ingredients": ["Carrés d'épaule d'agneau", "Huile d'olive", "Carottes", "Oignons", "Branches de céleri", "Gousses d'ail entières", "Feuilles de laurier", "Vin blanc sec", "Fond brun de veau", "Tomates italiennes entières", "Sel", "Poivre noir frais moulu", "Orzo", "Olives Kalamata", "Tomates séchées", "Basilic", "Beurre", "Parmesan"]
   },
   {
     "id": 5,
@@ -55,7 +56,8 @@
     "ingredientPrincipal": "Asperge",
     "image": "kitchen-galerie.jpg",
     "favori": false,
-    "statut": "Indexé"
+    "statut": "Indexé",
+          "ingredients": ["Asperges vertes", "Pommes de terre", "Oignon", "Blanc de poireau", "Gousses d'ail", "Beurre", "Branche de thym", "Feuille de laurier", "Fond de volaille", "Crème 35%", "Sel", "Poivre noir frais moulu", "Chair de crabe fraîche", "Jambon blanc", "Mayonnaise", "Ciboulette", "Échalotes"]
   },
   {
     "id": 6,
