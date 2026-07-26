@@ -268,10 +268,14 @@ function categoriesDeRecette(r) {
 }
 
 function toutesLesCategories() {
-  const s = new Set();
-  recettes.forEach(r => categoriesDeRecette(r).forEach(c => s.add(c)));
-  return [...s].sort((a, b) => a.localeCompare(b, "fr"));
+  return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Canard",
+  "Charcuterie","Comment faire","Confiture","Crème glacée","Déjeuner","Dessert","Entrée",
+  "Fondue","Fromage maison","Fumoir","Indien","Jambon","Lapin","Légumes","Marinade",
+  "Mélange d'épices","Mexicain","Mijoteuse","Noël","Pain","Pâte","Pâté","Pizza","Poisson",
+  "Porc","Poulet","Quiche","Riz","Salade","Sandwich","Sauce","Soupe","Sous-vide","Trempette",
+  "Veau","Viande vieillie","Vinaigrette"];
 }
+
 
 function ajouterCategorie(recetteId) {
   const c = prompt("Nouvelle catégorie pour cette recette :");
