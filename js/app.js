@@ -94,7 +94,8 @@ function afficherRecettes(liste) {
         <h3>${recette.titre}</h3>
         <p>Page ${recette.page} · ${categoriesDeRecette(recette).join(" · ")}</p>
                 <p class="ing-liste">${ingredientsDeRecette(recette).join(" · ") || "<em>aucun ingrédient noté</em>"}</p>
-        <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="basculerSelectionEpicerie(${recette.id})">${panier}</span></div>
+        <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span>
+   </div>
         <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
               <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
         <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
