@@ -15,3 +15,8 @@ body{
 
 #search { width:100%; max-width:500px; padding:12px; font-size:1.1em; border:1px solid #ccc; border-radius:8px; margin:10px 0; }
 
+.filtres { margin:10px 0; }
+.btn-mode { padding:6px 12px; margin-bottom:8px; border-radius:6px; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px; }
+.chip { background:#eee; border-radius:14px; padding:5px 12px; font-size:0.9em; cursor:pointer; }
+.chip-actif { background:#2e7d32; color:white; }
