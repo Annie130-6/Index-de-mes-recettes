@@ -349,7 +349,9 @@ function appliquerFiltres() {
 
   const filtres = recettes.filter(r => {
     const cats = categoriesDeRecette(r).map(sansAccents);
-    const champs = sansAccents(r.titre) + " " + cats.join(" ");
+        const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " +
+                   sansAccents(ingredientsDeRecette(r).join(" "));
+
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
       : modeCategories === "ET"
