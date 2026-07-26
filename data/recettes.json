@@ -32,7 +32,8 @@
     "ingredientPrincipal": "Agneau",
     "image": "kitchen-galerie.jpg",
     "favori": false,
-    "statut": "Indexé"
+    "statut": "Indexé",
+      "ingredients": ["Jarrets d'agneau", "Huile d'olive", "Porto rouge", "Oignon", "Carottes", "Branches de céleri", "Gousses d'ail", "Branches de romarin", "Fond d'agneau", "Beurre", "Ail confit", "Tomates italiennes", "Sel", "Poivre noir frais moulu", "Farine granulée de maïs", "Crème à cuisson 35%", "Zeste de citron"]
   },
   {
     "id": 4,
