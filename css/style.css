@@ -28,3 +28,6 @@ body{
 .livre { display:flex; gap:15px; align-items:flex-start; }
 .livre img { width:100px; border-radius:6px; }
 
+
+#chercheIng { width:100%; max-width:400px; padding:10px; font-size:1.05em; border:1px solid #ccc; border-radius:8px; margin-bottom:12px; }
+
