@@ -327,3 +327,22 @@ function appliquerFiltres() {
   afficherRecettes(filtres);
 }
 
+
+
+let notes = JSON.parse(localStorage.getItem("notesRecettes") || "{}");
+let favoris = JSON.parse(localStorage.getItem("favorisRecettes") || "[]");
+
+function noteDe(id) { return notes[id] || 0; }
+function estFavori(id) { return favoris.includes(id); }
+
+function noter(id, n) {
+  notes[id] = (notes[id] === n) ? 0 : n;
+  localStorage.setItem("notesRecettes", JSON.stringify(notes));
+  appliquerFiltres();
+}
+
+function basculerFavori(id) {
+  favoris = estFavori(id) ? favoris.filter(f => f !== id) : [...favoris, id];
+  localStorage.setItem("favorisRecettes", JSON.stringify(favoris));
+  appliquerFiltres();
+}
