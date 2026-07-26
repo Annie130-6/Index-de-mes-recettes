@@ -128,25 +128,37 @@ function afficherIngredients() {
   pageIngredients.style.display = "block";
 
   const compte = {};
+
   recettes.forEach(r => {
-    const ing = r.ingredientPrincipal;
-    if (ing) compte[ing] = (compte[ing] || 0) + 1;
+    const mots = new Set();
+    if (r.ingredientPrincipal) mots.add(sansAccents(r.ingredientPrincipal));
+    sansAccents(r.titre).split(/[^a-z0-9]+/).forEach(m => {
+      if (m.length >= 4 && !motsIgnores.has(m)) mots.add(m);
+    });
+    mots.forEach(m => compte[m] = (compte[m] || 0) + 1);
   });
 
-  const liste = Object.keys(compte).sort((a, b) => a.localeCompare(b, "fr"));
+  const liste = Object.keys(compte)
+    .filter(m => compte[m] >= 2)
+    .sort((a, b) => a.localeCompare(b, "fr"));
 
   let html = `<h2>🥕 Ingrédients (${liste.length})</h2><div class="chips">`;
-  liste.forEach(ing => {
-    html += `<span class="chip" onclick="filtrerParIngredient('${ing.replace(/'/g, "\\'")}')">${ing} (${compte[ing]})</span>`;
+  liste.forEach(m => {
+    html += `<span class="chip" onclick="filtrerParIngredient('${m}')">${m} (${compte[m]})</span>`;
   });
   html += `</div>`;
 
   pageIngredients.innerHTML = html;
 }
 
-function filtrerParIngredient(ing) {
-  afficherRecettes(recettes.filter(r => r.ingredientPrincipal === ing));
+
+function filtrerParIngredient(mot) {
+  afficherRecettes(recettes.filter(r =>
+    sansAccents(r.titre).includes(mot) ||
+    sansAccents(r.ingredientPrincipal || "").includes(mot)
+  ));
 }
+
 
 
   function sansAccents(texte) {
