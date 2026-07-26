@@ -24,3 +24,7 @@ body{
 .etoile { font-size:1.3em; cursor:pointer; color:#ccc; }
 .etoile-pleine { color:#f5b301; }
 .coeur { font-size:1.3em; cursor:pointer; margin-left:10px; }
+
+.livre { display:flex; gap:15px; align-items:flex-start; }
+.livre img { width:100px; border-radius:6px; }
+
