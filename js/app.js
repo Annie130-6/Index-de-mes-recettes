@@ -396,7 +396,8 @@ function ouvrirModalEpicerie(recetteId, titre) {
   recetteEpicerieEnCoursId = recetteId;
   const recette = recettes.find(r => r.id === recetteId);
   const ingredients = ingredientsDeRecette(recette);
-  const dejaChoisis = ingredientsEpicerie[recetteId] || ingredients;
+  const dejaChoisis = ingredientsEpicerie[recetteId] || [];
+
 
   document.getElementById("modalEpicerieTitre").textContent = titre;
   let html = "";
