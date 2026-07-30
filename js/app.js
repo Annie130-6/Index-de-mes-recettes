@@ -327,6 +327,18 @@ function categoriesDeRecette(r) {
   return [...new Set([...base, ...ajout])].filter(c => !retires.includes(c));
 }
 
+function retirerCategorie(recetteId, cat) {
+  if (!catsRetirees[recetteId]) catsRetirees[recetteId] = [];
+  if (!catsRetirees[recetteId].includes(cat)) catsRetirees[recetteId].push(cat);
+  if (catsAjoutees[recetteId]) {
+    catsAjoutees[recetteId] = catsAjoutees[recetteId].filter(c => c !== cat);
+  }
+  localStorage.setItem("categoriesRetirees", JSON.stringify(catsRetirees));
+  localStorage.setItem("categoriesRecettes", JSON.stringify(catsAjoutees));
+  appliquerFiltres();
+}
+
+
 
 function toutesLesCategories() {
   return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Canard",
