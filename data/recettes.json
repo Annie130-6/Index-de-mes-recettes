@@ -3625,7 +3625,7 @@
 {"id":469,"livreId":2,"titre":"Tofu farci","page":92,"categorie":"Plat","ingredientPrincipal":"Tofu","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
 {"id":470,"livreId":2,"titre":"Won-tons aux fruits de mer","page":83,"categorie":"Entrée","ingredientPrincipal":"Fruits de mer","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
 {"id":471,"livreId":2,"titre":"Won-tons végétariens","page":83,"categorie":"Entrée","ingredientPrincipal":"Légumes","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
-{"id":472,"livreId":2,"titre":"Yum cha","page":36,"categorie":"Entrée","ingredientPrincipal":"Porc","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"}
+{"id":472,"livreId":2,"titre":"Yum cha","page":36,"categorie":"Entrée","ingredientPrincipal":"Porc","image":"IMG_1430.jpeg","favori":false,"statut":"Indexé"},
 { "id": 473, "livreId": 3, "titre": "Macarons de Nancy", "page": 16, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "Indexé", "ingredients": ["poudre d'amandes", "sucre glace", "blancs d'œufs", "extrait de vanille"] },
 { "id": 474, "livreId": 3, "titre": "Amaretti", "page": 16, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "Indexé", "ingredients": ["poudre d'amandes", "sucre glace", "blanc d'œuf", "extrait d'amande amère", "amaretto"] },
 { "id": 475, "livreId": 3, "titre": "Macarons à la vanille", "page": 18, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" },
