@@ -457,6 +457,10 @@ const motsIgnores = new Set(["de","des","du","la","le","les","au","aux","et","en
 
 let ingAjoutes = JSON.parse(localStorage.getItem("ingredientsRecettes") || "{}");
 
+let epicerieCoches = JSON.parse(localStorage.getItem("epicerieCoches") || "{}");
+let epicerieMasques = new Set(JSON.parse(localStorage.getItem("epicerieMasques") || "[]"));
+
+
 function ingredientsDeRecette(r) {
   const base = Array.isArray(r.ingredients) ? r.ingredients : [];
   const ajout = ingAjoutes[r.id] || [];
@@ -473,6 +477,25 @@ function ajouterIngredients(recetteId) {
   localStorage.setItem("ingredientsRecettes", JSON.stringify(ingAjoutes));
   appliquerFiltres();
 }
+
+function toggleCocheIngredient(cle) {
+  epicerieCoches[cle] = !epicerieCoches[cle];
+  localStorage.setItem("epicerieCoches", JSON.stringify(epicerieCoches));
+}
+
+function supprimerIngredientsCoches() {
+  Object.keys(epicerieCoches).forEach(cle => {
+    if (epicerieCoches[cle]) {
+      epicerieMasques.add(cle);
+      delete epicerieCoches[cle];
+    }
+  });
+  localStorage.setItem("epicerieCoches", JSON.stringify(epicerieCoches));
+  localStorage.setItem("epicerieMasques", JSON.stringify([...epicerieMasques]));
+  afficherEpicerie();
+}
+
+
 
   function afficherEpicerie() {
   cacherPages();
@@ -494,7 +517,9 @@ const recettesSelectionnees = recettes.filter(r => idsSelectionnes.includes(r.id
     (ingredientsEpicerie[r.id] || []).forEach(ing => {
 
       const cle = sansAccents(ing.trim());
-      if (!groupes[cle]) {
+      if (epicerieMasques.has(cle)) return;
+if (!groupes[cle]) {
+
         groupes[cle] = { affichage: ing.trim(), recettes: [] };
       }
       groupes[cle].recettes.push(r.titre);
@@ -505,12 +530,17 @@ const recettesSelectionnees = recettes.filter(r => idsSelectionnes.includes(r.id
 
   let html = `<h2>🛒 Liste d'épicerie (${recettesSelectionnees.length} recette${recettesSelectionnees.length > 1 ? "s" : ""})</h2>
     <button onclick="viderEpicerie()">Vider la liste</button>
+    <button onclick="supprimerIngredientsCoches()">Supprimer les articles cochés</button>
+
     <ul class="liste-epicerie">`;
 
   clesTriees.forEach(cle => {
     const groupe = groupes[cle];
     const recettesPourIng = [...new Set(groupe.recettes)].join(", ");
-    html += `<li>${groupe.affichage} <em>(${recettesPourIng})</em></li>`;
+    const cocheAttr = epicerieCoches[cle] ? "checked" : "";
+    const cleEchappee = cle.replace(/'/g, "\\'");
+    html += `<li><input type="checkbox" ${cocheAttr} onchange="toggleCocheIngredient('${cleEchappee}')"> ${groupe.affichage} <em>(${recettesPourIng})</em></li>`;
+
   });
 
   html += `</ul>`;
@@ -520,6 +550,11 @@ const recettesSelectionnees = recettes.filter(r => idsSelectionnes.includes(r.id
 
 function viderEpicerie() {
   ingredientsEpicerie = {};
+  epicerieCoches = {};
+  epicerieMasques = new Set();
+  localStorage.setItem("epicerieCoches", JSON.stringify(epicerieCoches));
+  localStorage.setItem("epicerieMasques", JSON.stringify([...epicerieMasques]));
+
   sauvegarderIngredientsEpicerie();
   afficherEpicerie();
 }
