@@ -521,15 +521,19 @@ function ajouterAgendaAEpicerie() {
     if (date.startsWith(prefixe)) {
       agenda[date].forEach(evenement => {
         if (!ingredientsEpicerie[evenement.id]) {
-          ingredientsEpicerie[evenement.id] = true;
-          compteur++;
+          const recette = recettes.find(r => r.id === evenement.id);
+          if (recette) {
+            ingredientsEpicerie[evenement.id] = ingredientsDeRecette(recette);
+            compteur++;
+          }
         }
       });
     }
   });
   sauvegarderIngredientsEpicerie();
-  alert(compteur + " recette(s) ajoutée(s) à la liste d'épicerie.");
+  afficherEpicerie();
 }
+
 
 
 
