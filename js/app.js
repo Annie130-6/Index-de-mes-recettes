@@ -48,7 +48,8 @@ function afficherLivres() {
         <img src="images/${livre.couverture}" alt="${livre.titre}">
         <div>
           <h3>${livre.titre}</h3>
-          <p>${livre.langue} · ${livre.nbRecettes} recettes · ${livre.statut}</p>
+          <p>${[livre.langue, livre.nbRecettes ? livre.nbRecettes + " recettes" : null, livre.statut].filter(Boolean).join(" · ")}</p>
+
           <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
         </div>
       </div>
