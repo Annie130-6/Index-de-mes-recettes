@@ -19,8 +19,8 @@ async function chargerDonnees() {
     const rR = await fetch(`data/recettes.json?v=${version}`);
     recettes = await rR.json();
   } catch (err) {
-    document.body.insertAdjacentHTML('afterbegin',
-      `<p style="background:red;color:white">ERREUR: ${err.message}</p>`);
+
+    document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}<br>${err.stack}</p>`);
   }
   afficherLivres();
 }
