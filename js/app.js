@@ -92,7 +92,8 @@ function afficherRecettes(liste) {
     html += `
       <div>
         <h3>${recette.titre}</h3>
-        <p>Page ${recette.page} · ${categoriesDeRecette(recette).join(" · ")}</p>
+        <p>Page${recette.page} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
+
                 <p class="ing-liste">${ingredientsDeRecette(recette).join(" · ") || "<em>aucun ingrédient noté</em>"}</p>
         <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span>
    </div>
@@ -307,6 +308,9 @@ let categoriesChoisies = [];
 let modeCategories = "ET";
 let catsAjoutees = {};
 
+let catsRetirees = JSON.parse(localStorage.getItem("categoriesRetirees") || "{}");
+
+
 function chargerCatsAjoutees() {
   const data = localStorage.getItem("categoriesRecettes");
   catsAjoutees = data ? JSON.parse(data) : {};
@@ -319,8 +323,10 @@ function categoriesDeRecette(r) {
   if (r.categorie) base.push(r.categorie);
   if (r.ingredientPrincipal) base.push(r.ingredientPrincipal);
   const ajout = catsAjoutees[r.id] || [];
-  return [...new Set([...base, ...ajout])];
+  const retires = catsRetirees[r.id] || [];
+  return [...new Set([...base, ...ajout])].filter(c => !retires.includes(c));
 }
+
 
 function toutesLesCategories() {
   return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Canard",
