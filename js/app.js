@@ -513,6 +513,24 @@ function supprimerIngredientsCoches() {
   afficherEpicerie();
 }
 
+function ajouterAgendaAEpicerie() {
+  const agenda = chargerAgenda();
+  const prefixe = anneeAffichee + "-" + String(moisAffiche + 1).padStart(2, "0");
+  let compteur = 0;
+  Object.keys(agenda).forEach(date => {
+    if (date.startsWith(prefixe)) {
+      agenda[date].forEach(evenement => {
+        if (!ingredientsEpicerie[evenement.id]) {
+          ingredientsEpicerie[evenement.id] = true;
+          compteur++;
+        }
+      });
+    }
+  });
+  sauvegarderIngredientsEpicerie();
+  alert(compteur + " recette(s) ajoutée(s) à la liste d'épicerie.");
+}
+
 
 
   function afficherEpicerie() {
