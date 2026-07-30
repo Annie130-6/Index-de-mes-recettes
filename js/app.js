@@ -284,6 +284,16 @@ function moisSuivant() {
   afficherAgenda();
 }
 
+function voirIngredientsAgenda(id) {
+  const recette = recettes.find(r => r.id === id);
+  if (!recette) return;
+  const ingredients = ingredientsDeRecette(recette);
+  const liste = ingredients.length ? ingredients.join(", ") : "Aucun ingrédient noté";
+  alert(recette.titre + " :\n\n" + liste);
+}
+
+
+
 function supprimerDuCalendrier(dateStr, index) {
   const agenda = chargerAgenda();
   agenda[dateStr].splice(index, 1);
