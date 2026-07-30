@@ -3653,5 +3653,5 @@
 { "id": 497, "livreId": 3, "titre": "Trifles chocolat framboises", "page": 64, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 498, "livreId": 3, "titre": "Charlotte aux macarons... pas ronds !", "page": 66, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 499, "livreId": 3, "titre": "Saint-honoré aux macarons", "page": 68, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" },
-{ "id": 500, "livreId": 3, "titre": "Pièce montée des grands jours", "page": 70, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 500, "livreId": 3, "titre": "Pièce montée des grands jours", "page": 70, "categorie": "Dessert", "ingredientPrincipal": "Amandes", "image": "IMG_1724.jpeg", "favori": false, "statut": "À indexer" }
 ]
