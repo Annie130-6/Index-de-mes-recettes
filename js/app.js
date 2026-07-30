@@ -263,7 +263,7 @@ function afficherAgenda() {
 
     html += `<div class="agenda-case"><div class="agenda-jour">${jour}</div>`;
     recettesJour.forEach((r, index) => {
-      html += `<div class="agenda-recette" onclick="supprimerDuCalendrier('${dateStr}', ${index})">${r.titre} ✕</div>`;
+      html += `<div class="agenda-recette"><span class="agenda-titre-recette" onclick="voirIngredientsAgenda(${r.id})">${r.titre}</span> <span class="agenda-supprimer" onclick="supprimerDuCalendrier('${dateStr}', ${index})">✕</span></div>`;
     });
     html += `</div>`;
   }
