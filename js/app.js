@@ -126,11 +126,16 @@ function afficherIngredients() {
 
   const compte = {};
 
-  recettes.forEach(r => {
+  const ingredientsIgnores = new Set(["sel", "poivre", "poivre noir", "eau", "eau froide", "poivre noir frais moulu", "beurre", "huile", "huile d'olive", "eau", "sucre"]);
+recettes.forEach(r => {
   const mots = new Set();
-  ingredientsDeRecette(r).forEach(i => mots.add(sansAccents(i)));
+  ingredientsDeRecette(r).forEach(i => {
+    const propre = sansAccents(i);
+    if (!ingredientsIgnores.has(propre)) mots.add(propre);
+  });
   mots.forEach(m => compte[m] = (compte[m] || 0) + 1);
 });
+
 
 
   const liste = Object.keys(compte)
