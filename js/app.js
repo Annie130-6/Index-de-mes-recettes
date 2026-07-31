@@ -134,7 +134,7 @@ function afficherIngredients() {
 
 
   const liste = Object.keys(compte)
-    .filter(m => compte[m] >= 2)
+    .filter(m => compte[m] >= 1)
     .filter(m => m.includes(sansAccents(rechercheIngredient)))
     .sort((a, b) => a.localeCompare(b, "fr"));
 
