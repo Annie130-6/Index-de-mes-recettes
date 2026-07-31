@@ -127,14 +127,11 @@ function afficherIngredients() {
   const compte = {};
 
   recettes.forEach(r => {
-    const mots = new Set();
-        ingredientsDeRecette(r).forEach(i => mots.add(sansAccents(i)));
+  const mots = new Set();
+  ingredientsDeRecette(r).forEach(i => mots.add(sansAccents(i)));
+  mots.forEach(m => compte[m] = (compte[m] || 0) + 1);
+});
 
-    sansAccents(r.titre).split(/[^a-z0-9]+/).forEach(m => {
-      if (m.length >= 4 && !motsIgnores.has(m)) mots.add(m);
-    });
-    mots.forEach(m => compte[m] = (compte[m] || 0) + 1);
-  });
 
   const liste = Object.keys(compte)
     .filter(m => compte[m] >= 2)
