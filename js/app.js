@@ -147,7 +147,7 @@ function afficherIngredients() {
     .sort((a, b) => a.localeCompare(b, "fr"));
 
   let html = `<h2>🥕 Ingrédients (${liste.length})</h2>
-    <input id="chercheIng" placeholder="Filtrer les ingrédients..." value="${rechercheIngredient}">
+    html += `<span class="chip ${ingredientsChoisis.includes(m) ? "chip-actif" : ""}" onclick="toggleIngredient('${m}')">${m} (${
     <div class="chips">`;
   liste.forEach(m => {
     html += `<span class="chip" onclick="filtrerParIngredient('${m}')">${m} (${compte[m]})</span>`;
@@ -392,18 +392,22 @@ function basculerMode() {
   appliquerFiltres();
 }
 
-function appliquerFiltres() {
-  const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
-  const choisies = categoriesChoisies.map(sansAccents);
-
   const filtres = recettes.filter(r => {
     const cats = categoriesDeRecette(r).map(sansAccents);
-        const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " +
-                   sansAccents(ingredientsDeRecette(r).join(" "));
+    const ingr = ingredientsDeRecette(r).map(sansAccents);
+    const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
 
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
       : modeCategories === "ET"
+      ? choisies.every(c => cats.includes(c))
+      : choisies.some(c => cats.includes(c));
+    const okIng = ingredientsChoisis.length === 0 ? true
+      : ingredientsChoisis.every(i => ingr.includes(i));
+    
+    return okTexte && okCats && okIng;
+  });
+
         ? choisies.every(c => cats.includes(c))
         : choisies.some(c => cats.includes(c));
     return okTexte && okCats;
@@ -490,6 +494,8 @@ const motsIgnores = new Set(["de","des","du","la","le","les","au","aux","et","en
 "petite","grand","grande","notre","nos","leur","qui","que","plus","tres","bon",
 "bonne","meilleur","meilleure","classique","simple"]);
 
+
+const base = Array.isArray(r.ingredients) ? r.ingredients : (r.ingredientPrincipal ? [r.ingredientPrincipal] : []);
 
 
 let ingAjoutes = JSON.parse(localStorage.getItem("ingredientsRecettes") || "{}");
