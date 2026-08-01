@@ -4946,7 +4946,8 @@
 {"id":1791,"livreId":7,"titre":"Sirop de maïs digne de ce nom","page":285,"categorie":"Condiment","ingredientPrincipal":"Maïs","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"},
 {"id":1792,"livreId":7,"titre":"Œufs mayonnaise","page":47,"categorie":"Amuse-bouche","ingredientPrincipal":"Mayonnaise","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"},
 {"id":1793,"livreId":7,"titre":"Beurre d'époisses à la moutarde","page":296,"categorie":"Condiment","ingredientPrincipal":"Moutarde","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"},
-{"id":1794,"livreId":7,"titre":"Noix fumées","page":157,"categorie":"Amuse-bouche","ingredientPrincipal":"Noix et noisette","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"}
+{"id":1794,"livreId":7,"titre":"Noix fumées","page":157,"categorie":"Amuse-bouche","ingredientPrincipal":"Noix et noisette","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"},
+{"id":1801,"livreId":7,"titre":"Armagnac à la truffe du Périgord","page":123,"categorie":"Amuse-bouche","ingredientPrincipal":"Truffe","image":"IMG_1793.jpeg","favori":false,"statut":"À indexer"}
 ]
  
 
