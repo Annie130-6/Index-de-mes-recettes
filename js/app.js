@@ -147,12 +147,13 @@ function afficherIngredients() {
     .sort((a, b) => a.localeCompare(b, "fr"));
 
   let html = `<h2>🥕 Ingrédients (${liste.length})</h2>
-    html += `<span class="chip ${ingredientsChoisis.includes(m) ? "chip-actif" : ""}" onclick="toggleIngredient('${m}')">${m} (${
+    <input id="chercheIng" placeholder="Filtrer les ingrédients..." value="${rechercheIngredient}">
     <div class="chips">`;
   liste.forEach(m => {
-    html += `<span class="chip" onclick="filtrerParIngredient('${m}')">${m} (${compte[m]})</span>`;
+    html += `<span class="chip ${ingredientsChoisis.includes(m) ? "chip-actif" : ""}" onclick="toggleIngredient('${m}')">${m} (${compte[m]})</span>`;
   });
   html += `</div>`;
+
 
   pageIngredients.innerHTML = html;
 
@@ -165,13 +166,17 @@ function afficherIngredients() {
 }
 
 
-
-function filtrerParIngredient(mot) {
-  afficherRecettes(recettes.filter(r =>
-    sansAccents(r.titre).includes(mot) ||
-    sansAccents(r.ingredientPrincipal || "").includes(mot)
-  ));
+function toggleIngredient(mot) {
+  const m = sansAccents(mot);
+  if (ingredientsChoisis.includes(m)) {
+    ingredientsChoisis = ingredientsChoisis.filter(i => i !== m);
+  } else {
+    ingredientsChoisis.push(m);
+  }
+  appliquerFiltres();
+  afficherIngredients();
 }
+
 
 
 
