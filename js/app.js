@@ -495,7 +495,8 @@ let epicerieMasques = new Set(JSON.parse(localStorage.getItem("epicerieMasques")
 
 
 function ingredientsDeRecette(r) {
-  const base = Array.isArray(r.ingredients) ? r.ingredients : [];
+  const base = Array.isArray(r.ingredients) ? r.ingredients : (r.ingredientPrincipal ? [r.ingredientPrincipal] : []);
+
   const ajout = ingAjoutes[r.id] || [];
   return [...new Set([...base, ...ajout])];
 }
