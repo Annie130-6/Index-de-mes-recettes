@@ -320,6 +320,7 @@ btnIngredients.addEventListener("click", afficherIngredients);
 btnEpicerie.addEventListener("click", afficherEpicerie);
 
 let categoriesChoisies = [];
+let ingredientsChoisis = [];
 let modeCategories = "ET";
 let catsAjoutees = {};
 
