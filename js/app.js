@@ -502,9 +502,6 @@ const motsIgnores = new Set(["de","des","du","la","le","les","au","aux","et","en
 "bonne","meilleur","meilleure","classique","simple"]);
 
 
-const base = Array.isArray(r.ingredients) ? r.ingredients : (r.ingredientPrincipal ? [r.ingredientPrincipal] : []);
-
-
 let ingAjoutes = JSON.parse(localStorage.getItem("ingredientsRecettes") || "{}");
 
 let epicerieCoches = JSON.parse(localStorage.getItem("epicerieCoches") || "{}");
