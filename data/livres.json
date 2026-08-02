@@ -23,4 +23,5 @@
  { "id": 5, "titre": "Poisson - si simple, si bon", "langue": "Français", "editeur": "JE Cuisine", "nbRecettes": 61, "statut": "Partiel", "couverture": "IMG_1774.jpeg" },
 { "id": 6, "titre": "La bible des sauces", "langue": "Français", "editeur": "Les Éditions La Presse", "nbRecettes": 1016, "statut": "Partiel", "couverture": "IMG_1783.jpeg" },
 { "id": 7, "titre": "Joe Beef - Survivre à l'apocalypse", "langue": "Français", "editeur": "Les Éditions La Presse", "nbRecettes": 164, "statut": "Partiel", "couverture": "IMG_1793.jpeg" }
+{ "id": 8, "titre": "Boulange et Boustifaille", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 81, "statut": "Indexé", "couverture": "IMG.jpeg" }
 ]
