@@ -412,10 +412,7 @@ function basculerMode() {
     return okTexte && okCats && okIng;
   });
 
-        ? choisies.every(c => cats.includes(c))
-        : choisies.some(c => cats.includes(c));
-    return okTexte && okCats;
-  });
+
 
   afficherRecettes(filtres);
 }
