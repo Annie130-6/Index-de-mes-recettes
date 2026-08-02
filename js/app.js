@@ -39,7 +39,8 @@ function afficherLivres() {
   cacherPages();
   pageLivres.style.display = "block";
 
-  pageLivres.innerHTML = `<h2>📚 Mes livres</h2>`;
+  pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>`;
+
 
   livres.forEach(livre => {
        
