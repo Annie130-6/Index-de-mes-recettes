@@ -173,7 +173,6 @@ function toggleIngredient(mot) {
     ingredientsChoisis.push(m);
   }
   appliquerFiltres();
-  afficherIngredients();
 }
 
 
