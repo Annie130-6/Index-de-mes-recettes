@@ -396,10 +396,16 @@ function basculerMode() {
   appliquerFiltres();
 }
 
+  function appliquerFiltres() {
+  const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
+  const choisies = categoriesChoisies.map(sansAccents);
+
   const filtres = recettes.filter(r => {
-    const cats = categoriesDeRecette(r).map(sansAccents);
+
+        const cats = categoriesDeRecette(r).map(sansAccents);
     const ingr = ingredientsDeRecette(r).map(sansAccents);
     const champs = sansAccents(r.titre) + " " + cats.join(" ") + " " + ingr.join(" ");
+
 
     const okTexte = mots.every(m => champs.includes(m));
     const okCats = choisies.length === 0 ? true
