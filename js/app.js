@@ -128,16 +128,7 @@ function afficherIngredients() {
 
   const ingredientsIgnores = new Set(["sel", "poivre", "poivre noir", "sel et poivre", "beurre non salé", "beurre non sale", "huile de canola", "eau", "poivre noir moulu", "eau froide", "poivre noir frais moulu", "beurre", "huile", "huile d'olive", "eau", "sucre"]);
 
- function toggleIngredient(mot) {
-  const m = sansAccents(mot);
-  if (ingredientsChoisis.includes(m)) {
-    ingredientsChoisis = ingredientsChoisis.filter(i => i !== m);
-  } else {
-    ingredientsChoisis.push(m);
-  }
-  appliquerFiltres();
-  afficherIngredients();
-}
+
  
 
 
