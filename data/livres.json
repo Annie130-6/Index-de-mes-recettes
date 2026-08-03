@@ -26,7 +26,9 @@
 { "id": 8, "titre": "Boulange et Boustifaille", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 81, "statut": "Indexé", "couverture": "IMG_1857.jpeg" },
 { "id": 9, "titre": "À la bonne franquette", "langue": "Français", "editeur": "Non identifié", "nbRecettes": 102, "statut": "Indexé", "couverture": "IMG_1863.jpeg" },
  { "id": 10, "titre": "Fabriquer son fromage maison", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 30, "statut": "Indexé", "couverture": "IMG_1876.jpeg" },
-  { "id": 11, "titre": "Le Larousse du pain", "langue": "Français", "editeur": "Larousse", "nbRecettes": 87, "statut": "Indexé", "couverture": "IMG_1879.jpeg" }
+  { "id": 11, "titre": "Le Larousse du pain", "langue": "Français", "editeur": "Larousse", "nbRecettes": 87, "statut": "Indexé", "couverture": "IMG_1879.jpeg" },
+  { "id": 12, "titre": "WeightWatchers - En moins de 20", "langue": "Français", "editeur": "WeightWatchers", "nbRecettes": 70, "statut": "Indexé", "couverture": "IMG_1881.jpeg" }
+
 
  
 
