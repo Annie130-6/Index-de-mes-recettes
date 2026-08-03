@@ -29,5 +29,5 @@
   { "id": 11, "titre": "Le Larousse du pain", "langue": "Français", "editeur": "Larousse", "nbRecettes": 87, "statut": "Indexé", "couverture": "IMG_1879.jpeg" },
   { "id": 12, "titre": "WeightWatchers - En moins de 20", "langue": "Français", "editeur": "WeightWatchers", "nbRecettes": 70, "statut": "Indexé", "couverture": "IMG_1881.jpeg" },
   { "id": 13, "titre": "Toqué! Les artisans d'une gastronomie québécoise", "langue": "Français", "editeur": "Les Éditions du Passage", "nbRecettes": 154, "statut": "Indexé", "couverture": "IMG_1895.jpeg" },
-{ "id": 14, "titre": "Le Petit Marché - Foie Gras", "langue": "Français", "editeur": "Marabout", "nbRecettes": 30, "statut": "Indexé", "couverture": "IMG_1908.jpeg" }
+{ "id": 14, "titre": "Le Petit Marché - Foie Gras", "langue": "Français", "editeur": "Marabout", "nbRecettes": 26, "statut": "Indexé", "couverture": "IMG_1908.jpeg" }
 ]
