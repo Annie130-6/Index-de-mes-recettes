@@ -5466,6 +5466,14 @@
 { "id": 2350, "livreId": 14, "titre": "Crèmes brûlées au foie gras", "page": 52, "categorie": "Petit plat", "ingredientPrincipal": "Foie gras", "image": "IMG_1908.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2351, "livreId": 14, "titre": "Pommes de terre au foie gras", "page": 54, "categorie": "Petit plat", "ingredientPrincipal": "Pomme de terre", "image": "IMG_1908.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2352, "livreId": 14, "titre": "Burger au foie gras", "page": 56, "categorie": "Petit plat", "ingredientPrincipal": "Foie gras", "image": "IMG_1908.jpeg", "favori": false, "statut": "À indexer" },
-{ "id": 2353, "livreId": 14, "titre": "Pommes au foie gras", "page": 58, "categorie": "Petit plat", "ingredientPrincipal": "Pomme", "image": "IMG_1908.jpeg", "favori": false, "statut": "À indexer" }
+{ "id": 2353, "livreId": 14, "titre": "Pommes au foie gras", "page": 58, "categorie": "Petit plat", "ingredientPrincipal": "Pomme", "image": "IMG_1908.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2354, "livreId": 15, "titre": "Recettes de pâte à pizza", "page": 8, "categorie": "Base", "ingredientPrincipal": "Farine", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2355, "livreId": 15, "titre": "Sauce Piquante", "page": 32, "categorie": "Sauce", "ingredientPrincipal": "Piment", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2356, "livreId": 15, "titre": "Sauce tomate de base", "page": 33, "categorie": "Sauce", "ingredientPrincipal": "Tomate", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2357, "livreId": 15, "titre": "Sauce rapide aux anchois alla putanesca", "page": 34, "categorie": "Sauce", "ingredientPrincipal": "Anchois", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2358, "livreId": 15, "titre": "Sauce douce aux poivrons rôtis", "page": 35, "categorie": "Sauce", "ingredientPrincipal": "Poivron", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2359, "livreId": 15, "titre": "Sauce aux tomates du jardin", "page": 36, "categorie": "Sauce", "ingredientPrincipal": "Tomate", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2360, "livreId": 15, "titre": "Sauce béchamel Besciamella", "page": 38, "categorie": "Sauce", "ingredientPrincipal": "Lait", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+{ "id": 2361, "livreId": 15, "titre": "Sauce à la pizzaiola", "page": 39, "categorie": "Sauce", "ingredientPrincipal": "Tomate", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" }
 
  ]  
