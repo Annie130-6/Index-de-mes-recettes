@@ -144,7 +144,8 @@ function afficherIngredients() {
   const liste = Object.keys(compte)
     .filter(m => compte[m] >= 1)
     .filter(m => m.includes(sansAccents(rechercheIngredient)))
-    .sort((a, b) => a.localeCompare(b, "fr"));
+    .sort((a, b) => a.localeCompare(b, "fr", { numeric: true, sensitivity: "base" }));
+
 
   let html = `<h2>🥕 Ingrédients (${liste.length})</h2>
     <input id="chercheIng" placeholder="Filtrer les ingrédients..." value="${rechercheIngredient}">
