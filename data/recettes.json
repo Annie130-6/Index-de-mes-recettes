@@ -21453,12 +21453,12 @@
 {"id": 8684, "livreId": 41, "titre": "Quiche au bacon de maïs", "page": 169, "categorie": "Autres", "ingredientPrincipal": "Bacon", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8685, "livreId": 41, "titre": "Quiche au jambon et aux œufs durs (2)", "page": 169, "categorie": "Autres", "ingredientPrincipal": "Jambon", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8686, "livreId": 41, "titre": "Quiche au poulet et aux champignons (2)", "page": 172, "categorie": "Autres", "ingredientPrincipal": "Poulet", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8687, "livreId": 41, "titre": "Quiche aux aubergines", "page": 165, "categorie": "Autres", "ingredientPrincipal": "Aubergines", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8688, "livreId": 41, "titre": "Quiche aux épinards", "page": 165, "categorie": "Autres", "ingredientPrincipal": "Épinards", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8689, "livreId": 41, "titre": "Quiche aux fraises", "page": 215, "categorie": "Autres", "ingredientPrincipal": "Fraises", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8690, "livreId": 41, "titre": "Quiche aux oignons (2)", "page": 166, "categorie": "Autres", "ingredientPrincipal": "Oignons", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8691, "livreId": 41, "titre": "Quiche aux tomates", "page": 164, "categorie": "Autres", "ingredientPrincipal": "Tomates", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8692, "livreId": 41, "titre": "Quiche Lorraine", "page": 170, "categorie": "Autres", "ingredientPrincipal": "Bacon", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8687, "livreId": 41, "titre": "Quiche aux aubergines", "page": 165, "categorie": "Quiche", "ingredientPrincipal": "Aubergines", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8688, "livreId": 41, "titre": "Quiche aux épinards", "page": 165, "categorie": "Quiche", "ingredientPrincipal": "Épinards", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8689, "livreId": 41, "titre": "Quiche aux fraises", "page": 215, "categorie": "Dessert, Quiche", "ingredientPrincipal": "Fraises", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8690, "livreId": 41, "titre": "Quiche aux oignons (2)", "page": 166, "categorie": "Quiche", "ingredientPrincipal": "Oignons", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8691, "livreId": 41, "titre": "Quiche aux tomates", "page": 164, "categorie": "Quiche", "ingredientPrincipal": "Tomates", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8692, "livreId": 41, "titre": "Quiche Lorraine", "page": 170, "categorie": "Quiche", "ingredientPrincipal": "Bacon", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8693, "livreId": 41, "titre": "Ragoût de dinde aux légumes", "page": 213, "categorie": "Volaille", "ingredientPrincipal": "Dinde", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8694, "livreId": 41, "titre": "Fricassée au poulet (ragoût)", "page": 201, "categorie": "Volaille", "ingredientPrincipal": "Poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8695, "livreId": 41, "titre": "Sandwich aux bleuets (2)", "page": 512, "categorie": "Desserts", "ingredientPrincipal": "Bleuets", "image": null, "favori": false, "statut": "À indexer"},
@@ -21466,9 +21466,9 @@
 {"id": 8697, "livreId": 41, "titre": "Sauce à spaghetti à la viande", "page": 318, "categorie": "Sauces", "ingredientPrincipal": "Viande", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8698, "livreId": 41, "titre": "Sauce au chocolat riche (2)", "page": 486, "categorie": "Desserts", "ingredientPrincipal": "Chocolat", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8699, "livreId": 41, "titre": "Sauce au piment", "page": 316, "categorie": "Sauces", "ingredientPrincipal": "Piment", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8700, "livreId": 41, "titre": "Sauce aux bleuets de dernière minute (2)", "page": 491, "categorie": "Desserts", "ingredientPrincipal": "Bleuets", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8700, "livreId": 41, "titre": "Sauce aux bleuets de dernière minute (2)", "page": 491, "categorie": "Sauce, Desserts", "ingredientPrincipal": "Bleuets", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8701, "livreId": 41, "titre": "Sauce aux crevettes", "page": 101, "categorie": "Sauces", "ingredientPrincipal": "Crevettes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8702, "livreId": 41, "titre": "Sauce aux fraises (2)", "page": 485, "categorie": "Desserts", "ingredientPrincipal": "Fraises", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 8702, "livreId": 41, "titre": "Sauce aux fraises (2)", "page": 485, "categorie": "Sauce, Desserts", "ingredientPrincipal": "Fraises", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8703, "livreId": 41, "titre": "Sauce aux pommes", "page": 330, "categorie": "Sauces", "ingredientPrincipal": "Pommes", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8704, "livreId": 41, "titre": "Sauce aux tomates", "page": 399, "categorie": "Sauces", "ingredientPrincipal": "Tomates", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8705, "livreId": 41, "titre": "Sauce béarnaise", "page": 388, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
@@ -21486,7 +21486,7 @@
 {"id": 8717, "livreId": 41, "titre": "Sauce Roberto", "page": 336, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8718, "livreId": 41, "titre": "Sauce tartare", "page": 479, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8719, "livreId": 41, "titre": "Sauce Wellington", "page": 314, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8720, "livreId": 41, "titre": "Trempette de fromage épicé aux légumes", "page": 48, "categorie": "Autres, pizza", "ingredientPrincipal": "Fromage", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 8720, "livreId": 41, "titre": "Trempette de fromage épicé aux légumes", "page": 48, "categorie": "Trempette", "ingredientPrincipal": "Fromage", "image": null, "favori": false, "statut": "À indexer"}
 
 
 
