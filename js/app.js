@@ -116,7 +116,7 @@ function afficherRecettes(liste) {
 function afficherFavoris() {
   cacherPages();
   pageFavoris.style.display = "block";
-  pageFavoris.innerHTML = <h2> ❤️ " Favoris</h2><p>Bientôt disponible.</p>";
+  pageFavoris.innerHTML = <h2> ❤️  Favoris</h2><p>Bientôt disponible.</p>";
 }
 
 let rechercheIngredient = "";
