@@ -16,8 +16,13 @@ async function chargerDonnees() {
     const rL = await fetch(`data/livres.json?v=${version}`);
     livres = await rL.json();
 
-    const rR = await fetch(`data/recettes.json?v=${version}`);
-    recettes = await rR.json();
+const rR = await fetch(`data/recettes.json?v=${version}`);
+const rR2 = await fetch(`data/recettes2.json?v=${version}`);
+const recettes1 = await rR.json();
+const recettes2 = await rR2.json();
+recettes = recettes1.concat(recettes2);
+
+    
   } catch (err) {
 
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}<br>${err.stack}</p>`);
