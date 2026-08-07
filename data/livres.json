@@ -53,7 +53,9 @@
   {"id": 35, "titre": "Poulet Cent Façons", "langue": "Français", "editeur": "Non identifié", "nbRecettes": 114, "statut": "Indexé", "couverture": "IMG_2032.jpeg"},
 {"id": 36, "titre": "Fumoir - Les recettes inédites du Maître Fumeur", "langue": "Français", "editeur": "Pratico Édition", "nbRecettes": 79, "statut": "Indexé", "couverture": "IMG_2040.jpeg"},
  {"id": 37, "titre": "Les Conserves", "langue": "Français", "editeur": "Sélection Reader's Digest", "nbRecettes": 197, "statut": "À indexer", "couverture": "IMG_2112.jpeg"},
-  {"id": 38, "titre": "Le Cuisinier Rebelle - Amuse-Gueules Autour du Monde", "langue": "Français", "editeur": "Cardinal", "nbRecettes": 61, "statut": "À indexer", "couverture": "IMG_2119.jpeg"}
+  {"id": 38, "titre": "Le Cuisinier Rebelle - Amuse-Gueules Autour du Monde", "langue": "Français", "editeur": "Cardinal", "nbRecettes": 61, "statut": "À indexer", "couverture": "IMG_2119.jpeg"},
+ {"id": 39, "titre": "Le Cuisinier Rebelle", "langue": "Français", "editeur": "Les Éditions Cardinal", "nbRecettes": 51, "statut": "À indexer", "couverture": "IMG_2121.jpeg"}
+ 
 
  
 
