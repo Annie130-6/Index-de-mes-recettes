@@ -21486,7 +21486,7 @@
 {"id": 8717, "livreId": 41, "titre": "Sauce Roberto", "page": 336, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8718, "livreId": 41, "titre": "Sauce tartare", "page": 479, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 8719, "livreId": 41, "titre": "Sauce Wellington", "page": 314, "categorie": "Sauces", "ingredientPrincipal": "-", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 8720, "livreId": 41, "titre": "Trempette de fromage épicé aux légumes", "page": 48, "categorie":[ "Autres", "pizza" ], "ingredientPrincipal": "Fromage", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 8720, "livreId": 41, "titre": "Trempette de fromage épicé aux légumes", "page": 48, "categorie": "Autres, pizza", "ingredientPrincipal": "Fromage", "image": null, "favori": false, "statut": "À indexer"}
 
 
 
