@@ -20395,7 +20395,7 @@
 {"id": 7623, "livreId": 36, "titre": "Sauce piquante Ghost, mangue et ananas", "page": 67, "categorie": "Sauces", "ingredientPrincipal": "mangue", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7624, "livreId": 36, "titre": "Sauce pour porc effiloché", "page": 67, "categorie": "Sauces", "ingredientPrincipal": "porc", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7625, "livreId": 36, "titre": "Sauce sucrée et épicée", "page": 66, "categorie": "Sauces", "ingredientPrincipal": "épices", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7626, "livreId": 36, "titre": "Vinaigrette pour salade de chou", "page": 66, "categorie": "Sauces", "ingredientPrincipal": "chou", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 7626, "livreId": 36, "titre": "Vinaigrette pour salade de chou", "page": 66, "categorie": "Sauces", "ingredientPrincipal": "chou", "image": null, "favori": false, "statut": "À indexer"},
   {"id": 7628, "livreId": 37, "titre": "Confiture d'abricots", "page": 158, "categorie": "Confitures", "ingredientPrincipal": "Abricots", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7629, "livreId": 37, "titre": "Confiture de fraises des bois", "page": 161, "categorie": "Confitures", "ingredientPrincipal": "Fraises des bois", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7630, "livreId": 37, "titre": "Confiture de fruits exotiques", "page": 159, "categorie": "Confitures", "ingredientPrincipal": "Fruits exotiques", "image": null, "favori": false, "statut": "À indexer"},
