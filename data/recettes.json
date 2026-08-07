@@ -20202,7 +20202,7 @@
 {"id": 7430, "livreId": 34, "titre": "Soupe aux poivrons rôtis", "page": 66, "categorie": "Soupes et salades", "ingredientPrincipal": "poivrons", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7431, "livreId": 34, "titre": "Soupe aux tomates à l'ancienne", "page": 86, "categorie": "Soupes et salades", "ingredientPrincipal": "tomates", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7432, "livreId": 34, "titre": "Soupe santé italienne", "page": 90, "categorie": "Soupes et salades", "ingredientPrincipal": "légumes", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 7433, "livreId": 34, "titre": "Tomates farcies aux champignons", "page": 47, "categorie": "Entrées", "ingredientPrincipal": "tomates", "image": null, "favori": false, "statut": "À indexer},
+{"id": 7433, "livreId": 34, "titre": "Tomates farcies aux champignons", "page": 47, "categorie": "Entrées", "ingredientPrincipal": "tomates", "image": null, "favori": false, "statut": "À indexer"},
   {"id": 7434, "livreId": 35, "titre": "Ailes de poulet à la japonaise", "page": 33, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7435, "livreId": 35, "titre": "Ailes de poulet de l'Ouest", "page": 21, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 7436, "livreId": 35, "titre": "Amuse-gueule au poulet", "page": 32, "categorie": "Entrées et hors-d'oeuvre", "ingredientPrincipal": "poulet", "image": null, "favori": false, "statut": "À indexer"},
