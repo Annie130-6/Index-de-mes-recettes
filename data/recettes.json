@@ -5475,7 +5475,7 @@
 { "id": 2359, "livreId": 15, "titre": "Sauce aux tomates du jardin", "page": 36, "categorie": "Sauce", "ingredientPrincipal": "Tomate", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2360, "livreId": 15, "titre": "Sauce béchamel Besciamella", "page": 38, "categorie": "Sauce", "ingredientPrincipal": "Lait", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2361, "livreId": 15, "titre": "Sauce à la pizzaiola", "page": 39, "categorie": "Sauce", "ingredientPrincipal": "Tomate", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer"},
-  { "id": 2362, "livreId": 15, "titre": "Champignons sautés", "page": 42, "categorie": "Garniture","pizza ",ingredientPrincipal": "Champignon", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
+  { "id": 2362, "livreId": 15, "titre": "Champignons sautés", "page": 42, "categorie": "Garniture", "ingredientPrincipal": "Champignon", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2363, "livreId": 15, "titre": "Pesto au basilic et aux amandes", "page": 43, "categorie": "Garniture", "ingredientPrincipal": "Basilic", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2364, "livreId": 15, "titre": "Ail confit au four", "page": 44, "categorie": "Garniture", "ingredientPrincipal": "Ail", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
 { "id": 2365, "livreId": 15, "titre": "Poulet grillé", "page": 45, "categorie": "Garniture", "ingredientPrincipal": "Poulet", "image": "IMG_1910.jpeg", "favori": false, "statut": "À indexer" },
