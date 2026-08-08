@@ -65,7 +65,9 @@
   {"id": 47, "titre": "Biscuits", "langue": "Français", "editeur": "The Kitchens", "nbRecettes": 182, "statut": "Indexé", "couverture": "IMG_2273.jpeg"},
   {"id": 48, "titre": "Les Délices de la mer", "langue": "Français", "editeur": null, "nbRecettes": 110, "statut": "Indexé", "couverture": "IMG_2278.jpeg"},
   {"id": 49, "titre": "Moi & la Cuisine — 64 recettes économiques", "langue": "Français", "editeur": "Quebecor Media", "nbRecettes": 64, "statut": "Indexé", "couverture": "IMG_2309.jpeg"},
-  {"id": 50, "titre": "Créations Cuisine — Un air d'été", "langue": "Français", "editeur": "Éditions Jean Robert", "nbRecettes": 44, "statut": "Indexé", "couverture": "IMG_2312.jpeg"}
+  {"id": 50, "titre": "Créations Cuisine — Un air d'été", "langue": "Français", "editeur": "Éditions Jean Robert", "nbRecettes": 44, "statut": "Indexé", "couverture": "IMG_2312.jpeg"},
+  {"id": 51, "titre": "100 Recettes Barbecue — Rapides et simples", "langue": "Français", "editeur": "Passions Collection", "nbRecettes": 105, "statut": "Indexé", "couverture": "IMG_2314.jpeg"}
+
 
 
   
