@@ -21997,8 +21997,7 @@
 {"id": 11064, "livreId": 44, "titre": "Venise", "page": 568, "categorie": "Toutes", "ingredientPrincipal": "Dessert", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11065, "livreId": 44, "titre": "Waterzooi de coucou de Malines", "page": 386, "categorie": "Toutes", "ingredientPrincipal": "Coucou", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11066, "livreId": 44, "titre": "Zuppa inglese", "page": 560, "categorie": "Toutes", "ingredientPrincipal": "Dessert", "image": null, "favori": false, "statut": "À indexer"},
-  
-{"id": 11067, "livreId": 45, "titre": "Achards d'ananas", "page": 507, "categorie": "Toutes", "ingredientPrincipal": "Ananas", "image": null, "favori": false, "statut": "À indexer"},
+  {"id": 11067, "livreId": 45, "titre": "Achards d'ananas", "page": 507, "categorie": "Toutes", "ingredientPrincipal": "Ananas", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11068, "livreId": 45, "titre": "Achards de légumes variés", "page": 506, "categorie": "Toutes", "ingredientPrincipal": "Légumes", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11069, "livreId": 45, "titre": "Achards de mangue", "page": 510, "categorie": "Toutes", "ingredientPrincipal": "Mangue", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11070, "livreId": 45, "titre": "Adobo", "page": 158, "categorie": "Toutes", "ingredientPrincipal": "Marinade", "image": null, "favori": false, "statut": "À indexer"},
