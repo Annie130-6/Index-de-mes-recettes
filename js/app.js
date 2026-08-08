@@ -44,13 +44,19 @@ function afficherLivres() {
   cacherPages();
   pageLivres.style.display = "block";
 
-  pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>`;
+
+pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
+    <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
 
 
   livres.forEach(livre => {
        
         pageLivres.innerHTML += `
-      <div class="livre">
+      <div class="livre carte-livre">
+      
+
+
+  
         <img src="images/${livre.couverture}" alt="${livre.titre}">
         <div>
           <h3>${livre.titre}</h3>
