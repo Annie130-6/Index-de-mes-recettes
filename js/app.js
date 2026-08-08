@@ -126,8 +126,9 @@ function afficherRecettes(liste) {
 
 
     html += `
-      <div>
+      <div class="carte-recette">
         <h3>${recette.titre}</h3>
+
 
         <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""} · Page${recette.page} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
