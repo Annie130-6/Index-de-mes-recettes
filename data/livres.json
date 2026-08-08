@@ -60,7 +60,9 @@
   {"id": 42, "titre": "Hot Thai Kitchen", "langue": "Anglais", "editeur": "-", "nbRecettes": 59, "statut": "À indexer", "couverture": "IMG_2144.jpeg"},
   {"id": 43, "titre": "L'Encyclopédie de la Cuisine de Jehane Benoit", "langue": "Français", "editeur": "-", "nbRecettes": 1971, "statut": "Indexé (pages 740-741 manquantes)", "couverture": "IMG_2176.jpeg"},
   {"id": 44, "titre": "À la table des grands chefs européens", "langue": "Français", "editeur": "h.f.ullmann", "nbRecettes": 316, "statut": "À indexer", "couverture": "IMG_2235.jpeg"},
-  {"id": 45, "titre": "La Bible du barbecue", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 519, "statut": "Indexé", "couverture": "IMG_2242.jpeg"}
+  {"id": 45, "titre": "La Bible du barbecue", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 519, "statut": "Indexé", "couverture": "IMG_2242.jpeg"},
+  {"id": 46, "titre": "3 fois par jour, Deuxième tome", "langue": "Français", "editeur": null, "nbRecettes": 105, "statut": "Indexé", "couverture": "IMG_2270.jpeg"}
+
 
 
  
