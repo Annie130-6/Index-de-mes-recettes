@@ -62,7 +62,10 @@
   {"id": 44, "titre": "À la table des grands chefs européens", "langue": "Français", "editeur": "h.f.ullmann", "nbRecettes": 316, "statut": "À indexer", "couverture": "IMG_2235.jpeg"},
   {"id": 45, "titre": "La Bible du barbecue", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 519, "statut": "Indexé", "couverture": "IMG_2242.jpeg"},
   {"id": 46, "titre": "3 fois par jour, Deuxième tome", "langue": "Français", "editeur": null, "nbRecettes": 105, "statut": "Indexé", "couverture": "IMG_2270.jpeg"},
-  {"id": 47, "titre": "Biscuits", "langue": "Français", "editeur": "The Kitchens", "nbRecettes": 182, "statut": "Indexé", "couverture": "IMG_2273.jpeg"}
+  {"id": 47, "titre": "Biscuits", "langue": "Français", "editeur": "The Kitchens", "nbRecettes": 182, "statut": "Indexé", "couverture": "IMG_2273.jpeg"},
+  {"id": 48, "titre": "Les Délices de la mer", "langue": "Français", "editeur": null, "nbRecettes": 110, "statut": "Indexé", "couverture": "IMG_2278.jpeg"}
+  
+
 
 
 
