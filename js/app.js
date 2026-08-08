@@ -71,23 +71,10 @@ pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
   });
 }
 
+
 function sauterDeCartes(nombre) {
   const cartes = document.querySelectorAll('.carte-recette, .carte-livre');
-  if (cartes.length === 0) return;
-
-  // Trouve la carte actuellement la plus proche du haut de l'écran
-  let indexActuel = 0;
-  let distanceMin = Infinity;
-  cartes.forEach((carte, i) => {
-    const distance = Math.abs(carte.getBoundingClientRect().top);
-    if (distance < distanceMin) {
-      distanceMin = distance;
-      indexActuel = i;
-    }
-  });
-
-  const indexCible = Math.min(indexActuel + nombre, cartes.length - 1);
-  cartes[indexCible].scrollIntoView({ behavior: "smooth", block: "start" });
+  alert("Cartes trouvées : " + cartes.length);
 }
 
 
