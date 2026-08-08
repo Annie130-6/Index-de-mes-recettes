@@ -22898,7 +22898,25 @@
 {"id": 11962, "livreId": 48, "titre": "Rougets à la provençale", "page": 228, "categorie": "Toutes", "ingredientPrincipal": "Rougets", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11963, "livreId": 48, "titre": "Rougets à la sauce aux aromates et aux champignons", "page": 238, "categorie": "Toutes", "ingredientPrincipal": "Rougets", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 11964, "livreId": 48, "titre": "Rougets au fenouil et salade à l'orange", "page": 202, "categorie": "Toutes", "ingredientPrincipal": "Rougets", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 11965, "livreId": 48, "titre": "Salade César", "page": 90, "categorie": "Toutes", "ingredientPrincipal": "Salade", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 11965, "livreId": 48, "titre": "Salade César", "page": 90, "categorie": "Toutes", "ingredientPrincipal": "Salade", "image": null, "favori": false, "statut": "À indexer"},
+  {"id": 11966, "livreId": 48, "titre": "Salade de crevettes aux œufs", "page": 92, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11967, "livreId": 48, "titre": "Salade de fruits de mer estivale", "page": 94, "categorie": "Toutes", "ingredientPrincipal": "Fruits de mer", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11968, "livreId": 48, "titre": "Salade de homard au chou-fleur", "page": 110, "categorie": "Toutes", "ingredientPrincipal": "Homard", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11969, "livreId": 48, "titre": "Salade de sole au riz", "page": 102, "categorie": "Toutes", "ingredientPrincipal": "Sole", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11970, "livreId": 48, "titre": "Salade Louis", "page": 98, "categorie": "Toutes", "ingredientPrincipal": "Salade", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11971, "livreId": 48, "titre": "Sole à la milanaise", "page": 150, "categorie": "Toutes", "ingredientPrincipal": "Sole", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11972, "livreId": 48, "titre": "Soupe à la chair de crabe", "page": 30, "categorie": "Toutes", "ingredientPrincipal": "Crabe", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11973, "livreId": 48, "titre": "Soupe aigrelette et piquante", "page": 28, "categorie": "Toutes", "ingredientPrincipal": "Soupe", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11974, "livreId": 48, "titre": "Soupe aux palourdes", "page": 26, "categorie": "Toutes", "ingredientPrincipal": "Palourdes", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11975, "livreId": 48, "titre": "Soupe de crabe au maïs", "page": 36, "categorie": "Toutes", "ingredientPrincipal": "Crabe", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11976, "livreId": 48, "titre": "Tartelettes aux crevettes", "page": 182, "categorie": "Toutes", "ingredientPrincipal": "Crevettes", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11977, "livreId": 48, "titre": "Tempura au poisson", "page": 76, "categorie": "Toutes", "ingredientPrincipal": "Poisson", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11978, "livreId": 48, "titre": "Tourte aux fruits de mer", "page": 154, "categorie": "Toutes", "ingredientPrincipal": "Fruits de mer", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11979, "livreId": 48, "titre": "Truite au chorizo", "page": 248, "categorie": "Toutes", "ingredientPrincipal": "Truite", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11980, "livreId": 48, "titre": "Truite meunière aux aromates", "page": 168, "categorie": "Toutes", "ingredientPrincipal": "Truite", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11981, "livreId": 48, "titre": "Truites farcies aux huîtres", "page": 200, "categorie": "Toutes", "ingredientPrincipal": "Truite", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 11982, "livreId": 48, "titre": "Truites marinées à la sauce aux œufs", "page": 218, "categorie": "Toutes", "ingredientPrincipal": "Truite", "image": null, "favori": false, "statut": "À indexer"}
+
 
 
 
