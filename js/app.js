@@ -65,6 +65,26 @@ function afficherLivres() {
   });
 }
 
+function sauterDeCartes(nombre) {
+  const cartes = document.querySelectorAll('.carte-recette, .carte-livre');
+  if (cartes.length === 0) return;
+
+  // Trouve la carte actuellement la plus proche du haut de l'écran
+  let indexActuel = 0;
+  let distanceMin = Infinity;
+  cartes.forEach((carte, i) => {
+    const distance = Math.abs(carte.getBoundingClientRect().top);
+    if (distance < distanceMin) {
+      distanceMin = distance;
+      indexActuel = i;
+    }
+  });
+
+  const indexCible = Math.min(indexActuel + nombre, cartes.length - 1);
+  cartes[indexCible].scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+
 function afficherRecettesDuLivre(livreId) {
   const recettesLivre = recettes.filter(r => r.livreId === livreId);
   afficherRecettes(recettesLivre);
@@ -84,6 +104,9 @@ function afficherRecettes(liste) {
   html += `</div></div>`;
 
   html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
+
+  html += `<button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
+
 
     liste.forEach(recette => {
     let etoiles = "";
