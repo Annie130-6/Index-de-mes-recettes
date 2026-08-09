@@ -136,7 +136,9 @@
 {"id": 13526, "livreId": 74, "titre": "Gâteau flan au caramel et aux épices", "page": 33, "categorie": "Desserts", "ingredientPrincipal": "caramel", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 13527, "livreId": 74, "titre": "Gâteau renversé aux ananas", "page": 60, "categorie": "Desserts", "ingredientPrincipal": "ananas", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 13528, "livreId": 74, "titre": "Gâteau truffe choco-orange", "page": 158, "categorie": "Desserts", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 13529, "livreId": 74, "titre": "Tiramichoux", "page": 137, "categorie": "Desserts", "ingredientPrincipal": "pâte à choux", "image": null, "favori": false, "statut": "À indexer"}
+{"id": 13529, "livreId": 74, "titre": "Tiramichoux", "page": 137, "categorie": "Desserts", "ingredientPrincipal": "pâte à choux", "image": null, "favori": false, "statut": "À indexer"},
+  {"id": 75, "titre": "RICARDO Volume 20 Numéro 6 - La simplicité de l'été!", "langue": "Français", "editeur": "RICARDO", "nbRecettes": 34, "statut": "À indexer", "couverture": "IMG_2539.jpeg"}
+
 
 
 
