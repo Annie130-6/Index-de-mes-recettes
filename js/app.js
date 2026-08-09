@@ -150,7 +150,7 @@ function afficherIngredients() {
 
   const compte = {};
 
-  const ingredientsIgnores = new Set(["sel", "poivre", "poivre noir", "sel et poivre", "beurre non salé", "beurre non sale", "huile de canola", "eau", "poivre noir moulu", "eau froide", "poivre noir frais moulu", "beurre", "huile", "huile d'olive", "eau", "sucre"]);
+  const ingredientsIgnores = new Set(["sel", "poivre", "beurre non sale","poivre noir", " beurre non sale froid", "sel et poivre", "beurre non salé", "beurre non sale", "huile de canola", "eau", "poivre noir moulu", "eau froide", "poivre noir frais moulu", "beurre", "huile", "huile d'olive", "eau", "sucre"]);
 
 
    recettes.forEach(r => {
