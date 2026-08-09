@@ -71,11 +71,25 @@ pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
   });
 }
 
-
 function sauterDeCartes(nombre) {
   const cartes = document.querySelectorAll('.carte-recette, .carte-livre');
-  alert("Cartes trouvées : " + cartes.length);
+  if (cartes.length === 0) return;
+
+  let indexActuel = 0;
+  let distanceMin = Infinity;
+  cartes.forEach((carte, i) => {
+    const distance = Math.abs(carte.getBoundingClientRect().top);
+    if (distance < distanceMin) {
+      distanceMin = distance;
+      indexActuel = i;
+    }
+  });
+
+  const indexCible = Math.min(indexActuel + nombre, cartes.length - 1);
+  cartes[indexCible].scrollIntoView({ behavior: "smooth", block: "start" });
 }
+
+
 
 
 function afficherRecettesDuLivre(livreId) {
