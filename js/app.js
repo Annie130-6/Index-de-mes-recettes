@@ -388,8 +388,8 @@ function retirerCategorie(recetteId, cat) {
 
 
 function toutesLesCategories() {
-  return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Canard",
-  "Charcuterie","Comment faire","Confiture","Crème glacée","Déjeuner","Dessert","Entrée",
+  return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Bouillon","Canard",
+  "Charcuterie","Comment faire","Confiture", "Conserve","Crème glacée","Déjeuner","Dessert","Entrée",
   "Fondue","Fromage maison","Fumoir","Indien","Jambon","Lapin","Légumes","Marinade",
   "Mélange d'épices","Mexicain","Mijoteuse","Noël","Pain","Pâte","Pâté","Pizza","Poisson",
   "Porc","Poulet","Quiche","Riz","Salade","Sandwich","Sauce","Soupe","Sous-vide","Trempette",
