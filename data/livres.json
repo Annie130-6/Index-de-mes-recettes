@@ -104,7 +104,9 @@
   {"id": 86, "titre": "RICARDO Volume 20 Numéro 5 - Été à l'horizon!", "langue": "Français", "editeur": "RICARDO", "nbRecettes": 39, "statut": "À indexer", "couverture": "IMG_2591.jpeg"},
   {"id": 87, "titre": "RICARDO Volume 19 Numéro 7 - Bonjour efficacité!", "langue": "Français", "editeur": "RICARDO", "nbRecettes": 42, "statut": "À indexer", "couverture": "IMG_2594.jpeg"},
   {"id": 88, "titre": "RICARDO Volume 19 Numéro 2 - Envie de réconfort", "langue": "Français", "editeur": "RICARDO", "nbRecettes": 44, "statut": "À indexer", "couverture": "IMG_2597.jpeg"},
-  {"id": 89, "titre": "je cuisine - Déjeuners et brunchs", "langue": "Français", "editeur": "je cuisine", "nbRecettes": 45, "statut": "À indexer", "couverture": "IMG_2600.jpeg"}
+  {"id": 89, "titre": "je cuisine - Déjeuners et brunchs", "langue": "Français", "editeur": "je cuisine", "nbRecettes": 45, "statut": "À indexer", "couverture": "IMG_2600.jpeg"},
+  {"id": 90, "titre": "Le Guide Cuisine - Volume 12 Numéro 3 (Édition plein air)", "langue": "Français", "editeur": "Le Guide Cuisine", "nbRecettes": 144, "statut": "À indexer", "couverture": "IMG_2603.jpeg"}
+
 
 
 
