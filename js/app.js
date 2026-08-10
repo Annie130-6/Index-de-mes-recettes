@@ -18,9 +18,11 @@ async function chargerDonnees() {
 
 const rR = await fetch(`data/recettes.json?v=${version}`);
 const rR2 = await fetch(`data/recettes2.json?v=${version}`);
+const rR3 = await fetch(`data/recettes3.json?v=${version}`);
 const recettes1 = await rR.json();
 const recettes2 = await rR2.json();
-recettes = recettes1.concat(recettes2);
+const recettes3 = await rR3.json();
+recettes = recettes1.concat(recettes2).concat(recettes3);
 
     
   } catch (err) {
