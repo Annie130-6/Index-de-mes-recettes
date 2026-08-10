@@ -25019,7 +25019,7 @@
 {"id": 14034, "livreId": 81, "titre": "Petits gâteaux volcaniques choco-café avec crème au café", "page": 64, "categorie": "Desserts", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 14035, "livreId": 81, "titre": "Tartelettes truffées au chocolat et au cognac", "page": 66, "categorie": "Desserts", "ingredientPrincipal": "chocolat", "image": null, "favori": false, "statut": "À indexer"},
 
-  {"id": 14036, "livreId": 82, "titre": "Cocktails au jasmin et à la cerise", "page": 92, "categorie": "Boissons", "ingredientPrincipal": "jasmin", "image": null, "ingredient": ["the au jasmin,sirop au jasmin, gin, jus de citron, liqueur de cerise, sirop de cerise au marasqun, soda tonique, cerise au marasquin",]"favori": false, "statut": "À indexer"},
+  {"id": 14036, "livreId": 82, "titre": "Cocktails au jasmin et à la cerise", "page": 92, "categorie": "Boissons", "ingredientPrincipal": "jasmin", "image": null, "ingredient": ["the au jasmin", "sirop au jasmin", "gin, jus de citron", "liqueur de cerise", "sirop de cerise au marasquin", "soda tonique, cerise au marasquin",]"favori": false, "statut": "À indexer"},
 {"id": 14037, "livreId": 82, "titre": "Mocktail à la mûre", "page": 36, "categorie": "Boissons", "ingredientPrincipal": "mûre", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 14038, "livreId": 82, "titre": "Thé aux perles de tapioca fraise-melon (bubble tea)", "page": 113, "categorie": "Boissons", "ingredientPrincipal": "fraise", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 14039, "livreId": 82, "titre": "Bol d'açaï", "page": 116, "categorie": "Déjeuner et collations", "ingredientPrincipal": "açaï", "image": null, "favori": false, "statut": "À indexer"},
