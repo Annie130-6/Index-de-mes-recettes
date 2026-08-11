@@ -1401,7 +1401,17 @@
 {"id": 15749, "livreId": 104, "titre": "Teriyaki au saké", "page": 147, "categorie": "Sauces et vinaigrette", "ingredientPrincipal": "sauce", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 15750, "livreId": 104, "titre": "Thaïlandaise aux arachides rôties", "page": 145, "categorie": "Sauces et vinaigrette", "ingredientPrincipal": "arachides", "image": null, "favori": false, "statut": "À indexer"},
 {"id": 15751, "livreId": 104, "titre": "Thaï relevée", "page": 144, "categorie": "Sauces et vinaigrette", "ingredientPrincipal": "sauce", "image": null, "favori": false, "statut": "À indexer"},
-{"id": 15752, "livreId": 104, "titre": "
+{"id": 15752, "livreId": 104, "titre": "Vinaigrette au sésame", "page": 100, "categorie": "Sauces et vinaigrette", "ingredientPrincipal": "sésame", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15753, "livreId": 104, "titre": "Beignets aux pommes et gingembre", "page": 159, "categorie": "Desserts", "ingredientPrincipal": "pommes", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15754, "livreId": 104, "titre": "Biscuits-surprises", "page": 150, "categorie": "Desserts", "ingredientPrincipal": "biscuits", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15755, "livreId": 104, "titre": "Crème glacée au thé vert", "page": 152, "categorie": "Desserts", "ingredientPrincipal": "thé vert", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15756, "livreId": 104, "titre": "Duo de makis dessert", "page": 156, "categorie": "Desserts", "ingredientPrincipal": "fruits", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15757, "livreId": 104, "titre": "Panna cotta au thé vert et gingembre", "page": 161, "categorie": "Desserts", "ingredientPrincipal": "thé vert", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15758, "livreId": 104, "titre": "Raviolis croustillants aux poires japonaises et chocolat", "page": 154, "categorie": "Desserts", "ingredientPrincipal": "poires", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15759, "livreId": 104, "titre": "Salade de fruits à la liqueur de litchi", "page": 158, "categorie": "Desserts", "ingredientPrincipal": "fruits", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15760, "livreId": 104, "titre": "Sushis aux fraises et litchis", "page": 160, "categorie": "Desserts", "ingredientPrincipal": "fraises", "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15761, "livreId": 104, "titre": "Tapioca au lait de coco", "page": 157, "categorie": "Desserts", "ingredientPrincipal": "lait de coco", "image": null, "favori": false, "statut": "À indexer"},
+
 
 
 
