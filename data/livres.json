@@ -140,7 +140,9 @@
 {"id": 122, "titre": "Les saisons de Clodine - Cuisine, Délices de la table automnale (Cahier numéro 15)", "langue": "Français", "editeur": "TVA", "nbRecettes": 50, "statut": "À indexer", "couverture": "IMG_2799.jpeg"},
   {"id": 123, "titre": "je cuisine asiatique", "langue": "Français", "editeur": "Pratico Pratiques", "nbRecettes": 50, "statut": "Indexé", "couverture": "IMG_2803.jpeg"},
   {"id": 124, "titre": "MENU - Plaisirs maraîchers (Été-Automne 2007, Vol. 4)", "langue": "Français", "editeur": "Association québécoise de la distribution de fruits et légumes", "nbRecettes": 19, "statut": "Indexé", "couverture": "IMG_2855.jpeg"},
-  {"id": 125, "titre": "Minçavi - Spécial Gourmet", "langue": "Français", "editeur": "Minçavi", "nbRecettes": 51, "statut": "À indexer", "couverture": "IMG_2877.jpeg"}
+  {"id": 125, "titre": "Minçavi - Spécial Gourmet", "langue": "Français", "editeur": "Minçavi", "nbRecettes": 51, "statut": "À indexer", "couverture": "IMG_2877.jpeg"},
+  {"id": 126, "titre": "Fondues et flambées de maman Lapointe", "langue": "Français", "editeur": "Les Éditions de l'Homme", "nbRecettes": 90, "statut": "À indexer", "couverture": "IMG_2880.jpeg"},
+
 
 
 
