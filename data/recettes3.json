@@ -1201,6 +1201,15 @@
 {"id": 15551, "livreId": 102, "titre": "Pizza garnie aux œufs et roquette", "page": 59, "categorie": "PointsPlus 12", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
 {"id": 15552, "livreId": 102, "titre": "Pointe de poitrine braisée aigre-douce", "page": 123, "categorie": "PointsPlus 12", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
 {"id": 15553, "livreId": 102, "titre": "Ragoût de fruits de mer avec pain grillé à l'ail et mayonnaise", "page": 185, "categorie": "PointsPlus 12", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+  {"id": 15554, "livreId": 102, "titre": "Farro avec haricots verts et ricotta salata", "page": 241, "categorie": "PointsPlus 5", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15555, "livreId": 102, "titre": "Flétan au cumin avec artichauts", "page": 183, "categorie": "PointsPlus 5", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15556, "livreId": 102, "titre": "Gâteau au gingembre fruité", "page": 272, "categorie": "PointsPlus 5", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15557, "livreId": 102, "titre": "Bifteck de flanc grillé avec salade de maïs", "page": 131, "categorie": "PointsPlus 6", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15558, "livreId": 102, "titre": "Brochettes de porc, oignon et clémentines glacées au rhum", "page": 139, "categorie": "PointsPlus 6", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15559, "livreId": 102, "titre": "Côtelettes de porc braisé avec chou aux baies de genévrier", "page": 144, "categorie": "PointsPlus 6", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15560, "livreId": 102, "titre": "Côtelettes de porc avec salade de courge et champignons", "page": 147, "categorie": "PointsPlus 6", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+{"id": 15561, "livreId": 102, "titre": "Croustade aux canneberges et poires", "page": 297, "categorie": "PointsPlus 6", "ingredientPrincipal": null, "image": null, "favori": false, "statut": "À indexer"},
+
 
 
 
