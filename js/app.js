@@ -354,6 +354,8 @@ btnFavoris.addEventListener("click", () => afficherRecettes(recettes.filter(r =>
 btnIngredients.addEventListener("click", afficherIngredients);
 btnEpicerie.addEventListener("click", afficherEpicerie);
 
+// ===== CATÉGORIES : mapping et nettoyage =====
+
 let categoriesChoisies = [];
 let ingredientsChoisis = [];
 let modeCategories = "ET";
@@ -361,18 +363,199 @@ let catsAjoutees = {};
 
 let catsRetirees = JSON.parse(localStorage.getItem("categoriesRetirees") || "{}");
 
-
 function chargerCatsAjoutees() {
   const data = localStorage.getItem("categoriesRecettes");
   catsAjoutees = data ? JSON.parse(data) : {};
 }
 chargerCatsAjoutees();
 
+// Livres 100% asiatiques -> tag "Asiatique" ajouté automatiquement
+const livresAsiatiques = new Set([2, 22, 23, 24]);
+
+// Table de correspondance ancienne catégorie -> catégorie atomique
+const mappingCategories = {
+  // Viandes et volailles
+  "Canard mulard": "Canard",
+  "Jambon et charcuteries": "Charcuterie",
+  "Volaille": "Poulet/Volaille",
+
+  // Poissons et fruits de mer
+  "Poissons": "Poisson",
+  "Fruits de mer": "Fruits de mer",
+
+  // Entrées, bouchées, soupes
+  "Entrées": "Entrée",
+  "Bouchées froides": "Entrée",
+  "Bouchées chaudes": "Entrée",
+  "Bouchées dessert": "Dessert",
+  "Soupes": "Soupe",
+  "Soupes et potages": "Soupe",
+  "Soupes réconfortantes": "Soupe",
+  "Entrées allégées": "Entrée",
+  "Trempettes et tartinade": "Trempette",
+  "Salsas et trempettes": "Trempette",
+
+  // Sucré
+  "Desserts": "Dessert",
+  "Petites douceurs": "Dessert",
+  "Jolies salades de fruits": "Dessert",
+  "Flambées - Fruits": "Dessert",
+  "Crêpes": "Crêpes",
+
+  // Sauces, marinades, vinaigrettes, condiments
+  "Sauces": "Sauce",
+  "Sauces à fondue": "Sauce",
+  "Sauces, beurres, moutardes et mayonnaises": "Sauce",
+  "Sauces et tartinades à sandwichs": "Sauce",
+  "Marinades": "Marinade",
+  "Marinades et glaçages salés": "Marinade",
+  "Vinaigrettes": "Vinaigrette",
+  "Condiments": "Conserve/Condiment",
+  "Conserves": "Conserve/Condiment",
+  "Conserves et provisions": "Conserve/Condiment",
+
+  // Salades, pâtes, riz, pains
+  "Salades": "Salade",
+  "Salades de pommes de terre": "Salade",
+  "Festin de salades": "Salade",
+  "Saines salades-repas": "Salade",
+  "Un légume toute une salade": "Salade",
+  "Voyages pour papilles": "Salade",
+  "Pâtes": "Pâtes",
+  "Pâtes à la viande": "Pâtes",
+  "Pâtes au poisson et fruits de mer": "Pâtes",
+  "Pâtes au poulet": "Pâtes",
+  "Pâtes sans viande": "Pâtes",
+  "Riz, pâtes et cie": "Pâtes",
+  "Riz": "Riz",
+  "Pains": "Pains",
+
+  // Légumes, accompagnements, boissons, fondues
+  "Légumes": "Légumes",
+  "Légumes et plats d'accompagnement": "Légumes",
+  "Légumes d'accompagnement": "Légumes",
+  "Légumes d'accompagnement et potages": "Légumes",
+  "Accompagnements": "Accompagnement",
+  "Boissons": "Boisson",
+  "Cocktails": "Boisson",
+  "Cocktails et boissons": "Boisson",
+  "Breuvages": "Boisson",
+  "Fondues": "Fondue",
+
+  // Sandwich/burger, méthodes de cuisson
+  "Sandwiches": "Sandwich/Burger",
+  "Sandwichs et burgers": "Sandwich/Burger",
+  "Sandwichs et pain": "Sandwich/Burger",
+  "Hamburgers et sandwichs": "Sandwich/Burger",
+  "Burgers et sandwichs": "Sandwich/Burger",
+  "Autocuiseur": "Autocuiseur",
+  "Mijoteuse": "Mijoteuse",
+  "Vive la mijoteuse!": "Mijoteuse",
+  "Plats tout-en-un": "Mijoteuse",
+  "Mijotés express": "Mijoteuse",
+  "Fumoir": "Fumoir",
+  "Sous-vide": "Sous-vide",
+
+  // Thématiques diverses
+  "Saveurs d'ailleurs": "Mijoteuse",
+  "Mets traditionnels": "Mijoteuse",
+  "Essentiels": "Sauce",
+  "Tapas, sangria et fiesta": "Entrée",
+  "Repas d'été": "Plat principal",
+  "Repas express": "Plat principal",
+  "Divers": "Plat principal",
+
+  // Plats principaux génériques
+  "Plat": "Plat principal",
+  "Plats principaux": "Plat principal",
+  "Plats principaux express": "Plat principal",
+};
+
+// Catégories "fourre-tout" à trier selon l'ingrédient principal
+const categoriesAMelanger = new Set([
+  "Viandes",
+  "Bœuf et porc",
+  "Flambées - Viandes",
+  "Poissons et fruits de mer",
+  "Flambées - Poissons et fruits de mer",
+  "Maraîcher",
+  "Grisantes grillades",
+  "Sur planche de cèdre",
+  "Épatantes papillotes",
+  "Mixed grill",
+  "Brochettes",
+]);
+
+const ingredientVersCategorieViande = {
+  "bœuf": "Bœuf", "boeuf": "Bœuf",
+  "porc": "Porc",
+  "agneau": "Agneau",
+  "veau": "Veau",
+  "poulet": "Poulet/Volaille",
+  "dindon": "Dindon", "dinde": "Dindon",
+  "canard": "Canard",
+  "jambon": "Charcuterie", "bacon": "Charcuterie",
+  "saucisse": "Charcuterie", "saucisses": "Charcuterie",
+  "smoked meat": "Charcuterie", "salami": "Charcuterie",
+};
+
+const ingredientVersCategoriePoisson = {
+  "saumon": "Poisson", "thon": "Poisson", "morue": "Poisson",
+  "truite": "Poisson", "tilapia": "Poisson", "doré": "Poisson",
+  "sole": "Poisson", "flétan": "Poisson", "aiglefin": "Poisson",
+  "cabillaud": "Poisson", "brochet": "Poisson", "mahi-mahi": "Poisson",
+  "achigan": "Poisson", "sardines": "Poisson", "anchois": "Poisson",
+  "lotte": "Poisson", "rouget": "Poisson", "omble": "Poisson",
+  "crevette": "Fruits de mer", "crevettes": "Fruits de mer",
+  "homard": "Fruits de mer", "crabe": "Fruits de mer",
+  "moules": "Fruits de mer", "pétoncle": "Fruits de mer",
+  "pétoncles": "Fruits de mer", "huîtres": "Fruits de mer",
+  "palourdes": "Fruits de mer", "calmar": "Fruits de mer",
+  "calmars": "Fruits de mer", "langoustines": "Fruits de mer",
+};
+
+// Catégories mixtes entrée/soupe -> triées selon le titre
+const categoriesMixtesEntreeSoupe = new Set([
+  "Soupes, entrées et accompagnements",
+  "Antipasti et soupes",
+]);
+const motsClesSoupe = ["soupe", "crème de", "potage", "velouté", "chaudrée", "consommé", "bisque"];
+
+function trierEntreeOuSoupe(titre) {
+  const t = (titre || "").toLowerCase();
+  return motsClesSoupe.some(mot => t.includes(mot)) ? "Soupe" : "Entrée";
+}
+
+function categorieFinale(categorieBrute, ingredientPrincipal, titre) {
+  if (!categorieBrute) return null;
+
+  if (categoriesMixtesEntreeSoupe.has(categorieBrute)) {
+    return trierEntreeOuSoupe(titre);
+  }
+
+  if (categoriesAMelanger.has(categorieBrute)) {
+    const ing = (ingredientPrincipal || "").toLowerCase();
+    for (const cle in ingredientVersCategorieViande) {
+      if (ing.includes(cle)) return ingredientVersCategorieViande[cle];
+    }
+    for (const cle in ingredientVersCategoriePoisson) {
+      if (ing.includes(cle)) return ingredientVersCategoriePoisson[cle];
+    }
+    return "Légumes"; // repli pour Maraîcher etc. si aucun match viande/poisson
+  }
+
+  return mappingCategories[categorieBrute] || categorieBrute;
+}
+
 function categoriesDeRecette(r) {
   const base = [];
   if (Array.isArray(r.categories)) base.push(...r.categories);
-  if (r.categorie) base.push(r.categorie);
-  if (r.ingredientPrincipal) base.push(r.ingredientPrincipal);
+
+  const catNettoyee = categorieFinale(r.categorie, r.ingredientPrincipal, r.titre);
+  if (catNettoyee) base.push(catNettoyee);
+
+  if (livresAsiatiques.has(r.livreId)) base.push("Asiatique");
+
   const ajout = catsAjoutees[r.id] || [];
   const retires = catsRetirees[r.id] || [];
   return [...new Set([...base, ...ajout])].filter(c => !retires.includes(c));
@@ -389,17 +572,21 @@ function retirerCategorie(recetteId, cat) {
   appliquerFiltres();
 }
 
-
-
 function toutesLesCategories() {
-  return ["Accompagnement","Agneau","Asiatique","Autocuiseur","Bœuf","Boisson","Bouillon","Canard",
-  "Charcuterie","Comment faire","Confiture", "Conserve","Crème glacée","Déjeuner","Dessert","Entrée",
-  "Fondue","Fromage maison","Fumoir","Indien","Jambon","Lapin","Légumes","Marinade",
-  "Mélange d'épices","Mexicain","Mijoteuse","Noël","Pain","Pâte","Pâté","Pizza","Poisson",
-  "Porc","Poulet","Quiche","Riz","Salade","Sandwich","Sauce","Soupe","Sous-vide","Trempette",
-  "Veau","Viande vieillie","Vinaigrette"];
+  return [
+    "Accompagnement","Agneau","Asiatique","Autocuiseur",
+    "Bœuf","Boisson","Bœuf",
+    "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes",
+    "Dessert","Dindon",
+    "Entrée","Fondue","Fromage maison","Fruits de mer","Fumoir",
+    "Indien","Légumes",
+    "Marinade","Mélange d'épices","Mexicain","Mijoteuse",
+    "Noël","Pains","Pâtes","Pizza","Plat principal","Poisson","Porc",
+    "Poulet/Volaille","Quiche","Riz",
+    "Salade","Sandwich/Burger","Sauce","Sous-vide","Soupe",
+    "Trempette","Veau","Vinaigrette","Viande vieillie",
+  ];
 }
-
 
 function ajouterCategorie(recetteId) {
   const c = prompt("Nouvelle catégorie pour cette recette :");
@@ -423,6 +610,15 @@ function basculerMode() {
   modeCategories = modeCategories === "ET" ? "OU" : "ET";
   appliquerFiltres();
 }
+
+
+
+
+
+
+
+
+
 
   function appliquerFiltres() {
   const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
