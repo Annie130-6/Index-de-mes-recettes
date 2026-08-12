@@ -19,12 +19,19 @@ async function chargerDonnees() {
 const rR = await fetch(`data/recettes.json?v=${version}`);
 const rR2 = await fetch(`data/recettes2.json?v=${version}`);
 const rR3 = await fetch(`data/recettes3.json?v=${version}`);
- const rR4 = await fetch(`data/recettes4.json?v=${version}`);
+const rR4 = await fetch(`data/recettes4.json?v=${version}`);
+const rR5 = await fetch(`data/recettes5.json?v=${version}`);
+const rR6 = await fetch(`data/recettes6.json?v=${version}`);
+const rR7 = await fetch(`data/recettes7.json?v=${version}`);
 const recettes1 = await rR.json();
 const recettes2 = await rR2.json();
 const recettes3 = await rR3.json();
 const recettes4 = await rR4.json();
-    recettes = recettes1.concat(recettes2).concat(recettes3).concat(recettes4);
+const recettes5 = await rR5.json();
+const recettes6 = await rR6.json();
+const recettes7 = await rR7.json();
+    recettes = recettes1.concat(recettes2).concat(recettes3).concat(recettes4).concat(recettes5).concat(recettes6).concat(recettes7);
+
 
     
   } catch (err) {
