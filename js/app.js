@@ -98,8 +98,12 @@ function carteRecetteHTML(recette) {
   const panier = estDansEpicerie(recette.id) ? "🛒" : "🧺";
 
   return `
-    <div class="carte-recette">
+
+<div class="carte-recette">
+      ${recette.image ? `<img src="images/app-complete/${recette.image}" alt="${recette.titre}" class="photo-recette">` : ""}
       <h3>${recette.titre}</h3>
+
+    
       <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
       <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span></div>
