@@ -88,6 +88,32 @@ function sauterDeCartes(nombre) {
 
 
 
+function carteRecetteHTML(recette) {
+  let etoiles = "";
+  for (let n = 1; n <= 3; n++) {
+    const pleine = noteDe(recette.id) >= n ? " etoile-pleine" : "";
+    etoiles += `<span class="etoile${pleine}" onclick="noter(${recette.id}, ${n})">★</span>`;
+  }
+  const coeur = estFavori(recette.id) ? "❤️" : "🤍";
+  const panier = estDansEpicerie(recette.id) ? "🛒" : "🧺";
+
+  return `
+    <div class="carte-recette">
+      <h3>${recette.titre}</h3>
+      <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""} · Page${recette.page} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
+      <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span></div>
+      <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
+      <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
+      <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
+      ${recette.source ? `<a href="${recette.source}" target="_blank" rel="noopener" class="btn-source">🔗 Voir la recette originale</a>` : ""}
+    </div>
+    <hr>
+  `;
+}
+
+
+
+
 
 
 function afficherRecettesDuLivre(livreId) {
@@ -113,42 +139,10 @@ function afficherRecettes(liste) {
   html += `<button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
 
 
-    liste.forEach(recette => {
-    let etoiles = "";
-    for (let n = 1; n <= 3; n++) {
-      const pleine = noteDe(recette.id) >= n ? " etoile-pleine" : "";
-      etoiles += `<span class="etoile${pleine}" onclick="noter(${recette.id}, ${n})">★</span>`;
-    }
-    const coeur = estFavori(recette.id) ? "❤️" : "🤍";
-
-      const panier = estDansEpicerie(recette.id) ? "🛒" : "🧺";
-
-
-    html += `
-      <div class="carte-recette">
-        <h3>${recette.titre}</h3>
-
-
-        <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""} · Page${recette.page} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
-
-                <!-- <p class="ing-liste">${ingredientsDeRecette(recette).join(" · ") || "<em>aucun ingrédient noté</em>"}</p> -->
-
-                
-        <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span>
-   </div>
-  
-          <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
-              <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
-        <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
-        ${recette.source ? `<a href="${recette.source}" target="_blank" rel="noopener" class="btn-source">🔗 Voir la recette originale</a>` : ""}
-      </div>
-      <hr>
-    `;
-
-  
-  
-  
+        liste.forEach(recette => {
+    html += carteRecetteHTML(recette);
   });
+
 
 
   results.innerHTML = html;
@@ -195,6 +189,25 @@ function afficherIngredients() {
     html += `<span class="chip ${ingredientsChoisis.includes(m) ? "chip-actif" : ""}" onclick="toggleIngredient('${m}')">${m} (${compte[m]})</span>`;
   });
   html += `</div>`;
+
+
+   if (rechercheIngredient.trim()) {
+    const motRecherche = sansAccents(rechercheIngredient);
+    const recettesMatch = recettes.filter(r =>
+      ingredientsDeRecette(r).some(i => sansAccents(i).includes(motRecherche))
+    );
+    html += `<h3>🍽️ Recettes (${recettesMatch.length})</h3>`;
+    recettesMatch.forEach(recette => {
+      html += carteRecetteHTML(recette);
+    });
+  }
+
+  pageIngredients.innerHTML = html;
+ 
+
+
+
+  
 
 
   pageIngredients.innerHTML = html;
