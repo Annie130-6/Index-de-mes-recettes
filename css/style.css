@@ -41,6 +41,18 @@ nav button {
   margin: 4px;
 }
 
+.photo-recette {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+
+
+
+
 .btn-scroll-jump {
   position: fixed;
   bottom: 90px;
