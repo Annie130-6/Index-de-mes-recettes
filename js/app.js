@@ -135,12 +135,18 @@ function afficherRecettes(liste) {
                 <p class="ing-liste">${ingredientsDeRecette(recette).join(" · ") || "<em>aucun ingrédient noté</em>"}</p>
         <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span>
    </div>
-        <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
+  
+          <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
               <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
         <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
+        ${recette.source ? `<a href="${recette.source}" target="_blank" rel="noopener" class="btn-source">🔗 Voir la recette originale</a>` : ""}
       </div>
       <hr>
     `;
+
+  
+  
+  
   });
 
 
