@@ -726,12 +726,19 @@ document.getElementById("modalEpicerieConfirmer").addEventListener("click", () =
   appliquerFiltres();
 });
 
-function noteDe(id) { return notes[id] || 0; }
+
+function noteDe(id) {
+  if (notes[id] !== undefined) return notes[id];
+  const r = recettes.find(r => r.id === id);
+  return (r && r.note) || 0;
+}
+function estFavori(id) {
+  if (favoris.includes(id)) return true;
+  const r = recettes.find(r => r.id === id);
+  return !!(r && r.favori);
+}
 
 
-
-function noteDe(id) { return notes[id] || 0; }
-function estFavori(id) { return favoris.includes(id); }
 
 function noter(id, n) {
   notes[id] = (notes[id] === n) ? 0 : n;
