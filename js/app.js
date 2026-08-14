@@ -111,8 +111,6 @@ function carteRecetteHTML(recette) {
 
       ${recette.ingredients && recette.ingredients.length ? `<p class="ing-liste">${recette.ingredients.join(", ")}</p>` : ""}
 
-      <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span>
-
 
            <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
 
