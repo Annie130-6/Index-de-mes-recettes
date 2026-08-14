@@ -100,7 +100,9 @@ function carteRecetteHTML(recette) {
   return `
 
 <div class="carte-recette">
-      ${recette.image ? `<img src="images/app-complete/${recette.image}" alt="${recette.titre}" class="photo-recette">` : ""}
+
+     ${recette.image ? `<img src="images/app-complete/${recette.image}" alt="${recette.titre}" class="photo-recette" onerror="this.style.display='none'">` : ""}
+ 
       <h3>${recette.titre}</h3>
 
     
