@@ -114,7 +114,8 @@ function carteRecetteHTML(recette) {
       <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span>
 
 
-      
+           <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
+
       <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
       <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
       ${recette.source ? `<a href="${recette.source}" target="_blank" rel="noopener" class="btn-source">🔗 Voir la recette originale</a>` : ""}
@@ -123,6 +124,8 @@ function carteRecetteHTML(recette) {
     <hr>
   `;
 }
+ 
+      
 
 
 
