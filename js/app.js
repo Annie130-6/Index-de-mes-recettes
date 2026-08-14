@@ -111,7 +111,8 @@ function carteRecetteHTML(recette) {
 
             ${recette.ingredients && recette.ingredients.length ? `<p class="ing-liste">${recette.ingredients.join(", ")}</p>` : ""}
 
-      <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
+      <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span><span class="panier" onclick="ouvrirModalEpicerie(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">${panier}</span></div>
+
 
 
       <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
