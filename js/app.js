@@ -108,7 +108,6 @@ function carteRecetteHTML(recette) {
     
       <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
-<p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
       ${recette.ingredients && recette.ingredients.length ? `<p class="ing-liste">${recette.ingredients.join(", ")}</p>` : ""}
 
