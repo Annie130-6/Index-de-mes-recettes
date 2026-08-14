@@ -109,9 +109,10 @@ function carteRecetteHTML(recette) {
       <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
 
 
-      ${recette.ingredients && recette.ingredients.length ? `<p class="ing-liste">${recette.ingredients.join(", ")}</
-      
-                  <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
+            ${recette.ingredients && recette.ingredients.length ? `<p class="ing-liste">${recette.ingredients.join(", ")}</p>` : ""}
+
+      <div>${etoiles}<span class="coeur" onclick="basculerFavori(${recette.id})">${coeur}</span></div>
+
 
       <button onclick="ouvrirModalAgenda(${recette.id}, '${recette.titre.replace(/'/g, "\\'")}')">📅 Ajouter à l'agenda</button>
       <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
