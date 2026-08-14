@@ -100,10 +100,10 @@ function carteRecetteHTML(recette) {
   return `
 
 <div class="carte-recette">
-
-     ${recette.image ? `<img src="images/app-complete/${recette.image}" alt="${recette.titre}" class="photo-recette" onerror="this.style.display='none'">` : ""}
- 
+      ${recette.image ? `<img src="images/app-complete/${recette.image}" alt="${recette.titre}" class="photo-recette" onerror="this.style.display='none'">` : ""}
+      <div class="contenu-recette">
       <h3>${recette.titre}</h3>
+
 
     
       <p>${(livres.find(l => l.id === recette.livreId) || {}).titre || ""}${recette.page ? ` · Page ${recette.page}` : ""} · ${categoriesDeRecette(recette).map(c => `<span class="cat-tag" onclick="retirerCategorie(${recette.id}, '${c.replace(/'/g,"\\'")}')">${c} ✕</span>`).join(" ")}</p>
@@ -113,6 +113,7 @@ function carteRecetteHTML(recette) {
       <button onclick="ajouterIngredients(${recette.id})">🥕 Ingrédients</button>
       <button onclick="ajouterCategorie(${recette.id})">🏷️ Ajouter une catégorie</button>
       ${recette.source ? `<a href="${recette.source}" target="_blank" rel="noopener" class="btn-source">🔗 Voir la recette originale</a>` : ""}
+      </div>
     </div>
     <hr>
   `;
