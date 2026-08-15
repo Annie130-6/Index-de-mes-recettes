@@ -621,7 +621,7 @@ function retirerCategorie(recetteId, cat) {
 
 function toutesLesCategories() {
   return [
-    "Accompagnement","Agneau","Asiatique","Autocuiseur",
+    "Accompagnement","Agneau","Apéro", "Asiatique","Autocuiseur",
     "Bœuf","Boisson",
     "Canard","Charcuterie","Comment faire","Conserve/Condiment","Crêpes",
     "Dessert","Dindon",
