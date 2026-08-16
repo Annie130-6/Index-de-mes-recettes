@@ -47,7 +47,7 @@ nav button {
 
 #btn-fin {
   position: fixed;
-  bottom: 20px;
+  bottom: 160px;
   right: 20px;
   z-index: 999;
   width: 48px;
