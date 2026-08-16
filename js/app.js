@@ -42,6 +42,13 @@ const recettes7 = await rR7.json();
 }
 
 
+function allerALaFin() {
+  window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });
+}
+
+
+
+
 function cacherPages() {
   pageLivres.style.display = "none";
   pageRecettes.style.display = "none";
