@@ -218,16 +218,20 @@ function afficherIngredients() {
   html += `</div>`;
 
 
-   if (rechercheIngredient.trim()) {
-    const motRecherche = sansAccents(rechercheIngredient);
-    const recettesMatch = recettes.filter(r =>
-      ingredientsDeRecette(r).some(i => sansAccents(i).includes(motRecherche))
+   if (ingredientsChoisis.length > 0) {
+  const recettesMatch = recettes.filter(r => {
+    const ingredientsRecette = ingredientsDeRecette(r).map(i => sansAccents(i));
+    return ingredientsChoisis.every(choisi =>
+      ingredientsRecette.some(i => i.includes(choisi))
     );
-    html += `<h3>🍽️ Recettes (${recettesMatch.length})</h3>`;
-    recettesMatch.forEach(recette => {
-      html += carteRecetteHTML(recette);
-    });
-  }
+  });
+  html += `<h3>🍽️ Recettes (${recettesMatch.length})</h3>`;
+  recettesMatch.forEach(recette => {
+    html += carteRecetteHTML(recette);
+  });
+}
+
+  
 
   pageIngredients.innerHTML = html;
  
@@ -255,7 +259,10 @@ function toggleIngredient(mot) {
   } else {
     ingredientsChoisis.push(m);
   }
-  appliquerFiltres();
+
+afficherIngredients();
+
+  
 }
 
 
