@@ -19401,8 +19401,21 @@
     "categorie": "Poissons",
     "ingredientPrincipal": "Coquilles Saint-Jacques",
     "image": null,
-    "favori": false,
-    "statut": "À indexer"
+    "favori": true,
+    "note":3,
+    "statut": "À indexer",
+    "ingredients";[
+    "500 ml vn blanc",
+      "5 ml sel",
+      "feuilles de celeri et persil",
+      "900 gr pétoncle",
+      "1 oignon",
+      "250 gr champignon",
+      "5 ml jus de citron",
+      "50 ml farine",
+      "2 jaune d'oeuf",
+      "50 ml creme",
+      "chapelure"]
   },
   {
     "id": 10544,
