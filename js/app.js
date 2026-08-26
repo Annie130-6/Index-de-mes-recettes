@@ -143,9 +143,19 @@ function afficherRecettesDuLivre(livreId) {
   afficherRecettes(recettesLivre);
 }
 
+let recettesActuelles = [];
+let nombreAffiche = 60;
+
 function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
+  recettesActuelles = liste;
+  nombreAffiche = 60;
+  rendreRecettes();
+}
+
+function rendreRecettes() {
+  const liste = recettesActuelles;
 
   let html = `<div class="filtres">
     <button class="btn-mode" onclick="basculerMode()">Mode : ${modeCategories}</button>
@@ -158,17 +168,27 @@ function afficherRecettes(liste) {
 
   html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
-  html += `<button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
-
-
-        liste.forEach(recette => {
+  liste.slice(0, nombreAffiche).forEach(recette => {
     html += carteRecetteHTML(recette);
   });
 
-
+  if (liste.length > nombreAffiche) {
+    html += `<button class="btn-scroll-jump" onclick="afficherPlusDeRecettes()">⏩ Afficher 60 de plus (${liste.length - nombreAffiche} restantes)</button>`;
+  }
 
   results.innerHTML = html;
 }
+
+function afficherPlusDeRecettes() {
+  nombreAffiche += 60;
+  rendreRecettes();
+}
+
+
+
+
+
+
 
 function afficherFavoris() {
   cacherPages();
