@@ -69,7 +69,8 @@ pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
 
 
   
-        <img src="images/${livre.couverture}" alt="${livre.titre}">
+        <img src="images/${livre.couverture}" alt="${livre.titre}" loading="lazy" decoding="async">
+
         <div>
           <h3>${livre.titre}</h3>
           <p>${[livre.langue, livre.nbRecettes ? livre.nbRecettes + " recettes" : null, livre.statut].filter(Boolean).join(" · ")}</p>
