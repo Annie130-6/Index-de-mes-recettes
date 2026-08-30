@@ -79,3 +79,11 @@ nav button {
   font-size: 14px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
+
+
+.modal-recette-overlay { position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.85); z-index:1000; overflow-y:auto; }
+.modal-recette-box { background:white; max-width:600px; width:100%; min-height:100%; margin:0 auto; padding:20px; box-sizing:border-box; }
+.modal-recette-box img { width:100%; border-radius:8px; }
+.modal-recette-box h2 { margin-top:10px; }
+.btn-fermer-recette { position:sticky; top:0; float:right; background:#ff6b6b; color:white; border:none; border-radius:50%; width:36px; height:36px; font-size:18px; cursor:pointer; z-index:1001; }
+
