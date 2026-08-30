@@ -80,7 +80,8 @@ pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
 
         <div>
 
-      <h3 onclick="ouvrirDetailRecette(${recette.id})" style="cursor:pointer">${recette.titre}</h3>
+      <h3>${livre.titre}</h3>
+
 
           
           <p>${[livre.langue, livre.nbRecettes ? livre.nbRecettes + " recettes" : null, livre.statut].filter(Boolean).join(" · ")}</p>
