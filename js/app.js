@@ -119,7 +119,9 @@ function carteRecetteHTML(recette) {
 
 
       <div class="contenu-recette">
-      <h3>${recette.titre}</h3>
+
+            <h3 onclick="ouvrirDetailRecette(${recette.id})" style="cursor:pointer">${recette.titre}</h3>
+
 
 
     
