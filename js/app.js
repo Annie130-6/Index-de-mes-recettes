@@ -13,7 +13,8 @@ const pageEpicerie = document.getElementById("pageEpicerie");
 async function chargerDonnees() {
   const version = Date.now();
   try {
-    const [rL, rR, rR2, rR3, rR4, rR5, rR6, rR7] = await Promise.all([
+
+        const [rL, rR, rR2, rR3, rR4, rR5, rR6, rR7, rR8, rR9, rR10] = await Promise.all([
       fetch(`data/livres.json?v=${version}`),
       fetch(`data/recettes.json?v=${version}`),
       fetch(`data/recettes2.json?v=${version}`),
@@ -21,13 +22,19 @@ async function chargerDonnees() {
       fetch(`data/recettes4.json?v=${version}`),
       fetch(`data/recettes5.json?v=${version}`),
       fetch(`data/recettes6.json?v=${version}`),
-      fetch(`data/recettes7.json?v=${version}`)
+      fetch(`data/recettes7.json?v=${version}`),
+      fetch(`data/recettes8.json?v=${version}`),
+      fetch(`data/recettes9.json?v=${version}`),
+      fetch(`data/recettes10.json?v=${version}`)
     ]);
     livres = await rL.json();
-    const [r1, r2, r3, r4, r5, r6, r7] = await Promise.all([
-      rR.json(), rR2.json(), rR3.json(), rR4.json(), rR5.json(), rR6.json(), rR7.json()
+    const [r1, r2, r3, r4, r5, r6, r7, r8, r9, r10] = await Promise.all([
+      rR.json(), rR2.json(), rR3.json(), rR4.json(), rR5.json(), rR6.json(), rR7.json(), rR8.json(), rR9.json(), rR10.json()
     ]);
-    recettes = r1.concat(r2, r3, r4, r5, r6, r7);
+    recettes = r1.concat(r2, r3, r4, r5, r6, r7, r8, r9, r10);
+
+
+    
   } catch (err) {
     document.body.insertAdjacentHTML('afterbegin', `<p style="background:red;color:white">ERREUR: ${err.message}<br>${err.stack}</p>`);
   }
