@@ -59,40 +59,47 @@ function cacherPages() {
   pageEpicerie.style.display = "none";
 }
 
-function afficherLivres() {
-  cacherPages();
-  pageLivres.style.display = "block";
-
-
-pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
-    <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
-
-
-  livres.forEach(livre => {
-       
-        pageLivres.innerHTML += `
+function carteLivreHTML(livre) {
+  return `
       <div class="livre carte-livre">
-      
-
-
-  
         <img src="images/${livre.couverture}" alt="${livre.titre}" loading="lazy" decoding="async">
-
         <div>
-
       <h3>${livre.titre}</h3>
-
-
-          
           <p>${[livre.langue, livre.nbRecettes ? livre.nbRecettes + " recettes" : null, livre.statut].filter(Boolean).join(" · ")}</p>
-
           <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
         </div>
       </div>
       <hr>
     `;
-     
+}
+
+let nombreAfficheLivres = 60;
+
+function afficherLivres() {
+  cacherPages();
+  pageLivres.style.display = "block";
+  nombreAfficheLivres = 60;
+  rendreLivres();
+}
+
+function rendreLivres() {
+  let html = `<h2>📚 Mes livres (${livres.length})</h2>
+    <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
+
+  livres.slice(0, nombreAfficheLivres).forEach(livre => {
+    html += carteLivreHTML(livre);
   });
+
+  if (livres.length > nombreAfficheLivres) {
+    html += `<button class="btn-scroll-jump" onclick="afficherPlusDeLivres()">⏩ Afficher 60 de plus (${livres.length - nombreAfficheLivres} restants)</button>`;
+  }
+
+  pageLivres.innerHTML = html;
+}
+
+function afficherPlusDeLivres() {
+  nombreAfficheLivres += 60;
+  rendreLivres();
 }
 
 function sauterDeCartes(nombre) {
