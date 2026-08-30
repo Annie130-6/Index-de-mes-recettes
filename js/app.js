@@ -79,7 +79,10 @@ pageLivres.innerHTML = `<h2>📚 Mes livres (${livres.length})</h2>
         <img src="images/${livre.couverture}" alt="${livre.titre}" loading="lazy" decoding="async">
 
         <div>
-          <h3>${livre.titre}</h3>
+
+      <h3 onclick="ouvrirDetailRecette(${recette.id})" style="cursor:pointer">${recette.titre}</h3>
+
+          
           <p>${[livre.langue, livre.nbRecettes ? livre.nbRecettes + " recettes" : null, livre.statut].filter(Boolean).join(" · ")}</p>
 
           <button onclick="afficherRecettesDuLivre(${livre.id})">Ouvrir le livre</button>
@@ -167,6 +170,32 @@ function afficherRecettes(liste) {
   nombreAffiche = 60;
   rendreRecettes();
 }
+
+function ouvrirDetailRecette(id) {
+  const recette = recettes.find(r => r.id === id);
+  if (!recette) return;
+  const livre = (livres.find(l => l.id === recette.livreId) || {}).titre || "";
+  document.body.insertAdjacentHTML('beforeend', `
+    <div class="modal-recette-overlay" id="modalRecetteOverlay" onclick="if(event.target===this) fermerDetailRecette()">
+      <div class="modal-recette-box">
+        <button class="btn-fermer-recette" onclick="fermerDetailRecette()">✕</button>
+        ${recette.image ? `<img src="images/${recette.image.includes('/') ? recette.image : 'app-complete/' + recette.image}" alt="${recette.titre}">` : ""}
+        <h2>${recette.titre}</h2>
+        <p>${livre}${recette.page ? ` · Page ${recette.page}` : ""}</p>
+        ${recette.ingredients && recette.ingredients.length ? `<h3>Ingrédients</h3><p>${recette.ingredients.join(", ")}</p>` : ""}
+        ${recette.preparation && recette.preparation.length ? `<h3>Préparation</h3><p>${recette.preparation.map((e,i)=>`${i+1}. ${e}`).join("<br>")}</p>` : ""}
+      </div>
+    </div>
+  `);
+}
+function fermerDetailRecette() {
+  const el = document.getElementById('modalRecetteOverlay');
+  if (el) el.remove();
+}
+
+
+
+
 
 function rendreRecettes() {
   const liste = recettesActuelles;
