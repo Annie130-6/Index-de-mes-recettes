@@ -16,6 +16,22 @@ window.onerror = function(msg, url, line) {
 </head>
 
 
+.galerie-recette {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 8px;
+}
+.galerie-recette img {
+  scroll-snap-align: start;
+  flex: 0 0 100%;
+  width: 100%;
+  border-radius: 8px;
+}
+
+
+
+  
 
 <div id="modalAgenda" class="modal-overlay" style="display:none">
   <div class="modal-box">
