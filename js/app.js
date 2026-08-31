@@ -189,7 +189,16 @@ function ouvrirDetailRecette(id) {
     <div class="modal-recette-overlay" id="modalRecetteOverlay" onclick="if(event.target===this) fermerDetailRecette()">
       <div class="modal-recette-box">
         <button class="btn-fermer-recette" onclick="fermerDetailRecette()">✕</button>
-        ${recette.image ? `<img src="images/${recette.image.includes('/') ? recette.image : 'app-complete/' + recette.image}" alt="${recette.titre}">` : ""}
+
+        ${(() => {
+          const imgs = (recette.images && recette.images.length ? recette.images : (recette.image ? [recette.image] : []));
+          if (!imgs.length) return "";
+          const tags = imgs.map(img => `<img src="images/${img.includes('/') ? img : 'app-complete/' + img}" alt="${recette.titre}">`).join("");
+          return imgs.length > 1 ? `<div class="galerie-recette">${tags}</div>` : tags;
+        })()}
+
+
+        
         <h2>${recette.titre}</h2>
         <p>${livre}${recette.page ? ` · Page ${recette.page}` : ""}</p>
         ${recette.ingredients && recette.ingredients.length ? `<h3>Ingrédients</h3><p>${recette.ingredients.join(", ")}</p>` : ""}
