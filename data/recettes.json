@@ -22207,10 +22207,16 @@
     "page": 55,
     "categorie": "Pain",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1879.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+
+"image": "app-complete-3/IMG_9334.jpeg", "favori": false, "note": 0, "statut": "Indexé", "ingredients": ["500 g de farine de blé T65", "325 g d'eau à 20°C", "100 g de levain liquide (ou 25 g de levain déshydraté)", "3 g de levure de boulanger fraîche", "10 g de sel"], "preparation": ["Pétrissage au robot : dans la cuve, verser la farine et l'eau. Mélanger 4 minutes à vitesse lente. Sortir la cuve du batteur et couvrir d'un linge légèrement humide. Laisser reposer 1 heure. Ajouter ensuite le levain liquide (ou déshydraté), la levure et le sel. Mélanger 4 minutes à vitesse lente, puis 7 minutes à vitesse rapide. (Pétrissage à la main : mettre la farine sur le plan de travail ou dans un saladier et faire un large puits. Verser les deux tiers de l'eau et mélanger jusqu'à ce que toute la farine soit absorbée. Laisser reposer 1 heure sous un linge légèrement humide. Incorporer alors le reste de l'eau, le levain, la levure émiettée et le sel. Pétrir jusqu'à ce que la pâte soit souple et lisse.)", "Former une boule. Laisser pousser pendant 1h30 sous un linge. En fin de pousse, la pâte aura pris du volume.", "Fariner le plan de travail. Diviser la pâte en 3 pâtons de poids égal (300 g environ). Les rouler sur eux-mêmes en les allongeant légèrement. Laisser reposer 30 minutes sous un linge.", "Aplatir délicatement les pâtons avec la paume de la main. Les prendre dans le sens de la longueur. Replier un pâton d'un tiers et presser avec les doigts. Tourner de 180°, replier d'un peu plus d'un tiers et presser de nouveau. Plier enfin le pâton en deux dans le sens de la longueur et souder les bords en appuyant avec la base de la main. Rouler sous les mains jusqu'à ce qu'il atteigne 55 cm de long, en affinant les extrémités en pointe. Façonner ainsi les autres pâtons.", "Placer les baguettes sur un linge fariné, soudure en dessous ; créer des plis pour séparer les pâtons. Couvrir d'un linge légèrement humide et laisser pousser pendant 1h40. En fin de pousse, les baguettes auront pris du volume.", "Préchauffer le four à 230°C (therm. 7-8) après avoir placé une plaque en position basse.", "Placer délicatement les baguettes, soudure en dessous, sur une autre plaque recouverte de papier sulfurisé. Fariner-les et donner 4 coups de lame légèrement obliques en reprenant chacun à la hauteur du tiers du précédent. Juste avant d'enfourner, verser 5 cl d'eau sur la plaque chaude. Faire cuire 20 minutes.", "À la sortie du four, laisser les baguettes refroidir sur une grille."]
+
+
+    
   },
+
+  
+  
+  
   {
     "id": 2017,
     "livreId": 11,
