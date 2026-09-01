@@ -809,8 +809,11 @@ function basculerMode() {
 
 
 
-  afficherRecettes(filtres);
-}
+      recettesActuelles = filtres;
+    nombreAffiche = 60;
+    rendreRecettes();
+  }
+
 
 
 
