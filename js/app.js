@@ -786,7 +786,9 @@ function basculerMode() {
   const mots = sansAccents(search.value).split(/\s+/).filter(m => m);
   const choisies = categoriesChoisies.map(sansAccents);
 
-  const filtres = recettes.filter(r => {
+      const base = livreActuelId ? recettesLivreBase : recettes;
+    const filtres = base.filter(r => {
+
 
         const cats = categoriesDeRecette(r).map(sansAccents);
     const ingr = ingredientsDeRecette(r).map(sansAccents);
