@@ -174,16 +174,6 @@ let recettesLivreBase = [];
     livreActuelId = livreId;
   }
 
-
-function rechercherDansLivre(valeur) {
-  const terme = sansAccents(valeur.toLowerCase());
-  const filtree = recettesLivreBase.filter(r => sansAccents(r.titre.toLowerCase()).includes(terme));
-  recettesActuelles = filtree;
-  nombreAffiche = 60;
-  rendreRecettes();
-}
-
-
 let recettesActuelles = [];
 let nombreAffiche = 60;
 
@@ -245,9 +235,7 @@ function rendreRecettes() {
   html += `</div></div>`;
 
       html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
-    if (livreActuelId) {
-      html += `<input type="text" id="searchLivre" placeholder="Rechercher dans ce livre..." oninput="rechercherDansLivre(this.value)" style="width:100%;max-width:500px;padding:10px;margin:10px 0;border:1px solid #ccc;border-radius:8px;box-sizing:border-box;">`;
-    }
+ 
 
 
   liste.slice(0, nombreAffiche).forEach(recette => {
