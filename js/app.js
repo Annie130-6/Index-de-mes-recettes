@@ -168,11 +168,12 @@ function carteRecetteHTML(recette) {
 let livreActuelId = null;
 let recettesLivreBase = [];
 
-function afficherRecettesDuLivre(livreId) {
-  livreActuelId = livreId;
-  recettesLivreBase = recettes.filter(r => r.livreId === livreId);
-  afficherRecettes(recettesLivreBase);
-}
+  function afficherRecettesDuLivre(livreId) {
+    recettesLivreBase = recettes.filter(r => r.livreId === livreId);
+    afficherRecettes(recettesLivreBase);
+    livreActuelId = livreId;
+  }
+
 
 function rechercherDansLivre(valeur) {
   const terme = sansAccents(valeur.toLowerCase());
