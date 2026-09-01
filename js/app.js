@@ -165,10 +165,23 @@ function carteRecetteHTML(recette) {
 
 
 
+let livreActuelId = null;
+let recettesLivreBase = [];
+
 function afficherRecettesDuLivre(livreId) {
-  const recettesLivre = recettes.filter(r => r.livreId === livreId);
-  afficherRecettes(recettesLivre);
+  livreActuelId = livreId;
+  recettesLivreBase = recettes.filter(r => r.livreId === livreId);
+  afficherRecettes(recettesLivreBase);
 }
+
+function rechercherDansLivre(valeur) {
+  const terme = sansAccents(valeur.toLowerCase());
+  const filtree = recettesLivreBase.filter(r => sansAccents(r.titre.toLowerCase()).includes(terme));
+  recettesActuelles = filtree;
+  nombreAffiche = 60;
+  rendreRecettes();
+}
+
 
 let recettesActuelles = [];
 let nombreAffiche = 60;
