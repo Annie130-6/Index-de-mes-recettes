@@ -189,10 +189,12 @@ let nombreAffiche = 60;
 function afficherRecettes(liste) {
   cacherPages();
   pageRecettes.style.display = "block";
+  livreActuelId = null;
   recettesActuelles = liste;
   nombreAffiche = 60;
   rendreRecettes();
 }
+
 
 function ouvrirDetailRecette(id) {
   const recette = recettes.find(r => r.id === id);
@@ -241,7 +243,11 @@ function rendreRecettes() {
   });
   html += `</div></div>`;
 
-  html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
+      html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
+    if (livreActuelId) {
+      html += `<input type="text" id="searchLivre" placeholder="Rechercher dans ce livre..." oninput="rechercherDansLivre(this.value)" style="width:100%;max-width:500px;padding:10px;margin:10px 0;border:1px solid #ccc;border-radius:8px;box-sizing:border-box;">`;
+    }
+
 
   liste.slice(0, nombreAffiche).forEach(recette => {
     html += carteRecetteHTML(recette);
