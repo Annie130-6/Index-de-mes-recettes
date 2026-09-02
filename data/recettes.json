@@ -63352,9 +63352,33 @@
     "titre": "Nouilles asiatiques à l'ail",
     "page": 28,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9365.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "sauce - 2 c. à soupe de sauce aux huîtres",
+        "sauce - 2 c. à soupe de sauce soya claire",
+        "sauce - 1 c. à soupe de cassonade dorée",
+        "sauce - 1 c. à thé de sauce soya foncée",
+        "sauce - 1 c. à thé d'huile de sésame",
+        "1 lb (454 g) de nouilles fraîches pour chow mein (ou 350 g de spaghettinis secs)",
+        "1/4 tasse (60 g) de beurre demi-sel",
+        "10 gousses d'ail, hachées",
+        "3 oignons verts (45 g), en rondelles (et un peu plus pour la garniture)",
+        "1/2 tasse (18 g) de fromage parmesan râpé (et un peu plus pour la garniture)"
+      ],
+      "preparation": [
+        "Chauffer une grande casserole d'eau en prévision de cuire les nouilles.",
+        "Pendant que l'eau chauffe, mettre tous les ingrédients de la sauce dans un petit bol et mélanger jusqu'à ce que la cassonade soit dissoute. Réserver.",
+        "Une fois que l'eau arrive à ébullition, cuire les nouilles selon les indications sur l'emballage, ou jusqu'à obtention d'une texture « al dente ». Il ne faut pas trop les cuire, car elles seront molles et cassantes. Lorsqu'elles sont prêtes, les égoutter et les garder de côté. Vous n'avez pas besoin de les rincer sous l'eau froide.",
+        "Chauffer un wok électrique (ou une grande poêle) à feu moyen (225 °F/120 °C), puis mettre le beurre et l'ail. Cuire jusqu'à ce que l'ail commence à dorer (environ 1 à 2 minutes).",
+        "Ajouter la sauce et remuer pour 15 à 20 secondes.",
+        "Incorporer les oignons verts et faire revenir encore 15 secondes.",
+        "Ajouter les nouilles et le parmesan râpé, puis bien mélanger. Les nouilles pourraient être un peu compactes et difficiles à mélanger au début, mais plus elles se mélangeront à la sauce, mieux ce sera. Vous pouvez toujours ajouter un tout petit peu d'eau pour aider à les séparer (5 à 15 ml). Remuer jusqu'à ce que la couleur soit uniforme, puis éteindre le feu.",
+        "Servir et garnir avec un peu plus de parmesan râpé et d'oignons verts en rondelles."
+      ]
+
   },
   {
     "id": 6123,
