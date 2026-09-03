@@ -63357,12 +63357,12 @@
       "note": 0,
       "statut": "Indexé",
       "ingredients": [
-        "sauce - 2 c. à soupe de sauce aux huîtres",
-        "sauce - 2 c. à soupe de sauce soya claire",
-        "sauce - 1 c. à soupe de cassonade dorée",
-        "sauce - 1 c. à thé de sauce soya foncée",
-        "sauce - 1 c. à thé d'huile de sésame",
-        "1 lb (454 g) de nouilles fraîches pour chow mein (ou 350 g de spaghettinis secs)",
+        "SAUCE - 2 c. à soupe de sauce aux huîtres",
+        "2 c. à soupe de sauce soya claire",
+        " 1 c. à soupe de cassonade dorée",
+        "- 1 c. à thé de sauce soya foncée",
+        "- 1 c. à thé d'huile de sésame",
+        "AUTRES INGREDIENTS -1 lb (454 g) de nouilles fraîches pour chow mein (ou 350 g de spaghettinis secs)",
         "1/4 tasse (60 g) de beurre demi-sel",
         "10 gousses d'ail, hachées",
         "3 oignons verts (45 g), en rondelles (et un peu plus pour la garniture)",
@@ -63431,8 +63431,7 @@
       "note": 0,
       "statut": "Indexé",
       "ingredients": [
-        "SAUCE:                 ",
-        "2 gousses d'ail, hachées finement",
+        "SAUCE:-2 gousses d'ail, hachées finement",
         "2 c. à thé de gingembre, haché finement",
         "1/4 tasse (65 g) de beurre d'arachides crémeux",
         "2 c. à soupe de sauce soya sucrée",
@@ -63443,10 +63442,10 @@
         "1/2 c. à thé d'huile de sésame",
         "2 c. à soupe d'eau chaude",
         "0,45 lb (200 g) de nouilles de riz larges (10 mm)",
-        "AUTRE INGREDIENTS.                ",
-        "oignons verts en rondelles, au goût",
-        "garniture - coriandre, au goût",
-        "garniture - arachides grillées non salées légèrement concassées, au goût"
+        "GARNITURE: ",
+        "-oignons verts en rondelles, au goût",
+        "- coriandre, au goût",
+        "- arachides grillées non salées légèrement concassées, au goût"
       ],
       "preparation": [
         "Dans un grand bol, mettre tous les ingrédients, sauf les nouilles de riz et les garnitures. Bien mélanger et garder de côté.",
