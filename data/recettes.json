@@ -63426,9 +63426,31 @@
     "titre": "Nouilles udon au poulet et sauce aux arachides",
     "page": 48,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9368.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "2 gousses d'ail, hachées finement",
+        "2 c. à thé de gingembre, haché finement",
+        "1/4 tasse (65 g) de beurre d'arachides crémeux",
+        "2 c. à soupe de sauce soya sucrée",
+        "1 1/2 c. à soupe de jus de lime frais",
+        "1 c. à soupe de sauce soya claire",
+        "1 c. à soupe de sauce sriracha",
+        "2 c. à thé de sauce de poisson (la marque Squid)",
+        "1/2 c. à thé d'huile de sésame",
+        "2 c. à soupe d'eau chaude",
+        "0,45 lb (200 g) de nouilles de riz larges (10 mm)",
+        "garniture - oignons verts en rondelles, au goût",
+        "garniture - coriandre, au goût",
+        "garniture - arachides grillées non salées légèrement concassées, au goût"
+      ],
+      "preparation": [
+        "Dans un grand bol, mettre tous les ingrédients, sauf les nouilles de riz et les garnitures. Bien mélanger et garder de côté.",
+        "Porter une casserole d'eau à ébullition et cuire les nouilles de riz. Lorsqu'elles ont atteint une consistance al dente, les égoutter et les transférer dans le grand bol de sauce. Bien remuer jusqu'à ce que la sauce soit uniformément répartie.",
+        "Servir et garnir avec les oignons verts, la coriandre et les arachides."
+      ]
   },
   {
     "id": 6128,
