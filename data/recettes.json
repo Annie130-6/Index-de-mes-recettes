@@ -63252,9 +63252,26 @@
     "titre": "Crêpes coréennes au kimchi",
     "page": 32,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9371.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "1 tasse (230 g) de kimchi, haché",
+        "1 œuf large",
+        "1/2 tasse (70 g) de farine tout usage",
+        "1/4 d'oignon jaune (40 g), tranché finement",
+        "2 oignons verts (30 g), en rondelles",
+        "1 1/2 c. à thé de sucre",
+        "1/4 c. à thé de sel",
+        "3 à 4 c. à soupe d'eau",
+        "huile de canola, pour la cuisson des crêpes"
+      ],
+      "preparation": [
+        "Dans un grand bol, mélanger tous les ingrédients (sauf l'huile de canola). La quantité d'eau à mettre peut varier un peu selon la quantité de jus présent dans le kimchi.",
+        "Chauffer une poêle antiadhésive à feu moyen et y ajouter un peu d'huile de canola. Verser environ la moitié du mélange pour former 2 crêpes. Les cuire pour 3 à 4 minutes, puis les retourner. Continuer la cuisson pour 3 à 4 minutes, ou jusqu'à ce que ce soit légèrement croustillant à l'extérieur. Répéter pour le mélange restant. À noter qu'il est aussi possible de cuire tout le mélange en faisant qu'une seule grosse crêpe.",
+        "Couper les crêpes en pointes et manger telles quelles."
+      ]
   },
   {
     "id": 6113,
@@ -63357,12 +63374,12 @@
       "note": 0,
       "statut": "Indexé",
       "ingredients": [
-        "SAUCE - 2 c. à soupe de sauce aux huîtres",
+        "SAUCE:  2 c. à soupe de sauce aux huîtres",
         "2 c. à soupe de sauce soya claire",
         " 1 c. à soupe de cassonade dorée",
         "- 1 c. à thé de sauce soya foncée",
         "- 1 c. à thé d'huile de sésame",
-        "AUTRES INGREDIENTS -1 lb (454 g) de nouilles fraîches pour chow mein (ou 350 g de spaghettinis secs)",
+        "AUTRES INGREDIENTS:  1 lb (454 g) de nouilles fraîches pour chow mein (ou 350 g de spaghettinis secs)",
         "1/4 tasse (60 g) de beurre demi-sel",
         "10 gousses d'ail, hachées",
         "3 oignons verts (45 g), en rondelles (et un peu plus pour la garniture)",
@@ -63431,7 +63448,7 @@
       "note": 0,
       "statut": "Indexé",
       "ingredients": [
-        "SAUCE:-2 gousses d'ail, hachées finement",
+        "SAUCE: 2 gousses d'ail, hachées finement",
         "2 c. à thé de gingembre, haché finement",
         "1/4 tasse (65 g) de beurre d'arachides crémeux",
         "2 c. à soupe de sauce soya sucrée",
@@ -63442,7 +63459,7 @@
         "1/2 c. à thé d'huile de sésame",
         "2 c. à soupe d'eau chaude",
         "0,45 lb (200 g) de nouilles de riz larges (10 mm)",
-        "GARNITURE: ",
+        "GARNITURE: "
         "-oignons verts en rondelles, au goût",
         "- coriandre, au goût",
         "- arachides grillées non salées légèrement concassées, au goût"
@@ -63669,9 +63686,30 @@
     "titre": "Ramen à l'huile de chili croquante",
     "page": 34,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9374.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "6 gousses d'ail, hachées",
+        "1 c. à soupe d'huile de canola",
+        "2 c. à soupe d'huile de chili croquante",
+        "2 c. à soupe de sauce soya claire",
+        "1 c. à soupe de vinaigre noir",
+        "2 c. à thé d'huile de sésame",
+        "2 c. à thé de sucre",
+        "3 paquets de ramen instantanés de 85 g chacun (style Mr. Noodles)",
+        "garniture - 1-2 oignons verts (20 g), en rondelles",
+        "garniture - graines de sésame"
+      ],
+      "preparation": [
+        "Mettre l'ail et l'huile de canola dans une petite poêle et chauffer à feu moyen-élevé. Frire l'ail jusqu'à ce qu'il ait une teinte dorée (3 à 5 minutes de cuisson), puis transférer le tout dans un bol résistant à la chaleur.",
+        "Dans le même bol que l'ail, ajouter l'huile de chili croquante, la sauce soya claire, le vinaigre noir, l'huile de sésame et le sucre. Remuer et réserver.",
+        "Retirer le sachet de poudre des paquets de ramen (on ne les utilise pas pour la recette). Mettre les nouilles instantanées dans un grand bol vide, puis verser de l'eau bouillante dessus. Laisser tremper pour 3 à 5 minutes, tout dépendant des instructions sur l'emballage.",
+        "Lorsque les nouilles sont prêtes, les égoutter et les remettre dans le grand bol. Verser la sauce sur les nouilles et bien remuer pour 1 à 2 minutes.",
+        "Une fois que les nouilles auront absorbé toute la sauce, servir puis garnir d'oignons verts et de graines de sésame."
+      ]
+
   },
   {
     "id": 6150,
@@ -63709,9 +63747,29 @@
     "titre": "Riz frit au gingembre",
     "page": 36,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9377.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "6 tasses de riz jasmin cuit la veille (1 1/2 tasse/300 g de riz jasmin + 450 ml d'eau)",
+        "1 œuf",
+        "2 c. à soupe de vin de cuisson Shaoxing",
+        "2 c. à thé de poudre de bouillon de poulet",
+        "1 c. à thé de sucre",
+        "1/2 c. à thé de sel",
+        "1/3 tasse (60 g) de gingembre, haché",
+        "2 oignons verts (30 g), hachés",
+        "huile de canola"
+      ],
+      "preparation": [
+        "Mélanger le riz froid et l'œuf dans un bol jusqu'à ce que ce soit uniforme et réserver.",
+        "Dans un petit bol, mélanger le vin de cuisson Shaoxing, la poudre de bouillon de poulet, le sucre et le sel.",
+        "Chauffer le wok à feu moyen (250 °F/120 °C) et mettre de l'huile de canola (1 à 2 c. à soupe). Ajouter le gingembre et l'oignon vert et faire revenir pour environ 2 minutes ou jusqu'à ce que le gingembre commence très légèrement à griller.",
+        "Ajouter l'assaisonnement et remuer pour 30 à 45 secondes.",
+        "Incorporer le riz et monter à feu fort (350 °F/175 °C). Bien mélanger le tout pendant environ 3 minutes ou jusqu'à ce que le riz soit bien réchauffé. Éteindre ensuite le feu, c'est prêt!"
+      ]
+
   },
   {
     "id": 6154,
