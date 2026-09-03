@@ -63232,9 +63232,27 @@
     "titre": "Carottes crémeuses au miso",
     "page": 40,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+        "image": "app-complete-3/IMG_9383.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "1,5 lb (680 g) de rondelles de carottes (environ 8 à 10 carottes)",
+        "1/2 tasse (125 ml) de lait",
+        "1/4 tasse (65 g) à 1/3 tasse (90 g) de miso blanc",
+        "2 c. à soupe (30 g) de beurre",
+        "2 c. à soupe de mirin",
+        "1 1/2 c. à soupe de sucre",
+        "sel au goût",
+        "1 c. à soupe de graines de sésame blanches et noires"
+      ],
+      "preparation": [
+        "Porter une grande casserole d'eau à ébullition. Cuire les carottes jusqu'à ce qu'elles se piquent avec une fourchette (environ 8 à 10 minutes). Les égoutter ensuite, puis réserver.",
+        "Remettre la casserole (maintenant vide) sur la cuisinière et y ajouter le lait, le miso, le beurre, le mirin et le sucre. Chauffer à feu fort en remuant au fouet ou avec une spatule de silicone pour bien mélanger les ingrédients.",
+        "Lorsque ça commence à bouillir, remettre les carottes dans la marmite et remuer le tout. Continuer la cuisson quelques minutes pour réduire la sauce légèrement. Vous pouvez la laisser plus liquide ou la réduire pour qu'elle colle un peu plus sur les carottes. Si elle devient trop épaisse, vous pouvez toujours ajouter plus de lait.",
+        "Éteindre le feu, ajouter les graines de sésame, mélanger et c'est prêt!"
+      ]
+
   },
   {
     "id": 6111,
@@ -63413,9 +63431,37 @@
     "titre": "Nouilles de longévité",
     "page": 38,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9380.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "INGREDIENTS:1/2 lb (227 g) de nouilles E-Fu",
+        "4 gousses d'ail, hachées",
+        "1 carotte (125 g), en julienne",
+        "4 champignons shiitakés frais, coupés en tranches minces",
+        "12 tiges (85 g) de ciboulette à l'ail, en morceaux de 4-5 cm",
+        "1 c. à thé d'huile de sésame",
+        "huile de canola, pour la cuisson des aliments",
+        "SAUCE:   1/2 tasse (125 ml) de bouillon de poulet",
+        "1 c. à soupe de sauce soya claire",
+        " 1 c. à soupe de sauce soya foncée",
+        " 2 c. à thé de sauce aux huîtres",
+        " 1 c. à thé de sucre",
+        " 1/2 c. à thé d'huile de sésame",
+        " 1/8 c. à thé de poivre blanc moulu"
+      ],
+      "preparation": [
+        "Dans un bol (ou une tasse à mesurer), mélanger tous les ingrédients de la sauce et réserver.",
+        "Remplir le wok avec de l'eau (environ au 3/4 de la capacité). Chauffer à feu fort pour amener à ébullition. Une fois que ça bout, y plonger les nouilles. Elles flotteront à la surface, il faudra peser dessus avec des pinces ou des baguettes pour les submerger. Cuire pour 1 à 2 minutes, ou en suivant les instructions sur l'emballage. Les égoutter ensuite et les rincer sous l'eau froide pour arrêter la cuisson. Garder de côté.",
+        "Chauffer le wok (maintenant vide) à feu moyen-élevé (250 °F/120 °C) et mettre un peu d'huile de canola. Ajouter l'ail et le cuire pour 20 à 30 secondes.",
+        "Ajouter les carottes et les champignons, puis faire revenir pour 3 minutes.",
+        "Verser la sauce dans le wok, amener à ébullition tout en remuant, puis cuire pour 1 minute.",
+        "Incorporer les nouilles et cuire en mélangeant jusqu'à ce qu'il n'y ait presque plus de liquide au fond. Mettre un peu plus d'huile de canola au besoin, ça donnera un résultat plus reluisant à la fin.",
+        "Ajouter la ciboulette à l'ail et mélanger 1 minute, puis éteindre le feu.",
+        "Ajouter 1 c. à thé d'huile de sésame, remuer et servir!"
+      ]
+
   },
   {
     "id": 6125,
@@ -63496,9 +63542,33 @@
     "titre": "Oyakodon",
     "page": 50,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9393.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE:  1 lb (454 g) de hauts de cuisses de poulet désossés",
+        " 1 c. à soupe de sauce soya japonaise",
+        " 1 c. à soupe de saké",
+        "AUTRES INGREDIENTS: 1 tasse (250 ml) d'eau",
+        "1/4 tasse (65 ml) de sauce soya japonaise (la marque Kikkoman)",
+        "3 c. à soupe de mirin",
+        "1 1/2 c. à thé de poudre de bouillon dashi",
+        "1 1/2 c. à thé de sucre",
+        "1 oignon jaune (150 g), en julienne",
+        "6 œufs larges",
+        "4 portions de riz calrose (accompagnement)",
+        "garniture - oignons verts en rondelles"
+      ],
+      "preparation": [
+        "Couper le poulet en morceaux de grosseur d'une bouchée et mettre dans un bol. Ajouter la sauce soya et le saké, mélanger et laisser mariner pour 10 minutes.",
+        "Casser les 6 œufs dans un bol et les battre. Réserver.",
+        "Dans une poêle de 25 cm (10 po) de diamètre, mettre l'eau, la sauce soya japonaise, le mirin, la poudre de bouillon dashi et le sucre. Remuer un peu, puis ajouter l'oignon jaune. Chauffer à feu moyen-élevé pour amener à ébullition.",
+        "Lorsque le liquide commence à frémir, ajouter tout le poulet (ainsi que la marinade s'il y en a au fond du bol). Remuer de temps en temps et cuire à découvert jusqu'à ce que le poulet soit cuit jusqu'au centre (environ 6 à 8 minutes).",
+        "Réduire à feu moyen et verser les œufs doucement sur toute la surface. Il ne faut pas mélanger les œufs, on doit les laisser cuire sans y toucher. Pour aider à la cuisson, mettre un couvercle sur la poêle durant cette étape. Attention, le feu ne doit pas être trop fort, car ça fera des œufs « soufflés ». En cas de doute, vaut mieux baisser un peu le feu et prolonger la cuisson légèrement. Les œufs devraient être prêts au bout d'environ 5 minutes.",
+        "Éteindre le feu. Servir une portion de riz dans un bol et y mettre une portion d'oyakodon avec un peu du bouillon dans le fond de la poêle. Garnir avec des oignons verts et c'est prêt!"
+      ]
+
   },
   {
     "id": 6131,
@@ -63626,9 +63696,35 @@
     "titre": "Poulet caramel vietnamien",
     "page": 52,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9396.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE DU POULET:  2 lbs (908 g) de hauts de cuisses de poulet désossés",
+        "2 ou 3 échalotes françaises (70 g), hachées",
+        " 5 gousses d'ail, hachées",
+        " 1 c. à soupe de poudre de bouillon de poulet",
+        " 2 c. à thé de sauce de poisson (la marque des 3 crabes)",
+        " 2 c. à thé de sauce soya foncée",
+        " 1/4 c. à thé de poivre blanc moulu",
+        "AUTRES INGREDIENTS:  3 c. à soupe d'huile de canola",
+        "1/2 tasse (110 g) de sucre",
+        "1 tasse (250 ml) d'eau de coco",
+        "4 c. à thé de sauce de poisson (la marque des 3 crabes)",
+        "1 c. à thé de sauce soya foncée",
+        "ACCOMPAGNEMENTS ET GARNITURES:  Riz au jasmin",
+        " poivre noir moulu"
+      ],
+      "preparation": [
+        "Couper le poulet en morceaux de grosseur d'une bouchée et les mélanger à tous les ingrédients de la marinade. Mariner au réfrigérateur pour 30 minutes.",
+        "Une fois que le poulet est mariné, chauffer une grande casserole à feu moyen. Ajouter l'huile de canola et le sucre et remuer légèrement. Chauffer jusqu'à l'obtention d'un caramel foncé (attention à ne pas le brûler!). Note : lorsque le caramel commence à prendre un peu de couleur, il est suggéré de baisser un peu la température pour éviter qu'il devienne foncé trop rapidement.",
+        "Quand le caramel atteint la couleur désirée, ajouter tout le poulet dans la casserole et monter à feu moyen-élevé. Remuer pendant environ 1 minute.",
+        "Verser l'eau de coco, la sauce de poisson et la sauce soya foncée. Remuer et amener à ébullition. Laisser bouillir à découvert pour 13 à 15 minutes.",
+        "Vers la fin de la cuisson, la sauce devrait s'être épaissie légèrement, mais devrait tout de même être un peu liquide. Ajuster le temps de cuisson au besoin pour obtenir la concentration de sauce désirée.",
+        "Servir sur du riz jasmin et garnir de poivre noir moulu."
+      ]
+
   },
   {
     "id": 6144,
@@ -63636,9 +63732,44 @@
     "titre": "Poulet coco lime",
     "page": 56,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9402.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE DU POULET:   1 lb (454 g) de hauts de cuisses de poulet désossés",
+        " 1 c. à thé de fécule de maïs",
+        "  1 c. à thé de poudre de bouillon de poulet",
+        " 1/2 c. à thé de sucre",
+        " 1/2 c. à thé de sel",
+        " 1/2 c. à thé de poivre noir moulu",
+        "AUTRES INGREDIENTS:  4 gousses d'ail, hachées",
+        "2 oignons verts (30 g), hachés",
+        "1 boîte (400 ml) de lait de coco",
+        "1 tasse (250 ml) de bouillon de poulet (de type Knorr)",
+        "6 feuilles de lime kaffir, hachées très finement",
+        "le zeste de 1 lime",
+        "2 c. à soupe de miel",
+        "1 c. à soupe de sambal oelek",
+        "2 c. à thé de sucre",
+        "1/4 c. à thé de sel",
+        "1/4 tasse (65 ml) de jus de lime frais (à ajouter à la fin)",
+        "huile de canola",
+        "ÉPAISISSANT:  4 c. à thé de fécule de maïs",
+        " 4 c. à thé d'eau",
+        "GARNITURES ET ACCOMPAGNEMENTS:  riz jasmin",
+        " coriandre"
+      ],
+      "preparation": [
+        "Couper le poulet en morceaux de grosseur d'une bouchée et le mettre dans un bol avec tous les ingrédients de la marinade. Bien mélanger et laisser mariner le temps de préparer les autres ingrédients (ou minimum 5 minutes).",
+        "Chauffer le wok à feu moyen-élevé (300 °F/150 °C) et y mettre un peu d'huile de canola (environ 1 à 2 c. à soupe). Ajouter l'ail et les oignons verts, puis faire revenir pour 30 secondes.",
+        "Ajouter le poulet et bien le remuer avec l'ail et les oignons. Étendre le poulet sur toute la surface du wok et le saisir jusqu'à ce qu'il ait une belle couleur (environ 1 à 2 minutes). Remuer le poulet un peu pour le retourner, et laisser griller l'autre côté pour environ 45-60 secondes.",
+        "Ajouter le lait de coco, le bouillon de poulet, les feuilles de lime kaffir, le zeste de lime, le miel, le sambal oelek, le sucre et le sel. Remuer et amener à ébullition. Une fois que ça bout, réduire à feu moyen (225 °F/105 °C) et laisser mijoter pendant 10 minutes à découvert. Remuer de temps en temps.",
+        "Pendant ce temps, dans un petit bol, mélanger la fécule de maïs et l'eau. Lorsque le mijotage sera terminé, verser le mélange de fécule dans le wok et remuer jusqu'à épaississement.",
+        "Éteindre le feu et ajouter le jus de lime frais. Bien remuer.",
+        "Servir sur du riz jasmin et garnir avec de la coriandre, c'est prêt!"
+      ]
+
   },
   {
     "id": 6145,
@@ -63656,9 +63787,42 @@
     "titre": "Poulet Guy Ding",
     "page": 46,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+        "image": "app-complete-3/IMG_9386.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE: 1 lb (454 g) de hauts de cuisses de poulet désossés",
+        " 1 c. à soupe de sauce aux huîtres",
+        " 2 c. à thé de sauce soya claire",
+        " 1 c. à thé de sucre",
+        "SAUCE: 1 tasse (250 ml) de bouillon de poulet",
+        " 2 c. à soupe de sauce soya claire",
+        " 2 c. à soupe de sauce hoisin",
+        " 1 c. à soupe de sauce aux huîtres",
+        " 4 c. à thé de vinaigre de riz",
+        " 4 c. à thé de fécule de maïs",
+        " 1 c. à thé de sucre",
+        "AUTRES NIGREDIENTS:  2/3 tasse (100 g) d'amandes rôties non salées",
+        "3 gousses d'ail, hachées",
+        "1 petite couronne de brocoli (175 g), en bouquets de 3-4 cm",
+        "2 branches (120 g) de céleri, coupées en biseau, tranches de 3-4 mm d'épaisseur",
+        "3/4 tasse (100 g) de châtaignes d'eau, coupées en rondelles",
+        "15-20 pois mange-tout, coupés en 2 en biseau",
+        "1/2 poivron rouge (90 g), coupé en morceaux de 2-3 cm",
+        "1/2 oignon jaune (75 g), coupé en morceaux de 2-3 cm",
+        "huile de canola"
+      ],
+      "preparation": [
+        "Couper le poulet en morceaux de grosseur d'une bouchée puis le mélanger à tous les ingrédients de la marinade. Laisser mariner au moins 20 minutes au réfrigérateur.",
+        "Dans un bol ou une tasse à mesurer, mélanger tous les ingrédients de la sauce et réserver.",
+        "Blanchir les amandes 2 minutes dans une casserole d'eau bouillante. Égoutter et rincer sous l'eau froide, puis retirer les peaux. Réserver.",
+        "Une fois la marinade du poulet terminée, chauffer le wok à feu moyen-élevé (300 °F/150 °C) et y mettre un peu d'huile. Mettre tout le poulet et le cuire pour environ 5 à 7 minutes. Lorsqu'il est complètement cuit, le retirer dans une assiette.",
+        "Remettre un peu d'huile et faire revenir l'ail quelques secondes. Ajouter tous les légumes et cuire pour 3 à 4 minutes.",
+        "Incorporer la sauce et amener à ébullition. Laisser bouillir 30 à 60 secondes ou jusqu'à ce que les légumes aient la consistance désirée.",
+        "Remettre le poulet et les amandes. Remuer 20 à 30 secondes, puis éteindre le feu. Servir avec du riz jasmin."
+      ]
+
   },
   {
     "id": 6147,
@@ -63666,9 +63830,40 @@
     "titre": "Poulet sauté au basilic thaï",
     "page": 54,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9399.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "PURÉE DE PIMENTS:  4 piments thaïs, épépinés",
+        " 4 gousses d'ail",
+        " 1 petit poivron rouge (120 g), en morceaux de 2-3 cm",
+        "SAUCE:  4 c. à thé de sauce aux huîtres",
+        " 4 c. à thé de sauce soya claire",
+        " 2 1/2 c. à thé de sauce de poisson (la marque Squid)",
+        " 2 c. à thé de sauce soya sucrée (ou mélasse)",
+        " 2 1/2 c. à soupe d'eau",
+        " 2 c. à thé de sucre",
+        "SAUTÉ:   1 lb (454 g) de poulet désossé (poitrines ou hauts de cuisses)",
+        " 3 gousses d'ail, hachées",
+        " 1/2 oignon jaune (75 g), en morceaux de 2 cm",
+        " 3/4 tasse (85 g) de haricots longs, en morceaux de 2-3 cm",
+        " 1 petit poivron rouge (120 g), en julienne",
+        " 2 tasses (30 g) de feuilles de basilic thaï, coupées grossièrement",
+        "huile de canola"
+      ],
+      "preparation": [
+        "Dans un petit robot du type Magic Bullet, mettre tous les ingrédients de la purée de piments. Bien broyer et réserver.",
+        "Dans un petit bol séparé, mélanger tous les ingrédients de la sauce et réserver.",
+        "Retirer le gras du poulet puis hacher la viande à l'aide d'un couteau de boucher. Donner plusieurs coups dans une direction, puis dans l'autre, et retourner la viande pour répéter jusqu'à ce qu'elle soit hachée grossièrement.",
+        "Dans un wok à feu moyen-élevé (275 °F/135 °C), mettre un peu d'huile, ajouter l'ail et l'oignon jaune. Faire revenir pour environ 30 à 60 secondes.",
+        "Ajouter la purée de piments et continuer de remuer pour 15 à 30 secondes.",
+        "Ajouter le poulet et le mélanger à la purée de piments en essayant de séparer les morceaux le mieux possible. Cuire pour 2 minutes.",
+        "Incorporer la sauce, les haricots longs et le poivron rouge. Continuer la cuisson jusqu'à ce qu'il n'y ait plus de liquide au fond du wok (6 à 8 minutes).",
+        "Éteindre le feu, mettre les feuilles de basilic et bien mélanger.",
+        "Servir avec du riz jasmin et un quartier de lime."
+      ]
+
   },
   {
     "id": 6148,
@@ -63676,9 +63871,42 @@
     "titre": "Poulet Yuk Sung (wraps de laitue chinois)",
     "page": 58,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+         "image": "app-complete-3/IMG_9405.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "SAUTÉ:  2 c. à soupe d'huile de canola",
+        " 1/2 oignon jaune (75 g), haché",
+        " 3 gousses d'ail, hachées",
+        "  1 lb (454 g) de poulet haché",
+        " 1 à 2 c. à soupe de légumes chinois « Sui Mi Ya Cai »",
+        " 1 à 2 piments de cayenne frais, hachés",
+        " 1 c. à thé de poivre du Sichuan rouge moulu",
+        "SAUCE:   1/4 tasse (65 ml) d'eau",
+        " 1 1/2 c. à soupe de vinaigre de riz",
+        " 1 c. à soupe de sauce hoisin",
+        " 1 c. à soupe de sauce soya claire",
+        " 2 c. à thé de sauce soya foncée",
+        " 2 c. à thé de vin de cuisson Shaoxing",
+        " 2 c. à thé de fécule de maïs",
+        " 1 c. à thé d'huile de sésame",
+        " 1 c. à thé de sucre",
+        "GARNITURES ET ACCOMPAGNEMENTS:   laitue",
+        " oignons verts en rondelles",
+        " vermicelles de riz frits (facultatif)",
+        " riz jasmin"
+      ],
+      "preparation": [
+        "Mélanger tous les ingrédients de la sauce dans un bol, puis réserver.",
+        "Chauffer un wok à feu moyen (250 °F/120 °C), puis mettre l'huile de canola, l'oignon jaune, l'ail et le poivre du Sichuan. Cuire pour environ 2 minutes en remuant, ou jusqu'à ce que l'oignon et l'ail commencent à griller légèrement.",
+        "Ajouter le poulet haché et le cuire pour 2 à 3 minutes en l'émiettant.",
+        "Ajouter le Sui Mi Ya Cai et les piments de cayenne, puis continuer de cuire pour 2 minutes en remuant le tout.",
+        "Incorporer la sauce et amener à ébullition. Laisser réduire jusqu'à ce qu'elle s'agglomère à la viande (environ 1 minute).",
+        "Éteindre le feu et servir le poulet sur des feuilles de laitue. Garnir d'oignons verts en rondelles et de vermicelles frits (facultatif). Déguster avec ou sans riz jasmin.",
+        "Pour frire des vermicelles de riz : chauffer l'huile de la friteuse à 375 °F (190 °C) et y plonger une petite quantité de vermicelles fins (secs) à la fois. Frire quelques secondes, puis les retirer sur un papier essuie-tout."
+      ]
+ 
   },
   {
     "id": 6149,
