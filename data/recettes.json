@@ -63255,10 +63255,43 @@
     "livreId": 22,
     "titre": "Boulettes de porc char siu",
     "page": 80,
-    "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique", "Porc",
+          "image": "app-complete-3/IMG_9434.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "BOULETTES:  2 lbs (908 g) de porc haché mi-maigre",
+        " 1 œuf",
+        " 2 c. à soupe de cassonade dorée",
+        " 2 c. à soupe de sauce hoisin",
+        " 2 c. à soupe de sauce soya claire",
+        " 1 c. à soupe de vin de cuisson Shaoxing",
+        "  1 c. à thé de poudre 5 épices chinoise",
+        "huile de canola (seulement pour la cuisson)",
+        "SAUCE:  2 tasses (500 ml) d'eau",
+        " 1/3 tasse (75 g) de cassonade dorée",
+        " 1/4 tasse (65 ml) de sauce soya claire",
+        " 2 c. à soupe de sauce hoisin",
+        " 1 c. à soupe de vin de cuisson Shaoxing",
+        " 1 c. à thé de sauce soya foncée",
+        " 1 c. à thé de poudre d'oignon",
+        " 1 c. à thé de poudre d'ail",
+        " 1 c. à thé de poudre 5 épices chinoise",
+        " 1 c. à thé de poudre de betterave (facultatif)",
+        " 1 cube de tofu rouge fermenté (15 g), écrasé",
+        "ÉPAISSISSANT:  4 c. à thé de fécule de maïs",
+        " 1/4 tasse (65 ml) d'eau"
+      ],
+      "preparation": [
+        "Dans un grand bol, mélanger tous les ingrédients pour les boulettes (sauf l'huile) et former 24 boulettes d'environ 45 g.",
+        "Dans un autre bol (ou dans une grande tasse à mesurer), mélanger tous les ingrédients de la sauce et réserver.",
+        "Chauffer une grande poêle creuse à feu moyen-élevé et y mettre un peu d'huile. Ajouter toutes les boulettes et les saisir de tous les côtés (environ 5 minutes au total).",
+        "Une fois que l'extérieur des boulettes est grillé, verser toute la sauce et amener à ébullition. Laisser mijoter à découvert pour 16 à 18 minutes en remuant légèrement les boulettes de temps en temps.",
+        "Pendant ce temps, dans un petit bol, préparer le mélange de fécule et d'eau.",
+        "Une fois le mijotage terminé, verser le mélange de fécule dans la poêle et remuer immédiatement. Laisser bouillir pour bien épaissir, puis retirer du feu. Servir avec du riz jasmin."
+      ]
+
   },
   {
     "id": 6110,
@@ -63417,9 +63450,43 @@
     "titre": "Larb au poulet (poulet haché thaï)",
     "page": 74,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9427.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE:  1 lb (454 g) de poulet haché",
+        " 1 c. à soupe de sauce de poisson (la marque des 3 crabes)",
+        " 1 c. à soupe de sucre",
+        " 1 c. à thé de poudre de bouillon de poulet (de type Knorr)",
+        "AUTRES INGREDIENTS:  3 gousses d'ail, hachées",
+        "2 échalotes françaises (70 g), en julienne",
+        "2 c. à thé de poudre de piment chili (ou poudre de piment coréen)",
+        "1 c. à soupe de sauce de poisson (la marque des 3 crabes)",
+        "2 à 3 c. à soupe de jus de lime",
+        "1 branche d'oignon vert (15 g), en rondelles",
+        "1/4 tasse (10 g) de coriandre longue, en morceaux de 5 mm",
+        "1/4 tasse (8 g) de menthe, hachée",
+        "1/4 tasse (8 g) de coriandre, hachée",
+        "huile de canola",
+        "POUDRE DU RIZ GRILLÉ:   3 c. à soupe (40 g) de riz gluant non-cuit (ou riz jasmin)",
+        " 3 grandes feuilles de lime kaffir",
+        "GARNITURES ET ACCOMPAGNEMENTS:  riz gluant (ou riz jasmin), au choix",
+        " laitue iceberg, au choix",
+        " concombre ou autres légumes croquants, au choix",
+        " fines herbes au choix",
+        " lime, au choix",
+        " piments forts, au choix"
+      ],
+      "preparation": [
+        "Mélanger le poulet aux ingrédients de la marinade et garder au frigo le temps de préparer le reste.",
+        "Retirer la tige des feuilles de lime kaffir. Mettre le riz gluant et les feuilles de lime dans une poêle à feu moyen-élevé et torréfier les grains de riz jusqu'à ce qu'ils soient bruns et les feuilles sèches. Retirer du feu et laisser refroidir un peu. Réduire le tout en poudre au mortier (pour une texture plus grossière) ou au moulin à épices (pour un résultat plus fin et rapide).",
+        "Dans un wok à feu moyen (300 °F/150 °C), mettre un peu d'huile et faire revenir l'ail pour 15 à 30 secondes. Ajouter le poulet et le cuire complètement (environ 5 minutes), puis éteindre le feu. Laisser refroidir 1 minute.",
+        "Ajouter les échalotes, la poudre de piment chili, la sauce de poisson, le jus de lime (en commençant avec 2 c. à soupe), puis la poudre de riz grillé (en commençant avec 2 c. à soupe). Bien mélanger pendant 30 secondes. Goûter et ajouter le reste du jus de lime et de poudre de riz grillé pour intensifier les saveurs, mais les ajustements sont au goût.",
+        "Ajouter les oignons verts, la coriandre longue, la menthe et la coriandre et mélanger.",
+        "Servir avec les accompagnements au choix. C'est un plat qui se mange tiède/température pièce."
+      ]
+
   },
   {
     "id": 6119,
@@ -63491,9 +63558,46 @@
     "titre": "Nouilles Dan Dan",
     "page": 82,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+        "image": "app-complete-3/IMG_9437.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "SAUCE PRINCIPALE:  2 gousses d'ail, hachées très finement",
+        " 3 c. à soupe d'huile de chili croquante",
+        " 1 1/2 c. à soupe de tahini",
+        " 1 c. à soupe de sauce soya claire",
+        " 2 c. à thé de sucre",
+        " 1 c. à thé de vinaigre noir",
+        " 1 c. à thé d'huile de sésame",
+        " 1/2 c. à thé de sauce soya foncée",
+        " 1/4 c. à thé de poivre du Sichuan moulu",
+        "GARNITURE DE PORC:   0,66 lb (300 g) de porc haché mi-maigre",
+        "1 1/2 c. à soupe (20 g) de légumes chinois préservés « Sui Mi Ya Cai »",
+        " 2 gousses d'ail, hachées finement",
+        " 1 c. à soupe de vin de cuisson Shaoxing",
+        " 1 1/2 c. à thé de sauce douce au soja (sweet bean sauce)",
+        " 1/2 c. à thé de sauce soya claire",
+        " 1/8 c. à thé de poivre noir",
+        "AUTRES INGREDIENTS:  0,66 lb (300 g) de nouilles aux œufs fraîches style wonton",
+        "6 bébés bok choy, entiers ou coupés en 2",
+        "arachides grillées non salées, broyées",
+        "huile de chili croquante, au goût",
+        "oignons verts, coupés en rondelles",
+        "poivre du Sichuan moulu, au goût",
+        "1/2 tasse (125 ml) de bouillon de poulet (facultatif)"
+      ],
+      "preparation": [
+        "Mélanger tous les ingrédients de la sauce principale et réserver.",
+        "Dans un petit bol, combiner l'ail, le vin de cuisson Shaoxing, la sauce douce au soja, la sauce soya claire et le poivre noir. Garder de côté, ce sera l'assaisonnement du porc.",
+        "Remplir une casserole d'eau et chauffer pour amener à ébullition en prévision de la cuisson des nouilles et des bok choy.",
+        "Préparer la garniture de porc en chauffant une poêle antiadhésive à feu moyen-élevé. Mettre un peu d'huile et cuire le porc haché en l'émiettant jusqu'à ce qu'il soit bien grillé (environ 5 minutes). Ajouter ensuite les légumes chinois préservés puis continuer de cuire pour 1 minute. Ajouter l'assaisonnement du porc préparé à l'étape n° 2, puis continuer de cuire 1 minute en remuant. Retirer ensuite du feu.",
+        "Séparer la sauce principale en 3 portions égales dans les bols utilisés pour servir le plat.",
+        "Dans la casserole d'eau bouillante, blanchir les bébés bok choy pendant 30 à 45 secondes, puis les retirer à l'aide d'une passoire-araignée. Bouillir ensuite les nouilles wonton en suivant les instructions sur l'emballage (attention pour ne pas trop les cuire). Lorsqu'elles sont cuites, bien les égoutter.",
+        "Mettre une portion de nouilles dans chacun des bols, sur la sauce. Mettre 2 bébés bok choy par bol. Diviser la garniture de porc en 3 portions égales, on la met directement sur les nouilles. Garnir avec des arachides grillées broyées, un peu plus d'huile de chili croquante au goût, des oignons verts en rondelles et un peu de poivre du Sichuan moulu au goût.",
+        "Mélanger le tout avant de déguster. Si désiré, verser une petite quantité (2 à 3 c. à soupe) de bouillon de poulet sur les nouilles. Le bouillon de poulet rend les nouilles moins piquantes et un peu plus faciles à mélanger. Par contre, les nouilles finiront par absorber le liquide et deviendront un peu plus pâteuses."
+      ]
+
   },
   {
     "id": 6124,
@@ -63591,10 +63695,42 @@
     "livreId": 22,
     "titre": "Nouilles udon teriyaki au porc",
     "page": 92,
-    "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique"," Pate", "Porc",
+          "image": "app-complete-3/IMG_9452.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE 1 filet de porc de 500 g, en tranches minces de 4 mm",
+        " 2 c. à soupe de cassonade dorée",
+        " 1 c. à soupe de sauce soya japonaise (la marque Kikkoman)",
+        " 1 c. à soupe de saké",
+        "SAUCE:  7 c. à soupe (105 ml) de sauce soya japonaise (la marque Kikkoman)",
+        " 1/3 tasse (85 ml) de saké",
+        " 1/4 tasse (55 g) de cassonade dorée",
+        " 1 1/2 c. à thé de fécule de maïs",
+        " 3 c. à soupe d'eau",
+        "AUTRES INGREDIENTS:  1 ou 2 carottes (100 g), en julienne",
+        "1/3 tasse (45 g) d'edamames décortiqués surgelés",
+        "1,75 lb (800 g) de nouilles udon précuites et emballées sous-vide",
+        "3 branches d'oignons verts (70 g), en tronçons de 3 cm",
+        "3 gousses d'ail, hachées",
+        "1 c. à soupe de gingembre, haché finement",
+        "huile de canola, pour la cuisson des aliments"
+      ],
+      "preparation": [
+        "Mélanger le porc aux ingrédients de la marinade et laisser mariner le temps de préparer le reste (ou minimum 20 minutes).",
+        "Remplir le wok électrique (ou une grande casserole) avec de l'eau et chauffer pour amener à ébullition.",
+        "Pendant ce temps, dans une petite casserole, préparer la sauce en y mettant la sauce soya, le saké et la cassonade. Chauffer à feu fort pour amener à ébullition et bouillir pendant 8 à 10 minutes sans couvercle. Remuer de temps en temps et au besoin, réduire la température si ça « mousse » trop fort.",
+        "Dans un petit bol, mélanger la fécule de maïs et l'eau. Une fois la réduction de la sauce terminée, ajouter le mélange de fécule et continuer de remuer. Lorsque la sauce aura épaissi, retirer du feu et couvrir.",
+        "Blanchir les edamames et les carottes 3 minutes dans l'eau qui est maintenant à ébullition, puis les retirer dans un bol à l'aide d'une passoire-araignée. Réserver.",
+        "Toujours dans le wok (ou la casserole) avec de l'eau encore à ébullition, plonger les nouilles udon. Les remuer légèrement jusqu'à ce qu'elles se détachent les unes des autres (environ 1 à 2 minutes). Vider tout le contenu du wok dans une passoire et rincer les nouilles sous l'eau froide pour les refroidir complètement. Égoutter et réserver.",
+        "Chauffer le wok (maintenant vide) à feu fort (350 °F/175 °C). Mettre un peu d'huile et faire revenir les oignons verts pour environ 30 secondes. Retirer dans une assiette lorsqu'il y a des petits bouts grillés. Attention à ne pas trop les cuire, car ils seront trop mous.",
+        "Remettre un peu d'huile et cuire le porc. Étaler la viande au fond et ne pas y toucher pendant 45-60 secondes pour bien la saisir. Lorsque le dessous est bien grillé, remuer et continuer la cuisson jusqu'à ce que la viande soit cuite (3 à 5 minutes). Retirer dans une assiette.",
+        "Remettre un peu d'huile dans le wok, et toujours à feu fort, faire revenir l'ail et le gingembre pour environ 15 secondes. Ajouter les carottes et les edamames et continuer la cuisson pour 1 minute.",
+        "Ajouter les nouilles udon et la sauce. Mélanger pendant 2-3 minutes pour que la sauce réduise et colle un peu plus sur les nouilles. Une fois que la sauce est bien agglomérée aux nouilles, ajouter la viande et les oignons verts. Remuer quelques secondes et fermer le feu. Servir!"
+      ]
+
   },
   {
     "id": 6129,
@@ -63646,9 +63782,44 @@
     "titre": "Pad thaï au poulet",
     "page": 76,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9430.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "MARINADE DU POULET:  1 lb (454 g) de poitrines de poulet",
+        " 2 ou 3 échalotes françaises (55 g), en fines tranches",
+        " 2 c. à thé de sauce de poisson (la marque des 3 crabes)",
+        " 2 c. à thé de sucre",
+        " 1/2 c. à thé de bicarbonate de soude",
+        "SAUCE:  1/3 tasse (85 ml) d'eau",
+        " 1/4 tasse (65 ml) de concentré de tamarin",
+        " 1/4 tasse compacte (55 g) de cassonade dorée",
+        " 3 c. à soupe de sauce de poisson (la marque des 3 crabes)",
+        " 2 c. à thé de poudre de piment chili",
+        " 2 c. à thé de beurre d'arachides crémeux",
+        " 1 piment thaï, épépiné et haché",
+        "AUTRES INGREDIENTS:  1/2 lb (227 g) de vermicelles de riz (taille moyenne)",
+        "2 œufs légèrement battus",
+        "4 1/2 tasses (330 g) de fèves germées",
+        "8 tiges (85 g) de ciboulette à l'ail, en morceaux de 3-4 cm",
+        "huile de canola",
+        "GARNITURES:  arachides grillées non salées, broyées",
+        " lime"
+      ],
+      "preparation": [
+        "Couper le poulet en tranches minces de 3-4 mm et le mettre dans un bol avec tous les ingrédients de la marinade. Bien mélanger et laisser mariner pour 20 à 30 minutes.",
+        "Remplir une casserole d'eau et porter à ébullition en prévision de la cuisson des vermicelles.",
+        "Dans un bol ou une tasse à mesurer, mélanger tous les ingrédients de la sauce et réserver.",
+        "Cuire les vermicelles environ 3 minutes dans l'eau bouillante ou jusqu'à ce qu'ils soient souples, mais encore un peu durs au centre. La cuisson se terminera au wok avec la sauce, alors il est important de ne pas trop les bouillir ici. Lorsqu'ils sont prêts, les égoutter et bien les rincer sous l'eau froide pour les refroidir. Réserver.",
+        "Chauffer le wok à feu moyen-élevé (300 °F/150 °C) et mettre un peu d'huile de canola. Ajouter le poulet et le cuire complètement (environ 5 minutes). Lorsqu'il est prêt, le retirer dans une assiette.",
+        "Réduire à feu moyen (250 °F/120 °C) et remettre un peu d'huile. Ajouter les vermicelles et la sauce et cuire jusqu'à ce qu'il n'y ait plus de liquide au fond.",
+        "Pousser les nouilles sur un des côtés du wok à l'aide d'une spatule et mettre un peu d'huile au fond du wok. Mettre les œufs battus. Remuer doucement les œufs avec une spatule dans les 15 premières secondes (ceci aidera à uniformiser la cuisson). Rabattre ensuite les vermicelles sur le dessus des œufs et continuer la cuisson pendant 45 à 60 secondes sans remuer.",
+        "Lorsque les œufs sont cuits à environ 90 %, remuer le tout pour répartir les morceaux d'œufs dans les nouilles.",
+        "Ajouter les fèves germées, la ciboulette à l'ail et remettre le poulet. Continuer de remuer pour 30 secondes et éteindre le feu.",
+        "C'est prêt! Servir avec quelques quartiers de lime et garnir généreusement avec des arachides broyées!"
+      ]
+
   },
   {
     "id": 6132,
@@ -63716,9 +63887,36 @@
     "titre": "Porc épicé sauté coréen",
     "page": 88,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9446.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "PORC ÉPICÉ:  1 filet de porc de 1 lb (454 g)",
+        " 1/2 oignon jaune (75 g), tranché",
+        " 1 oignon vert (20 g), haché",
+        " 3 gousses d'ail, hachées finement",
+        " 3 c. à soupe de gochujang (réduire de moitié si vous n'êtes pas tolérant au piquant)",
+        " 4 c. à thé de sauce soya coréenne (ou sauce soya japonaise Kikkoman)",
+        " 1 c. à soupe de cassonade dorée",
+        " 2 c. à thé de poudre de piment coréen (gochugaru)",
+        " 1 c. à thé d'huile de sésame",
+        " 1/8 c. à thé de poivre noir moulu",
+        "AUTRES INGREDIENTS:  huile de canola, pour la cuisson du porc",
+        "1 c. à thé d'huile de sésame, à ajouter en fin de cuisson",
+        "feuilles de laitue (Boston, romaine, iceberg, etc.)",
+        "graines de sésame",
+        "oignons verts, en rondelles",
+        "riz jasmin ou riz blanc à grains courts"
+      ],
+      "preparation": [
+        "Couper le filet de porc en 2 sur le sens de la longueur, puis en tranches de 4-5 mm d'épaisseur. Les mettre dans un bol avec tous les autres ingrédients du porc épicé et bien mélanger pour recouvrir tous les morceaux. Il n'est pas nécessaire de laisser mariner.",
+        "Chauffer une poêle antiadhésive (ou un wok) à feu moyen-élevé (300 °F/150 °C) et y mettre un peu d'huile de canola. Une fois que c'est chaud, ajouter le porc avec toute sa sauce. Faire revenir la viande jusqu'à ce qu'elle soit complètement cuite (3 à 4 minutes), puis éteindre le feu.",
+        "Ajouter 1 c. à thé d'huile de sésame et bien mélanger.",
+        "Servir le porc sur un lit de feuilles de laitue, puis parsemer de graines de sésame et d'oignons verts en rondelles.",
+        "Déguster avec du riz. On peut le manger dans un bol ou se faire des petits wraps de laitue."
+      ]
+
   },
   {
     "id": 6139,
@@ -64206,10 +64404,22 @@
     "livreId": 22,
     "titre": "Sauce katsu maison",
     "page": 87,
-    "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique"," Sauce",
+         "image": "app-complete-3/IMG_9442.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "1/4 tasse (65 ml) de ketchup",
+        "2 c. à soupe de sauce Worcestershire",
+        "1 c. à soupe de sauce soya japonaise (la marque Kikkoman)",
+        "1 c. à thé de cassonade dorée",
+        "1 c. à thé de miel"
+      ],
+      "preparation": [
+        "Mélanger ensemble tous les ingrédients jusqu'à consistance homogène."
+      ]
+
   },
   {
     "id": 6159,
@@ -64217,9 +64427,34 @@
     "titre": "Saucisses chinoises avec riz gluant",
     "page": 90,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+          "image": "app-complete-3/IMG_9449.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "2 tasses (430 g) de riz gluant non-cuit",
+        "2 1/2 tasses (600 ml) d'eau",
+        "6 à 8 saucisses chinoises (300 g)",
+        "SAUCE OIGNONS VERTS:  4 oignons verts (60 à 80 g), coupés en rondelles",
+        " 4 c. à soupe d'huile de canola",
+        " 2 c. à soupe de sucre",
+        " 1/2 c. à thé de sel",
+        "SAUCR DR POISSON TREMPETTE:  1/2 tasse (125 ml) d'eau",
+        " 2 1/2 c. à soupe de sauce de poisson (la marque des 3 crabes)",
+        " 2 1/2 c. à soupe de sucre",
+        " 2 1/2 c. à thé de vinaigre blanc",
+        " 1 gousse d'ail, hachée",
+        " 1 piment thaï, épépiné et haché (facultatif)"
+      ],
+      "preparation": [
+        "Rincer le riz gluant 4 fois pour enlever le surplus d'amidon. Ajouter ensuite les 600 ml d'eau au riz, puis cuire dans le cuiseur à riz. Vous pouvez cuire le riz gluant de la même manière que vous feriez du riz jasmin. Une fois qu'il est prêt, ouvrir le couvercle, bien remuer, refermer, puis laisser reposer au moins 10 minutes.",
+        "Couper les saucisses chinoises en biseau d'une épaisseur de 2 mm et réserver.",
+        "Dans un bol allant au micro-ondes, mélanger tous les ingrédients de la sauce d'oignons verts à la cuillère. Chauffer au micro-ondes pour 35 secondes, puis bien remuer à nouveau pour répartir les saveurs. Remettre au micro-ondes une deuxième fois, encore pendant 35 secondes. Remuer une dernière fois et réserver.",
+        "Dans un bol ou une tasse à mesurer, combiner tous les ingrédients pour la sauce de poisson trempette. Remuer jusqu'à ce que le sucre soit dissout. Réserver.",
+        "Chauffer une poêle antiadhésive à feu moyen et y mettre les tranches de saucisses. Cuire jusqu'à ce que le gras blanc soit devenu transparent et jusqu'à ce que la viande commence à griller légèrement. Lorsqu'elles sont prêtes, les retirer sur un papier essuie-tout pour absorber le surplus de gras. Éponger les saucisses au besoin avec l'essuie-tout.",
+        "Servir une portion de riz gluant et y ajouter des saucisses chinoises dessus. Ajouter généreusement de la sauce d'oignons verts et de la sauce de poisson trempette, puis bien mélanger le tout avant de déguster!"
+      ]
+
   },
   {
     "id": 6160,
@@ -64346,10 +64581,32 @@
     "livreId": 22,
     "titre": "Tonkatsu (côtelettes de porc panées japonaises)",
     "page": 84,
-    "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique","Porc",
+         "image": "app-complete-3/IMG_9439.jpeg",
+      "favori": false,
+      "note": 0,
+      "statut": "Indexé",
+      "ingredients": [
+        "COTELETTES: 4 côtelettes de porc désossées (environ 1,5 cm d'épaisseur)",
+        "1/4 tasse (35 g) de farine tout usage",
+        "2 œufs battus",
+        "1 tasse (85 g) de chapelure japonaise (panko)",
+        "sel",
+        "poivre",
+        "huile de canola",
+        "ACCOMPAGNEMENTS:  salade de chou avec vinaigrette crémeuse au sésame",
+        " sauce « katsu » ou « tonkatsu » (Sauce BBQ japonaise), maison ou du commerce",
+        "  citron"
+      ],
+      "preparation": [
+        "Préchauffer l'huile de la friteuse à 340 °F (170 °C).",
+        "Attendrir le porc avec un marteau attendrisseur, ou avec le revers d'un couteau. Si on laisse le gras sur la côtelette, il faut couper plusieurs encoches à travers. Ça évitera que le morceau de viande courbe durant la cuisson. On peut aussi enlever le gras complètement.",
+        "Saler et poivrer les côtelettes de chaque côté. Rouler ensuite dans la farine et tapoter un peu entre les mains pour enlever l'excédent. Tremper le porc dans l'œuf, puis dans le panko. Répéter pour chaque morceau.",
+        "Cuire 1 ou 2 côtelettes à la fois. Frire 2 minutes en retournant à la mi-cuisson. Retirer la côtelette en la mettant sur un essuie-tout. Laisser reposer quelques minutes avant la deuxième cuisson.",
+        "Lorsque toutes les côtelettes ont eu une première cuisson, monter la température de l'huile à 360 °F (180 °C). Frire une 2e fois pendant 1 minute. Les retirer ensuite sur un essuie-tout. S'assurer que la viande est assez cuite, ajouter 1 minute de cuisson au besoin.",
+        "Couper les côtelettes panées en lanières de 2 cm d'épaisseur. Servir avec de la sauce katsu ainsi qu'une petite salade de chou et quelques quartiers de citron."
+      ]
+
   },
   {
     "id": 6173,
