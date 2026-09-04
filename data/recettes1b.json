@@ -10050,9 +10050,13 @@
     "titre": "Okonomiyaki aux crevettes",
     "page": 152,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9531.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["¾ tasse (105 g) de farine tout usage", "2 c. à soupe de fécule de maïs", "½ c. à thé de poudre à pâte (levure chimique)", "1 pincée de poivre noir", "¾ tasse (185 ml) d'eau", "1 ½ c. à thé de poudre de bouillon dashi", "3 tasses (300 g) de chou vert, émincé", "3 oignons verts (50 g), en rondelles", "2 œufs larges", "15 crevettes moyennes, décortiquées et coupées en petits morceaux de 1-2 cm", "2 c. à soupe (20 g) de gingembre rouge mariné (beni shoga), haché grossièrement", "Huile de canola (pour la cuisson des okonomiyaki)", "garniture - Mayonnaise japonaise (Kewpie)", "garniture - Sauce okonomi (la marque Otafuku)", "garniture - Flocons d'algue nori", "garniture - Flocons de bonite"],
+"preparation": ["Dans un grand bol, mélanger la farine tout usage, la fécule de maïs, la poudre à pâte et le poivre. Combiner l'eau et la poudre de bouillon dashi, puis l'ajouter au mélange sec. Mélanger au fouet pour enlever le plus gros des grumeaux, puis laisser reposer 20 à 30 minutes au frigo.", "Une fois le repos terminé, ajouter le chou, les oignons verts, les œufs, les crevettes et le gingembre mariné. Bien mélanger à la cuillère jusqu'à ce que les ingrédients soient uniformément répartis.", "Chauffer une poêle à feu moyen et y ajouter un peu d'huile de canola. Verser le tiers du mélange (environ 1 tasse ou 250 ml) et former un cercle plat et uniforme. Cuire environ 5 minutes pour bien dorer le premier côté. Retourner la crêpe et cuire l'autre côté jusqu'à ce qu'il soit doré (environ 5 minutes). Astuce: vous pouvez cuire les 3 crêpes en utilisant 3 poêles en même temps ou une grande plaque de cuisson électrique.", "Une fois cuite, la transférer sur une assiette et garnir généreusement de mayonnaise, sauce okonomi, flocons d'algues nori et flocons de bonite. Servir et déguster!"]
+
   },
   {
     "id": 6130,
@@ -10800,9 +10804,13 @@
     "titre": "Sauté de crevettes à la sauce aux huîtres",
     "page": 160,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-3/IMG_9543.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 lb (454 g) de crevettes moyennes, décortiquées et déveinées", "4 gousses d'ail, hachées", "1 ou 2 couronnes de brocoli (375 g), en bouquets de 3-4 cm", "½ poivron rouge (90 g), en julienne", "¼ tasse (65 ml) d'eau", "Huile de canola", "sauce - 1 tasse (250 ml) d'eau", "sauce - ¼ tasse (65 ml) de sauce aux huîtres", "sauce - 1 c. à soupe de vin de cuisson Shaoxing", "sauce - 1 c. à thé de sauce soya claire", "sauce - ½ c. à thé de poudre de bouillon de poulet", "sauce - ½ c. à thé de sucre", "sauce - ½ c. à thé d'huile de sésame", "sauce - 4 c. à thé de fécule de maïs"],
+"preparation": ["Dans un bol ou dans une tasse à mesurer, mélanger tous les ingrédients de la sauce et réserver.", "Chauffer le wok à feu moyen-élevé (300 °F/150 °C) et y mettre un peu d'huile de canola. Ajouter les crevettes et les cuire complètement (environ 3 minutes). Lorsqu'elles sont cuites, les retirer dans une assiette.", "Baisser légèrement le feu (275 °F/135 °C) et remettre un peu d'huile. Ajouter l'ail et faire revenir 30 secondes ou jusqu'à ce qu'il commence à griller.", "Ajouter le brocoli, le poivron et ¼ tasse (65 ml) d'eau, puis cuire pour 2 minutes en remuant.", "Ajouter la sauce et amener à ébullition pour épaissir. Laisser bouillir 1 à 2 minutes ou jusqu'à ce que la texture des légumes soit à votre goût.", "Éteindre le feu et remettre les crevettes. Bien mélanger et servir avec du riz jasmin!"]
+ 
   },
   {
     "id": 6163,
