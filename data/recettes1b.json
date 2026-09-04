@@ -9628,9 +9628,13 @@
     "titre": "Congee vietnamien au poisson",
     "page": 158,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+ "image": "app-complete-3/IMG_9540.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["soupe - ½ tasse (105 g) de riz jasmin non-cuit", "soupe - ½ tasse (105 g) de riz gluant non-cuit", "soupe - 8 tasses (2 L) d'eau", "soupe - 1 oignon jaune (150 g), pelé et coupé en 2", "soupe - 6-8 grandes tranches de gingembre (50 g)", "soupe - 2 cubes de bouillon de poulet (de type Knorr)", "soupe - 1 c. à soupe de sauce de poisson (la marque des 3 crabes)", "marinade - 1 lb (454 g) de filets de poisson blanc de votre choix", "marinade - 2-3 échalotes françaises (50 g), hachées", "marinade - 1 ½ c. à soupe de sauce de poisson (la marque des 3 crabes)", "marinade - 2 c. à thé de sucre", "garniture - Coriandre", "garniture - Oignons frits", "garniture - Poivre noir moulu"],
+"preparation": ["Rincer le riz (jasmin et gluant) 2 ou 3 fois et le mettre dans une marmite de 5 litres. Ajouter l'eau, l'oignon jaune, le gingembre, les cubes de bouillon de poulet et la sauce de poisson. Chauffer à feu fort pour amener à ébullition et remuer de temps en temps pour ne pas que le riz colle au fond. Une fois que ça bout, réduire à feu moyen et couvrir. Cuire pendant 30 minutes.", "Pendant ce temps, découper le poisson en morceaux de 3-4 cm et le mettre dans un bol. Ajouter tous les ingrédients de la marinade, mélanger et laisser mariner jusqu'à ce qu'on arrive à 10 minutes de la fin du mijotage de la soupe.", "Dix minutes avant la fin du mijotage, chauffer une poêle antiadhésive à feu moyen-élevé et mettre un peu d'huile de canola. Une fois que c'est chaud, mettre tous les morceaux de poisson dans la poêle en laissant le liquide dans le fond du bol. Cuire le poisson en le retournant de temps en temps jusqu'à ce qu'il ait une belle coloration, puis le retirer du feu. Il n'est pas nécessaire que le poisson soit cuit jusqu'au centre.", "Au bout de 30 minutes de mijotage, enlever le couvercle sur la marmite de soupe et retirer les oignons. Le gingembre peut être laissé pour que les saveurs continuent de se propager. Vérifier ensuite la texture du riz. S'il n'est pas très gonflé, continuer la cuisson avant de mettre le poisson. Si le congee est trop épais, ajouter de l'eau pour obtenir la texture désirée et ajuster les assaisonnements (sauce de poisson et sucre) en conséquence. Lorsque le riz est bien gonflé et que la soupe a la consistance désirée, ajouter les morceaux de poisson et continuer de bouillir pour quelques minutes afin de terminer la cuisson du poisson.", "Retirer du feu, c'est prêt! Servir et garnir avec un peu de coriandre, des oignons frits et du poivre noir moulu!"]
+
   },
   {
     "id": 6112,
@@ -9665,9 +9669,13 @@
     "titre": "Crevettes grillées vietnamiennes",
     "page": 166,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+"image": "app-complete-3/IMG_9552.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["marinade - 32 à 40 crevettes (calibre 41-50)", "marinade - 2 échalotes françaises (45 g), hachées très finement", "marinade - 4 gousses d'ail, hachées très finement", "marinade - 1 c. à soupe de miel", "marinade - 1 c. à soupe de jus de lime", "marinade - 2 c. à thé de citronnelle, hachée très finement", "marinade - 2 c. à thé de sauce de poisson (marque des 3 crabes)", "marinade - 2 c. à thé de sucre", "marinade - 1 c. à thé d'huile de canola", "marinade - ½ c. à thé de poudre de piment chili", "marinade - ¼ c. à thé de sel", "marinade - ⅛ c. à thé de poivre blanc", "Riz jasmin (accompagnement facultatif)", "Sauce de poisson trempette (p.105) (accompagnement facultatif)", "Légumes marinés vietnamiens (accompagnement facultatif)", "Laitue (accompagnement facultatif)", "Concombre (accompagnement facultatif)", "Tomate (accompagnement facultatif)"],
+"preparation": ["Déveiner et décortiquer les crevettes en laissant le bout de la queue. Mélanger ensuite à tous les ingrédients de la marinade et laisser mariner pour minimum 10 minutes.", "Embrocher les crevettes marinées sur des tiges de bambou de 20 cm (8 po). Faire 8 à 10 brochettes de 4 crevettes chacune.", "Chauffer un grill électrique à 350 °F (175 °C) (ou une poêle à feu moyen-élevé) et badigeonner un peu d'huile de canola sur la surface. Déposer les brochettes de crevettes et laisser cuire le premier côté 5 minutes. Retourner et continuer la cuisson pour un autre 5 minutes. Les temps de cuisson peuvent varier légèrement selon la grosseur des crevettes et le mode de cuisson. Ajuster au besoin, les crevettes sont cuites lorsqu'elles sont roses.", "Les brochettes de crevettes sont prêtes!"]
+
   },
   {
     "id": 6114,
@@ -9675,9 +9683,13 @@
     "titre": "Crevettes thaïes au curry rouge et lime kaffir",
     "page": 154,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-3/IMG_9534.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 lb (454 g) de crevettes décortiquées et déveinées (calibre 41-50)", "2 c. à soupe d'huile de canola", "2 gousses d'ail, hachées", "2 c. à soupe de pâte de curry rouge (de type Mae Ploy)", "1 boîte (400 ml) de lait de coco", "1 ½ c. à soupe de cassonade dorée", "1 c. à soupe de concentré de tamarin", "2 c. à thé de sauce de poisson (la marque des 3 crabes)", "4 feuilles de lime kaffir, hachées très finement", "3 tasses (200 g) de brocoli, en bouquets de 4-5 cm"],
+"preparation": ["Chauffer le wok à feu moyen-élevé (250 °F/120 °C) et mettre un peu d'huile de canola. Ajouter les crevettes et les cuire complètement (environ 2 à 3 minutes). Les retirer ensuite dans une assiette.", "Ajouter 2 c. à soupe d'huile dans le wok (toujours à 250 °F/120 °C). Ajouter l'ail et faire revenir jusqu'à ce qu'il commence à griller.", "Ajouter la pâte de curry rouge et continuer de faire revenir pour 1 à 2 minutes en ajoutant de l'huile au besoin.", "Incorporer le lait de coco, la cassonade, le concentré de tamarin, la sauce de poisson et les feuilles de lime kaffir. Laisser mijoter pendant 7 à 10 minutes à découvert en remuant de temps en temps. Réduire le feu au besoin, ça ne doit pas bouillir trop fort.", "Ajouter les brocolis et continuer le mijotage pour 3 minutes.", "Remettre les crevettes dans le wok, remuer et continuer la cuisson pour 30 à 60 secondes.", "Éteindre le feu et servir sur du riz jasmin!"]
+
   },
   {
     "id": 6115,
@@ -9685,9 +9697,13 @@
     "titre": "Curry de cuisses de grenouilles",
     "page": 168,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+"image": "app-complete-3/IMG_9556.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1,5 lb (680 g) de cuisses de grenouilles", "2 c. à soupe d'huile de canola", "½ oignon jaune (75 g), haché", "3 gousses d'ail, hachées", "2 c. à thé de gingembre, haché finement", "1 boîte (400 ml) de lait de coco", "1 c. à soupe de poudre de curry de Madras", "1 c. à soupe de sauce de poisson (la marque des 3 crabes)", "1 c. à soupe de vin de cuisson Shaoxing", "2 c. à thé de citronnelle, hachée finement", "2 c. à thé de tiges de coriandre, hachées", "1 ½ c. à thé de sucre", "¾ c. à thé de sel (voir note)", "¼ c. à thé de poudre 5 épices chinoise", "¼ c. à thé de poivre noir moulu", "Riz jasmin (garniture/accompagnement)", "Coriandre (garniture/accompagnement)"],
+"preparation": ["Couper les cuisses de grenouilles en 2 et réserver.", "Chauffer le wok à feu moyen-élevé (250 °F/120 °C) et mettre l'huile de canola. Ajouter l'oignon jaune, l'ail et le gingembre, puis faire revenir 1 minute ou jusqu'à ce que ça commence à griller.", "Ajouter tous les autres ingrédients, sauf les cuisses de grenouilles. Mélanger et amener à ébullition. Une fois que ça bout, réduire à feu doux-moyen (200 °F/95 °C), puis laisser mijoter 5 minutes à découvert.", "Augmenter légèrement la température du wok (225 °F/105 °C), puis ajouter les cuisses de grenouilles. Ramener à ébullition, couvrir et laisser mijoter 8 à 10 minutes selon la grosseur des cuisses. Remuer 2 ou 3 fois durant le temps de mijotage.", "Éteindre le feu et servir avec du riz jasmin. Garnir avec un peu de coriandre."]
+
   },
   {
     "id": 6116,
@@ -10151,9 +10167,13 @@
     "titre": "Poisson à l'aneth de Hanoï",
     "page": 156,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-3/IMG_9537.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["marinade - 1,3 lb (600 g) de filets de poisson blanc (snakehead ou basa), en morceaux de 4-5 cm", "marinade - ½ tasse compacte (75 g) de galanga, haché", "marinade - 2 c. à soupe (10 g) d'aneth, haché finement", "marinade - 3 gousses d'ail, hachées", "marinade - 4 c. à thé de sauce de poisson (la marque des 3 crabes)", "marinade - 1 c. à soupe d'huile de canola", "marinade - 1 c. à soupe de curcuma moulu", "marinade - 2 c. à thé de sucre", "marinade - 2 c. à thé de vinaigre de riz", "Huile de canola", "3 oignons verts (45 g), en tronçons de 5 cm", "Aneth (facultatif)", "Vermicelles de riz fins, cuits selon les instructions sur l'emballage", "Menthe poivrée", "Arachides grillées", "Légumes marinés vietnamiens", "Sauce de poisson trempette (p. 105)"],
+"preparation": ["Dans un bol, mélanger le poisson avec tous les ingrédients de la marinade. Mettre au réfrigérateur et laisser mariner minimum 20 minutes, mais idéalement 2 heures.", "Chauffer une poêle antiadhésive à feu moyen et y mettre un peu d'huile (environ 2 c. à soupe). Déposer la moitié du poisson dans la poêle, ainsi que la moitié des oignons verts. Vous pouvez ajouter quelques branches d'aneth également, mais c'est facultatif. Cuire le poisson environ 5 à 7 minutes en tournant les morceaux à la mi-cuisson. À noter que le temps peut varier en fonction de la température de l'huile et de la grosseur des morceaux de poisson.", "Une fois que le poisson est cuit jusqu'au centre, le retirer et cuire le restant du poisson avec le restant des oignons verts de la même façon.", "Servir avec des vermicelles, et ajouter les garnitures de votre choix."]
+
   },
   {
     "id": 6136,
@@ -10161,9 +10181,13 @@
     "titre": "Poisson blanc au miso",
     "page": 162,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9546.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 gros filets de tilapia (environ 0,3 lb ou 140 g chacun), désossés et sans peau (ou autre poisson blanc à chair ferme)", "2 c. à soupe de miso blanc", "2 c. à soupe de mirin", "2 c. à thé de sauce soya japonaise (la marque Kikkoman)", "1 ½ c. à thé d'huile de sésame", "¾ c. à thé de sucre", "Huile de canola (pour la cuisson)"],
+"preparation": ["Inciser profondément un côté de chaque filet en formant un quadrillage. Les entailles doivent atteindre environ la moitié, voire jusqu'aux trois quarts de l'épaisseur du poisson, sans le traverser complètement. Ceci aidera à ce que la marinade pénètre mieux dans la viande.", "Dans un bol, mélanger le miso blanc, le mirin, la sauce soya japonaise, l'huile de sésame et le sucre. Ajouter ensuite les morceaux de poisson et bien les enrober de la marinade. Mettre de la marinade dans les traits de couteau également.", "Mariner pour 18 à 24 heures.", "Une fois le poisson mariné, chauffer une poêle antiadhésive à feu moyen-élevé et mettre un peu d'huile de canola. Lorsque c'est bien chaud, ajouter les filets de poisson, mais pas la marinade. Cuire le premier côté pour environ 3 minutes. Réduire l'intensité du feu au besoin, on doit entendre un crépitement, mais ça ne doit pas trop éclabousser non plus. Retourner le poisson et continuer la cuisson pour environ 2 minutes. Ajuster les temps de cuisson au besoin, ce sera un peu variable d'une fois à l'autre selon l'épaisseur des morceaux de poisson. La chair devrait être cuite jusqu'au centre, mais en restant un peu juteuse quand même.", "Retirer le poisson de la poêle et le servir avec du riz et des légumes de votre choix."]
+
   },
   {
     "id": 6137,
@@ -10558,9 +10582,13 @@
     "titre": "Ramen instantané à la coréenne",
     "page": 140,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9549.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 paquets de ramen instantanés de 85 g chacun (style Mr. Noodles)", "2 gousses d'ail, hachées", "1 ½ c. à soupe de gingembre, haché finement", "3 tasses (750 ml) d'eau", "2 c. à soupe de sauce soya japonaise (la marque Kikkoman)", "2 c. à thé de poudre de bouillon dashi", "1 ½ c. à thé de sucre", "1 c. à thé d'huile de sésame", "12 boulettes de poisson surgelées", "Huile de canola", "garniture - Oignons verts en rondelles", "garniture - Graines de sésame", "garniture - Algue nori"],
+"preparation": ["Déballer les nouilles instantanées et les garder de côté en prévision de la cuisson. Nous n'aurons pas besoin d'utiliser les sachets d'assaisonnement pour la recette.", "Chauffer une casserole à feu moyen et y mettre un peu d'huile de canola (environ 1 c. à soupe). Une fois que c'est chaud, ajouter l'ail et le gingembre, puis faire revenir pour 30 à 60 secondes.", "Ajouter l'eau, la sauce soya, la poudre de bouillon dashi, le sucre et l'huile de sésame, puis amener à ébullition.", "Une fois que ça bout, ajouter les boulettes de poisson. Cuire pendant environ 3 à 4 minutes.", "Ajouter les 2 blocs de nouilles instantanées. Les 2 n'entreront peut-être pas au complet dans le liquide au début, mais au bout de quelques secondes, elles seront assez malléables pour les submerger sans les casser. Cuire pour environ 3 minutes en défaisant les nouilles au fur et à mesure qu'elles ramollissent.", "Éteindre le feu et servir dans 2 bols. Garnir avec un peu d'oignons verts en rondelle, de graines de sésame et de gros morceaux d'algue nori. Manger immédiatement."]
+
   },
   {
     "id": 6151,
@@ -10658,9 +10686,13 @@
     "titre": "Riz frit aux œufs et au basilic thaï",
     "page": 182,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+ "image": "app-complete-3/IMG_9565.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["4 œufs battus", "10 gousses d'ail (35 g), hachées", "3 ou 4 échalotes françaises (75 g), hachées", "3 piments thaïs, épépinés et hachés", "1 poivron rouge (180 g), en julienne", "6 tasses de riz jasmin cuit de la veille (voir note)", "2 oignons verts (30 g), en rondelles", "2 tasses (30 g) de basilic thaï, coupé grossièrement", "Huile de canola", "assaisonnement - 2 c. à soupe de sauce soya claire", "assaisonnement - 1 c. à soupe de sauce aux huîtres", "assaisonnement - 1 c. à soupe de vinaigre de riz", "assaisonnement - 2 c. à thé de sauce soya foncée", "assaisonnement - 2 c. à thé de cassonade dorée", "assaisonnement - ¼ c. à thé de sel"],
+"preparation": ["Dans un petit bol, mélanger tous les ingrédients de l'assaisonnement du riz et réserver.", "Chauffer le wok à feu moyen (250 °F/120 °C) et mettre un peu d'huile de canola. Ajouter les œufs et racler doucement le fond du wok avec une spatule de silicone pour brouiller les œufs. Lorsqu'ils sont cuits à environ 90 %, les retirer dans un bol et les garder de côté.", "Remettre un peu d'huile dans le wok (environ 2 c. à soupe) et ajouter l'ail, les échalotes françaises et les piments thaïs. Faire revenir pour 2 minutes.", "Ajouter le poivron rouge et continuer de cuire pour 2 minutes.", "Ajouter le riz (encore froid), l'assaisonnement du riz et les oignons verts en rondelles. Bien mélanger le tout jusqu'à ce que le riz ait une couleur uniforme (environ 2 à 3 minutes).", "Remettre les œufs dans le riz et les briser en les mélangeant aux autres ingrédients.", "Éteindre le feu et ajouter le basilic thaï. Remuer un peu et c'est prêt!"]
+
   },
   {
     "id": 6156,
@@ -10668,9 +10700,13 @@
     "titre": "Sando aux œufs",
     "page": 186,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9568.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["6 œufs larges", "¼ tasse (60 g) de mayonnaise japonaise (Kewpie)", "2 c. à thé de mirin", "½ c. à thé de poudre de bouillon dashi", "½ c. à thé de sucre", "¼ c. à thé de sel", "6 tranches de pain (moelleux, brioché ou shokupan/japonais)"],
+"preparation": ["Mettre les œufs dans une casserole et les couvrir d'eau. Chauffer pour amener à ébullition, puis une fois que ça bout, cuire pour 10 à 12 minutes. Les retirer ensuite dans un bain d'eau glacée et les laisser refroidir avant de les écaler.", "Mettre les œufs écalés dans un bol et les écraser à la fourchette jusqu'à obtention de petits morceaux. Ajouter ensuite la mayonnaise japonaise, le mirin, la poudre de bouillon dashi, le sucre et le sel, puis bien mélanger à la cuillère.", "Tartiner la moitié des tranches de pain avec le mélange d'œufs. Refermer les sandwiches avec les tranches de pain restantes. Couper en 2 pour faire des triangles, puis c'est prêt!"]
+
   },
   {
     "id": 6157,
@@ -10774,9 +10810,13 @@
     "titre": "Sauté de vermicelles et chou",
     "page": 180,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+ "image": "app-complete-3/IMG_9562.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 bottes (150 g) de vermicelles de haricots séchés (Longkou)", "4 œufs", "1 c. à soupe de vin de cuisson Shaoxing", "1 c. à thé d'huile de sésame", "¼ c. à thé de sel", "3 gousses d'ail, hachées", "1 oignon vert (15 g), haché", "5 tasses (400 g) de chou vert ou taïwanais, coupé en lanières de 2 cm de largeur", "½ poivron rouge (90 g), en julienne", "1 carotte (100 g), râpée", "Huile de canola", "sauce - 2 c. à soupe de sauce aux huîtres", "sauce - 2 c. à soupe de sauce soya claire", "sauce - 1 c. à soupe d'eau", "sauce - 1 ½ c. à thé de sucre", "sauce - 1 pincée de poivre blanc"],
+"preparation": ["Dans un petit bol, mélanger tous les ingrédients de la sauce, puis réserver.", "Dans un plus grand bol, tremper les vermicelles de haricots dans de l'eau à température ambiante pendant 15 minutes ou jusqu'à ce qu'ils se soient ramollis. Égoutter ensuite, puis couper en 2 pour avoir une longueur plus facile à gérer au wok. Réserver.", "Dans un autre bol, battre les œufs avec le vin de cuisson Shaoxing, l'huile de sésame et le sel.", "Chauffer un wok à feu moyen (250 °F/120 °C) et mettre un peu d'huile de canola. Verser les œufs et remuer doucement avec une spatule de silicone pour en faire des œufs légèrement brouillés. Lorsqu'ils seront cuits à 90 %, les retirer dans un bol et réserver.", "Ajouter un peu d'huile au wok (1 à 2 c. à soupe), puis incorporer l'ail et l'oignon vert. Faire revenir pour 30 à 60 secondes.", "Ajouter le chou et faire revenir pour environ 2 minutes. À noter que le chou vert est plus épais que le chou taïwanais, vous pourriez avoir besoin d'augmenter le temps de cuisson de 1 ou 2 minutes pour mieux l'attendrir.", "Ajouter le poivron rouge et continuer la cuisson pendant 30 secondes.", "Incorporer ensuite les carottes et faire revenir le tout pour 30 secondes.", "Ajouter les vermicelles et la sauce, puis remuer le tout pendant 3 minutes. La sauce doit être bien répartie et absorbée par les vermicelles. Vous pouvez prolonger le temps de cuisson et ajouter un peu d'eau au besoin si les vermicelles semblent trop secs.", "Éteindre le feu, remettre les œufs et les briser légèrement en remuant le tout. Servir!"]
+
   },
   {
     "id": 6164,
@@ -10784,9 +10824,13 @@
     "titre": "Sauté d'œufs et de tomates à la chinoise",
     "page": 174,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-3/IMG_9559.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["OEUF BROUILÉS.  -8 œufs larges", "œufs brouillés - 2 c. à soupe de vin de cuisson Shaoxing", "œufs brouillés - 1 ½ c. à thé d'huile de sésame", "œufs brouillés - ½ c. à thé de sel", "3 oignons verts (45 g), partie blanche hachée et partie verte en morceaux de 2-3 cm (garder séparées)", "3 gousses d'ail, hachées finement", "4 c. à thé de gingembre, haché finement", "1 boîte (796 ml) de tomates en dés", "1 c. à thé de sucre", "½ c. à thé de sel", "Huile de canola", "Riz jasmin (accompagnement)"],
+"preparation": ["Dans un grand bol, combiner les œufs, le vin de cuisson Shaoxing, l'huile de sésame et le sel. Bien mélanger au fouet.", "Chauffer un wok à feu moyen-élevé (275 °F/135 °C) et mettre 1 à 2 c. à soupe d'huile de canola. Une fois que c'est chaud, verser le mélange d'œufs et remuer doucement avec une spatule de silicone en raclant le fond et les côtés du wok. Cuire pour environ 1 minute 30 secondes à 2 minutes, puis une fois qu'ils sont prêts, les transférer dans un bol.", "Remettre un peu d'huile dans le wok (environ 1 c. à soupe) et ajouter la partie blanche des oignons verts, l'ail et le gingembre. Faire revenir pour 30 secondes.", "Incorporer les tomates en dés (incluant le jus), le sucre et le sel. Monter à feu fort (400 °F/205 °C) et amener à ébullition. Une fois que ça bout, laisser réduire les tomates pour environ 12 minutes ou jusqu'à ce qu'il n'y ait plus vraiment de jus au fond du wok, remuer de temps en temps. Baisser un peu le feu vers la fin si ça semble chauffer trop fort.", "Une fois qu'il n'y a plus de jus, ajouter la partie verte des oignons verts et remettre les œufs dans le wok. Briser légèrement les morceaux d'œufs dans les tomates pendant 30 à 60 secondes, puis éteindre le feu.", "Servir sur du riz jasmin et déguster!"]
+
   },
   {
     "id": 6165,
@@ -10794,9 +10838,13 @@
     "titre": "Soupe aux œufs et aux tomates",
     "page": 190,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-3/IMG_9571.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 boîte (796 ml) de tomates en dés", "1 ½ c. à soupe de vin de cuisson Shaoxing", "4 tasses (1 L) de bouillon de poulet (fait avec 4 tasses d'eau chaude et 2 cubes de bouillon Knorr)", "2 c. à soupe de sauce soya claire", "1 c. à soupe de poudre d'oignon", "1 c. à soupe de sucre", "2 c. à thé d'huile de sésame", "⅛ c. à thé de poivre blanc moulu", "4 œufs battus", "épaississant - 4 c. à soupe de fécule de maïs", "épaississant - 4 c. à soupe d'eau", "garniture - Poivre noir", "garniture - Oignons verts en rondelles", "garniture - Coriandre"],
+"preparation": ["Dans une marmite de 5 litres, mettre les tomates en dés (avec le jus), puis le vin de cuisson Shaoxing. Chauffer à feu fort pour amener à ébullition et cuire pendant 5 minutes en remuant de temps en temps.", "Ajouter le bouillon de poulet, la sauce soya claire, la poudre d'oignon, le sucre, l'huile de sésame et le poivre blanc. Ramener à ébullition.", "Dans un petit bol, mélanger la fécule de maïs et l'eau. L'ajouter à la soupe une fois qu'elle sera revenue à ébullition et remuer jusqu'à épaississement.", "Réduire le feu pour que ce soit une ébullition très légère. Verser lentement un filet d'œufs battus dans la soupe tout en tournant le bouillon avec une cuillère. Ne pas remuer la soupe trop vite, ni bouillir trop fort, car les morceaux d'œufs doivent rester minuscules. Lorsque tous les œufs sont versés, retirer la soupe du feu.", "Servir et garnir avec du poivre noir moulu et un peu d'oignons verts en rondelles et de coriandre!"]
+
   },
   {
     "id": 6166,
@@ -10896,9 +10944,13 @@
     "titre": "Tteokbokki rosé au fromage",
     "page": 192,
     "categorie": "Asiatique",
-    "image": "IMG_1970.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+"image": "app-complete-3/IMG_9574.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 lb (454 g) de gâteaux de riz coréens (garaetteok)", "2 c. à soupe d'huile de canola", "1 oignon jaune (150 g), en julienne", "6 gousses d'ail, en tranches très minces", "½ lb (225 g) de saucisses cocktail, entaillées de 2-3 traits chacune", "3 c. à soupe de pâte de piment coréenne (gochujang)", "2 tasses (500 ml) de lait (et un peu plus pour ajustements)", "¾ tasse (185 ml) de crème à cuisson 35 %", "6 œufs cuits durs, pelés", "1 ½ c. à soupe de sauce soya coréenne", "1 c. à soupe (compacte) de cassonade dorée", "4 c. à thé de flocons de piment coréen (gochugaru)", "1 c. à thé de poudre de bouillon de poulet", "3 oignons verts (50 g), en tronçons de 4-5 cm", "1 tasse (80 g) de fromage mozzarella, râpé"],
+"preparation": ["Tremper les gâteaux de riz coréens dans de l'eau tiède pendant 20 à 30 minutes pour les dégeler et les attendrir avant la cuisson. Les égoutter avant de les intégrer à la recette.", "Dans le wok à feu moyen (250 °F/120 °C), mettre l'huile et faire revenir l'oignon jaune, l'ail et les saucisses pour 3 minutes.", "Ajouter la pâte de piment coréenne (gochujang) et continuer de faire revenir pour 1 minute.", "Ajouter le lait, la crème, les gâteaux de riz, les œufs, la sauce soya, la cassonade, la poudre de piment coréen (gochugaru) et la poudre de bouillon de poulet. Remuer et monter à feu vif pour amener à ébullition. Réduire ensuite à feu doux (200 °F/95 °C) et mijoter pendant 6 à 8 minutes ou jusqu'à ce que les gâteaux de riz soient tendres jusqu'au centre. Remuer de temps en temps en raclant le fond.", "Ajouter les oignons verts et continuer la cuisson pour 30 à 60 secondes. Éteindre le feu. Ajouter un peu de lait au besoin si la sauce est trop épaisse ou trop piquante.", "Servir et garnir de fromage râpé."]
+
   },
   {
     "id": 6174,
