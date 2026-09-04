@@ -14,24 +14,32 @@ async function chargerDonnees() {
   const version = Date.now();
   try {
 
-        const [rL, rR, rR2, rR3, rR4, rR5, rR6, rR7, rR8, rR9, rR10] = await Promise.all([
-      fetch(`data/livres.json?v=${version}`),
-      fetch(`data/recettes.json?v=${version}`),
-      fetch(`data/recettes2.json?v=${version}`),
-      fetch(`data/recettes3.json?v=${version}`),
-      fetch(`data/recettes4.json?v=${version}`),
-      fetch(`data/recettes5.json?v=${version}`),
-      fetch(`data/recettes6.json?v=${version}`),
-      fetch(`data/recettes7.json?v=${version}`),
-      fetch(`data/recettes8.json?v=${version}`),
-      fetch(`data/recettes9.json?v=${version}`),
-      fetch(`data/recettes10.json?v=${version}`)
-    ]);
-    livres = await rL.json();
-    const [r1, r2, r3, r4, r5, r6, r7, r8, r9, r10] = await Promise.all([
-      rR.json(), rR2.json(), rR3.json(), rR4.json(), rR5.json(), rR6.json(), rR7.json(), rR8.json(), rR9.json(), rR10.json()
-    ]);
-    recettes = r1.concat(r2, r3, r4, r5, r6, r7, r8, r9, r10);
+        const [rL, rR2, rR3, rR4, rR5, rR6, rR7, rR8, rR9, rR10, rRL6, rRL19, rRL21, rR1a, rR1b, rR1c] = await Promise.all([
+        fetch(`data/livres.json?v=${version}`),
+        fetch(`data/recettes2.json?v=${version}`),
+        fetch(`data/recettes3.json?v=${version}`),
+        fetch(`data/recettes4.json?v=${version}`),
+        fetch(`data/recettes5.json?v=${version}`),
+        fetch(`data/recettes6.json?v=${version}`),
+        fetch(`data/recettes7.json?v=${version}`),
+        fetch(`data/recettes8.json?v=${version}`),
+        fetch(`data/recettes9.json?v=${version}`),
+        fetch(`data/recettes10.json?v=${version}`),
+        fetch(`data/recettesLivre6.json?v=${version}`),
+        fetch(`data/recettesLivre19.json?v=${version}`),
+        fetch(`data/recettesLivre21.json?v=${version}`),
+        fetch(`data/recettes1a.json?v=${version}`),
+        fetch(`data/recettes1b.json?v=${version}`),
+        fetch(`data/recettes1c.json?v=${version}`)
+      ]);
+      livres = await rL.json();
+      const [r2, r3, r4, r5, r6, r7, r8, r9, r10, rL6, rL19, rL21, r1a, r1b, r1c] = await Promise.all([
+        rR2.json(), rR3.json(), rR4.json(), rR5.json(), rR6.json(), rR7.json(), rR8.json(), rR9.json(), rR10.json(),
+        rRL6.json(), rRL19.json(), rRL21.json(), rR1a.json(), rR1b.json(), rR1c.json()
+      ]);
+      recettes = r2.concat(r3, r4, r5, r6, r7, r8, r9, r10, rL6, rL19, rL21, r1a, r1b, r1c);
+
+    
 
 
     
