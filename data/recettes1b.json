@@ -11737,9 +11737,13 @@
     "titre": "Brioches vapeur au poulet char siu",
     "page": 170,
     "categorie": "Asiatique",
-    "image": "IMG_1973.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9803.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["MARINADE DU POULET - 1 lb (454 g) de hauts de cuisses de poulet désossés", "MARINADE DU POULET - 1/3 tasse (50 g) de cassonade dorée", "MARINADE DU POULET - 1 1/2 c. à soupe de vin de cuisson Shaoxing", "MARINADE DU POULET - 1 1/2 c. à soupe de sauce soya claire", "MARINADE DU POULET - 1 c. à soupe de sauce hoisin", "MARINADE DU POULET - 1 c. à soupe de sauce aux huîtres", "MARINADE DU POULET - 1 1/2 c. à thé de poudre 5 épices chinoises", "MARINADE DU POULET - 1 c. à thé de poudre de betterave", "MARINADE DU POULET - 1 cube de tofu rouge fermenté (15 g)", "MARINADE DU POULET - 1/2 c. à thé du jus de tofu rouge fermenté", "POUR ÉPAISSIR LA SAUCE - 1/2 tasse (125 ml) d'eau", "POUR ÉPAISSIR LA SAUCE - 2 c. à soupe de fécule de maïs", "1 sachet de farine pour brioches vapeur", "Huile de canola"],
+"preparation": ["Mélanger le poulet à tous les ingrédients de la marinade et laisser mariner 30 minutes au réfrigérateur.", "Chauffer une poêle à feu moyen et mettre un petit peu d'huile. Égoutter les morceaux de poulet pour les mettre dans la poêle et réserver la marinade, elle servira à faire la sauce. Cuire le poulet complètement en le laissant griller des 2 côtés. La cuisson devrait prendre environ 5 à 7 minutes. Une fois cuits, retirer les morceaux sur une planche à découper.", "Couper les morceaux de poulet en petits cubes de 5-7 mm, réserver.", "Dans le bol avec la marinade, ajouter l'eau (1/2 tasse) et la fécule de maïs (2 c. à soupe) et bien remuer. Verser dans la poêle à feu moyen-élevé et y ajouter la viande coupée. Remuer constamment jusqu'à épaississement, puis retirer dans un bol pour laisser refroidir.", "Préparer la pâte à brioche en suivant les instructions sur l'emballage, puis diviser en 18 morceaux. Former une boule avec chacun d'eux.", "Faire des disques avec chaque boule de pâte, puis déposer environ 2 c. à soupe (30 g) de farce au centre. Replier la pâte vers le haut en faisant des plis, puis pincer le dessus pour bien sceller. Déposer la brioche sur un carré de papier parchemin (papier cuisson) d'environ 3 po/7,5 cm, puis déposer dans un cuiseur vapeur.", "Cuire à la vapeur à température moyenne élevée pour 15 minutes. Retirer ensuite du cuiseur et déguster!"]
+
   },
   {
     "id": 6182,
