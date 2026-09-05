@@ -12756,9 +12756,11 @@
     "titre": "Sauce aux champignons",
     "page": 70,
     "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
+    "image": "app-complete-3/IMG_9830.jpeg",
     "favori": false,
-    "statut": "À indexer"
+    "note": "indexé",
+    "statut": "À indexer",
+    "ingredients": [6 moyens shitakés séchés, 1 1/2 tasse d'eau chaude, 1/2 tasse (110 g) de sucre +3c. soupe (45 ml) d'eau, 15 ml de sel, 15 ml de sauce soya clire, 10 ml de sauce soya foncée, 10 ml cassonade, 10 ml de fecule de mais, 10 ml eau]
   },
   {
     "id": 6255,
@@ -13009,10 +13011,14 @@
     "livreId": 24,
     "titre": "Banh mi classique au porc (bánh mì thịt nguội)",
     "page": 115,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Porc",
+    "image": "app-complete-3/IMG_9881.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 lb (450 g) de foie de porc", "1⅗ tasse (400 ml) de lait, divisée", "5 tranches de pain blanc", "2 c. à soupe de sauce de poisson (de type 3 crabes)", "2 c. à soupe de sucre", "1½ c. à thé de poivre noir", "1½ c. à thé de sel", "5 c. à soupe (75 g) de beurre demi-sel, divisées", "3 c. à soupe (30 g) d'échalotes françaises hachées, divisées", "1 c. à soupe d'ail haché, divisée", "1 oignon jaune (125 g), coupé en dés", "0,75 lb (350 g) de porc haché mi-maigre", "12 grands pains à banh mi", "Mayonnaise maison", "Mortadelle vietnamienne (chả lụa), coupée en tranches", "Porc char siu, coupé en tranches", "Légumes marinés vietnamiens", "Concombre anglais, coupé en longues tranches", "Coriandre"],
+"preparation": ["Couper le foie de porc en fines tranches, le faire tremper dans ⅗ tasse de lait 30 minutes pour atténuer son odeur.", "Déchirer le pain blanc en morceaux et le faire tremper dans 1 tasse de lait. Réserver.", "Bien rincer le foie et l'égoutter.", "Dans un bol, mélanger le foie, la sauce de poisson, le sucre, le poivre et le sel.", "Dans une poêle à feu vif, mettre la moitié du beurre, de l'échalote et de l'ail. Faire revenir 10-15 secondes jusqu'à ce que le beurre soit fondu, puis ajouter le foie. Cuire environ 2 minutes et réserver dans un bol.", "Dans la même poêle, mettre le reste du beurre, de l'échalote et de l'ail, ajouter l'oignon et faire revenir 30 secondes. Ajouter le porc haché en le défaisant et le cuire complètement, en ajoutant un peu de jus de cuisson du foie si trop sec. Mettre dans le même bol que le foie.", "Transférer dans un robot culinaire, ajouter les morceaux de pain imbibés et le reste du lait. Broyer jusqu'à l'obtention d'une texture lisse et homogène.", "Transférer dans des contenants en verre résistant à la chaleur, couvrir sans fermer complètement, mettre dans un cuiseur à vapeur et cuire à feu moyen 45 minutes.", "Retirer les contenants — le pâté figera en refroidissant. Se conserve 3 à 4 jours au réfrigérateur ou peut être congelé en portions.", "Couper les pains sur la longueur, réchauffer au four à 350°F (175°C). Tartiner un côté de mayonnaise et l'autre de pâté de foie. Ajouter des tranches de mortadelle vietnamienne et de porc char siu, garnir de légumes marinés, concombre et coriandre.", "Note : le porc char siu et la mortadelle vietnamienne peuvent être préparés à l'avance et congelés sans problème, tout comme le pâté. Le porc char siu effiloché convient aussi très bien à ce sandwich."]
+
   },
   {
     "id": 6274,
