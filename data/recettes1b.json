@@ -12757,10 +12757,12 @@
     "page": 70,
     "categorie": "Asiatique",
     "image": "app-complete-3/IMG_9830.jpeg",
-    "favori": false,
-    "note": "indexé",
-    "statut": "À indexer",
-    "ingredients": [6 moyens shitakés séchés, 1 1/2 tasse d'eau chaude, 1/2 tasse (110 g) de sucre +3c. soupe (45 ml) d'eau, 15 ml de sel, 15 ml de sauce soya clire, 10 ml de sauce soya foncée, 10 ml cassonade, 10 ml de fecule de mais, 10 ml eau]
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["6 moyens shiitakés séchés + 1 ½ tasse (375 ml) d'eau chaude", "½ tasse (110 g) de sucre + 3 c. à soupe (45 ml) d'eau", "1 c. à soupe de sel", "1 c. à soupe de sauce soya claire", "2 c. à thé de sauce soya foncée", "2 c. à thé de cassonade", "2 c. à thé de fécule de maïs + 2 c. à soupe d'eau"],
+"preparation": ["Rincer les shiitakés sous l'eau pour retirer la poussière, puis les faire tremper dans l'eau chaude de 3 à 4 heures.", "Couper les champignons réhydratés en lanières et les broyer avec toute l'eau de trempage. Utiliser un mélangeur de bonne qualité (de type Magic Bullet) pour obtenir une texture lisse et homogène. Réserver.", "Dans une casserole, mettre le sucre et les 3 c. à soupe (45 ml) d'eau. Chauffer à feu moyen-vif pour obtenir un caramel. Ne pas remuer afin d'éviter la formation de cristaux.", "Quand le caramel est légèrement plus foncé que du miel, réduire légèrement le feu et ajouter le mélange de champignons. Remuer en grattant le fond pour défaire les morceaux de caramel qui auraient durci. Remuer jusqu'à ce que tout le caramel soit dissous (environ 10 minutes).", "Ajouter le sel, les sauces soya et la cassonade. Bien mélanger.", "Mélanger la fécule de maïs et l'eau, puis incorporer à la sauce. Porter à ébullition pour la faire épaissir, puis retirer du feu.", "Laisser la sauce refroidir avant de la mettre en pot. Si elle n'est pas utilisée rapidement, elle peut être congelée dans un moule à glaçons."]
+
   },
   {
     "id": 6255,
@@ -12796,9 +12798,13 @@
     "titre": "Extrait de pandan",
     "page": 75,
     "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9830.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["50 g de feuilles de pandan (fraîches ou congelées), nettoyées et coupées en morceaux d'environ 5 cm", "1 ¼ tasse (300 ml) d'eau chaude"],
+"preparation": ["Mettre les feuilles dans un robot ou un mélangeur. Ajouter l'eau, puis broyer de 1 à 2 minutes.", "Au-dessus d'un bol, à l'aide d'un tissu en coton, filtrer la préparation en pressant bien la fibre de la feuille. Jeter les fibres et garder le jus."]
+
   },
   {
     "id": 6258,
@@ -12806,9 +12812,13 @@
     "titre": "Huile de roucou",
     "page": 76,
     "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9830.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 c. à soupe + 1 c. à thé (50 ml) d'huile de canola", "2 c. à thé de graines de roucou (graines d'annatto)"],
+"preparation": ["Dans une poêle, à feu moyen, chauffer l'huile avec les graines de roucou. Lorsque l'huile commence à pétiller autour des graines, poursuivre la cuisson 2 minutes en remuant.", "Transférer l'huile dans un petit bol en la tamisant pour filtrer les graines. L'huile se conserve au réfrigérateur jusqu'à 1 mois."]
+
   },
   {
     "id": 6259,
@@ -13442,9 +13452,13 @@
     "titre": "Cari au poulet et aux pommes de terre",
     "page": 193,
     "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-3/IMG_9976.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["8 hauts de cuisses de poulet avec os, sans la peau", "6 tasses (1,5 L) de bouillon de poulet", "4 tasses (1 L) d'eau", "1 boîte de 400 ml de lait de coco", "1 oignon jaune moyen, émincé", "6 c. à soupe (40 g) de poudre de cari", "2 c. à soupe de sucre", "2 c. à thé de sel", "3 lb (1,4 kg) de pommes de terre blanches, coupées en cubes de 5-6 cm", "6 c. à soupe (50 g) de fécule de maïs + 6 c. à soupe (90 ml) d'eau"],
+"preparation": ["Dans une grosse casserole, faire chauffer à feu vif le poulet, le bouillon de poulet, l'eau, le lait de coco, l'oignon, la poudre de cari, le sucre et le sel. Remuer et porter à ébullition. Réduire le feu, couvrir et laisser mijoter 15 minutes.", "Ajouter les pommes de terre, couvrir et poursuivre la cuisson 30 minutes.", "Dans un bol, mélanger la fécule et l'eau. L'ajouter dans la casserole et remuer. Porter à ébullition pour bien épaissir la sauce. Servir dans des bols. Le poulet peut être désossé directement dans le bol."]
+
   },
   {
     "id": 6305,
@@ -13466,9 +13480,13 @@
     "titre": "Cari vert au poulet",
     "page": 196,
     "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-3/IMG_9982.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["PÂTE DE CARI MAISON - 2 piments verts longs OU ⅓ de poivron vert (50 g)", "PÂTE DE CARI MAISON - 4 piments thaïs verts", "PÂTE DE CARI MAISON - 20-25 feuilles de basilic thaï", "PÂTE DE CARI MAISON - 7 gousses d'ail, hachées", "PÂTE DE CARI MAISON - 2 petites échalotes françaises (45 g), pelées", "PÂTE DE CARI MAISON - 2 ½ c. à soupe de citronnelle hachée", "PÂTE DE CARI MAISON - 1 c. à soupe de galanga haché", "PÂTE DE CARI MAISON - 1 c. à soupe de branches de coriandre (sans les feuilles) hachées", "PÂTE DE CARI MAISON - 4 feuilles de lime kaffir, hachées finement", "PÂTE DE CARI MAISON - Le zeste de 1 lime", "PÂTE DE CARI MAISON - 1 c. à thé de cumin", "PÂTE DE CARI MAISON - 1 ½ c. à thé de coriandre moulue", "PÂTE DE CARI MAISON - 1 c. à thé de pâte de crevette", "PÂTE DE CARI MAISON - ½ c. à thé de poivre blanc", "PÂTE DE CARI MAISON - 5 c. à soupe (75 ml) d'eau", "CARI VERT - 6-8 aubergines thaïlandaises OU 1 aubergine chinoise", "CARI VERT - 1 boîte de 400 ml de lait de coco", "CARI VERT - 1,1 lb (500 g) de hauts de cuisses de poulet désossés, coupés en morceaux de 4-5 cm", "CARI VERT - 1 tasse (250 ml) de bouillon de poulet", "CARI VERT - 12 feuilles de lime kaffir, froissées (pour faire ressortir les saveurs)", "CARI VERT - ½ boîte (140 g) de pousses de bambou (en lanières), rincées et égouttées", "CARI VERT - 1 ½ c. à soupe de sauce de poisson (de type Squid)", "CARI VERT - 1 c. à soupe de sucre", "CARI VERT - ½ poivron rouge, en julienne", "CARI VERT - 1 tasse (20 g) de feuilles de basilic thaï", "ACCOMPAGNEMENT ET GARNITURES - Riz au jasmin", "ACCOMPAGNEMENT ET GARNITURES - Piment fort, au goût", "ACCOMPAGNEMENT ET GARNITURES - Feuilles de basilic (facultatif)"],
+"preparation": ["Dans un robot culinaire, réduire tous les ingrédients de la pâte de cari en purée. Réserver.", "Couper les aubergines en 4 pour accélérer la cuisson, puis les réserver dans l'eau pour éviter qu'elles noircissent.", "Dans un wok ou une casserole, à feu moyen, verser le tiers du lait de coco et laisser réduire jusqu'à ce qu'il épaississe.", "Ajouter la pâte de cari, remuer et cuire 1 minute. Ajouter le poulet et cuire 2-3 minutes.", "Ajouter le bouillon de poulet, le reste du lait de coco et les feuilles de lime. Remuer et couvrir. Laisser mijoter 10 minutes à 200 °F (95 °C) ou à feu doux.", "Retirer le couvercle et poursuivre la cuisson à découvert 3 minutes. Ajouter les aubergines, les pousses de bambou, la sauce de poisson et le sucre. Remuer, augmenter la température à 300 °F (150 °C) ou à feu moyen-vif, puis laisser mijoter 3 minutes.", "Ajouter les poivrons et laisser mijoter 1 minute.", "Éteindre le wok ou retirer la casserole du feu. Ajouter le basilic thaï. Remuer. Servir avec du riz au jasmin. Garnir, au goût, de piment fort et de feuilles de basilic."]
+
   },
   {
     "id": 6307,
