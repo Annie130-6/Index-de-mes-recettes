@@ -13759,60 +13759,84 @@
     "livreId": 24,
     "titre": "Biscuits chinois aux amandes",
     "page": 252,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+"image": "app-complete-3/IMG_0045.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 ⅓ tasse (200 g) de farine tout usage", "1 tasse + 2 c. à soupe (120 g) de farine d'amande", "1 c. à thé de bicarbonate de soude", "⅛ c. à thé de sel", "¾ tasse + 1 c. à soupe (200 g) de beurre non salé, ramolli", "100 g de pâte d'amande", "1 tasse (225 g) de sucre", "1 œuf, à température pièce", "½ c. à thé d'extrait d'amande", "50-60 amandes entières non salées", "1 jaune d'œuf, battu + 1 c. à soupe d'eau (pour la dorure)"],
+"preparation": ["Préchauffer le four à 375 °F (190 °C) et placer la grille au centre.", "Mélanger les farines, le bicarbonate de soude et le sel. Réserver.", "Dans un grand bol, mélanger le beurre et la pâte d'amande. Remuer jusqu'à consistance crémeuse. Ajouter le sucre et mélanger 2 minutes à la cuillère. Ajouter l'œuf et l'extrait d'amande, puis mélanger 1 minute.", "Ajouter les ingrédients secs réservés. Mélanger jusqu'à consistance homogène (éviter de trop mélanger pour ne pas que le gluten se développe et que la pâte devienne trop élastique).", "Former des boules de 15-16 g et les placer, 12 à la fois, sur une plaque à biscuits couverte d'un papier parchemin.", "Placer une amande au centre de chaque boule en pressant afin que la boule s'aplatisse aux ¾ environ. Dans un petit bol, mélanger l'œuf et l'eau, puis badigeonner les biscuits et les amandes de dorure.", "Cuire de 10 à 12 minutes, jusqu'à ce que les biscuits soient dorés.", "Retirer les biscuits du four et les laisser refroidir 5 minutes sur une grille. Les biscuits se congèlent dans un contenant hermétique."]
+
   },
   {
     "id": 6329,
     "livreId": 24,
     "titre": "Nougat chinois aux arachides et au sésame",
     "page": 255,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+    "image": "app-complete-3/IMG_0048.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["Huile de canola (pour huiler le moule)", "½ tasse (100 g) de graines de sésame blanches grillées", "4 c. à soupe (35 g) de fécule de tapioca", "⅔ tasse (170 ml) d'eau, divisée", "1 ½ tasse (300 g) de sucre", "1 c. à thé de jus de citron", "½ c. à thé de vanille", "⅔ tasse (85 g) d'arachides grillées non salées (ou autres noix au choix)"],
+"preparation": ["Tapisser un moule de 23 x 13 cm de papier parchemin et badigeonner le fond et les bordures (jusqu'à une hauteur de 3 cm) d'une mince couche d'huile de canola. Étaler la moitié des graines de sésame sur les parties huilées. Réserver.", "Mélanger la fécule de tapioca et ⅓ tasse (85 ml) d'eau. Réserver.", "Dans une petite casserole, mélanger le sucre et ⅓ tasse (85 ml) d'eau. Faire bouillir, à feu moyen, jusqu'à ce que le caramel commence à blondir, de 10 à 15 minutes, sans remuer. Réduire légèrement le feu pour ne pas que la préparation brunisse trop vite (si vous souhaitez un caramel plus foncé, faites attention, car il peut très vite brûler à haute température). Lorsque le caramel atteint la teinte désirée, ajouter le jus de citron et remuer avec une cuillère.", "Mélanger de nouveau la fécule de tapioca et l'eau. Verser dans le caramel (attention aux éclaboussures !). Remuer et ajouter la vanille. Continuer de mélanger jusqu'à l'obtention d'une texture homogène.", "Ajouter les arachides et mélanger environ 30 secondes. Retirer du feu, puis verser dans le moule. Étendre le nougat sur toute la surface et parsemer du reste de graines de sésame, en les étalant uniformément avec le dos d'une cuillère.", "Laisser refroidir sur le comptoir de 15 à 30 minutes, puis réfrigérer de 2 à 4 heures.", "Démouler et couper en bouchées. Si désiré, rouler les bouchées dans des graines de sésame en exerçant une pression pour qu'elles tiennent bien (cela évitera que les bouchées collent ensemble)."]
+
   },
   {
     "id": 6330,
     "livreId": 24,
     "titre": "Boules de sésame (bánh cam)",
     "page": 257,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+  "image": "app-complete-3/IMG_0051.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - ½ tasse (100 g) de haricots rouges séchés (adzuki), trempés de 12 à 18 heures", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - 4 tasses (1 L) d'eau", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - 6 c. à soupe (80 g) de sucre", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - ⅓ tasse (30-35 g) de noix de coco sucrée et râpée", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - 1 c. à soupe d'huile de canola", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - ¼ c. à thé de sel", "GARNITURE DE HARICOTS ROUGES ET DE NOIX DE COCO - ¼ c. à thé d'extrait de vanille", "PÂTE DE RIZ - ½ tasse (115 g) de sucre", "PÂTE DE RIZ - ¾ tasse (185 ml) d'eau tiède", "PÂTE DE RIZ - 2 tasses (250 g) de farine de riz gluant", "PÂTE DE RIZ - 1 c. à thé d'huile de canola", "PÂTE DE RIZ - ¾ tasse (120 g) de graines de sésame blanches (pour la garniture)", "PÂTE DE RIZ - Huile de canola (pour la cuisson)"],
+"preparation": ["Égoutter les haricots trempés, rincer et mettre dans une casserole avec l'eau et le sucre. Cuire à feu moyen-vif de 30 à 40 minutes, jusqu'à ce que l'eau ait réduit à la hauteur des haricots.", "Entre-temps, préparer la pâte de riz. Dissoudre le sucre dans l'eau tiède, puis verser dans la farine de riz gluant. Ajouter l'huile et bien remuer. Former une boule et pétrir 1 minute. Si la pâte est trop liquide, ajouter un peu de farine de riz gluant; si elle est trop sèche, ajouter un peu d'eau. Emballer la pâte dans une pellicule plastique et la réserver sur le comptoir le temps de préparer la garniture.", "Transférer les haricots cuits avec leur sirop dans un robot culinaire. Broyer jusqu'à l'obtention d'une pâte lisse. S'il reste des morceaux moins bien broyés, passer le tout dans une passoire, si désiré. Transférer dans un bol.", "Ajoutez la noix de coco, l'huile, le sel et la vanille. Bien mélanger. La pâte devrait avoir une texture de purée de pommes de terre. Laisser reposer environ 10 minutes. Si le mélange est trop liquide, le faire revenir dans une poêle en remuant avec une spatule en silicone jusqu'à la consistance désirée.", "Former des boules de pâte de haricots de 15 à 18 g pour des petites ou de 25 à 30 g pour des grosses.", "Former des boules de pâte de riz de 30 g pour des petites ou de 45 g pour des grosses. Couvrir d'une pellicule plastique pour éviter qu'elles sèchent.", "Former un petit disque avec une boule de pâte de riz. Mettre une boule de pâte de haricots au centre et l'envelopper avec la pâte de riz. Rouler la boule entre les mains pour la rendre plus lisse.", "Mettre les graines de sésame dans un bol. Rouler la boule dans les graines de sésame de façon à la recouvrir uniformément. Presser délicatement la boule entre les mains pour que les graines de sésame adhèrent bien à la pâte. Si les graines n'adhèrent pas bien à la pâte, c'est que cette dernière est trop sèche. Tremper la boule rapidement dans l'eau avant de la rouler dans les graines.", "Quand toutes les boules sont formées, chauffer de l'huile de canola à 300-325 °F (150-160 °C) dans une petite casserole (utiliser un thermomètre, car il ne faut pas dépasser cette température). L'huile doit recouvrir les boules de sésame d'environ 1 cm.", "Mettre délicatement quelques boules dans l'huile et remuer immédiatement pour éviter qu'elles collent et brûlent au fond de la casserole. Continuer à les rouler dans l'huile tout au long de la cuisson, de 5 à 7 minutes. Lorsqu'elles flottent, elles sont prêtes, mais la cuisson peut être prolongée de quelques minutes pour qu'elles deviennent plus dorées et croustillantes. Retirer de l'huile et laisser reposer de 5 à 10 minutes avant de déguster."]
+
   },
   {
     "id": 6331,
     "livreId": 24,
     "titre": "Gelée de pandan à la noix de coco (bánh lọt)",
     "page": 260,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+    "image": "app-complete-3/IMG_0055.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["GELÉE AU PANDAN - 50 g de feuilles de pandan", "GELÉE AU PANDAN - 1 ⅓ tasse (300 ml) d'eau chaude", "GELÉE AU PANDAN - ½ tasse (60 g) de farine de riz", "GELÉE AU PANDAN - ⅓ tasse (40 g) de fécule de tapioca", "SAUCE À LA NOIX DE COCO SUCRÉE - ⅘ tasse (200 ml) de lait de coco", "SAUCE À LA NOIX DE COCO SUCRÉE - 2 c. à soupe de sucre", "SAUCE À LA NOIX DE COCO SUCRÉE - ¼ c. à thé de sel", "SIROP - ⅘ tasse (200 ml) d'eau", "SIROP - 1 tasse (100 g) de sucre de canne"],
+"preparation": ["Au robot, broyer les feuilles de pandan avec l'eau chaude. Presser la fibre dans un coton et recueillir le liquide.", "Mélanger l'extrait de pandan avec la farine de riz et la fécule de tapioca.", "Verser la moitié du mélange dans une casserole et chauffer à feu très doux en remuant constamment.", "Dès que la préparation commence à épaissir et à s'agglutiner au fond de la casserole, réduire le feu au minimum. Continuer de remuer, jusqu'à ce qu'il n'y ait plus de liquide. La pâte doit rester souple et ne pas trop cuire.", "Ajouter la deuxième moitié du liquide à la pâte et remuer constamment, jusqu'à ce qu'elle ait épaissi et soit homogène (sans liquide, mais souple).", "Mettre la pâte dans un contenant au fond troué. À l'aide d'une spatule en silicone, presser la pâte à travers les trous au-dessus d'une casserole d'eau frémissante. Les morceaux de pâte tomberont au fond, mais flotteront à la surface quand ils seront cuits.", "Quand tous les morceaux de pâte flottent, les transférer à l'aide d'une passoire dans un bol d'eau glacée pour stopper la cuisson. Réserver.", "Dans une petite casserole, mélanger tous les ingrédients de la sauce. Chauffer à feu doux et, lorsque le sucre et le sel sont dissous, retirer du feu et laisser refroidir.", "Dans une autre casserole, à feu moyen, chauffer l'eau et le sucre de canne jusqu'à dissolution complète. Retirer du feu et laisser refroidir le sirop.", "Quand tout a refroidi, combiner tous les éléments selon les proportions désirées dans des petits bols individuels. Garder les « nouilles » non utilisées dans de l'eau au réfrigérateur. Le sirop et le lait de coco peuvent être conservés dans des contenants distincts au réfrigérateur. La sauce à la noix de coco peut se séparer (crème sur le dessus et eau en dessous); il suffit de la mélanger avant utilisation."]
+
   },
   {
     "id": 6332,
     "livreId": 24,
     "titre": "Dorayaki aux haricots rouges sucrés",
     "page": 262,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+    "image": "app-complete-3/IMG_0058.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["PÂTE DE HARICOTS - 1 tasse (200 g) de haricots rouges (adzuki)", "PÂTE DE HARICOTS - 1 ½ tasse (300 g) de sucre", "PANCAKES - 4 gros œufs", "PANCAKES - 6 c. à soupe (85 g) de sucre", "PANCAKES - 2 c. à soupe de miel", "PANCAKES - 1 c. à thé d'extrait de vanille", "PANCAKES - 1 ¼ tasse (175 g) de farine tout usage", "PANCAKES - 2 c. à thé de poudre à pâte", "PANCAKES - 4 c. à soupe (60 ml) d'eau froide", "PANCAKES - Tartinade choco-noisettes (ou autres garnitures, au choix)"],
+"preparation": ["Mettre les haricots dans une petite casserole et les couvrir d'eau. Porter à ébullition et laisser bouillir 5 minutes.", "Égoutter les haricots. Les rincer et les remettre dans la casserole. Les couvrir de 5 cm d'eau. Faire chauffer à feu moyen-doux. Laisser mijoter à couvert pendant 1 heure.", "Vérifier si les haricots sont tendres. S'ils sont encore un peu fermes, poursuivre la cuisson 15 minutes, en s'assurant qu'il reste assez d'eau dans la casserole. Égoutter les haricots, les remettre dans la casserole, puis ajouter le sucre. Augmenter à feu moyen-vif et remuer. Au bout d'environ 10 minutes, le mélange devrait avoir épaissi un peu. Pour une texture plus lisse, écraser les haricots à l'aide d'une fourchette. Retirer du feu. La pâte continuera d'épaissir en refroidissant.", "Préparer les pancakes. Dans un grand bol, mettre les œufs et le sucre. Fouetter, sans trop faire mousser, jusqu'à ce que le sucre soit bien dissous. Ajouter le miel et l'extrait de vanille, et bien mélanger. Tamiser la farine et la poudre à pâte, puis les ajouter au bol. Bien mélanger pour défaire les grumeaux. Ajouter l'eau froide et remuer. Réfrigérer 10 minutes.", "À feu doux, chauffer une poêle antiadhésive, puis verser environ 3 c. à soupe (45 ml) de la préparation en formant un cercle. Cuire jusqu'à ce que quelques bulles commencent à apparaître à la surface. Retourner le pancake et le laisser brunir légèrement. Mettre le pancake sur une grille et le laisser refroidir. Répéter avec le reste de la préparation.", "Pour assembler les dorayakis, étendre de la garniture (pâte de haricots, tartinade choco-noisettes ou autre) sur un pancake et la couvrir d'un deuxième."]
+
   },
   {
     "id": 6333,
     "livreId": 24,
     "titre": "Café glacé vietnamien (cà phê sữa đá)",
     "page": 265,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Boisson",
+    "image": "app-complete-3/IMG_0061.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 c. à soupe (20 g) de café vietnamien moulu", "2-3 c. à soupe (30-45 ml) de lait condensé sucré, au goût", "Eau bouillante", "Glaçons"],
+"preparation": ["Mettre le café moulu dans le fond du filtre en métal et placer ou visser la partie métallique qui sert de presse.", "Verser le lait condensé dans une tasse ou un verre. Mettre le filtre sur le dessus.", "Verser 20 ml d'eau bouillante sur le café et attendre 30 secondes pour le faire gonfler.", "Remplir le filtre d'eau bouillante et mettre le couvercle de métal sur le filtre. Le café mettra de 7 à 10 minutes pour couler dans la tasse. Il arrive parfois que le café s'écoule plus lentement et mette jusqu'à 20 minutes.", "Remplir un verre de glaçons.", "Lorsque le café a fini de couler, retirer le filtre et bien mélanger le café et le lait condensé. Verser dans le verre contenant les glaçons et déguster."]
+
   },
   {
     "id": 6334,
@@ -13829,30 +13853,42 @@
     "livreId": 24,
     "titre": "Gâteau au manioc (bánh khoai mì nướng)",
     "page": 268,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, édessert",
+    "image": "app-complete-3/IMG_0065.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 maniocs frais moyens (environ 2,5 lb – 1,1 kg), épluchés et râpés", "½ tasse (130 g) de pâte de haricots mungo", "1 boîte de 400 ml de lait de coco", "¾ tasse (165 g) de sucre", "⅗ tasse (150 ml) de lait condensé sucré (+ 2 c. à soupe pour la garniture)", "¼ tasse (40 g) de fécule de tapioca", "4 c. à soupe (60 ml) de beurre fondu", "½ c. à thé d'extrait de vanille", "¼ c. à thé de sel", "Huile de canola (pour huiler le moule)"],
+"preparation": ["Presser le manioc râpé entre les mains pour en faire sortir l'eau. Le faire tremper dans de l'eau froide au moins 1 heure pour extraire les toxines (on peut ajouter un peu de sel dans l'eau pour faciliter le processus). Bien rincer le manioc dans une passoire et l'essorer en le pressant dans un linge. À la fin, il restera environ 1 lb (450 g) de manioc.", "Préchauffer le four à 375 °F (190 °C).", "Mélanger le manioc avec tous les autres ingrédients, sauf l'huile et le lait condensé pour la garniture, au robot culinaire. Pulser jusqu'à l'obtention d'une texture lisse.", "Huiler un moule rond de 23 cm de diamètre et y verser le mélange. Cuire au four 45 minutes, jusqu'à ce qu'un cure-dents inséré dans la pâte ressorte propre. Sortir du four.", "Régler le four à 425 °F (220 °C). Étendre 2 c. à soupe de lait condensé sucré sur le dessus du gâteau et le remettre au four de 7 à 10 minutes, jusqu'à ce que le dessus soit bien doré.", "Laisser refroidir de 2 à 3 heures à température pièce avant de servir (il sera plus facile à couper si on le laisse durcir un peu et les saveurs seront plus prononcées)."]
+
   },
   {
     "id": 6336,
     "livreId": 24,
     "titre": "Gâteau de riz (bánh bò)",
     "page": 271,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+   "image": "app-complete-3/IMG_0068.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["GÂTEAU - ¼ tasse (65 ml) d'eau", "GÂTEAU - 2 ¼ c. à thé de levure sèche active", "GÂTEAU - 1 c. à thé de sucre", "GÂTEAU - 2 tasses moins 1 c. à soupe (230 g) de farine de riz blanc", "GÂTEAU - ¾ tasse + 1 c. à soupe (210 ml) d'eau froide", "GÂTEAU - 1 tasse (250 ml) d'eau", "GÂTEAU - 1 tasse (220 g) de sucre", "GÂTEAU - Huile de canola (pour huiler le moule)", "GÂTEAU - Graines de sésame (pour la garniture)", "SAUCE AU LAIT DE COCO (FACULTATIF) - 1 boîte de 400 ml de lait de coco", "SAUCE AU LAIT DE COCO (FACULTATIF) - 4 c. à soupe (55 g) de sucre", "SAUCE AU LAIT DE COCO (FACULTATIF) - ½ c. à thé de sel", "SAUCE AU LAIT DE COCO (FACULTATIF) - 4 c. à thé de fécule de maïs + 4 c. à soupe (60 ml) d'eau"],
+"preparation": ["Chauffer l'eau au micro-ondes environ 10 secondes, jusqu'à ce qu'elle atteigne une température entre 100-110 °F (37-43 °C). Ajouter la levure et le sucre. Mélanger un peu et laisser reposer 10 minutes.", "Dans un grand bol, mélanger la farine de riz blanc et l'eau froide.", "Dans un autre bol, mélanger l'eau et le sucre. Chauffer environ 40 secondes au micro-ondes, jusqu'à ce que le sucre soit dissous.", "Incorporer le mélange d'eau sucrée au mélange de farine de riz. Ajouter le mélange de levure ayant reposé et remuer.", "Couvrir le bol avec une pellicule plastique et le laisser reposer 2 heures (il est possible de le laisser au micro-ondes avec une tasse d'eau bouillante à côté, ce qui aidera à conserver la chaleur). Au bout de 2 heures, de grosses bulles devraient s'être formées à la surface (si ce n'est pas le cas, le laisser reposer un peu plus longtemps).", "Dans un cuiseur à vapeur, porter de l'eau à forte ébullition. Mettre une serviette sous le couvercle pour empêcher l'eau condensée de tomber sur le gâteau.", "Huiler un moule rond de 23 cm, le placer dans le cuiseur à vapeur et y verser toute la préparation à gâteau. Réduire à feu moyen et cuire 30 minutes.", "Vérifier la cuisson du gâteau avec un cure-dents. Une fois le gâteau cuit, éteindre le feu et retirer le couvercle. Laisser reposer le moule 10 minutes dans le cuiseur, puis le transférer sur le comptoir et le laisser reposer au moins 10 minutes.", "Préparer la sauce, si désiré. Dans une casserole, à feu doux, mélanger le lait de coco, le sucre et le sel jusqu'à ce que le sucre soit dissous.", "Dans un petit bol, mélanger la fécule de maïs et l'eau, puis verser dans la casserole. Augmenter le feu et remuer jusqu'à épaississement.", "Verser la sauce au lait de coco sur le gâteau et garnir de graines de sésame."]
+
   },
   {
     "id": 6337,
     "livreId": 24,
     "titre": "Riz gluant et mangue",
     "page": 272,
-    "categorie": "Asiatique",
-    "image": "IMG_1976.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "categorie": "Asiatique, Dessert",
+ "image": "app-complete-3/IMG_0071.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["RIZ - 1 ½ tasse (300 g) de riz gluant", "RIZ - 1 tasse (250 ml) de lait de coco", "RIZ - 1 tasse (220 g) de sucre", "RIZ - ½ c. à thé de sel", "HARICOTS - 2 c. à soupe de haricots mungo pelés (facultatif; pour la garniture)", "HARICOTS - 2 tasses (500 ml) d'eau (pour la cuisson des haricots mungo)", "SAUCE AU LAIT DE COCO SALÉE - ¾ tasse (150 ml) de lait coco", "SAUCE AU LAIT DE COCO SALÉE - ¼ c. à thé de sel", "SAUCE AU LAIT DE COCO SALÉE - 1 c. à thé de farine de riz", "SAUCE AU LAIT DE COCO SALÉE - 1 c. à soupe d'eau", "GARNITURE - Haricots mungo grillés", "GARNITURE - Tranches de mangue"],
+"preparation": ["Laver le riz 3-4 fois, jusqu'à ce que l'eau de rinçage soit claire. Le faire tremper au moins 4 heures.", "Égoutter délicatement le riz pour ne pas briser les grains, puis le rincer légèrement.", "Placer un coton à fromage dans le fond d'un cuiseur à vapeur, mettre le riz et rabattre le tissu sur le riz. Placer le couvercle sur le cuiseur et cuire à intensité moyenne-élevée 30 minutes.", "Pendant ce temps, dans une petite casserole, combiner le lait de coco, le sucre et le sel. Chauffer à feu moyen. Retirer du feu quand le sucre est dissous (il ne faut pas faire réduire le liquide; la préparation doit être prête avant la fin de la cuisson du riz).", "Transférer le riz dans un contenant allant dans le cuiseur à vapeur, ajouter le lait de coco sucré et mélanger. Cuire à la vapeur 40 minutes en remuant aux 10 minutes.", "Préparer la sauce. Dans une petite casserole, mélanger le lait de coco et le sel.", "Dans un autre bol, bien mélanger la farine de riz et l'eau. Ajouter au lait de coco. Porter à ébullition en remuant jusqu'à ce que la sauce épaississe, puis retirer du feu.", "Rincer les haricots et mettre dans une casserole avec 2 tasses (500 ml) d'eau. Cuire à feu moyen et, dès l'ébullition, éteindre le feu, couvrir et laisser reposer 10 minutes.", "Égoutter les haricots, rincer à l'eau froide et éponger. Dans une poêle, à feu moyen-vif, griller les haricots en remuant délicatement pour ne pas les abîmer, de 7 à 8 minutes ou jusqu'à ce qu'ils soient dorés.", "Étendre les haricots sur un essuie-tout pour les refroidir afin d'éliminer tout excédent d'humidité.", "Mettre une portion de riz sucré dans une assiette. Verser un peu de sauce au lait de coco sur le dessus, puis parsemer de haricots mungo grillés, si désiré. Ajouter des morceaux de mangue sur le riz et déguster."]
+
   },
   {
     "id": 6338,
