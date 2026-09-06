@@ -10233,22 +10233,66 @@
     "livreId": 39,
     "titre": "Tartiflette d'olga",
     "page": 118,
-    "categorie": "19h-minuit",
+    "categorie": "Légumes",
     "ingredientPrincipal": "Pommes de terre",
-    "image": null,
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0270.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 grosses pommes de terre pelées, coupées en tranches d'environ 1 cm",
+  "1 tasse (250 ml) de lardons coupés en petits cubes",
+  "1 gros oignon coupé en tranches",
+  "1½ tasse (375 ml) de vin blanc sec",
+  "2 c. soupe (30 ml) de crème 35%",
+  "1 fromage reblochon coupé en 2 sur la longueur",
+  "Sel et poivre"
+],
+"preparation": [
+  "Préchauffer le four à 350°F (175°C).",
+  "Faire bouillir les pommes de terre jusqu'à ce qu'elles soient cuites. Attention de ne pas trop les cuire pour ne pas qu'elles se brisent ou s'écrasent en purée. Réserver.",
+  "Dans une poêle, faire revenir les lardons jusqu'à ce qu'ils soient dorés, ajouter les oignons et cuire jusqu'à ce qu'ils soient transparents.",
+  "Ajouter le vin blanc et les pommes de terre. Laisser réduire sans remuer pour ne pas briser les pommes de terre. Quand le liquide est absorbé, saler et poivrer au goût.",
+  "Déposer le mélange de pommes de terre dans un plat à gratin allant au four. Ajouter la crème et recouvrir du reblochon, croûte vers le haut.",
+  "Mettre au four environ 25 minutes, jusqu'à ce que le fromage soit coulant et légèrement doré.",
+  "Note : pour une version extra-cochonne, faire rôtir les pommes de terre à la poêle dans du beurre jusqu'à ce qu'elles soient dorées, avant de les ajouter au mélange d'oignons et de vin.",
+  "Servir avec une salade verte... ha ha ha !"
+]
+
   },
   {
     "id": 7919,
     "livreId": 39,
     "titre": "Poisson dans l'cochon",
     "page": 120,
-    "categorie": "19h-minuit",
+    "categorie": "Poisson, Porc",
     "ingredientPrincipal": "Poisson",
-    "image": null,
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_0272.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 filet de porc",
+    "1 filet de truite sans la peau",
+    "2 échalotes hachées finement",
+    "1 c. à thé (5 ml) de graines de fenouil",
+    "1 c. à thé (5 ml) d'aneth (séché ou frais)",
+    "1 c. à soupe (15 ml) de jus de citron",
+    "1 c. à soupe (15 ml) d'huile d'olive",
+    "Sel et poivre",
+    "1 bulbe de fenouil émincé en tranches de ½ cm",
+    "2 oz de pastis (60 ml)",
+    "1/3 tasse (85 ml) de bouillon de poulet"
+  ],
+  "preparation": [
+    "Préchauffer le four à 375°F (190°C).",
+    "Ouvrir d'abord le filet de porc en deux, sans le couper complètement. L'aplatir finement à l'aide d'un marteau à viande (ou d'un rouleau à pâte).",
+    "Sur le porc, étaler uniformément le quart des échalotes, les graines de fenouil et l'aneth.",
+    "Couper le filet de truite sur la longueur afin d'obtenir deux languettes à disposer au centre du filet de porc, dans le sens de la longueur.",
+    "Arroser le poisson de jus de citron et d'un filet d'huile d'olive et ajuster l'assaisonnement.",
+    "Ficeler le filet de porc à l'aide d'une corde de boucher.",
+    "Note : déposez le porc entre deux pellicules de plastique avant de l'aplatir et assommez-le ensuite allégrement !"
+  ]
   },
   {
     "id": 7920,
@@ -10414,10 +10458,34 @@
     "page": 136,
     "categorie": "Poisson",
     "ingredientPrincipal": "Homard",
-    "image": null,
-    "favori": false,
-    "statut": "À indexer"
-  },
+   "image": "app-complete-4/IMG_0284.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 c. à soupe (30 ml) d'oignons hachés",
+  "1 gousse d'ail émincée",
+  "2 c. à soupe (30 ml) de beurre",
+  "2 c. à soupe (30 ml) de farine",
+  "1 c. à thé (5 ml) sel",
+  "1 pincée de poivre de cayenne",
+  "Une pincée de paprika",
+  "Une pincée de poivre",
+  "1 c. à soupe (15 ml) de jus de citron",
+  "1 c. à soupe (15 ml) de persil haché",
+  "La chair de 2 homards cuits (sauf celle des pinces)",
+  "1 tasse (250 ml) de lait",
+  "1/4 tasse (64 ml) de chapelure",
+  "1 c. à soupe (15 ml) d'huile d'olive"
+],
+"preparation": [
+  "Dans une poêle profonde, faire sauter les oignons et l'ail dans le beurre à feu moyen.",
+  "Ajouter la farine, le sel, le cayenne, le poivre, le paprika, le jus de citron et le persil. Bien mélanger.",
+  "Ajouter ensuite le lait et remuer jusqu'à ce que le mélange épaississe.",
+  "Incorporer la chair de homard.",
+  "Note : pour servir, je remplis les carapaces coupées en deux avec le mélange, je saupoudre de chapelure et d'un filet d'huile d'olive et je mets sous le gril du four jusqu'à ce que la chapelure soit dorée. Je sers avec les pinces."
+]
+},
   {
     "id": 7926,
     "livreId": 39,
