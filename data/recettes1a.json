@@ -1469,11 +1469,15 @@
     "livreId": 2,
     "titre": "Porc chinois cuit au barbecue",
     "page": 40,
-    "categorie": "Plat",
+    "categorie": "Assiatique, Porc",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0514.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["60 ml de sauce tomate", "1 cuil. à soupe de sauce hoisin", "2 cuil. à soupe de miel", "1 cuil. à soupe d'extrait de malt ou de mélasse", "1 cuil. à soupe d'ail haché", "2 cuil. à soupe de sucre en poudre", "1 cuil. à café de cinq-épices", "2 cuil. à café de Maïzena", "1 cuil. à soupe d'eau", "750 g d'échine ou de filet de porc"],
+"preparation": ["Mélanger sauce tomate, sauce hoisin, miel, extrait de malt, ail, sucre et cinq-épices dans une petite casserole. Délayer la Maïzena dans l'eau et ajouter au mélange. Porter à ébullition, réduire le feu et laisser frémir 2 minutes en remuant. Laisser refroidir.", "Couper la viande en deux dans la longueur. La mettre dans la sauce et remuer. Couvrir et laisser mariner au moins 30 minutes au réfrigérateur.", "Préchauffer le four à 210°C (th. 6-7). Ôter le porc de la marinade, en réservant celle-ci. Placer le porc sur une grille posée sur un plat. Remplir d'eau chaude à mi-hauteur et faire cuire 15 minutes.", "Réduire le four à 180°C (th. 4) et faire cuire le porc 15 minutes de plus en l'arrosant régulièrement avec la marinade réservée. Ôter le porc du four et laisser reposer 5 minutes. Émincer et servir."]
+
   },
   {
     "id": 128,
@@ -1561,11 +1565,15 @@
     "livreId": 2,
     "titre": "Bœuf aux poivrons et à la sauce d'huîtres",
     "page": 40,
-    "categorie": "Plat",
+    "categorie": "Boeuf, Asiatique",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0514.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de rumsteak", "1 cuil. à soupe de sauce de soja", "1 blanc d'œuf, légèrement battu", "1 cuil. à soupe de Maïzena", "1/4 de cuil. à café de poivre noir moulu", "2 cuil. à soupe d'huile d'arachide", "1 cuil. à soupe de gingembre frais râpé", "1/4 de cuil. à café de cinq-épices", "1 petit poivron vert, coupé en losanges", "1 petit poivron rouge, coupé en losanges", "2 branches de céleri, finement émincées", "425 g de mini-épis de maïs en boîte, égouttés", "2 cuil. à soupe de sauce d'huîtres", "2 oignons nouveaux, émincés en biais"],
+"preparation": ["Parer la viande. La couper en fines lanières dans la largeur. Mélanger la sauce de soja, le blanc d'œuf, la Maïzena et le poivre. Verser sur la viande et remuer.", "Faire chauffer 1 cuil. à soupe d'huile dans un wok ou une poêle en nappant bien le fond et les côtés. Ajouter le gingembre, les cinq-épices, les poivrons, le céleri et le maïs et faire sauter 2 minutes à feu vif. Ôter du wok et tenir au chaud.", "Faire chauffer le reste de l'huile dans le wok en nappant bien le fond et les côtés. Faire colorer la viande par fournées à feu vif, sans la cuire complètement.", "Remettre toute la viande dans le wok avec les légumes et la sauce d'huîtres. Faire sauter à feu vif. Quand la viande est cuite et la sauce chaude, ôter du feu et servir sans attendre, parsemé d'oignon nouveau."]
+
   },
   {
     "id": 136,
@@ -3514,11 +3522,15 @@
     "livreId": 2,
     "titre": "Gambas au miel",
     "page": 39,
-    "categorie": "Plat",
+    "categorie": "Poisson, Assiatique",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0512.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["16 gambas crues", "30 g de Maïzena", "40 g de graines de sésame blanches", "Huile à friture", "90 g de miel", "PÂTE À FRIRE - 125 g de farine avec levure incorporée", "PÂTE À FRIRE - 30 g de Maïzena", "PÂTE À FRIRE - 250 ml d'eau", "PÂTE À FRIRE - 1/4 de cuil. à café de jus de citron", "PÂTE À FRIRE - 1 cuil. à soupe d'huile"],
+"preparation": ["Décortiquer les gambas, sauf la queue, et ôter le boyau. Essuyer à l'aide de papier absorbant et poudrer de Maïzena.", "Dans une poêle, faire griller les graines de sésame à sec à feu moyen pendant 3 à 4 minutes en secouant. Quand elles sont dorées, ôter la poêle du feu.", "Pour la pâte, tamiser la farine et la Maïzena au-dessus d'une jatte. Creuser une fontaine au centre. Mélanger l'eau, le jus de citron et l'huile et verser progressivement en battant pour obtenir une pâte homogène.", "Faire chauffer l'huile dans une grande poêle. Plonger les gambas dans la pâte par petites quantités. À l'aide d'une écumoire, les plonger dans l'huile chaude. Faire dorer 2 à 3 minutes, jusqu'à ce qu'elles soient croustillantes. Égoutter sur du papier absorbant et tenir au chaud.", "Verser le miel dans une grande casserole et faire chauffer à feu très doux (ne pas laisser caraméliser, il perdrait sa saveur).", "Verser les gambas frites dans le miel chaud. Remuer doucement. Dresser sur un plat et parsemer des graines de sésame. Servir."]
+
   },
   {
     "id": 311,
@@ -4627,11 +4639,15 @@
     "livreId": 2,
     "titre": "Poulet à peau croustillante",
     "page": 41,
-    "categorie": "Plat",
+    "categorie": "Asiatique, Poulet",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0516.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 poulet de 1,3 kg", "1 cuil. à soupe de miel", "1 anis étoilé", "1 lanière de zeste de mandarine ou de tangerine séché", "1 cuil. à café de sel", "Huile à friture", "2 citrons coupés en quartiers", "SEL AUX CINQ-ÉPICES - 2 cuil. à soupe de sel", "SEL AUX CINQ-ÉPICES - 1 cuil. à café de grains de poivre blanc", "SEL AUX CINQ-ÉPICES - 1/2 cuil. à café de cinq-épices", "SEL AUX CINQ-ÉPICES - 1/2 cuil. à café de poivre blanc moulu"],
+"preparation": ["Laver le poulet à l'eau froide. Le mettre dans une cocotte et couvrir d'eau froide. Ajouter le miel, l'anis étoilé, le zeste et le sel, et porter à ébullition. Réduire le feu et laisser frémir 15 minutes. Éteindre le feu et laisser reposer, couvert, pendant 15 minutes supplémentaires. Mettre le poulet dans un plat. Laisser refroidir.", "Couper le poulet en deux dans la longueur. Le poser sur du papier absorbant et laisser 20 minutes au réfrigérateur sans couvrir.", "Faire chauffer l'huile dans un wok ou une marmite (un cube de pain plongé dans le bain doit brunir en 30 secondes). Plonger un demi-poulet, peau en dessous. Faire frire 6 minutes, retourner et faire frire 6 minutes de plus (toute la surface de la peau doit être en contact avec l'huile). Égoutter sur du papier absorbant. Faire cuire l'autre moitié.", "Pour le sel aux cinq-épices, mettre le sel et les grains de poivre dans une petite poêle. Faire griller à sec jusqu'à ce que le sel ait légèrement bruni. Piler le mélange au mortier ou l'envelopper dans de l'aluminium ménager et l'écraser au rouleau à pâtisserie. Incorporer le poivre blanc et verser dans un bol.", "Découper le poulet à la chinoise. Poudrer du sel aux cinq-épices et servir avec les quartiers de citron.", "Note de l'auteur : Le sel aux cinq-épices se conserve plusieurs mois dans un récipient hermétique."]
+
   },
   {
     "id": 410,
