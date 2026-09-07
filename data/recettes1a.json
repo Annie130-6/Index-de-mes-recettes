@@ -9455,7 +9455,7 @@
     "page": 104,
     "categorie": "Pain",
     "ingredientPrincipal": "Farine",
-    "image": "app-complete-4/IMG_0333.jpeg",
+    "image": "app-complete-4/IMG_0367.jpeg",
 "favori": false,
 "note": 1,
 "statut": "Indexé",
@@ -9588,6 +9588,7 @@
     "page": 112,
     "categorie": "Pain",
     "ingredientPrincipal": "Courgette",
+        "image": null,
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -9627,9 +9628,31 @@
     "page": 114,
     "categorie": "Pain",
     "ingredientPrincipal": "Fleur d'oranger",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0376.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "6 g (1/2 c. à s.) de levure sèche",
+  "300 g (1 1/4 tasse) d'eau tiède",
+  "5 g (1 c. à c.) d'eau de fleur d'oranger",
+  "50 g (1/4 tasse) de yogourt nature 2 % m.g.",
+  "6 g (1/2 c. à c.) d'huile végétale",
+  "500 g (4 tasses) de farine non blanchie",
+  "50 g (1/4 tasse) de beurre d'érable",
+  "6 g (1 c. à c.) de sel"
+],
+"preparation": [
+  "Mélangez l'eau et la levure dans un bol et laissez gonfler 10 min. Ajoutez l'eau de fleur d'oranger, le yogourt et l'huile. Mélangez.",
+  "Rassemblez les ingrédients, sauf le beurre d'érable, dans l'ordre adéquat, selon que vous faites votre pain au batteur sur socle ou à la main. Procédez au frasage pendant 3 min, puis pétrissez environ 7 min au batteur ou 12 min à la main.",
+  "Boulez le pâton et déposez-le dans un cul-de-poule. Couvrez et laissez pointer environ 1 h 30 ou jusqu'à ce que la pâte ait presque doublé.",
+  "Renversez la pâte sur votre plan de travail fariné, puis donnez-lui un rabat. Retournez-la et coupez le pâton en 10. Boulez chacun des morceaux et accordez-leur une détente de 20 min.",
+  "Abaissez les pâtons jusqu'à obtenir une crêpe ovale d'environ 1/2 cm (1/4 po) d'épaisseur. Farinez de nouveau le plan de travail, au besoin.",
+  "30 min avant la cuisson, préchauffez le gril du four. Placez la grille du four au centre et déposez-y une pierre réfractaire (une tôle à biscuits renversée fera aussi l'affaire).",
+  "Déposez une crêpe sur la pierre et laissez-la cuire 2 min. Retournez-la et laissez cuire encore 2 min ou jusqu'à ce que le pain naan ait gonflé et qu'il soit bien doré. Recommencez pour chaque pain.",
+  "Note de l'auteur : dégustez ces pains encore tièdes, tartinés de beurre d'érable, en écoutant Bengali Song de Nitin Sawhney, puis Le diable et le fermier du groupe québécois Le Vent du Nord."
+]
+
   },
   {
     "id": 1832,
@@ -9638,9 +9661,32 @@
     "page": 116,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Truite",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0378.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "450 g (1 lb) de filet de truite saumonée, sans peau",
+  "4 c. à s. de pâte tandoori du commerce",
+  "1 c. à s. d'huile de canola",
+  "4 pains naan à la fleur d'oranger (p. 114)",
+  "Sel et poivre du moulin",
+  "SAUCE AU YOGOURT - 375 g (1 1/2 tasse) de yogourt nature",
+  "SAUCE AU YOGOURT - 1/2 c. à c. de miel",
+  "SAUCE AU YOGOURT - 2 c. à c. de menthe hachée",
+  "SAUCE AU YOGOURT - 2 c. à c. de coriandre hachée",
+  "SAUCE AU YOGOURT - 1 pincée de piment d'Espelette",
+  "SAUCE AU YOGOURT - Sel du moulin"
+],
+"preparation": [
+  "Mélangez tous les ingrédients de la sauce dans un bol. Réfrigérez au moins 30 min.",
+  "Coupez le filet de poisson en deux et déposez-le dans une assiette. Badigeonnez la truite de pâte tandoori des deux côtés. Laissez mariner 15 min à température ambiante.",
+  "Dans une poêle antiadhésive, chauffez l'huile à feu vif. Déposez-y le poisson et laissez colorer de 3 à 4 min — la chair doit commencer à noircir. Réduisez le feu à moyen et retournez les morceaux. Poursuivez la cuisson 4 min ou jusqu'à ce que la chair soit bien caramélisée. Transférez le poisson sur une assiette et laissez-le reposer 2 min pour terminer la cuisson. Assaisonnez de sel et de poivre.",
+  "Au moment de servir, émiettez le poisson avec une fourchette et répartissez-le sur les pains naan. Garnissez de sauce au yogourt.",
+  "Note de l'auteur : « Papa, il y a encore du poulet? » a demandé un enfant presque immédiatement après que la truite eut été servie — une fois le tir corrigé, les enfants se sont forgé une toute nouvelle perception du poisson.",
+  "Astuce : s'il n'a pas été possible de faire enlever la peau du filet par le poissonnier, laissez-la et faites la recette jusqu'au bout — il sera beaucoup plus facile d'enlever la peau une fois la truite cuite."
+]
+
   },
   {
     "id": 1833,
@@ -9649,9 +9695,35 @@
     "page": 118,
     "categorie": "Soupe",
     "ingredientPrincipal": "Tomate",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0381.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "4 grosses tomates rouges en petits cubes",
+  "1 gros poivron rouge en petits cubes",
+  "1/4 cantaloup mûr en petits cubes",
+  "1 petit oignon rouge en petits cubes",
+  "1 concombre anglais pelé, épépiné, en cubes",
+  "3 gousses d'ail, pelées et coupées en deux",
+  "5 feuilles de basilic",
+  "3 tranches de pain rassis, sans la croûte, en cubes de 2 cm (3/4 po)",
+  "125 ml (1/2 tasse) de vinaigre de vin rouge",
+  "125 ml (1/2 tasse) d'huile d'olive fruitée",
+  "1 c. à s. de pastis",
+  "Sel et poivre du moulin",
+  "SEL AROMATISÉ - 1 c. à s. de fleur de sel",
+  "SEL AROMATISÉ - 1 g (1 pincée) de piment d'Espelette",
+  "SEL AROMATISÉ - 2 citrons verts"
+],
+"preparation": [
+  "La veille (ou au moins 6 heures avant) : déposez les tomates, le poivron, le cantaloup, l'oignon, le concombre et l'ail dans un grand cul-de-poule. Déchirez grossièrement les feuilles de basilic et ajoutez-les dans le bol. Ajoutez les cubes de pain. Incorporez le vinaigre, l'huile et le pastis. Salez et poivrez au goût. Couvrez et laissez mariner au réfrigérateur toute la nuit (ou au moins 6 h).",
+  "Sel aromatisé : combinez la fleur de sel et le piment d'Espelette dans un bol. Prélevez le zeste des citrons verts avec une fine râpe (de type Microplane) au-dessus du bol pour ne pas perdre les huiles essentielles. Mélangez le tout du bout des doigts et laissez sécher pendant la nuit. Prélevez le jus des citrons verts. Couvrez et réfrigérez jusqu'à l'utilisation.",
+  "Le lendemain : humectez légèrement les rebords de 6 grands verres avec du jus de citron vert et enduisez-les de sel aromatisé. Placez les verres au réfrigérateur.",
+  "Retirez les gousses d'ail du bol de légumes et mixez les légumes au mélangeur ou au pied-mélangeur. Rectifiez l'assaisonnement au besoin. Goûtez et répartissez le gaspacho dans les verres bien froids et servez.",
+  "Note de l'auteur : deux plats faits à partir des mêmes ingrédients à deux moments différents peuvent avoir un goût différent à cause de la maturité des ingrédients — voilà l'histoire de ce gaspacho."
+]
+
   },
   {
     "id": 1834,
@@ -9660,9 +9732,33 @@
     "page": 120,
     "categorie": "Pain",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0383.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "275 g (1 1/4 tasse) d'eau tiède",
+  "6 g (1/2 c. à s.) de levure sèche",
+  "50 g (1) œuf",
+  "500 g (4 tasses) de farine non blanchie",
+  "2 g (1 c. à c.) d'anis moulu",
+  "6 g (1 c. à c.) de sel",
+  "50 g (1/4 tasse) de sucre granulé",
+  "MIEL À L'ORANGE - 340 g (1 tasse) de miel",
+  "MIEL À L'ORANGE - 1 c. à c. d'eau de fleur d'oranger",
+  "MIEL À L'ORANGE - 1 orange",
+  "MIEL À L'ORANGE - 2 c. à s. de graines de sésame rôties"
+],
+"preparation": [
+  "Mélangez l'eau et la levure dans un bol et laissez mousser 10 min. Ajoutez l'œuf et combinez à la fourchette.",
+  "Mélangez les ingrédients secs et les ingrédients liquides et procédez au frasage pendant 3 min, puis pétrissez environ 5 min au batteur ou 7 min à la main.",
+  "Boulez le pâton et déposez-le dans un cul-de-poule. Couvrez et laissez pointer environ 60 min ou jusqu'à ce que la pâte ait presque doublé.",
+  "Renversez la pâte sur un plan de travail légèrement fariné, puis abaissez-la en un grand rectangle de 1,5 cm (3/4 po) d'épaisseur. Donnez un tour simple à la pâte, puis étalez-la un peu avec la paume des mains. Couvrez et laissez pointer 30 min directement sur le plan de travail.",
+  "Préchauffez une friteuse ou un bain d'huile à 180 °C (350 °F). Avec un couteau, coupez la pâte en pointes. Déposez quelques pointes dans l'huile chaude et faites-les frire environ 4 min. Retournez les beignets plusieurs fois pendant la cuisson pour les cuire et les dorer uniformément. Retirez-les de l'huile à l'aide d'une cuillère trouée et déposez-les sur du papier absorbant. Procédez ainsi pour toute la pâte. Placez les beignets dans une grande assiette de service.",
+  "Miel à l'orange : chauffez le miel dans une petite casserole à feu moyen et ajoutez-y l'eau de fleur d'oranger. Râpez le zeste d'orange directement au-dessus de la casserole. Pressez le jus d'une moitié d'orange et incorporez-le au mélange. Chauffez 1 min de plus.",
+  "Note de l'auteur : arrosez généreusement les beignets de miel tiède et parsemez-les de graines de sésame. Servez-les tièdes, avec une théière de thé marocain (1 bouquet de menthe fraîche, 2 c. à c. de thé vert, 4 ou 5 feuilles de verveine citronnelle, quelques gouttes d'eau de fleur d'oranger et beaucoup de miel). « J'te jure... c'est de la folie. »"
+]
+
   },
   {
     "id": 1835,
@@ -9740,7 +9836,7 @@
     "page": 132,
     "categorie": "Pain",
     "ingredientPrincipal": "Fromage",
-    "image": null,
+    image": "app-complete-4/IMG_0389.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -9775,7 +9871,7 @@
     "page": 134,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Fromage",
-    "image": null,
+     "image": "app-complete-4/IMG_0391.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -9809,7 +9905,7 @@
     "page": 136,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Œuf",
-    "image": null,
+     "image": "app-complete-4/IMG_0394.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -9836,7 +9932,7 @@
     "page": 138,
     "categorie": "Pain",
     "ingredientPrincipal": "Farine",
-    "image": null,
+     "image": "app-complete-4/IMG_0396.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -9870,7 +9966,7 @@
     "page": 140,
     "categorie": "Sandwich",
     "ingredientPrincipal": "Farine",
-    "image": null,
+     "image": "app-complete-4/IMG_0398.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -10671,9 +10767,23 @@
     "page": 196,
     "categorie": "Brioche",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_0448.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "1 pâte à brioche feuilletée (p. 154)",
+  "225 g (1 1/2 tasse) de bleuets du Lac-Saint-Jean",
+  "50 g (1/4 tasse) de sucre d'érable"
+],
+"preparation": [
+  "La veille : préparez la pâte à brioche de base, puis laissez-la pointer au réfrigérateur jusqu'au lendemain.",
+  "Le jour même : feuilletez la pâte en suivant toutes les étapes jusqu'à ce que vous ayez complété le tour double. Abaissez-la ensuite jusqu'à obtenir un rectangle de 0,5 cm (1/4 po) d'épaisseur. Répartissez les bleuets et le sucre d'érable sur toute la surface.",
+  "Enroulez la pâte bien serrée sur elle-même, sur le côté le plus long, de manière à obtenir un long cylindre. Coupez des tranches de 4 cm (1 1/2 po) de largeur et placez-les dans des moules à muffins antiadhésifs. Couvrez et laissez pointer environ 1 h 30 ou jusqu'à ce que la pâte ait presque doublé.",
+  "30 min avant la cuisson, préchauffez le four à 190 °C (375 °F). Une fois le pointage terminé, enfournez les brioches. Faites-les cuire de 25 à 35 min.",
+  "Astuce : si vous travaillez avec des bleuets surgelés, assurez-vous de prendre les plus petits bleuets possible (bleuets sauvages). Au moment du pointage, placez vos brioches dans un endroit plus chaud qu'à l'habitude afin d'aider les bleuets à dégeler et la pâte à lever."
+]
+
   },
   {
     "id": 1866,
@@ -10682,9 +10792,30 @@
     "page": 198,
     "categorie": "Dessert",
     "ingredientPrincipal": "Pomme",
-    "image": "IMG_1857.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-4/IMG_0451.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "2 c. à s. de beurre non salé",
+  "6 pommes Cortland pelées et coupées en fines tranches",
+  "115 g (1/2 tasse) de beurre non salé",
+  "8 feuilles de pâte filo",
+  "2 c. à c. de poudre d'amandes",
+  "2 c. à c. de sucre brun",
+  "2 c. à s. de bleuets sauvages",
+  "60 ml (1/4 tasse) de sauce caramel au rhum (p. 174)"
+],
+"preparation": [
+  "Préchauffez le four à 180 °C (350 °F). Dans une poêle antiadhésive de 20 cm (8 po), faites chauffer les 2 c. à soupe de beurre. Ajoutez les tranches de pommes et faites-les sauter 4 min à feu moyen pour les ramollir. Transférez les tranches dans un bol et réservez.",
+  "Dans la même poêle, faites fondre les 115 g (1/2 tasse) de beurre à feu doux. Réservez au chaud.",
+  "Dans une autre poêle allant au four (n'utilisez pas une poêle antiadhésive), étalez une couche de pâte filo. Badigeonnez de beurre fondu et saupoudrez de poudre d'amandes et de sucre brun. Déposez une autre feuille de filo à angle de 45° par rapport à la précédente. Badigeonnez de beurre fondu et saupoudrez de poudre d'amandes et de sucre brun. Répétez ainsi jusqu'à ce que toute la poudre d'amandes et le sucre brun aient été répartis et que les 8 feuilles de pâte aient été utilisées.",
+  "Déposez les tranches de pomme au centre de la pâte. Placez les bleuets au centre des tranches de pommes. Rabattez l'excédent de pâte vers l'intérieur en laissant une ouverture suffisante pour voir les bleuets. Badigeonnez la pâte du reste de beurre fondu. Enfournez et laissez cuire 20 min.",
+  "Pendant ce temps, dans une petite casserole, faites chauffer la sauce caramel à feu doux juste assez pour qu'elle soit liquide.",
+  "Retirez le feuilleté du four et versez la sauce caramel tiède au centre. Regardez-la glisser dans les recoins de pâte pendant qu'elle refroidit. Servez à température ambiante.",
+  "Note de l'auteur : délicate et légère, la pomme feuilletée est le dessert par excellence à emporter en visite chez les copines — mesdames, si c'est une copine qui a insisté pour vous transmettre cette recette, peut-être devriez-vous vous poser des questions sur ses intentions..."
+]
+
   },
   {
     "id": 1867,
@@ -10693,7 +10824,7 @@
     "page": 200,
     "categorie": "Dessert",
     "ingredientPrincipal": "Fraise",
-    "image": null,
+     "image": "app-complete-4/IMG_0453.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -10912,7 +11043,7 @@
     "page": 210,
     "categorie": "Confiserie",
     "ingredientPrincipal": "Agrumes",
-    "image": null,
+     "image": "app-complete-4/IMG_0463.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
