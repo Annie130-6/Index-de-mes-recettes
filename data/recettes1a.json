@@ -1201,11 +1201,15 @@
     "livreId": 2,
     "titre": "Aubergines à l'ail sucrées",
     "page": 45,
-    "categorie": "Accompagnement",
+    "categorie": "Asiatique, Légumes, Accompagnement",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0525.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 aubergines moyennes", "7 cuil. à soupe d'huile", "1 1/2 cuil. à café d'ail finement haché", "6 cuil. à café de sucre en poudre", "6 cuil. à café de sauce de soja", "6 cuil. à café de vinaigre de cidre", "1 cuil. à soupe de xérès sec"],
+"preparation": ["Couper les aubergines en deux dans la longueur puis en tronçons d'environ 3 cm de largeur. Les recouper en carrés de 3 cm de côté.", "Faire chauffer 3 cuil. à soupe d'huile dans un wok ou une poêle en nappant bien le fond et les côtés. Ajouter la moitié des aubergines et faire sauter 5 minutes à feu vif, jusqu'à ce qu'elles soient brunes et que l'huile soit absorbée. Dresser sur un plat. Répéter l'opération avec 3 cuil. à soupe d'huile et le reste des aubergines.", "Faire chauffer le reste de l'huile dans le wok. Ajouter l'ail et faire dorer doucement. Ajouter le sucre, la sauce de soja, le vinaigre et le xérès. Porter à ébullition en remuant. Ajouter les aubergines et laisser mijoter 3 minutes pour qu'elles absorbent la sauce. Servir avec du riz blanc.", "Note de l'auteur : Ce plat peut être cuit jusqu'à 2 jours à l'avance et conservé au réfrigérateur. Servir à température ambiante."]
+
   },
   {
     "id": 104,
@@ -1293,11 +1297,15 @@
     "livreId": 2,
     "titre": "Curry d'ananas",
     "page": 52,
-    "categorie": "Plat",
+    "categorie": "Asiatique",
     "ingredientPrincipal": "Ananas",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 ananas moyen", "1 cuil. à café de graines de cardamome", "1 cuil. à café de graines de coriandre", "1 cuil. à café de graines de cumin", "1/2 cuil. à café de clous de girofle entiers", "2 cuil. à soupe d'huile", "2 oignons nouveaux, coupés en morceaux de 2 cm", "2 cuil. à café de gingembre frais râpé", "4 noix de Kimeri, grossièrement hachées", "250 ml d'eau", "1 cuil. à café de sambal oelek", "1 cuil. à soupe de menthe fraîche hachée"],
+"preparation": ["Peler l'ananas et le couper en deux. Ôter le trognon central et couper la pulpe en tronçons de 2 cm.", "Piler au mortier la cardamome, la coriandre, le cumin et les clous de girofle.", "Faire chauffer l'huile dans une poêle moyenne. Ajouter l'oignon nouveau, le gingembre, les noix et le mélange d'épices et faire sauter 3 minutes à feu doux.", "Verser l'eau, le sambal oelek, la menthe et l'ananas et porter à ébullition. Réduire le feu, couvrir et laisser frémir 10 minutes, jusqu'à ce que l'ananas soit tendre, mais il ne doit pas se défaire. Servir en accompagnement.", "Note de l'auteur : Si l'ananas est un peu acide, ajouter 1 à 2 cuil. à café de sucre. On peut le remplacer par une boîte de 450 g d'ananas en morceaux bien égoutté."]
+
   },
   {
     "id": 112,
@@ -1554,11 +1562,15 @@
     "livreId": 2,
     "titre": "Bœuf à la sauce de haricots noirs",
     "page": 46,
-    "categorie": "Plat",
+    "categorie": "Asiatique, Boeuf",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0527.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 cuil. à soupe de haricots noirs en boîte", "1 oignon moyen", "1 petit poivron rouge", "1 petit poivron vert", "2 cuil. à café de Maïzena", "125 ml de bouillon de bœuf", "2 cuil. à café de sauce de soja", "1 cuil. à café de sucre", "2 cuil. à soupe d'huile", "1 cuil. à café d'ail finement écrasé", "1/4 de cuil. à café de poivre noir moulu", "400 g de rumsteak ou de filet de bœuf, finement émincé"],
+"preparation": ["Rincer les haricots dans plusieurs eaux, égoutter et écraser. Couper l'oignon en 4. Couper les poivrons en 2, égrainer et couper menu. Délayer la Maïzena dans le bouillon, ajouter la sauce de soja et le sucre.", "Faire chauffer 1 cuil. à soupe d'huile dans un wok ou une poêle en nappant bien le fond et les côtés. Ajouter l'ail, le poivre, l'oignon et les poivrons et faire sauter 1 minute à feu vif. Ôter du wok.", "Verser le reste de l'huile dans le wok. Faire sauter le bœuf 2 minutes à feu vif, jusqu'à coloration. Ajouter haricots, Maïzena délayée et légumes. Remuer jusqu'à ébullition et épaississement. Servir avec du riz."]
+
   },
   {
     "id": 135,
@@ -1602,11 +1614,15 @@
     "livreId": 2,
     "titre": "Bœuf et pak-choï",
     "page": 47,
-    "categorie": "Plat",
+    "categorie": "Boeuf, Asiatique",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-4/IMG_0529.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["600 g de pak-choï", "2 cuil. à soupe d'huile", "2 gousses d'ail, écrasées", "250 g de rumsteak, finement émincé", "2 cuil. à soupe de sauce de soja", "1 cuil. à soupe de xérès doux", "2 cuil. à soupe de basilic frais haché", "2 cuil. à café d'huile de sésame"],
+"preparation": ["Laver le pak-choï et l'égoutter. Couper les feuilles en fines lanières. Faire chauffer 1 cuil. à soupe d'huile dans un wok ou une poêle. Faire sauter l'ail 30 secondes.", "Faire chauffer le reste de l'huile. Faire sauter la viande 3 minutes par fournées à feu vif : elle doit être colorée mais pas complètement cuite. Ôter la viande du wok.", "Faire sauter le pak-choï pendant 30 secondes. Ajouter la viande, la sauce de soja et le xérès. Faire sauter 2 à 3 minutes, jusqu'à ce que la viande soit tendre.", "Ajouter le basilic et l'huile de sésame et bien remuer. Servir. Le cas échéant, décorer de lanières de poivron rouge.", "Note de l'auteur : Le choï-sam asiatique est d'une saveur similaire à celui du pak-choï et peut le remplacer dans ce plat. Les mini-pak-choï conviennent également."]
+
   },
   {
     "id": 139,
@@ -1745,11 +1761,15 @@
     "livreId": 2,
     "titre": "Filet de bœuf à la noix de coco",
     "page": 51,
-    "categorie": "Plat",
+    "categorie": "Asiatique, Boeuf",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0533.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de filet de bœuf", "2 gousses d'ail, écrasées", "2 cuil. à café de zeste de citron finement râpé", "1 cuil. à café de gingembre frais râpé", "2 cuil. à café de coriandre moulue", "1/2 cuil. à café de curcuma moulu", "2 cuil. à café de sucre de palme râpé ou de cassonade", "3 cuil. à soupe d'huile d'arachide", "45 g de noix de coco déshydratée", "3 oignons nouveaux, coupés en fines lanières", "125 ml de lait de coco"],
+"preparation": ["Émincer le bœuf en lamelles. Mélanger ail, zeste, gingembre, coriandre, curcuma, sucre de palme et 2 cuil. à soupe d'huile. Ajouter le bœuf, remuer, couvrir et réfrigérer 1 heure.", "Faire chauffer le reste de l'huile dans un wok et faire sauter le bœuf par fournées. Ajouter la noix de coco et l'oignon nouveau et faire sauter 1 minute. Remettre toute la viande dans le wok avec le lait de coco. Réchauffer en remuant. Servir avec du riz."]
+
   },
   {
     "id": 152,
@@ -1789,22 +1809,30 @@
     "livreId": 2,
     "titre": "Mee goreng",
     "page": 59,
-    "categorie": "Plat",
+    "categorie": "Poisson, Asiatique",
     "ingredientPrincipal": "Nouilles",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0548.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de crevettes crues", "250 g de rumsteak", "1 gros oignon, finement haché", "2 gousses d'ail, finement hachées", "2 piments rouges, égrainés et hachés menu", "2 cm de gingembre frais, râpé", "60 ml d'huile", "350 g de nouilles hokkien, démêlées avec précaution", "4 oignons nouveaux, hachés", "1 grosse carotte, coupée en allumettes de 4 cm de longueur", "2 branches de céleri, coupées en allumettes de 4 cm de longueur", "1 cuil. à soupe de kecap manis", "1 cuil. à soupe de sauce de soja", "1 cuil. à soupe de sauce tomate", "Oignons nouveaux, pour décorer"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Émincer la viande en fines lamelles.", "Passer au mixer l'oignon, l'ail, le piment et le gingembre ou les piler au mortier pour obtenir une pâte. Ajouter un peu d'huile si nécessaire. Réserver.", "Faire chauffer 1 cuil. à soupe d'huile dans un grand wok. Ajouter les nouilles et faire sauter à feu modéré jusqu'à ce qu'elles soient chaudes et gonflées. Dresser sur un plat de service et couvrir pour tenir au chaud.", "Verser 1 cuil. à soupe d'huile dans le wok, ajouter la pâte et faire dorer. Ajouter les crevettes, la viande, l'oignon nouveau, la carotte et le céleri et faire sauter 2 à 3 minutes. Ajouter le kecap manis, la sauce de soja et la sauce tomate. Saler et poivrer. Répartir le mélange sur les nouilles et décorer d'oignons nouveaux. Servir sans attendre."]
+
   },
   {
     "id": 156,
     "livreId": 2,
     "titre": "Nasi goreng",
     "page": 50,
-    "categorie": "Plat",
+    "categorie": "Asiatique",
     "ingredientPrincipal": "Riz",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0531.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 œufs", "1/4 de cuil. à café de sel", "80 ml d'huile", "3 gousses d'ail, finement hachées", "1 oignon, finement haché", "2 piments rouges, égrainés et hachés menu", "1 cuil. à café de pâte de crevettes", "1 cuil. à café de graines de coriandre", "1/2 cuil. à café de sucre", "400 g de crevettes crues, décortiquées et boyau ôté", "200 g de rumsteak, finement émincé", "200 g de riz long, cuit et refroidi", "2 cuil. à café de kecap manis", "1 cuil. à soupe de sauce de soja", "4 oignons nouveaux, finement émincés", "1/2 laitue, coupée en fines lanières", "1 concombre, coupé en fines rondelles", "3 cuil. à soupe d'oignon frit"],
+"preparation": ["Battre les œufs et le sel en un mélange mousseux. Faire chauffer une poêle et l'huiler légèrement. Verser un quart des œufs battus et faire cuire 1 à 2 minutes à feu moyen. Retourner l'omelette et faire cuire 30 secondes. Ôter de la poêle et faire cuire le reste des œufs de la même façon. Lorsque les omelettes sont froides, les rouler avec précaution et les couper en fines lanières. Réserver.", "Dans un mortier ou un mixer, réduire en pâte l'ail, l'oignon, le piment, la pâte de crevettes, la coriandre et le sucre.", "Faire chauffer 1 à 2 cuil. à soupe d'huile dans un wok ou une grande poêle. Ajouter la pâte et faire cuire 1 minute à feu vif. Ajouter les crevettes et la viande et faire sauter 2 à 3 minutes, jusqu'à coloration.", "Verser le reste de l'huile et le riz froid dans le wok. Faire sauter, en cassant les agrégats, jusqu'à ce que le riz soit chaud. Ajouter le kecap manis, la sauce de soja et l'oignon nouveau et faire sauter 1 minute.", "Tapisser de laitue le bord d'un grand plat. Placer le riz au centre et répartir les lanières d'omelette, les rondelles de concombre et l'oignon frit. Servir."]
+
   },
   {
     "id": 157,
@@ -1947,11 +1975,15 @@
     "livreId": 2,
     "titre": "Gambas aux cacahuètes",
     "page": 53,
-    "categorie": "Plat",
+    "categorie": "Asiatique, Poisson",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0537.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1,25 kg de gambas crues", "4 oignons nouveaux, hachés", "1 gousse d'ail, écrasée", "1 cuil. à café de gingembre frais râpé", "1 cuil. à café de sambal oelek", "1 cuil. à café de coriandre moulue", "1/2 cuil. à café de curcuma moulu", "1 cuil. à café de zeste de citron râpé", "1 cuil. à soupe de jus de citron", "110 g de cacahuètes non salées, grillées et hachées", "2 cuil. à soupe d'huile d'arachide"],
+"preparation": ["Décortiquer les gambas, sauf la queue, et ôter le boyau.", "Mélanger les gambas avec l'oignon, l'ail, le gingembre, le sambal oelek, la coriandre, le curcuma, le zeste et le jus de citron et les cacahuètes. Couvrir et réfrigérer 1 heure.", "Faire chauffer l'huile dans une poêle. Verser le mélange aux gambas et faire sauter 3 minutes à feu vif, jusqu'à ce que les gambas soient cuites. Servir avec du riz."]
+
   },
   {
     "id": 170,
@@ -2513,11 +2545,15 @@
     "livreId": 2,
     "titre": "Curry de crevettes piquant",
     "page": 58,
-    "categorie": "Plat",
+    "categorie": "Poisson, Asiatique",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["PÂTE D'ÉPICES - 6 petits piments rouges séchés", "PÂTE D'ÉPICES - 1 cuil. à café de pâte de crevettes", "PÂTE D'ÉPICES - 1 cuil. à café de graines de coriandre", "PÂTE D'ÉPICES - 1 gros oignon rouge, haché", "PÂTE D'ÉPICES - 6 gousses d'ail", "PÂTE D'ÉPICES - 4 petits piments rouges, hachés", "PÂTE D'ÉPICES - 2 piments verts, hachés", "PÂTE D'ÉPICES - 4 cm de galanga frais, haché", "PÂTE D'ÉPICES - 1 tige de lemon-grass (partie blanche), coupée en rondelles", "PÂTE D'ÉPICES - 6 noix de Kimeri", "PÂTE D'ÉPICES - 1/2 cuil. à café de curcuma moulu", "PÂTE D'ÉPICES - 1 cuil. à soupe d'huile", "500 g de crevettes crues moyennes", "250 g d'ananas frais", "250 g de pommes de terre", "1 cuil. à soupe d'huile", "250 ml de lait de coco", "125 ml d'eau", "2 cuil. à soupe de concentré de tamarin", "1 cuil. à café de sucre", "1 cuil. à café de sel"],
+"preparation": ["Pour la pâte d'épices, faire tremper les piments séchés dans de l'eau chaude jusqu'à ce qu'ils soient tendres. Égoutter. Emballer la pâte de crevettes dans de l'aluminium ménager et passer 1 à 2 minutes sous le gril. Griller à sec les graines de coriandre dans une petite poêle. Passer au mixer l'oignon, l'ail et les piments rouges séchés égouttés. Ajouter la pâte de crevettes, les graines de coriandre, le piment frais, le galanga et le lemon-grass et mixer de nouveau. Ajouter les noix, le curcuma et l'huile et mixer en une pâte onctueuse.", "Décortiquer les crevettes, sauf la queue, ôter le boyau. Couper l'ananas en morceaux. Couper les pommes de terre en cubes.", "Couvrir les pommes de terre d'eau dans une casserole et faire cuire 5 minutes : elles doivent être tendres. Égoutter et réserver.", "Faire chauffer l'huile dans un wok ou une poêle. Verser la pâte d'épices et faire cuire 5 minutes à feu moyen en remuant. Ajouter l'ananas, la pomme de terre, le lait de coco et l'eau. Porter à ébullition. Réduire le feu, ajouter les crevettes et laisser mijoter 5 minutes. Ajouter le tamarin, le sucre et le sel. Servir avec du riz à la vapeur."]
+
   },
   {
     "id": 220,
@@ -3489,11 +3525,15 @@
     "livreId": 2,
     "titre": "Darnes de poisson épicées",
     "page": 58,
-    "categorie": "Plat",
+    "categorie": "Poisson, Asiatique",
     "ingredientPrincipal": "Poisson",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0546.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe d'huile", "1 oignon moyen, haché menu", "2 gousses d'ail, finement hachées", "5 cm de gingembre frais, finement râpé", "1 cuil. à café de coriandre moulue", "1 tige de lemon-grass (partie blanche), finement hachée", "2 cuil. à café de concentré de tamarin", "2 cuil. à café de zeste de citron râpé très fin", "4 darnes de poisson peu épaisses (cabillaud, etc.)", "Quartiers de citron, pour décorer"],
+"preparation": ["Préchauffer le four à 160°C (th. 2-3).", "Faire chauffer l'huile dans une poêle. Faire revenir l'oignon, l'ail, le gingembre, la coriandre et le lemon-grass pendant 5 minutes à feu modéré.", "Incorporer le tamarin, le zeste de citron, et poivrer à volonté. Ôter du feu et réserver jusqu'à complet refroidissement.", "Tapisser un plat d'aluminium ménager légèrement huilé pour empêcher le poisson de coller. Placer les darnes sur une seule couche et faire cuire 10 minutes. Retourner, enduire de pâte d'épices et faire cuire encore 8 minutes, jusqu'à ce que la chair s'émiette sous la fourchette (ne pas trop la cuire, il se dessècherait). Décorer des quartiers de citron et servir avec du riz.", "Note de l'auteur : Si les darnes sont épaisses, prolonger la cuisson en conséquence."]
+
   },
   {
     "id": 308,
@@ -4265,22 +4305,30 @@
     "livreId": 2,
     "titre": "Porc à l'aigre-douce",
     "page": 42,
-    "categorie": "Plat",
+    "categorie": "Porc, Asiatique",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1/2 cuil. à café de sel", "350 g de pointe de porc, coupée en morceaux", "2 œufs, légèrement battus", "4 cuil. à soupe de Maïzena", "Huile à friture", "1 carotte moyenne, très finement émincée", "1 oignon moyen, coupé en 8", "160 g d'ananas frais, haché", "1/2 poivron rouge moyen, coupé en morceaux", "1/2 poivron vert moyen, coupé en morceaux", "1 branche de céleri, émincée", "75 g de légumes chinois en pickles, grossièrement hachés", "3 cuil. à soupe de vinaigre blanc", "3 cuil. à soupe de sauce de soja", "2 cuil. à soupe de concentré de tomates", "2 cuil. à soupe de sucre en poudre", "2 cuil. à soupe de jus d'orange", "2 cuil. à café de Maïzena, délayée dans 1 cuil. à soupe d'eau"],
+"preparation": ["Frotter le porc avec le sel. Rouler chaque morceau dans l'œuf, puis dans la Maïzena. Mettre la viande en une seule couche sur un plat.", "Faire chauffer l'huile dans un wok à feu moyen. Plonger 4 morceaux de viande et faire dorer 3 minutes. Ôter à l'aide d'une écumoire et égoutter sur du papier absorbant. Procéder de la même façon pour le reste de la viande.", "Vider l'huile du wok en ne conservant que 1 cuil. à soupe. Réchauffer et faire sauter la carotte, l'oignon et l'ananas pendant 2 minutes (la carotte doit être tendre). Ajouter poivron rouge et vert, céleri et pickles et faire cuire encore 2 minutes.", "Dans un petit bol, mélanger le vinaigre, la sauce de soja, le concentré de tomates, le sucre et le jus d'orange. Incorporer la Maïzena délayée et bien mélanger. Verser sur les légumes et laisser frémir en remuant jusqu'à léger épaississement de la sauce. Ajouter la viande et mélanger pour l'enrober de sauce. Dresser sur un plat et servir.", "Note de l'auteur : Une fois fariné, le porc doit être frit rapidement pour ne pas devenir collant."]
+
   },
   {
     "id": 376,
     "livreId": 2,
     "titre": "Porc à la sauce de prune",
     "page": 44,
-    "categorie": "Plat",
+    "categorie": "Porc, Asiatique",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 cuil. à soupe d'huile", "2 gousses d'ail, finement hachées", "1 gros oignon, coupé en 12", "500 g de pointe de porc, finement émincée", "2 cuil. à soupe de Maïzena", "1/2 cuil. à café de sucre", "3 cuil. à soupe de sauce de prune", "1 cuil. à soupe de sauce de soja", "2 cuil. à café de sauce hoisin"],
+"preparation": ["Faire chauffer 1 cuil. à soupe d'huile dans un wok et faire fondre l'ail et l'oignon. Transférer dans un plat. Ôter le wok du feu.", "Rouler les lamelles de porc dans la Maïzena, saler et poivrer. Verser le reste de l'huile dans le wok et faire chauffer. Lorsque le wok est très chaud, faire dorer le porc en deux fournées. Remettre toute la viande et ses sucs dans le wok.", "Ajouter la sauce de prune, la sauce de soja, la sauce hoisin, l'ail et l'oignon. Bien remuer pour enrober la viande. Servir."]
+
   },
   {
     "id": 377,
@@ -4408,11 +4456,15 @@
     "livreId": 2,
     "titre": "San choy bau",
     "page": 46,
-    "categorie": "Entrée",
+    "categorie": "Asiatique, Entrée",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 champignons chinois séchés", "2 cuil. à soupe d'huile", "200 g de porc pas trop maigre, haché", "100 g de poulet, haché", "2 gousses d'ail, finement hachées", "3 cm de gingembre frais, finement râpé", "1 branche de céleri, finement hachée", "50 g de haricots verts, finement émincés", "1/4 de poivron rouge, finement haché", "50 g de châtaignes d'eau, hachées", "2 cuil. à soupe de sauce d'huîtres", "1 cuil. à soupe de sauce de soja", "2 cuil. à café de sauce Golden Mountain", "1/4 de cuil. à café de sucre", "1 laitue Iceberg"],
+"preparation": ["Faire tremper les champignons dans de l'eau chaude pendant 20 minutes. Égoutter, ôter le pied et hacher finement les chapeaux.", "Faire chauffer la moitié de l'huile dans un wok et faire colorer porc, poulet, ail et gingembre. Ajouter céleri, haricots et poivron et cuire 3 minutes. Ajouter les châtaignes, les champignons, les trois sauces (huîtres, soja et Golden Mountain), le sucre. Saler et poivrer.", "Pour servir, séparer les feuilles de laitue et placer 1 cuil. à soupe bombée de farce sur chacune. Rouler et manger avec les doigts.", "Note de l'auteur : Si le porc est trop maigre, la farce sera sèche."]
+
   },
   {
     "id": 389,
@@ -4529,11 +4581,15 @@
     "livreId": 2,
     "titre": "Coquelets rôtis au citron",
     "page": 52,
-    "categorie": "Plat",
+    "categorie": "Poulet, Asiatique",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0535.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["4 coquelets d'environ 500 g chacun", "2 oignons moyens, hachés", "1 oignon nouveau, haché", "2 piments rouges, hachés", "2 gousses d'ail, écrasées", "60 ml d'huile d'arachide", "60 ml de jus de citron"],
+"preparation": ["Couper les coquelets en deux dans la longueur et aplatir chaque moitié.", "Dans un mixer, réduire l'oignon, l'oignon nouveau, le piment, l'ail, l'huile et le jus de citron en une purée onctueuse. Répartir la purée sur les coquelets, couvrir et laisser mariner 1 heure ou 1 nuit au réfrigérateur.", "Préchauffer le four à 180°C (th. 4). Ôter les coquelets de la marinade en réservant celle-ci. Les placer sur une seule couche dans un plat. Faire cuire 40 minutes, jusqu'à ce qu'ils soient cuits et dorés, en les arrosant régulièrement de marinade. Servir avec du riz ou des nouilles et un plat de légumes."]
+
   },
   {
     "id": 400,
@@ -4735,11 +4791,15 @@
     "livreId": 2,
     "titre": "Poulet épicé à l'indonésienne",
     "page": 53,
-    "categorie": "Plat",
+    "categorie": "Poulet, Asiatique",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1,5 kg de cuisses de poulet", "1 gros oignon, grossièrement haché", "2 cuil. à café d'ail écrasé", "1 cuil. à café de gingembre frais râpé", "1/2 cuil. à café de curcuma moulu", "1/2 cuil. à café de poivre moulu", "2 cuil. à café de coriandre moulue", "1 cuil. à café de sel", "3 lanières de zeste de citron ou 3 feuilles fraîches de citron kaffir", "410 ml de lait de coco", "250 ml d'eau", "2 cuil. à café de sucre de palme râpé ou de cassonade"],
+"preparation": ["Laver le poulet à l'eau froide. L'essuyer à l'aide de papier absorbant. Le cas échéant, le dégraisser.", "Mettre l'oignon, l'ail et le gingembre dans un mixer et réduire en une purée homogène, en ajoutant un peu d'eau si nécessaire.", "Mettre le poulet, le mélange à l'oignon et le reste des ingrédients dans une poêle et porter lentement à ébullition. Réduire le feu, couvrir et laisser mijoter 45 minutes, en remuant de temps à autre, jusqu'à ce que le poulet soit tendre. Dresser sur un plat et ôter le zeste ou les feuilles de citron.", "Porter à ébullition la sauce restant dans la poêle, augmenter le feu et faire cuire, sans couvrir, jusqu'à épaississement, en remuant de temps à autre.", "Poser le poulet sur une grille légèrement huilée et faire dorer des deux côtés sous le gril. Servir le poulet nappé de la sauce ou avec la sauce à part."]
+
   },
   {
     "id": 418,
@@ -4757,11 +4817,15 @@
     "livreId": 2,
     "titre": "Poulet fumé au cinq-épices",
     "page": 43,
-    "categorie": "Plat",
+    "categorie": "Poulet, Asiatique",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0521.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 poulet de 1,7 kg", "60 ml de sauce de soja", "1 cuil. à soupe de gingembre finement râpé", "2 morceaux moyens de zeste séché de mandarine ou de tangerine", "1 anis étoilé", "1/4 de cuil. à café de cinq-épices", "3 cuil. à soupe de cassonade"],
+"preparation": ["Laver le poulet à l'eau froide. Essuyer à l'aide de papier absorbant. Ôter les gros morceaux de graisse à l'intérieur.", "Placer le poulet, la sauce de soja et le gingembre dans une jatte. Couvrir et laisser mariner 4 heures (ou une nuit) au réfrigérateur, en le retournant de temps en temps.", "Poser une grille au fond d'une cocotte. Remplir d'eau à hauteur de la grille. Placer le poulet dessus. Porter à ébullition, couvrir hermétiquement, réduire le feu et faire étuver 15 minutes. Éteindre le feu et laisser reposer, à couvert, 15 minutes de plus. Transférer le poulet dans une jatte.", "Laver la cocotte et la tapisser de 3 ou 4 grandes feuilles d'aluminium ménager. Piler au mortier (ou passer au mixer) le zeste séché et l'anis étoilé jusqu'à l'obtention d'une chapelure grossière. Ajouter le cinq-épices et le sucre. Saupoudrer l'aluminium ménager de ce mélange.", "Remettre la grille dans la cocotte et le poulet dessus. Placer la cocotte à feu moyen et, quand les épices commencent à fumer, couvrir hermétiquement. Réduire le feu et faire fumer le poulet pendant 20 minutes. Vérifier la cuisson en perçant une cuisse avec la pointe d'un couteau : les sucs doivent être transparents. Ôter le poulet et le découper à la chinoise. À ce stade, la chaleur produite est extrêmement forte : laisser refroidir la cocotte sur la cuisinière avant d'y toucher."]
+
   },
   {
     "id": 420,
@@ -4779,11 +4843,15 @@
     "livreId": 2,
     "titre": "Poulet rôti épicé",
     "page": 56,
-    "categorie": "Plat",
+    "categorie": "Poulet, Asiatique",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-4/IMG_0542.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 poulet de 1,6 kg", "3 cuil. à café de piments rouges hachés", "3 gousses d'ail", "2 cuil. à café de grains de poivre concassés", "2 cuil. à café de cassonade", "2 cuil. à soupe de sauce de soja", "2 cuil. à café de curcuma moulu", "1 cuil. à soupe de jus de citron vert", "30 g de beurre, coupé en dés"],
+"preparation": ["Préchauffer le four à 180°C (th. 4).", "À l'aide d'un fendoir, découper le poulet en deux dans la longueur. Pour que les ailes ne brûlent pas pendant la cuisson, les replier dessous. Placer les demi-poulets, peau au-dessus, sur une grille posée sur un plat. Faire rôtir 30 minutes.", "Pendant ce temps, passer le piment, l'ail, les grains de poivre concassés et le sucre au mixer ou au mortier, jusqu'à l'obtention d'une pâte homogène. Ajouter la sauce de soja, le curcuma et le jus de citron vert et bien mélanger.", "Badigeonner les moitiés de poulet du mélange épicé, répartir les dés de beurre sur le poulet et faire rôtir 25 à 30 minutes supplémentaires, jusqu'à ce qu'il soit cuit et bien rouge. Servir chaud ou à température ambiante."]
+
   },
   {
     "id": 422,
@@ -5150,11 +5218,15 @@
     "livreId": 2,
     "titre": "Légumes sautés",
     "page": 45,
-    "categorie": "Accompagnement",
+    "categorie": "Legumes, Asiatique, Accompagnement",
     "ingredientPrincipal": "Légumes",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 carotte", "1 poivron rouge", "125 g de haricots verts", "1 cuil. à soupe d'huile", "1 cuil. à café d'ail finement haché", "200 g de champignons de paille", "1 1/2 cuil. à café de Maïzena", "80 ml de bouillon de volaille", "1 cuil. à café d'huile de sésame", "1 cuil. à café de sucre en poudre", "2 cuil. à café de sauce de soja"],
+"preparation": ["Émincer finement la carotte. Égrainer le poivron et le couper en morceaux de 4 cm. Équeuter les haricots et les couper en deux.", "Faire chauffer l'huile dans un wok ou une poêle en nappant bien le fond et les côtés. Faire sauter la carotte 30 secondes à feu vif. Ajouter l'ail et le reste des légumes et faire frire 2 minutes à feu vif : ils doivent être croquants et fermes.", "Délayer la Maïzena dans un peu de bouillon, ajouter le reste du bouillon, l'huile, le sucre et la sauce de soja. Verser dans le wok et remuer : la sauce doit bouillir et épaissir. Servir avec du riz à la vapeur."]
+
   },
   {
     "id": 455,
@@ -5304,11 +5376,15 @@
     "livreId": 2,
     "titre": "Tofu épicé frit",
     "page": 51,
-    "categorie": "Entrée",
+    "categorie": "Asiatique,Entrée",
     "ingredientPrincipal": "Tofu",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["375 g de tofu ferme", "90 g de farine de riz", "2 cuil. à café de coriandre moulue", "1 cuil. à café de cardamome moulue", "1 gousse d'ail, écrasée", "125 ml d'eau", "Huile à friture"],
+"preparation": ["Égoutter le tofu et le couper en lamelles de 1 cm d'épaisseur.", "Dans un bol, mélanger la farine, la coriandre, la cardamome et l'ail. Verser l'eau et remuer en un mélange homogène.", "Faire chauffer l'huile dans une grande poêle. Rouler les lamelles de tofu dans le mélange d'épices en les enrobant bien. Plonger les lamelles 3 par 3 dans l'huile et faire dorer 2 minutes à feu modéré, jusqu'à ce qu'elles soient croustillantes. Égoutter sur du papier absorbant.", "Note de l'auteur : Servir le tofu avec des légumes sautés et la sauce de votre choix. Par exemple, une sauce à l'arachide, au piment ou une sauce de soja : le tofu absorbe les saveurs."]
+
   },
   {
     "id": 469,
