@@ -269,7 +269,6 @@
     "ingredients": ["1 t. de champignons de Paris émincés", "½ t. de feuilles de basilic", "¼ t. de noix de pin", "¼ t. de parmesan râpé", "Jus de 1 citron", "1 t. d'huile d'olive", "Sel et poivre"],
     "preparation": ["Dans le bol d'un robot culinaire, mixer les champignons, le basilic et les noix de pin.", "Ajouter le parmesan, le jus de citron et l'huile d'olive.", "Saler et poivrer.", "Mixer jusqu'à l'obtention d'une sauce granuleuse et épaisse.", "Conserver au frais."]
   },
-[
   {
     "id": 675, "livreId": 6, "titre": "Sauce aux porcini et jus de viande", "page": 50, "categorie": "Sauce", "ingredientPrincipal": "Champignon", "image": null, "favori": false, "statut": "Indexé",
     "ingredients": ["¾ t. de champignons porcini", "1 échalote française, émincée", "1 c. à table de beurre", "¼ t. de jus de viande ou fond de veau", "1 t. de crème 10%", "1 c. à table de ciboulette ciselée", "Sel et poivre"],
