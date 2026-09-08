@@ -4924,11 +4924,15 @@
     "livreId": 2,
     "titre": "Soupe de poulet au vermicelle et aux légumes",
     "page": 55,
-    "categorie": "Soupe",
+    "categorie": "Asiatique, Soupe",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de morceaux de poulet (pilons, cuisses, etc.)", "1,5 l d'eau", "6 oignons nouveaux, hachés", "1/4 de cuil. à café de sel", "1/4 de cuil. à café de poivre", "2 cm de gingembre frais, très finement émincé", "2 feuilles de laurier", "2 cuil. à soupe de sauce de soja", "100 g de vermicelle de riz séché", "50 g de feuilles d'épinards, grossièrement hachées", "2 branches de céleri, très finement émincées", "200 g de germes de soja", "Oignon frit, pour décorer", "Sauce au piment, pour servir"],
+"preparation": ["Mettre le poulet et l'eau dans une casserole et porter à ébullition. Écumer. Ajouter l'oignon nouveau, le gingembre, le laurier, le sel, le poivre et la sauce de soja. Réduire le feu et laisser frémir 30 minutes.", "Mettre le vermicelle dans une jatte. Couvrir d'eau et laisser tremper 10 minutes. Égoutter.", "Dresser le vermicelle, les épinards, le céleri et les germes de soja sur un grand bol. Chaque convive met du poulet, ajoute du bouillon et des légumes dans un grand bol, arrose de soupe, ajoute du poulet, parsème d'oignon frit et assaisonne avec la sauce au piment.", "Note de l'auteur : La sauce tient sa saveur du beurre de cacahuètes frais, en vente dans les magasins de diététique. Ne pas trop cuire les légumes : ils doivent être tendres mais croquants."]
+
   },
   {
     "id": 429,
