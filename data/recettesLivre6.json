@@ -539,7 +539,6 @@
     "ingredients": ["1 t. de courge en dés", "1 filet d'huile de noisettes", "2 t. de bouillon de légumes", "1 t. de crème 15%", "⅓ t. de noisettes concassées et grillées", "Sel et poivre"],
     "preparation": ["Dans un sautoir, faire revenir la courge dans l'huile jusqu'à coloration.", "Ajouter le bouillon de légumes.", "Laisser mijoter de 10 à 15 minutes et verser la crème.", "Saler, poivrer et mélanger la préparation.", "Mixer à l'aide d'un robot culinaire et ajouter les noisettes.", "Rectifier l'assaisonnement et conserver au chaud."]
   },
-  [
   {
     "id": 729, "livreId": 6, "titre": "Sauce aux flageolets et ail confit", "page": 68, "categorie": "Sauce", "ingredientPrincipal": "Flageolet", "image": null, "favori": false, "statut": "Indexé",
     "ingredients": ["½ t. de gousses d'ail pelées", "1 filet d'huile d'olive", "1 t. de flageolets cuits", "2 t. de bouillon de légumes", "1 pincée de thym", "Sel et poivre"],
