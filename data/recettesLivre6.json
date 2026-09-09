@@ -6,7 +6,7 @@
   },
   {
     "id": 622, "livreId": 6, "titre": "Sauce à l'ail et aux fines herbes", "page": 32, "categorie": "Sauce", "ingredientPrincipal": "Ail", "image": null, "favori": false, "statut": "Indexé",
-    "ingredients": ["1 t. de mayonnaise", "1 t. de yogourt nature", "3 c. à table d'ail finement haché", "⅓ t. de basilic haché", "⅓ t. de ciboulette ciselée", "¼ t. de jus de citron", "2 c. à table de vinaigre blanc", "Sel et poivre"],
+    "ingredients": ["1 t. de mayonnaise", "1 t. de yogourt nature", "3 c. à table d'ail  finement haché", "⅓ t. de basilic haché", "⅓ t. de ciboulette ciselée", "¼ t. de jus de citron", "2 c. à table de vinaigre blanc", "Sel et poivre"],
     "preparation": ["Dans un bol, déposer la mayonnaise et le yogourt.", "Saler et poivrer.", "Incorporer l'ail, le basilic et la ciboulette.", "Verser le jus de citron et le vinaigre.", "Bien mélanger à l'aide d'un fouet et conserver au frais."]
   },
   {
