@@ -6621,9 +6621,11 @@
     "page": 10,
     "categorie": "Condiment",
     "ingredientPrincipal": "Mayonnaise",
-    "image": "IMG_1749.jpeg",
+    "image": null,
     "favori": false,
-    "statut": "À indexer"
+    "statut": "indexer"
+    "ingredients": ["1/2 tasse de mayonnaise", "15 ml de sauce Sriracha"],
+    "preparation":["Tout melanger ensemble"]
   },
   {
     "id": 547,
