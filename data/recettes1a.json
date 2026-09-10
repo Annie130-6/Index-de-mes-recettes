@@ -6623,9 +6623,9 @@
     "ingredientPrincipal": "Mayonnaise",
     "image": null,
     "favori": false,
-    "statut": "indexer"
+    "statut": "Indexé"
     "ingredients": ["1/2 tasse de mayonnaise", "15 ml de sauce Sriracha"],
-    "preparation":["Tout melanger ensemble."]
+    "preparation": ["Tout melanger ensemble."]
   },
   {
     "id": 547,
