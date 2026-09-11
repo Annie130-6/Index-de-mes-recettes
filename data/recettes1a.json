@@ -19436,7 +19436,6 @@
   "Variante : remplacer les poivrons par des tranches de papaye.",
   "Note : *consulter la recette à la section Garnitures, à la page 46."
 ]
-
   },
   {
     "id": 2441,
@@ -19445,9 +19444,36 @@
     "page": 146,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce tomate de base",
+    "Huile d'olive",
+    "GARNITURES - 1 aubergine moyenne",
+    "GARNITURES - 1 poivron rouge rôti",
+    "GARNITURES - 3 gousses d'ail émincées",
+    "GARNITURES - 9 olives Kalamata",
+    "GARNITURES - Huile d'olive",
+    "GARNITURES - 15 ml (1 c. à soupe) de parmesan",
+    "GARNITURES - 5 ml (1 c. à thé) d'origan séché",
+    "GARNITURES - 180 ml (3/4 tasse) de mozzarella râpée",
+    "GARNITURES - 125 ml (1/2 tasse) de feta en cubes",
+    "GARNITURES - Poivre du moulin",
+    "GARNITURES - Persil frais"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Piquer l'aubergine à la fourchette. La couper en quatre. Cuire au micro-ondes à température maximale environ 4 minutes (vérifier à 3 minutes). Laisser tiédir.",
+    "PIZZA SUR LE GRIL - Couper en morceaux ou en rondelles ainsi que les poivrons.",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza. Vaporiser d'huile d'olive et saupoudrer de parmesan. Garnir. Recouvrir de mozzarella et de feta.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Vaporiser d'huile d'olive. Terminer sous le gril du four 1 à 2 minutes, si désiré. Poivrer. Ajouter du persil frais ciselé au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Précuire l'aubergine 2 à 3 minutes au micro-ondes. Elle continuera de s'attendrir au four.",
+    "PIZZA AU FOUR - Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la pizza sur le gril. Vaporiser d'huile d'olive. Enfourner et cuire 8 à 10 minutes.",
+    "Note : L'aubergine se cuit au four à 220 à 240 °C (450 à 475 °F) environ 20 à 30 minutes."
+  ]
   },
   {
     "id": 2442,
@@ -19456,9 +19482,31 @@
     "page": 147,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Épinard",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-4/IMG_1293.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "Huile d'olive",
+    "GARNITURES - 500 ml (2 tasses) d'épinards hachés",
+    "GARNITURES - 1 à 2 gousses d'ail émincées",
+    "GARNITURES - 15 ml (1 c. à soupe) de noix de pin",
+    "GARNITURES - 15 ml (1 c. à soupe) de parmesan",
+    "GARNITURES - 16 mini-bocconcini",
+    "GARNITURES - Feuilles d'origan",
+    "GARNITURES - Poivre noir moulu",
+    "GARNITURES - Fleur de sel"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Griller les noix à sec quelques minutes. Réserver.",
+    "PIZZA SUR LE GRIL - Blanchir les épinards dans de l'eau bouillante salée. Égoutter et presser fortement contre la passoire pour enlever l'eau. Réserver.",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza d'un côté. Badigeonner la pâte à pizza cuite d'huile d'olive. Émietter les épinards. Ajouter le bocconcini et parsemer de noix.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Ajouter l'origan frais au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). On peut garnir avec des épinards crus.",
+    "PIZZA AU FOUR - Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la pizza sur le gril. Vaporiser d'huile d'olive. Enfourner et cuire environ 8 minutes."
+  ]
   },
   {
     "id": 2443,
@@ -19467,10 +19515,32 @@
     "page": 148,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Fromage",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
-  },
+   "image": "app-complete-4/IMG_1295.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de béchamel",
+    "Huile d'olive",
+    "GARNITURES - 250 ml (1 tasse) de Saint-Paulin en dés",
+    "GARNITURES - 125 ml (1/2 tasse) de noix de Grenoble hachées",
+    "GARNITURES - 1 à 2 pommes MacIntosh",
+    "GARNITURES - 1 oignon vert",
+    "GARNITURES - 1 brin d'estragon",
+    "GARNITURES - Poivre noir moulu"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Griller les noix à sec quelques minutes. Réserver.",
+    "PIZZA SUR LE GRIL - Couper les oignons verts et la pomme en tranches assez minces (6,5 mm/1/4 po). Réserver.",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza d'un côté. Verser la béchamel chaude sur la croûte à pizza cuite. Ajouter des feuilles d'estragon. Garnir.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Ajouter quelques feuilles d'estragon frais pour décorer. Poivrer au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 260 °C (500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Précuire la croûte à pizza piquée à la fourchette 5 minutes.",
+    "PIZZA AU FOUR - Garnir comme pour la pizza sur le gril mais réserver le fromage. Enfourner la pizza garnie sans fromage et cuire environ 8 minutes. Ajouter le Saint-Paulin hors du four et remettre au four chaud (éteint) de 1 à 2 minutes."
+  ]
+},
+
   {
     "id": 2444,
     "livreId": 15,
@@ -19478,9 +19548,27 @@
     "page": 149,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Oignon",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-4/IMG_1297.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 à 250 ml (1/2 à 1 tasse) de sauce béchamel",
+    "Huile d'olive",
+    "GARNITURES - 250 ml (1 tasse) d'oignons caramélisés",
+    "GARNITURES - 250 ml (1 tasse) de gruyère (d'emmenthal ou de raclette)",
+    "GARNITURES - Poivre noir du moulin",
+    "GARNITURES - Thym ou persil frais (facultatif)"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Griller la pizza d'un côté. Verser la béchamel chaude sur le côté cuit. Parsemer de la moitié du fromage. Garnir d'oignons caramélisés et du reste du fromage.",
+    "PIZZA SUR LE GRIL - Glisser la pizza du côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Vaporiser d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Ajouter l'herbe fraîche et poivrer au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Précuire la croûte à pizza piquée à la fourchette 5 à 8 minutes.",
+    "PIZZA AU FOUR - Garnir. Vaporiser d'huile. Cuire au four environ 8 minutes. Ajouter l'herbe fraîche et poivrer au moment de servir.",
+    "Note : Consulter la recette des oignons caramélisés à la section Garnitures, à la page 48."
+  ]
   },
   {
     "id": 2445,
@@ -19489,9 +19577,30 @@
     "page": 150,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Tofu",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1299.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de sauce tomate épicée",
+    "Huile d'olive",
+    "GARNITURES - 125 ml (1/2 tasse) de tofu à saveur de feta en cubes",
+    "GARNITURES - 15 ml (1 c. à soupe) de parmesan",
+    "GARNITURES - 500 ml (2 tasses) de légumes (artichauts, asperges, brocoli, chou-fleur, oignon)",
+    "GARNITURES - 30 ml (2 c. à soupe) d'olives noires ou vertes tranchées",
+    "GARNITURES - 125 à 250 ml (1/2 à 1 tasse) de fromage râpé (mozzarella, cheddar, brick)",
+    "GARNITURES - Persil frais ciselé"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Couper le tofu en dés. Trancher les légumes en bouchées. Les attendrir 4 à 5 minutes dans de l'eau bouillante salée (seulement 2 minutes pour les asperges). Réserver.",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza d'un côté. Vaporiser d'huile d'olive et saupoudrer de fromage parmesan le côté grillé.",
+    "PIZZA SUR LE GRIL - Garnir de légumes et du reste du fromage.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Vaporiser d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Ajouter des herbes fraîches au moment de servir et poivrer au goût.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la recette sur le gril. Enfourner la pizza vaporisée d'huile d'olive environ 8 à 10 minutes.",
+    "VARIANTE - Faire griller des légumes coupés en plus gros morceaux directement sur le gril ou dans une poêle en les ayant préalablement badigeonnés d'huile d'olive. Le tofu ferme régulier peut être utilisé une fois qu'on en a exprimé l'eau. On peut le faire griller avant de garnir la pizza."
+  ]
   },
   {
     "id": 2446,
@@ -19500,9 +19609,27 @@
     "page": 152,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Tomate",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de tomates italiennes épépinées",
+    "Huile d'olive",
+    "GARNITURES - 15 ml (1 c. à soupe) de romano",
+    "GARNITURES - 1 boule de mozzarella fraîche (ou l'équivalent de bocconcini)",
+    "GARNITURES - 10 feuilles de basilic",
+    "GARNITURES - Huile d'olive extra vierge"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Passer les tomates au robot culinaire pour obtenir un concassé, et non une purée. Trancher la mozzarella.",
+    "PIZZA SUR LE GRIL - Griller la pizza d'un côté. Vaporiser d'huile d'olive et saupoudrer de romano le côté grillé. Verser le concassé égoutté sur le côté le moins chaud du gril. Ajouter la mozzarella.",
+    "PIZZA SUR LE GRIL - Glisser la pizza jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Arroser d'un filet d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Ajouter le basilic ciselé ou en feuilles au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la version sur le gril. Enfourner la pizza garnie vaporisée d'huile d'olive 8 à 12 minutes.",
+    "Note : La mozzarella régulière est tout aussi délicieuse à servir. Ne pas hésiter à augmenter la quantité de sauce selon votre goût. On peut utiliser la sauce tomate de base. Remplacer le romano par du parmesan de qualité."
+  ]
   },
   {
     "id": 2447,
@@ -19511,9 +19638,28 @@
     "page": 153,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Pomme de terre",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1302.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "180 ml (3/4 tasse) de sauce béchamel",
+    "30 à 45 ml (2 à 3 c. à soupe) de pesto aux tomates",
+    "Huile d'olive",
+    "GARNITURES - 4 à 6 pommes de terre grelot",
+    "GARNITURES - 1 oignon vert haché",
+    "GARNITURES - 1 brin de romarin frais",
+    "GARNITURES - 250 ml (1 tasse) de cheddar moyen râpé (ou d'emmenthal, de suisse ou mélangés)",
+    "GARNITURES - Sel de mer et poivre noir moulu"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Piquer les pommes de terre à la fourchette. Cuire 1 à 1 1/2 minute au micro-ondes. Les couper en quatre (ou plus selon la grosseur).",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza d'un côté. Verser la béchamel chaude à l'aide d'une cuillère sur la croûte à pizza cuite. Garnir. Ajouter des cuillérées de pesto, suivies du fromage.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Vaporiser d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Poivrer au moment de servir.",
+    "VARIANTE - Remplacer le romarin par des herbes de Provence séchées ou du thym frais ou séché. On peut remplacer les pommes de terre grelot par 1 pomme de terre moyenne tranchée mince. Une courge précuite représente une délicieuse substitution, avec une pointe de fromage bleu et du chèvre."
+  ]
   },
   {
     "id": 2448,
@@ -19522,9 +19668,29 @@
     "page": 154,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Chèvre",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1304.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de sauce tomate de base",
+    "Huile d'olive",
+    "GARNITURES - 500 ml (2 tasses) de légumes en dés (courgette, poivron, céleri, oignon)",
+    "GARNITURES - 4 brins de ciboulette hachés (plus 2 à 3 pour garnir)",
+    "GARNITURES - 15 ml (1 c. à soupe) de romano ou pecorino",
+    "GARNITURES - 1/2 bûchette de fromage de chèvre",
+    "GARNITURES - 3 poivres moulus"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Trancher le fromage. Réserver.",
+    "PIZZA SUR LE GRIL - Couper les légumes en bouchées. Les faire revenir dans un peu d'huile d'olive pour les attendrir. Assaisonner. Réserver.",
+    "PIZZA SUR LE GRIL - Griller la croûte à pizza d'un côté. Vaporiser d'huile d'olive et saupoudrer un peu de romano et de ciboulette sur le côté grillé. Ajouter les légumes. Déposer les rondelles de fromage de chèvre.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Poivrer et garnir de brins de ciboulette au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la pizza sur le gril. Enfourner et cuire 8 à 10 minutes.",
+    "VARIANTE - Griller d'autres légumes coupés en plus gros morceaux directement sur le gril ou dans une poêle, préalablement badigeonnés d'huile d'olive. Remplacer le fromage de chèvre par du brie ou de l'emmenthal."
+  ]
   },
   {
     "id": 2449,
@@ -19533,9 +19699,31 @@
     "page": 155,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Ail",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce tomate de base",
+    "60 ml (1/4 tasse) de pesto au basilic et aux amandes (ou l'équivalent du commerce)",
+    "Huile d'olive",
+    "GARNITURES - 1 pomme de terre",
+    "GARNITURES - 8 gousses d'ail confites",
+    "GARNITURES - 30 ml (2 c. à soupe) d'olives vertes tranchées",
+    "GARNITURES - 2,5 ml (1/2 c. à thé) d'origan séché",
+    "GARNITURES - 125 ml (1/2 tasse) d'emmenthal en dés",
+    "GARNITURES - 125 ml (1/2 tasse) de fromage OKA régulier (ou aux champignons) en dés",
+    "GARNITURES - Poivre noir moulu"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Trancher la pomme de terre en fines rondelles (à l'aide d'une mandoline). Étaler les tranches dans une assiette. Cuire environ 30 secondes au micro-ondes. Réserver.",
+    "PIZZA SUR LE GRIL - Griller la pizza d'un côté. Verser la sauce et le pesto sur le côté grillé. Garnir. Verser un filet d'huile d'olive.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire. Passer sous le gril du four 1 à 2 minutes, si désiré.",
+    "PIZZA AU FOUR - Préchauffer le four à 260 °C (500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la pizza sur le gril sans cuisson préalable de la pomme de terre. Enfourner et cuire de 8 à 10 minutes.",
+    "VARIANTE - Faire rissoler des pommes de terre en dés à la poêle dans un peu d'huile d'olive. Utiliser votre fromage préféré, de la raclette, de la mozzarella, du cheddar ou tout autre fromage facile à râper.",
+    "Note : Consulter les recettes de l'ail confit et du pesto aux amandes à la section Garnitures, aux pages 43 et 44."
+  ]
   },
   {
     "id": 2450,
@@ -19544,9 +19732,30 @@
     "page": 156,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Tomate",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "45 ml (3 c. à soupe) de tapenade",
+    "Huile d'olive",
+    "GARNITURES - 2 à 3 tomates",
+    "GARNITURES - 2 à 3 gousses d'ail émincées (facultatif)",
+    "GARNITURES - 30 ml (2 c. à soupe) de parmesan",
+    "GARNITURES - 250 ml (1 tasse) de mozzarella",
+    "GARNITURES - Feuilles de basilic",
+    "GARNITURES - Sel de mer",
+    "GARNITURES - Poivre noir moulu"
+  ],
+  "preparation": [
+    "Trancher les tomates (environ 6,5 mm/1/4 po d'épaisseur). Les épépiner et les saler légèrement. Réserver. Émincer l'ail.",
+    "Griller la croûte à pizza d'un côté. Badigeonner de tapenade et saupoudrer de parmesan le côté grillé. Ajouter les tomates et l'ail et terminer avec la mozzarella.",
+    "Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "Vaporiser d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Ajouter les feuilles de basilic frais et poivrer au moment de servir.",
+    "REMARQUE - Choisir un autre fromage tel que l'emmenthal, le brick seul ou mélangé avec de la mozzarella.",
+    "Note : La tapenade est d'origine française, de la région de la Provence, et est faite de purée d'olives noires, d'anchois et d'huile d'olive."
+  ]
   },
   {
     "id": 2451,
@@ -19555,9 +19764,29 @@
     "page": 157,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Artichaut",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1308.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de sauce pizzaïola",
+    "Huile d'olive",
+    "GARNITURES - 6 fonds d'artichauts cuits (ou l'équivalent mariné ou en conserve)",
+    "GARNITURES - 1/2 poivron rouge",
+    "GARNITURES - 15 ml (1 c. à soupe) de parmesan",
+    "GARNITURES - 125 ml (1/2 tasse) de ricotta égouttée",
+    "GARNITURES - 125 ml (1/2 tasse) de mozzarella",
+    "GARNITURES - Poivre noir moulu",
+    "GARNITURES - Persil ciselé"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Couper les artichauts égouttés en bouchées. Trancher le poivron en lanières.",
+    "PIZZA SUR LE GRIL - Griller la pizza d'un côté. Vaporiser d'huile d'olive et saupoudrer de parmesan le côté grillé. Verser la sauce sur le côté grillé. Garnir en ajoutant la ricotta à l'aide d'une cuillère et finir avec la mozzarella.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Vaporiser d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Servir avec les herbes fraîches et poivrer au goût.",
+    "PIZZA AU FOUR - Préchauffer le four à 240 à 260 °C (475 à 500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Garnir comme pour la pizza sur le gril. Enfourner la pizza garnie vaporisée d'huile d'olive et cuire 10 à 12 minutes."
+  ]
   },
   {
     "id": 2452,
@@ -19566,9 +19795,34 @@
     "page": 158,
     "categorie": "Pizza végétarienne",
     "ingredientPrincipal": "Asperge",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1310.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de tomates italiennes",
+    "Huile d'olive",
+    "Sel de mer",
+    "GARNITURES - 15 ml (1 c. à soupe) de parmesan",
+    "GARNITURES - 10 à 12 asperges",
+    "GARNITURES - Jus de citron",
+    "GARNITURES - 250 ml (1 tasse) de mozzarella râpée",
+    "GARNITURES - 1 ml (1/4 c. à thé) de thym ou d'origan séché",
+    "GARNITURES - Huile d'olive",
+    "GARNITURES - Feuilles de basilic frais (facultatif)",
+    "GARNITURES - Sel de mer et poivre noir moulu"
+  ],
+  "preparation": [
+    "PIZZA SUR LE GRIL - Passer les tomates au robot culinaire pour obtenir un concassé, et non une purée. Y mélanger le thym séché et saler légèrement.",
+    "PIZZA SUR LE GRIL - Couper les tiges des asperges à 10 cm (4 po). Les cuire 2 minutes dans de l'eau bouillante salée. Les arroser de jus de citron. En poursuivre la cuisson sur le gril, au goût.",
+    "PIZZA SUR LE GRIL - Trancher la mozzarella. Griller la croûte à pizza d'un côté. Vaporiser d'huile d'olive et saupoudrer de fromage parmesan le côté grillé.",
+    "PIZZA SUR LE GRIL - Verser les tomates concassées égouttées à l'aide d'une cuillère. Ajouter la moitié de la mozzarella, les asperges et le reste du fromage.",
+    "PIZZA SUR LE GRIL - Glisser la pizza sur le côté le moins chaud du gril jusqu'à ce que la croûte du dessous soit bien cuite (environ 5 à 7 minutes) et fermer le couvercle pour faire fondre le fromage, si nécessaire.",
+    "PIZZA SUR LE GRIL - Arroser d'un filet d'huile d'olive. Passer sous le gril du four 1 à 2 minutes, si désiré. Ajouter le basilic ciselé ou en feuilles au moment de servir.",
+    "PIZZA AU FOUR - Préchauffer le four à 260 °C (500 °F). Façonner la pâte et l'étendre sur la plaque à cuisson. Étaler rapidement les tomates concassées sur la croûte. Garnir comme pour la version sur le gril.",
+    "PIZZA AU FOUR - Verser un filet d'huile d'olive. Enfourner et cuire environ 8 à 12 minutes, selon le type de croûte à pizza. Ajouter le basilic frais et poivrer, si désiré, au moment de servir."
+  ]
   },
   {
     "id": 2453,
@@ -19577,9 +19831,31 @@
     "page": 162,
     "categorie": "Salade",
     "ingredientPrincipal": "Thon",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1312.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "Bol à salade en croûte à pizza",
+    "1 petite laitue frisée",
+    "250 ml (1 tasse) de thon grillé en cubes ou 1 boîte de thon blanc (170 g/6 oz)",
+    "30 ml (2 c. à soupe) d'oignon rouge haché",
+    "1 poignée de noix de Grenoble",
+    "1 poignée de canneberges séchées",
+    "2 pêches",
+    "VINAIGRETTE - 30 ml (2 c. à soupe) d'huile de noisette",
+    "VINAIGRETTE - 15 ml (1 c. à soupe) de vinaigre de cidre",
+    "VINAIGRETTE - 5 ml (1 c. à thé) de miel",
+    "VINAIGRETTE - Sel de mer",
+    "VINAIGRETTE - Poivre noir moulu"
+  ],
+  "preparation": [
+    "Cuire la pâte à pizza comme indiqué dans la recette de base de bol à salade en croûte à pizza. Défaire en bouchées la laitue lavée, essorée et séchée.",
+    "Badigeonner la tranche de thon d'huile d'olive et la faire griller à la cuisson désirée. Trancher en cubes (ou égoutter le thon et l'émietter à l'aide d'une fourchette). Hacher les canneberges et les noix. Trancher les pêches en quartiers.",
+    "Émulsionner les ingrédients de la vinaigrette dans un saladier. Goûter et rectifier l'assaisonnement. Saler et poivrer au goût.",
+    "Incorporer la laitue, le thon, l'oignon, les noix et les canneberges dans le saladier. Mélanger délicatement.",
+    "Transférer la salade dans le bol en croûte à pizza. Garnir de quartiers de pêche. Servir immédiatement."
+  ]
   },
   {
     "id": 2454,
@@ -19588,10 +19864,22 @@
     "page": 163,
     "categorie": "Salade",
     "ingredientPrincipal": "Salade",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
-  },
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "1 bol en inox ou en verre de 19 cm (7 1/2 po) de diamètre",
+    "Huile d'olive"
+  ],
+  "preparation": [
+    "Le bol à salade en croûte à pizza est une façon originale de servir une bonne salade. Ne pas hésiter à utiliser une recette de pâte à pizza complète qui sera suffisante pour réaliser deux bols en croûte à pizza ou une pizza et un bol en croûte à pizza. Ainsi on peut profiter de la chaleur du four pour cuire ou précuire à l'avance une croûte à pizza.",
+    "Préchauffer le four à 240 °C (475 °F). Abaisser la pâte à l'aide d'un rouleau à pâtisserie sur une surface de travail légèrement enfarinée. Huiler l'extérieur du bol. Déposer la pâte sur le bol. Étirer au besoin. Découper la bordure.",
+    "Piquer la pâte un peu partout avec une fourchette. Déposer sur une plaque à cuisson huilée ou antiadhésive pour en faciliter la manipulation. Cuire environ 10 minutes.",
+    "Laisser tiédir hors du four. Démouler. Garnir d'une délicieuse salade, au goût. Conserver au réfrigérateur dans un sac plastique quelques jours."
+  ]
+ },
   {
     "id": 2455,
     "livreId": 15,
@@ -19599,9 +19887,33 @@
     "page": 164,
     "categorie": "Salade",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_1315.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "Bol à salade en croûte à pizza",
+    "375 ml (1 1/2 tasse) de crevettes grillées",
+    "750 ml (3 tasses) de melon en cubes (cantaloup ou pastèque)",
+    "3 branches de céleri en dés",
+    "500 ml (2 tasses) de mesclun",
+    "VINAIGRETTE - 60 ml (1/4 tasse) d'huile d'olive extra vierge",
+    "VINAIGRETTE - 10 ml (2 c. à thé) de jus de citron",
+    "VINAIGRETTE - 5 ml (1 c. à thé) de moutarde de Dijon",
+    "VINAIGRETTE - 2,5 ml (1/2 c. à thé) de miel",
+    "VINAIGRETTE - 1 petite gousse d'ail hachée fin",
+    "VINAIGRETTE - 60 ml (1/4 tasse) de feuilles de menthe ciselées",
+    "VINAIGRETTE - Fleur de sel",
+    "VINAIGRETTE - Poivre noir ou rose moulu"
+  ],
+  "preparation": [
+    "Cuire la pâte à pizza comme indiqué dans la recette de base de bol à salade en croûte à pizza à la page 163.",
+    "Préparer la vinaigrette dans un saladier en fouettant les ingrédients ensemble. Goûter et rectifier l'assaisonnement. Saler et poivrer au goût.",
+    "Griller les crevettes badigeonnées d'huile d'olive sur le gril ou dans un poêlon. Réserver.",
+    "Déposer de la laitue sur les parois du bol en croûte à pizza. Ajouter les autres ingrédients dans le saladier et touiller pour bien enrober de vinaigrette. Assaisonner au goût.",
+    "Transférer dans le bol en croûte à pizza. Garnir de feuilles de menthe. Donne 3 à 4 portions.",
+    "Note : Compter 2 portions pour une salade-repas et 4 pour une salade d'accompagnement ou une entrée."
+  ]
   },
   {
     "id": 2456,
@@ -19610,9 +19922,26 @@
     "page": 166,
     "categorie": "Salade",
     "ingredientPrincipal": "Légumes",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 petite laitue romaine ou en feuilles",
+    "VINAIGRETTE - 60 ml (1/4 tasse) d'huile d'olive extra vierge",
+    "VINAIGRETTE - 20 ml (4 c. à thé) de vinaigre balsamique",
+    "VINAIGRETTE - 2,5 ml (1/2 c. à thé) de moutarde de Dijon",
+    "VINAIGRETTE - 2,5 ml (1/2 c. à thé) de miel (facultatif)",
+    "VINAIGRETTE - 1 petite gousse d'ail hachée fin",
+    "VINAIGRETTE - 1 ml (1/4 c. à thé) de sel de mer",
+    "VINAIGRETTE - Poivre du moulin"
+  ],
+  "preparation": [
+    "Bien laver, essorer et sécher les feuilles de laitue. Couper en bouchées et conserver au réfrigérateur jusqu'au moment de servir.",
+    "Préparer la vinaigrette en déposant les ingrédients dans un saladier. Fouetter à l'aide d'une fourchette ou d'un petit fouet. Saler et poivrer au goût. Goûter et rectifier l'assaisonnement.",
+    "Ajouter la laitue et touiller légèrement pour bien enrober. Servir immédiatement.",
+    "Note : On peut présenter cette salade dans un bol à salade en croûte à pizza. Compter 2 portions pour une salade-repas et 4 pour une salade d'accompagnement ou une entrée."
+  ]
   },
   {
     "id": 2457,
@@ -19621,20 +19950,36 @@
     "page": 167,
     "categorie": "Salade",
     "ingredientPrincipal": "Salade",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1318.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "Bol à salade en croûte à pizza",
+    "625 ml (2 1/2 tasses) de fraises en morceaux",
+    "625 ml (2 1/2 tasses) de mangue en morceaux",
+    "Feuilles de coriandre ciselées",
+    "1 laitue Boston (facultatif)",
+    "Jus de lime ou de citron (facultatif)"
+  ],
+  "preparation": [
+    "Cuire la pâte à pizza comme indiqué dans la recette de base de bol à salade en croûte à pizza à la page 163.",
+    "Dans un saladier, mélanger les fruits avec la coriandre ciselée et le jus de lime, si désiré. Conserver au froid, scellé dans de la pellicule plastique ou dans un contenant hermétique jusqu'au moment de servir.",
+    "Laver, essorer et sécher suffisamment de feuilles de laitue (4 à 5). Conserver le cœur pour un autre usage. Garnir les parois du bol en croûte à pizza de feuilles de laitue.",
+    "Verser la salade de fruits. Servir immédiatement.",
+    "VARIANTE - Remplacer les feuilles de coriandre par de la menthe fraîche."
+  ]
   },
   {
     "id": 2458,
-    "livreId": 15,
-    "titre": "Recettes de calzone",
-    "page": 168,
-    "categorie": "Base",
-    "ingredientPrincipal": "Farine",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "livreId": ,
+    "titre": "",
+    "page": ,
+    "categorie": "",
+    "ingredientPrincipal": "",
+    "image": "",
+    "favori": ,
+    "statut": ""
   },
   {
     "id": 2459,
@@ -19643,9 +19988,28 @@
     "page": 169,
     "categorie": "Calzone",
     "ingredientPrincipal": "Tomate",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza traditionnelle",
+    "125 ml (1/2 tasse) de sauce béchamel",
+    "30 ml (2 c. à soupe) de tapenade",
+    "FARCE - 250 ml (1 tasse) de tomates italiennes épépinées",
+    "FARCE - 180 ml (1/3 tasse) de saucisson figatelli haché",
+    "FARCE - 1 ml (1/4 c. à thé) d'origan séché",
+    "FARCE - Pincée de sel de mer",
+    "FARCE - Poivre moulu",
+    "GARNITURES - 250 ml (1 tasse) de mozzarella",
+    "GARNITURES - Yogourt nature"
+  ],
+  "preparation": [
+    "Préchauffer le four à 260 °C (500 °F). Concasser les tomates dans un robot culinaire sans les réduire en purée et les égoutter dans une passoire, si nécessaire. Mélanger les ingrédients de la farce. Réserver.",
+    "Façonner la pâte à pizza en forme de cercle. Étendre la tapenade sur la moitié de la pâte en conservant une bordure. Ajouter une partie de la mozzarella. Déposer la farce. Ajouter le reste du fromage.",
+    "Fermer en pinçant la pâte. Badigeonner de yogourt ou d'un jaune d'œuf battu. Enfourner et cuire 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir.",
+    "Note : Originaire de la Corse, le saucisson figatelli est fait avec du foie de porc parfumé d'épices et de nombreuses gousses d'ail. On retrouve une version respectable dans nos marchés, fabriquée au Québec, aux Îles de la Madeleine."
+  ]
   },
   {
     "id": 2460,
@@ -19654,9 +20018,28 @@
     "page": 170,
     "categorie": "Calzone",
     "ingredientPrincipal": "Épinard",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce béchamel",
+    "FARCE - 2 à 3 tranches de porchetta hachée",
+    "FARCE - 500 ml (2 tasses) d'épinards hachés",
+    "FARCE - 15 ml (1 c. à soupe) de ciboulette hachée",
+    "FARCE - 125 ml (1/2 tasse) de ricotta égouttée",
+    "FARCE - 1 œuf battu",
+    "FARCE - Poivre moulu",
+    "GARNITURES - 250 ml (1 tasse) de mozzarella râpée",
+    "GARNITURES - 1 jaune d'œuf (pour badigeonner)"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Mélanger les ingrédients de la farce. Poivrer au goût.",
+    "Façonner la pâte à pizza en forme de cercle. Verser rapidement la sauce béchamel sur la moitié de la pâte en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte (mouiller au jaune d'œuf ou avec un peu d'eau). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir.",
+    "VARIANTE - Utiliser des tranches de jambon ou du bacon préalablement cuit pour remplacer la porchetta."
+  ]
   },
   {
     "id": 2461,
@@ -19665,9 +20048,24 @@
     "page": 171,
     "categorie": "Calzone",
     "ingredientPrincipal": "Brocoli",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "FARCE - 2 tranches de jambon hachées",
+    "FARCE - 500 ml (2 tasses) d'épinards hachés",
+    "FARCE - 125 ml (1/2 tasse) de sauce béchamel",
+    "GARNITURES - 125 ml (1/2 tasse) de fromage suisse (jarlsberg, emmenthal)",
+    "GARNITURES - 125 ml (1/2 tasse) de mozzarella",
+    "GARNITURES - 1 jaune d'œuf battu (pour badigeonner)"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Blanchir les épinards et les passer sous l'eau froide en les pressant pour enlever l'eau.",
+    "Façonner la pâte à pizza en forme de cercle. Verser rapidement la sauce béchamel sur la moitié de la pâte en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte (mouiller au jaune d'œuf). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir."
+  ]
   },
   {
     "id": 2462,
@@ -19676,9 +20074,28 @@
     "page": 172,
     "categorie": "Calzone",
     "ingredientPrincipal": "Truite",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+      "image": "app-complete-4/IMG_1325.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce béchamel",
+    "FARCE - 1 pavé (env. 250 ml/1 tasse) de truite saumonée",
+    "FARCE - 1 tranche de truite fumée",
+    "FARCE - 2 oignons verts hachés (ou de l'oignon doux tranché)",
+    "FARCE - Feuilles de romarin",
+    "GARNITURES - 125 ml (1/2 tasse) de fromage fumé coupé en dés (gruyère, gouda, jarlsberg)",
+    "GARNITURES - 125 ml (1/2 tasse) de cheddar",
+    "GARNITURES - Poivre noir moulu",
+    "GARNITURES - 1 jaune d'œuf"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Faire suer les oignons verts dans un peu de beurre et d'huile d'olive. Couper la truite crue en bouchées. Hacher quelques feuilles de romarin finement. Mélanger tous les ingrédients de la farce dans un bol.",
+    "Façonner la pâte à pizza en forme de cercle. Garnir rapidement la moitié de la pâte de sauce béchamel en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte (mouiller au jaune d'œuf ou à l'eau, si nécessaire). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir.",
+    "VARIANTE - Remplacer la truite par du saumon; le cheddar, par de la ricotta égouttée et le romarin, par du thym ou de l'aneth."
+  ]
   },
   {
     "id": 2463,
@@ -19687,9 +20104,27 @@
     "page": 174,
     "categorie": "Calzone",
     "ingredientPrincipal": "Merguez",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+     "image": "app-complete-4/IMG_1327.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce béchamel",
+    "FARCE - 2 saucisses merguez cuites",
+    "FARCE - 500 ml (2 tasses) de courgettes râpées",
+    "FARCE - 2 oignons verts hachés",
+    "FARCE - 1 gousse d'ail hachée",
+    "GARNITURES - 125 ml (1/2 tasse) de mozzarella râpée",
+    "GARNITURES - 125 ml (1/2 tasse) de gouda fumé râpé",
+    "GARNITURES - Poivre moulu",
+    "GARNITURES - 1 jaune d'œuf"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Cuire 3 à 4 minutes les merguez dans un peu d'huile d'olive avec les courgettes, les oignons verts et l'ail. Mélanger les ingrédients de la farce. Réserver.",
+    "Façonner la pâte à pizza en forme de cercle. Verser rapidement la sauce béchamel sur la moitié de la pâte en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte pour bien sceller (mouiller au jaune d'œuf ou avec un peu d'eau). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir."
+  ]
   },
   {
     "id": 2464,
@@ -19698,9 +20133,33 @@
     "page": 175,
     "categorie": "Calzone",
     "ingredientPrincipal": "Veau",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+     "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "125 ml (1/2 tasse) de sauce tomate de base",
+    "FARCE STYLE SOFFRITO - 250 ml (1 tasse) d'aubergine cuite en dés",
+    "FARCE STYLE SOFFRITO - 1 tranche d'oignon espagnol en dés",
+    "FARCE STYLE SOFFRITO - 1 branche de céleri en dés",
+    "FARCE STYLE SOFFRITO - 1 tomate épépinée en dés",
+    "FARCE STYLE SOFFRITO - 1 gousse d'ail hachée",
+    "FARCE STYLE SOFFRITO - 6 feuilles de basilic",
+    "FARCE STYLE SOFFRITO - 15 ml (1 c. à soupe) d'huile d'olive",
+    "FARCE STYLE SOFFRITO - 125 ml (1/2 tasse) de veau haché",
+    "FARCE STYLE SOFFRITO - 1 ml (1/4 c. à thé) d'origan",
+    "FARCE STYLE SOFFRITO - Huile d'olive",
+    "GARNITURES - 15 ml (1 c. à soupe) de romano",
+    "GARNITURES - 250 ml (1 tasse) de mozzarella",
+    "GARNITURES - 1 jaune d'œuf battu (pour badigeonner)"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Précuire les dés d'aubergine 2 à 3 minutes au micro-ondes. Les ajouter aux autres ingrédients de la farce et faire sauter le tout dans un poêlon environ 5 minutes dans l'huile d'olive (sauf les fromages). Saler et poivrer au goût. Réserver.",
+    "Façonner la pâte à pizza en forme de cercle. Saupoudrer de romano. Verser rapidement la sauce tomate sur la moitié de la pâte en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte (mouiller au jaune d'œuf ou à l'eau, si nécessaire). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir.",
+    "Info : Dans plusieurs pays latins (Espagne et Italie), le sofrito ou soffrito est une base de légumes sautés dans l'huile d'olive ou dans la graisse de porc ajoutée aux soupes, sauces et différents mets à base de viande. Certains pays colorent cette préparation avec des graines rouges de rocou (d'annato)."
+  ]
   },
   {
     "id": 2465,
@@ -19709,9 +20168,26 @@
     "page": 176,
     "categorie": "Calzone",
     "ingredientPrincipal": "Fromage",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+      "image": "app-complete-4/IMG_1330.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "250 ml (1 tasse) de salsa du commerce",
+    "FARCE - Huile d'olive",
+    "FARCE - 250 ml (1 tasse) de crevettes crues",
+    "FARCE - 375 ml (1 1/2 tasse) de légumes variés en dés (poivron, oignon, courgette, céleri)",
+    "GARNITURES - 250 ml (1 tasse) de cheddar râpé",
+    "GARNITURES - Basilic frais",
+    "GARNITURES - 1 jaune d'œuf"
+  ],
+  "preparation": [
+    "Préchauffer le four à 240 °C (475 °F). Faire sauter dans un poêlon les ingrédients de la farce environ 2 à 3 minutes dans un peu d'huile d'olive. Saler et poivrer légèrement. Réserver.",
+    "Façonner la pâte à pizza en forme de cercle. Garnir rapidement la moitié de la pâte de salsa en conservant une bordure. Ajouter un peu de fromage et la farce et recouvrir du reste de fromage.",
+    "Fermer en pinçant la pâte (mouiller au jaune d'œuf ou à l'eau, si nécessaire). Badigeonner le calzone de jaune d'œuf, si désiré. Enfourner et cuire environ 10 à 12 minutes ou jusqu'à ce que la pâte soit bien dorée. Trancher quelques minutes avant de servir.",
+    "VARIANTE - Utiliser un fromage facile à râper ou moins riche en matières grasses."
+  ]
   },
   {
     "id": 2466,
@@ -19720,9 +20196,22 @@
     "page": 180,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Papaye",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1332.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - Confiture de framboises",
+    "GARNITURES - 1/2 papaye (env. 500 ml/2 tasses) en dés",
+    "GARNITURES - 30 ml (2 c. à soupe) de porto",
+    "GARNITURES - Fromage Stilton"
+  ],
+  "preparation": [
+    "Napper la croûte à pizza cuite d'une mince couche de confiture de framboises. Réserver.",
+    "Couper les fruits en tranches minces ou en dés. Les déposer dans une assiette creuse. Verser le porto, mélanger et macérer au moins 2 heures au réfrigérateur. Faire chambrer les fruits macérés, si désiré.",
+    "Déposer des morceaux de Stilton sur la croûte cuite et tiède. Couper la pizza en portions individuelles. Garnir de papaye au porto au moment de servir."
+  ]
   },
   {
     "id": 2467,
@@ -19731,9 +20220,30 @@
     "page": 182,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Pomme",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-4/IMG_1334.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 1 pomme verte",
+    "GARNITURES - 1 pomme rouge",
+    "GARNITURES - 60 ml (1/4 tasse) de jus d'orange",
+    "GARNITURES - 45 ml (3 c. à soupe) de fromage à la crème allégé",
+    "GARNITURES - 45 ml (3 c. à soupe) de yogourt nature ferme",
+    "GARNITURES - 15 ml (1 c. à soupe) de miel",
+    "GARNITURES - Quelques gouttes d'extrait de vanille pure",
+    "GARNITURES - 1 ml (1/4 c. à thé) de zeste fin d'orange",
+    "GARNITURES - 30 ml (2 c. à soupe) de poudre d'amande",
+    "GARNITURES - Cannelle moulue",
+    "GARNITURES - Miel"
+  ],
+  "preparation": [
+    "Couper les pommes en dés. Les faire tremper dans le jus d'orange. Réserver. Dans un bol, fouetter le fromage et le yogourt avec le miel, la vanille et le zeste d'orange. Réserver.",
+    "Verser un filet de miel en zigzag sur la croûte à pizza cuite. Saupoudrer de poudre d'amande. Ajouter le mélange de fromage à l'aide d'une cuillère. Garnir de dés de pomme égouttés.",
+    "Saupoudrer de cannelle et verser encore un peu de miel en filet. Réchauffer la pizza ainsi garnie avant de servir, si désiré.",
+    "VARIANTE - Remplacer le miel par du nectar d'agave."
+  ]
   },
   {
     "id": 2468,
@@ -19742,9 +20252,26 @@
     "page": 183,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Pomme",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 2 à 3 pommes Cortland (selon la grosseur)",
+    "GARNITURES - 5 ml (1 c. à thé) de jus de citron",
+    "GARNITURES - 30 ml (2 c. à soupe) de beurre mi-salé",
+    "GARNITURES - 60 ml (1/4 tasse) de cassonade tassée",
+    "GARNITURES - 2,5 ml (1/2 c. à thé) de cannelle",
+    "GARNITURES - 15 ml (1 c. à soupe) d'amandes effilées",
+    "GARNITURES - 250 ml (1 tasse) de crème glacée à la vanille"
+  ],
+  "preparation": [
+    "Faire griller les amandes à sec et les hacher, si désiré. Réserver. Couper les pommes en tranches minces pour en obtenir environ 500 ml (2 tasses). Arroser de jus de citron.",
+    "Chauffer un poêlon à feu doux. Verser le beurre, la cannelle et la cassonade. Ajouter les pommes. Cuire environ 5 minutes à feu doux pour les attendrir en les retournant de temps à autre. Laisser tiédir.",
+    "Garnir la croûte à pizza de pommes caramélisées. Parsemer d'amandes grillées. Servir avec de petites boules de crème glacée prélevées avec une cuillère parisienne.",
+    "VARIANTE - On peut servir ces pommes caramélisées avec du yogourt à la vanille ou nature ou de la crème Chantilly."
+  ]
   },
   {
     "id": 2469,
@@ -19753,9 +20280,25 @@
     "page": 184,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Framboise",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1337.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 60 ml (1/4 tasse) de fromage à la crème allégé",
+    "GARNITURES - 15 ml (1 c. à soupe) de miel doux",
+    "GARNITURES - 2,5 ml (1/2 c. à thé) de zeste fin de citron",
+    "GARNITURES - 250 à 375 ml (1 à 1 1/2 tasse) de framboises",
+    "GARNITURES - 30 ml (2 c. à soupe) de noix hachées fin (de Grenoble, noisettes, pignons)",
+    "GARNITURES - Miel ou nectar d'agave",
+    "GARNITURES - Feuilles de menthe"
+  ],
+  "preparation": [
+    "Faire chambrer le fromage 30 minutes à 1 heure à l'avance. Faire griller les noix à sec sur le gril ou dans une poêle et les hacher, si désiré. Nettoyer et sécher les framboises. Réserver.",
+    "Mélanger les trois premiers ingrédients dans un petit bol. Napper la croûte grillée de fromage à l'aide d'une cuillère. Garnir de framboises. Parsemer de noix grillées. Verser un filet de miel. Décorer de feuilles de menthe.",
+    "VARIANTE - Remplacer les framboises par d'autres variétés de petits fruits frais : mûres, fraises ou bleuets frais seuls ou mélangés."
+  ]
   },
   {
     "id": 2470,
@@ -19764,9 +20307,25 @@
     "page": 186,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Prune",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 4 prunes fermes",
+    "GARNITURES - 60 ml (1/4 tasse) de mascarpone",
+    "GARNITURES - 60 ml (1/4 tasse) de cassonade",
+    "GARNITURES - 5 ml (1 c. à thé) de zeste de citron",
+    "GARNITURES - 15 ml (1 c. à soupe) de brandy",
+    "GARNITURES - 5 ml (1 c. à thé) de gousses de cardamome",
+    "GARNITURES - Pacanes hachées (facultatif)"
+  ],
+  "preparation": [
+    "Moudre les graines de cardamome assez finement. Mélanger le brandy, le zeste et le sucre avec le fromage.",
+    "Tartiner la croûte à pizza cuite du mélange de fromage. Trancher les prunes en quartiers. Garnir de prunes et de pacanes. Saupoudrer de cardamome. Servir.",
+    "VARIANTES - Remplacer la cardamome par du romarin frais haché finement. À défaut de mascarpone, utiliser votre fromage à la crème préféré."
+  ]
   },
   {
     "id": 2471,
@@ -19775,9 +20334,24 @@
     "page": 187,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Banane",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1340.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 30 ml (2 c. à soupe) de chocolat noir haché mi-sucré",
+    "GARNITURES - 250 ml (1 tasse) de crème glacée à la vanille",
+    "GARNITURES - 15 ml (1 c. à soupe) de café instantané",
+    "GARNITURES - 2 à 3 bananes mûres et fermes",
+    "GARNITURES - Beurre mou (facultatif)"
+  ],
+  "preparation": [
+    "Mélanger les trois premiers ingrédients dans un bol jusqu'à ce que le café soit assez bien dissout. Réserver au congélateur.",
+    "Faire griller les bananes entières ou coupées (badigeonnées ou non de beurre) dans le sens de la longueur sur le gril ou dans une poêle cannelée bien chaude. Trancher en rondelles.",
+    "Couper la pizza en portions individuelles. Garnir de petites boules de crème glacée à l'aide d'une cuillère parisienne. Ajouter des tranches de banane grillées. Servir immédiatement.",
+    "Note : Éviter de servir cette crème glacée aux enfants. Sinon omettre le café ou utiliser du café décaféiné."
+  ]
   },
   {
     "id": 2472,
@@ -19786,9 +20360,24 @@
     "page": 188,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Ananas",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1342.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "2 croûtes à pizza grillées",
+    "GARNITURES - 180 ml (3/4 tasse) de mascarpone",
+    "GARNITURES - 60 ml (1/4 tasse) de rhum",
+    "GARNITURES - 125 ml (1/2 tasse) de cassonade tassée",
+    "GARNITURES - 1 ananas doré mûr",
+    "GARNITURES - Huile végétale douce",
+    "GARNITURES - Copeaux de noix de coco (facultatif)"
+  ],
+  "preparation": [
+    "Dans un bol, dissoudre la cassonade dans le rhum. Incorporer le mascarpone et bien mélanger jusqu'à ce que le tout soit onctueux. Réserver.",
+    "Trancher l'ananas en bâtonnets. Éponger et badigeonner d'huile végétale. Faire griller sur le gril ou dans une poêle cannelée environ 2 minutes de chaque côté. Couper en bouchées.",
+    "Profiter de la chaleur du gril pour faire griller les copeaux de noix de coco à sec. Napper la croûte à pizza cuite du mélange de fromage. Garnir d'ananas et de copeaux de noix de coco grillés."
+  ]
   },
   {
     "id": 2473,
@@ -19797,9 +20386,23 @@
     "page": 190,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Bleuet",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1345.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "GARNITURES - 250 ml (1 tasse) de mascarpone",
+    "GARNITURES - 2 jaunes d'œufs battus (calibre gros)",
+    "GARNITURES - 30 ml (2 c. à soupe) de miel",
+    "GARNITURES - 250 ml (1 tasse) de bleuets sauvages surgelés",
+    "GARNITURES - 12 canneberges surgelées"
+  ],
+  "preparation": [
+    "Préchauffer le four à 260 °C (500 °F). Mélanger à l'aide d'une fourchette les trois premiers ingrédients dans un bol.",
+    "Façonner la pâte en cercle ou en rectangle. Saupoudrer un peu de semoule de blé ou de maïs sur une plaque perforée antiadhésive (ou huiler une plaque à cuisson régulière). Déposer la pâte en formant une bordure.",
+    "Répandre le mélange rapidement et parsemer de fruits surgelés. Cuire 10 à 12 minutes. Servir tiède ou froid."
+  ]
   },
   {
     "id": 2474,
@@ -19808,9 +20411,24 @@
     "page": 191,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Figue",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 4 figues noires fraîches",
+    "GARNITURES - 30 ml (2 c. à soupe) de miel",
+    "GARNITURES - 60 ml (1/4 tasse) de mascarpone",
+    "GARNITURES - Poivre d'Indonésie",
+    "GARNITURES - Miel doux"
+  ],
+  "preparation": [
+    "Trancher les figues en quartiers. Verser du miel sur la croûte à pizza cuite. La tartiner de fromage. Garnir de figues. Poivrer au goût.",
+    "Verser encore un peu de miel en filet sur les figues et la croûte avant de servir.",
+    "VARIANTE - On peut utiliser un chèvre crémeux ou le doux fromage Labneh.",
+    "Note : Si on peut se procurer du poivre noir long d'Indonésie, utiliser du poivre noir régulier moulu assez finement."
+  ]
   },
   {
     "id": 2475,
@@ -19819,9 +20437,24 @@
     "page": 192,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Mangue",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": null,
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée",
+    "GARNITURES - 1 grosse mangue",
+    "GARNITURES - Jus de lime (facultatif)",
+    "GARNITURES - 60 ml (1/4 tasse) de fromage de chèvre crémeux",
+    "GARNITURES - 15 à 30 ml (1 à 2 c. à soupe) de miel doux",
+    "GARNITURES - 1 pincée de clou de girofle",
+    "GARNITURES - 1 pincée de gingembre",
+    "GARNITURES - Menthe ciselée"
+  ],
+  "preparation": [
+    "Trancher la mangue en cubes. L'arroser de jus de lime, si désiré. Mélanger le miel et les épices avec le fromage.",
+    "Tartiner la croûte à pizza cuite d'une mince couche de fromage. Garnir la pizza tiède de cubes de mangue et de menthe ciselée."
+  ]
   },
   {
     "id": 2476,
@@ -19830,9 +20463,24 @@
     "page": 193,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Cerise",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1349.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza",
+    "FARCE - 250 ml (1 tasse) de ricotta",
+    "FARCE - 1 œuf battu",
+    "FARCE - 30 ml (2 c. à soupe) de miel",
+    "GARNITURES - 80 ml (1/3 tasse) de chocolat noir haché",
+    "GARNITURES - 250 ml (1 tasse) de cerises griottes",
+    "GARNITURES - 1 jaune d'œuf battu"
+  ],
+  "preparation": [
+    "Égoutter la ricotta la veille dans une passoire. Préchauffer le four à 260 °C (500 °F). Égoutter les cerises. Mélanger les ingrédients de la farce.",
+    "Déposer le chocolat sur la moitié de la croûte, suivi de la farce, et répartir les cerises dessus. Rabattre la pâte et pincer les bords. Badigeonner le dessus du calzone de jaune d'œuf.",
+    "Enfourner. Cuire environ 12 à 15 minutes ou jusqu'à ce que la croûte soit dorée. Servir tranché, tiède ou froid."
+  ]
   },
   {
     "id": 2477,
@@ -19841,9 +20489,26 @@
     "page": 194,
     "categorie": "Pizza dessert",
     "ingredientPrincipal": "Poire",
-    "image": "IMG_1910.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+  "image": "app-complete-4/IMG_1351.jpeg",
+  "favori": false,
+  "note": 0,
+  "statut": "Indexé",
+  "ingredients": [
+    "1 croûte à pizza grillée coupée en 4 portions individuelles",
+    "GARNITURES - 60 ml (1/4 tasse) d'avelines",
+    "GARNITURES - 15 ml (1 c. à soupe) de gorgonzola",
+    "GARNITURES - 5 ml (1 c. à thé) de cognac (facultatif)",
+    "GARNITURES - 125 ml (1/2 tasse) de ricotta égouttée",
+    "GARNITURES - 2 poires rouges fermes",
+    "GARNITURES - Miel",
+    "GARNITURES - Poivre noir moulu"
+  ],
+  "preparation": [
+    "Faire griller les avelines à sec, si désiré. Les hacher grossièrement. Réserver. Mélanger la ricotta égouttée avec le fromage gorgonzola et le cognac. Réserver.",
+    "Trancher les poires (environ 1/2 po d'épaisseur). Badigeonner d'huile végétale douce. Faire griller les tranches de poire rapidement sur le gril ou dans une poêle cannelée en les retournant une seule fois.",
+    "Les déposer sur la croûte à pizza cuite. Garnir du mélange de fromage par petites cuillérées. Verser un filet de miel. Poivrer au goût. Servir.",
+    "VARIANTES - On peut augmenter la quantité de gorgonzola selon votre goût et omettre la ricotta. Les noix de Grenoble s'accordent aussi bien que les avelines pour cette pizza-dessert."
+  ]
   },
   {
     "id": 2478,
