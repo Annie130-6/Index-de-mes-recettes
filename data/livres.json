@@ -19,7 +19,7 @@
     "couverture": "IMG_1650.jpeg"
   },
 { "id": 3, "titre": "Macarons - comme un pro, à la maison !", "langue": "Français", "editeur": "Marabout", "nbRecettes": 28, "statut": "Partiel", "couverture": "IMG_1724.jpeg" },
-{ "id": 4, "titre": "Tapas pour l'apéro", "langue": "Français", "editeur": "Pratico Édition Cuisine", "nbRecettes": 80, "statut": "Partiel", "couverture": "IMG_1749.jpeg" },
+{ "id": 4, "titre": "Tapas pour l'apéro", "langue": "Français", "editeur": "Pratico Édition Cuisine", "nbRecettes": 80, "statut": "Complet", "couverture": "IMG_1749.jpeg" },
  { "id": 5, "titre": "Poisson - si simple, si bon", "langue": "Français", "editeur": "JE Cuisine", "nbRecettes": 61, "statut": "Partiel", "couverture": "IMG_1774.jpeg" },
 { "id": 6, "titre": "La bible des sauces", "langue": "Français", "editeur": "Les Éditions La Presse", "nbRecettes": 988, "statut": "Complet", "couverture": "IMG_1783.jpeg" },
 { "id": 7, "titre": "Joe Beef - Survivre à l'apocalypse", "langue": "Français", "editeur": "Les Éditions La Presse", "nbRecettes": 164, "statut": "Partiel", "couverture": "IMG_1793.jpeg" },
@@ -30,7 +30,7 @@
   { "id": 12, "titre": "WeightWatchers - En moins de 20", "langue": "Français", "editeur": "WeightWatchers", "nbRecettes": 70, "statut": "Indexé", "couverture": "IMG_1881.jpeg" },
   { "id": 13, "titre": "Toqué! Les artisans d'une gastronomie québécoise", "langue": "Français", "editeur": "Les Éditions du Passage", "nbRecettes": 154, "statut": "Indexé", "couverture": "IMG_1895.jpeg" },
 { "id": 14, "titre": "Le Petit Marché - Foie Gras", "langue": "Français", "editeur": "Marabout", "nbRecettes": 26, "statut": "Indexé", "couverture": "IMG_1908.jpeg" },
-{ "id": 15, "titre": "Pizza - Les essentiels", "langue": "Français", "editeur": "Modus Vivendi", "nbRecettes": 124, "statut": "Indexé", "couverture": "IMG_1910.jpeg" },
+{ "id": 15, "titre": "Pizza - Les essentiels", "langue": "Français", "editeur": "Modus Vivendi", "nbRecettes": 124, "statut": "Complet", "couverture": "IMG_1910.jpeg" },
 { "id": 16, "titre": "Philadelphia - Livre de cuisine", "langue": "Français", "editeur": "Kraft", "nbRecettes": 189, "statut": "Indexé", "couverture": "IMG_1914.jpeg" },
   { "id": 17, "titre": "La bonne cuisine de Margo Oliver", "langue": "Français", "editeur": "Non identifié", "nbRecettes": 315, "statut": "Partiel", "couverture": "IMG_1918.jpeg" },
 {"id": 18, "titre": "Les 300 meilleures recettes des 4 saisons", "langue": "Français", "editeur": "Le Guide Cuisine", "nbRecettes": 476, "statut": "Partiel", "couverture": "IMG_1921.jpeg" },
