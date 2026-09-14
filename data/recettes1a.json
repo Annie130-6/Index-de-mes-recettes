@@ -20091,7 +20091,7 @@
     "livreId": 15,
     "titre": "Calzone aux merguez",
     "page": 174,
-    "categorie": Pizza",
+    "categorie":"Pizza",
     "ingredientPrincipal": "Merguez",
      "image": "app-complete-4/IMG_1327.jpeg",
   "favori": false,
