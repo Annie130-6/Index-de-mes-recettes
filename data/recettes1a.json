@@ -14169,9 +14169,13 @@
     "page": 192,
     "categorie": "Viennoiserie",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1879.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-5/IMG_1547.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de farine de blé T 65", "75 g de levain liquide (ou 20 g de levain déshydraté)", "20 g de levure de boulanger fraîche", "10 g de sel", "80 g de sucre en poudre", "6 œufs", "1 œuf pour la dorure", "250 g de beurre ramolli + pour les moules", "5 g de vanille liquide", "sucre en grains"],
+"preparation": ["Pétrissage au robot : dans la cuve, versez la farine, le levain liquide (ou déshydraté), la levure, le sel, le sucre et les œufs. Mélangez 5 minutes à vitesse lente, puis 10 minutes à vitesse rapide. Environ 4 minutes avant la fin du pétrissage, ajoutez le beurre, puis la vanille.", "Pétrissage à la main : mettez la farine sur le plan de travail ou dans un saladier et faites un large puits. Versez-y le levain liquide (ou déshydraté), la levure émiettée, le sel, le sucre et les œufs, et malaxez jusqu'à ce que toute la farine soit absorbée. Incorporez alors le beurre et la vanille. Pétrissez la pâte pendant au moins 30 minutes, jusqu'à ce qu'elle soit souple et lisse.", "Formez une boule et recouvrez-la d'un linge légèrement humide. Laissez pousser 2 heures. Mettez-la ensuite au réfrigérateur pendant 1 heure.", "Farinez le plan de travail. Divisez la pâte en 4 pâtons de poids égal (300 g environ). Formez des boules sans trop travailler la pâte. Laissez reposer 30 minutes sous un linge.", "Beurrez les moules. Reprenez les pâtons et faites-les tourner entre vos mains en serrant la pâte vers le bas pour obtenir des boules bien rondes. Placez-les dans les moules. Laissez pousser 1 h 30.", "Préchauffez le four à 170 °C (therm. 5-6) après avoir placé une plaque en position basse. Dorez les brioches à l'œuf battu. Entaillez-les en croix à l'aide de ciseaux. Parsemez de sucre en grains. Juste avant d'enfourner, versez 5 cl d'eau sur la plaque chaude. Faites cuire 25 minutes environ. À la sortie du four, démoulez les brioches et laissez-les refroidir sur une grille."]
+
   },
   {
     "id": 2022,
@@ -14359,9 +14363,30 @@
     "page": 164,
     "categorie": "Pain",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1879.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-5/IMG_1525.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": [
+  "500 g de farine de blé T65",
+  "320 g d'eau à 20°C",
+  "100 g de levain liquide (ou 25 g de levain déshydraté)",
+  "5 g de levure de boulanger fraîche",
+  "10 g de sel",
+  "30 g d'huile d'olive + pour badigeonner les pâtons"
+],
+"preparation": [
+  "Pétrissage au robot : dans la cuve, verser la farine, l'eau, le levain liquide (ou déshydraté), la levure et le sel. Mélanger 5 minutes à vitesse lente, puis 7 minutes à vitesse rapide. Environ 2 minutes avant la fin du pétrissage, incorporer l'huile.",
+  "Pétrissage à la main : mettre la farine sur le plan de travail ou dans un saladier et faire un large puits. Verser la moitié de l'eau, mélanger à l'intérieur du puits. Ajouter le levain liquide (ou déshydraté), la levure émiettée et le sel. Commencer à mélanger avec une main. Avec l'autre main, ramener progressivement la farine du bord vers le milieu. Rajouter peu à peu le reste de l'eau puis l'huile et continuer à mélanger jusqu'à ce que toute la farine soit absorbée. Saisir la pâte à deux mains et la projeter avec force sur le plan de travail, puis la replier vers l'avant ; répéter cette opération plusieurs fois jusqu'à ce que la pâte soit souple et lisse.",
+  "Former une boule, recouvrir d'un linge humide. Laisser pousser 2 heures à température ambiante. À mi-parcours, rabattre la pâte (plier-la en deux). En fin de pousse, elle aura pris du volume.",
+  "Fariner le plan de travail. Diviser la pâte en 4 pâtons de poids égal (240 g environ). Rouler les pâtons sur eux-mêmes pour leur donner une forme allongée. Les laisser reposer pendant 15 minutes sous un linge.",
+  "Aplatir délicatement les pâtons avec la paume de la main. Plier chaque pâton sur lui-même sur un peu plus d'un tiers de sa surface et appuyer du bout des doigts. Rabattre dessus la partie restante et appuyer encore avec les doigts.",
+  "Laisser pousser les pâtons, soudure en dessous, sous un linge légèrement humide pendant 1 heure.",
+  "Préchauffer le four à 235 °C (therm. 8) après avoir placé une plaque en position basse. Retourner les pâtons sur une autre plaque recouverte de papier sulfurisé, soudure au-dessus.",
+  "Juste avant d'enfourner, verser 5 cl d'eau sur la plaque chaude au four. Faire cuire 4 minutes, puis baisser la température à 220 °C (therm. 7-8) et poursuivre la cuisson encore 12 minutes.",
+  "À la sortie du four, appliquer au pinceau une fine couche d'huile sur les ciabattas et les laisser refroidir sur une grille."
+]
+
   },
   {
     "id": 2030,
@@ -15026,7 +15051,7 @@
     "page": 190,
     "categorie": "Viennoiserie",
     "ingredientPrincipal": "Sucre",
-    "image": "app-complete-5/IMG_1544.jpeg",
+    "image": "app-complete-5/IMG_1545.jpeg"
 "favori": false,
 "note": 0,
 "statut": "Indexé",
@@ -15130,9 +15155,13 @@
     "page": 135,
     "categorie": "Pain",
     "ingredientPrincipal": "Figue",
-    "image": "IMG_1879.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+   "image": "app-complete-5/photo.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de farine de blé T 65", "320 g d'eau à 20 °C", "100 g de levain liquide (ou 25 g de levain déshydraté)", "5 g de levure de boulanger fraîche", "10 g de sel", "20 g de beurre ramolli", "200 g de figues séchées, coupées en gros morceaux"],
+"preparation": ["Pétrissage au robot : dans la cuve, versez la farine, l'eau, le levain liquide (ou déshydraté), la levure et le sel. Mélangez 5 minutes à vitesse lente, puis 10 minutes à vitesse rapide. Environ 3 minutes avant la fin du pétrissage, incorporez le beurre. À l'arrêt, rajoutez les morceaux de figue et mélangez à vitesse lente pour ne pas les déchirer.", "Pétrissage à la main : mettez la farine sur le plan de travail ou dans un saladier et faites un large puits. Versez-y la moitié de l'eau, le levain liquide (ou déshydraté), la levure émiettée et le sel. Mélangez, versez le reste de l'eau et malaxez jusqu'à ce que toute la farine soit absorbée. Incorporez alors le beurre. Pétrissez la pâte jusqu'à ce qu'elle soit souple et lisse. Ajoutez les morceaux de figue en fin de pétrissage.", "Formez une boule, recouvrez-la d'un linge humide. Laissez pousser 1 h 30. En fin de pousse, la pâte aura pris du volume.", "Farinez le plan de travail. Divisez la pâte en 4 pâtons de poids égal (290 g environ) et donnez-leur la forme d'une boule. Recouvrez d'un linge et laissez reposer 15 minutes.", "Aplatissez délicatement les pâtons avec la paume de la main. Repliez un pâton d'un tiers et pressez avec les doigts. Tournez-le à 180°, repliez-le d'un peu plus d'un tiers et pressez de nouveau. Pliez ensuite le pâton en deux dans le sens de la longueur et soudez les bords en appuyant avec la base de la main. Roulez-le pour lui donner une forme ovale et ventrue. Façonnez ainsi les autres pâtons.", "Placez les pâtons sur une plaque recouverte de papier sulfurisé, soudure en dessous. Laissez pousser 1 heure sous un linge.", "Préchauffez le four à 230 °C (therm. 7-8) après avoir placé une plaque en position basse. Lamez en polka. Juste avant d'enfourner, versez 5 cl d'eau sur la plaque chaude. Faites cuire 20 minutes.", "À la sortie du four, laissez les pains refroidir sur une grille."]
+
   },
   {
     "id": 2058,
@@ -15414,9 +15443,13 @@
     "page": 196,
     "categorie": "Viennoiserie",
     "ingredientPrincipal": "Farine",
-    "image": "IMG_1879.jpeg",
-    "favori": false,
-    "statut": "À indexer"
+    "image": "app-complete-5/IMG_1551.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de farine de blé T 65", "135 g d'eau à 20 °C", "3 œufs (135 g)", "75 g de levain liquide (ou 20 g de levain déshydraté)", "20 g de levure de boulanger fraîche", "10 g de sel", "25 g de lait en poudre", "35 g de sucre", "75 g de beurre ramolli + pour les moules", "1 œuf pour la dorure"],
+"preparation": ["Pétrissage au robot : dans la cuve, versez la farine, l'eau, les œufs, le levain liquide (ou déshydraté), la levure, le sel, le lait en poudre et le sucre. Mélangez 5 minutes à vitesse lente, puis 10 minutes à vitesse rapide. Ajoutez le beurre 4 minutes avant la fin du pétrissage.", "Pétrissage à la main : mettez la farine sur le plan de travail ou dans un saladier et faites un large puits. Versez-y la moitié de l'eau, les œufs, le levain liquide (ou déshydraté), la levure émiettée, le sel, le lait en poudre et le sucre. Mélangez, versez le reste de l'eau et malaxez jusqu'à ce que toute la farine soit absorbée. Incorporez le beurre. Pétrissez la pâte jusqu'à ce qu'elle soit souple et lisse.", "Formez une boule et recouvrez-la d'un linge légèrement humide. Laissez pousser 1 heure. En fin de pousse, la pâte aura pris du volume.", "Farinez le plan de travail. Beurrez le moule à cake. Divisez la pâte en 4 pâtons de poids égal (250 g environ). Roulez-les sur eux-mêmes, puis faites-les tourner entre vos mains pour obtenir des boules. Placez les boules dans le moule ; elles le rempliront au tiers, sans toucher les bords.", "Dorez les pâtons à l'œuf battu à l'aide d'un pinceau. Laissez pousser 1 h 30 ; passé ce temps, les boules se seront soudées entre elles dans le moule.", "Préchauffez le four à 180 °C (therm. 6) après avoir placé une plaque en position basse. Passez une seconde couche de dorure à l'œuf. Juste avant d'enfourner, versez 5 cl d'eau sur la plaque chaude. Faites cuire 30 minutes environ.", "À la sortie du four, démoulez le pain et laissez-le refroidir sur une grille."]
+
   },
   {
     "id": 2068,
@@ -17094,7 +17127,7 @@
 "favori": false,
 "note": 0,
 "statut": "Indexé",
-"ingredients": ["500 g de farine de blé T 65", "75 g de levain liquide (ou 20 g de levain déshydraté)", "20 g de levure de boulanger fraîche", "10 g de sel", "80 g de sucre en poudre", "6 œufs", "1 œuf pour la dorure", "250 g de beurre ramolli + pour les moules", "5 g de vanille liquide", "sucre en grains"],
+"ingredients": [". A VERIFIER. PAS CERTAINE BONNE RECETTE!!!!!     500 g de farine de blé T 65", "75 g de levain liquide (ou 20 g de levain déshydraté)", "20 g de levure de boulanger fraîche", "10 g de sel", "80 g de sucre en poudre", "6 œufs", "1 œuf pour la dorure", "250 g de beurre ramolli + pour les moules", "5 g de vanille liquide", "sucre en grains"],
 "preparation": ["Pétrissage au robot : dans la cuve, versez la farine, le levain liquide (ou déshydraté), la levure, le sel, le sucre et les œufs. Mélangez 5 minutes à vitesse lente, puis 10 minutes à vitesse rapide. Environ 4 minutes avant la fin du pétrissage, ajoutez le beurre, puis la vanille.", "Pétrissage à la main : mettez la farine sur le plan de travail ou dans un saladier et faites un large puits. Versez-y le levain liquide (ou déshydraté), la levure émiettée, le sel, le sucre et les œufs, et malaxez jusqu'à ce que toute la farine soit absorbée. Incorporez alors le beurre et la vanille. Pétrissez la pâte pendant au moins 30 minutes, jusqu'à ce qu'elle soit souple et lisse.", "Formez une boule et recouvrez-la d'un linge légèrement humide. Laissez pousser 2 heures. Mettez-la ensuite au réfrigérateur pendant 1 heure.", "Farinez le plan de travail. Divisez la pâte en 4 pâtons de poids égal (300 g environ). Formez des boules sans trop travailler la pâte. Laissez reposer 30 minutes sous un linge.", "Beurrez les moules. Reprenez les pâtons et faites-les tourner entre vos mains en serrant la pâte vers le bas pour obtenir des boules bien rondes. Placez-les dans les moules. Laissez pousser 1 h 30.", "Préchauffez le four à 170 °C (therm. 5-6) après avoir placé une plaque en position basse. Dorez les brioches à l'œuf battu. Entaillez-les en croix à l'aide de ciseaux. Parsemez de sucre en grains. Juste avant d'enfourner, versez 5 cl d'eau sur la plaque chaude. Faites cuire 25 minutes environ. À la sortie du four, démoulez les brioches et laissez-les refroidir sur une grille."]
 
   },
