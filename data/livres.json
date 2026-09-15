@@ -18,7 +18,7 @@
     "statut": "À indexer",
     "couverture": "IMG_1650.jpeg"
   },
-{ "id": 3, "titre": "Macarons - comme un pro, à la maison !", "langue": "Français", "editeur": "Marabout", "nbRecettes": 28, "statut": "Partiel", "couverture": "IMG_1724.jpeg" },
+{ "id": 3, "titre": "Macarons - comme un pro, à la maison !", "langue": "Français", "editeur": "Marabout", "nbRecettes": 28, "statut": "Complet", "couverture": "IMG_1724.jpeg" },
 { "id": 4, "titre": "Tapas pour l'apéro", "langue": "Français", "editeur": "Pratico Édition Cuisine", "nbRecettes": 80, "statut": "Complet", "couverture": "IMG_1749.jpeg" },
  { "id": 5, "titre": "Poisson - si simple, si bon", "langue": "Français", "editeur": "JE Cuisine", "nbRecettes": 61, "statut": "Partiel", "couverture": "IMG_1774.jpeg" },
 { "id": 6, "titre": "La bible des sauces", "langue": "Français", "editeur": "Les Éditions La Presse", "nbRecettes": 988, "statut": "Complet", "couverture": "IMG_1783.jpeg" },
