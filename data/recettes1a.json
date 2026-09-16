@@ -1060,9 +1060,13 @@
     "page": 270,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 cuil. à soupe d'huile", "500 g d'agneau coupé en dés", "2 cuil. à café de piment en poudre", "1 cuil. à soupe de lemon-grass (partie blanche) haché", "1 cuil. à soupe de gingembre frais haché", "300 g de patates douces, pelées et hachées", "2 cuil. à soupe de sucre de palme râpé ou de cassonade", "2 cuil. à soupe de jus de citron vert", "250 ml d'eau"],
+"preparation": ["Faire chauffer l'huile dans une poêle. Faire brunir l'agneau à feu très vif en plusieurs fois. Égoutter sur du papier absorbant.", "Ajouter le piment, le lemon-grass et le gingembre et faire cuire 1 minute.", "Remettre la viande dans la poêle avec la patate douce, le sucre, le jus de citron et l'eau. Porter à ébullition, réduire le feu, couvrir et laisser mijoter 1 heure. Ôter le couvercle et laisser mijoter 30 minutes."]
+
   },
   {
     "id": 91,
@@ -1071,9 +1075,13 @@
     "page": 238,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1653.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de gigot d'agneau, désossé", "375 ml d'eau bouillante", "1 cuil. à soupe de pâte balti masala (page 127)", "2 cuil. à soupe de ghee ou d'huile", "3 gousses d'ail, écrasées", "1 cuil. à soupe de garam masala", "1 gros oignon, finement haché", "4 cuil. à soupe de pâte balti masala, en plus", "2 cuil. à soupe de feuilles de coriandre hachées", "250 ml d'eau", "Feuilles de coriandre, pour garnir"],
+"preparation": ["Préchauffer le four à 190°C (th. 5).", "Couper la viande en cubes de 3 cm de côté.", "Mettre la viande, l'eau bouillante et 1 cuil. à soupe de pâte masala dans une cocotte. Couvrir et faire cuire 30 à 40 minutes. Égoutter et réserver le bouillon.", "Faire fondre le ghee dans une poêle balti ou un wok. Faire sauter l'ail et le garam masala 1 minute. Ajouter l'oignon et faire dorer à feu doux. Augmenter le feu, ajouter la cuillerée à soupe de garam masala et l'agneau. Faire brunir la viande 5 minutes.", "Verser en filet le bouillon réservé et laisser frémir 15 minutes à feu doux.", "Ajouter les feuilles de coriandre et l'eau. Laisser frémir 15 minutes : la viande doit être tendre et la sauce légèrement épaissie. Assaisonner à volonté. Garnir des feuilles de coriandre et servir avec des rotis ou du naan."]
+
   },
   {
     "id": 92,
@@ -1082,9 +1090,13 @@
     "page": 244,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg d'agneau, coupé en dés", "1 oignon moyen, haché", "4 gousses d'ail, écrasées", "4 cm de gingembre frais, haché", "2 piments verts, égrainés et hachés", "2 cuil. à soupe de coriandre moulue", "500 g de yogourt", "2 cuil. à soupe de ghee ou d'huile", "2 oignons moyens, finement émincés", "2 cuil. à soupe d'amandes mondées", "2 cuil. à soupe de raisins secs", "500 g de riz basmati", "5 gousses de cardamome", "1 bâton de cannelle", "2 cuil. à soupe d'eau de rose", "6 cuil. à soupe de ghee", "1 cuil. à café de sel", "1 l de bouillon de volaille", "1/2 cuil. à café de filaments de safran", "2 cuil. à soupe de lait chaud", "4 œufs durs, écalés et émincés"],
+"preparation": ["Mettre l'agneau, l'oignon haché, l'ail, le gingembre, le piment, la coriandre et le yogourt dans une jatte et bien mélanger. Couvrir et réfrigérer pendant 1 heure.", "Faire fondre le ghee dans une poêle. Ajouter l'oignon émincé et faire brunir 15 minutes à feu moyen, jusqu'à ce qu'il soit un peu croustillant. Ôter de la poêle et égoutter sur du papier absorbant. Ajouter les amandes et les raisins secs dans la poêle et faire cuire 3 minutes. Ôter de la poêle et réserver.", "Laver le riz sous l'eau froide courante et laisser égoutter 15 minutes. Mettre dans une casserole avec la cardamome, la cannelle, l'eau de rose et 2 cuil. à soupe de ghee. Faire cuire 3 minutes à feu moyen, jusqu'à ce que le riz soit transparent. Ajouter le sel et le bouillon et porter à ébullition. Réduire le feu, couvrir et laisser frémir 15 minutes.", "Faire tremper le safran 5 minutes dans le lait chaud. Verser sur le riz cuit et mélanger.", "Préchauffer le four à 220°C (th. 7). Mettre la moitié du riz dans un plat à feu légèrement huilé. Ajouter l'agneau, l'œuf, la moitié des oignons frits, des amandes et des raisins secs et, pour finir, l'autre moitié du riz. Répartir le reste du ghee. Couvrir et faire cuire 50 minutes au four, jusqu'à ce que la viande soit tendre. Garnir du reste des oignons frits, des amandes et des raisins secs."]
+
   },
   {
     "id": 93,
@@ -1093,9 +1105,13 @@
     "page": 235,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1647.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["BOULETTES - 1 kg d'agneau haché", "BOULETTES - 1 oignon moyen, finement haché", "BOULETTES - 2 piments verts, finement hachés", "BOULETTES - 3 cuil. à café de gingembre frais râpé", "BOULETTES - 3 gousses d'ail, écrasées", "BOULETTES - 1 cuil. à café de cardamome moulue", "BOULETTES - 1 œuf", "BOULETTES - 25 g de chapelure fraîche", "BOULETTES - 2 cuil. à soupe de ghee ou d'huile", "SAUCE - 1 cuil. à soupe de ghee ou d'huile", "SAUCE - 1 oignon moyen, coupé en rondelles", "SAUCE - 1 piment vert, finement haché", "SAUCE - 3 cuil. à café de gingembre frais râpé", "SAUCE - 2 gousses d'ail, écrasées", "SAUCE - 1 cuil. à café de curcuma moulu", "SAUCE - 3 cuil. à café de coriandre moulue", "SAUCE - 2 cuil. à café de cumin moulu", "SAUCE - 1 cuil. à café de piment en poudre", "SAUCE - 2 cuil. à soupe de vinaigre de vin blanc", "SAUCE - 350 ml d'eau", "SAUCE - 185 g de yogourt", "SAUCE - 315 ml de lait de coco"],
+"preparation": ["Tapisser une plaque à four d'aluminium ménager. Mettre l'agneau haché dans une grande jatte. Ajouter l'oignon, le piment, le gingembre, l'ail, la cardamome, l'œuf et la chapelure. Bien mélanger. Former des boulettes avec 1 cuil. à soupe rase de préparation chacune. Poser sur la tôle.", "Faire fondre le ghee dans une poêle. Faire brunir les boulettes de viande de toutes parts, en plusieurs fournées, à feu moyen. Transférer les boulettes dans une jatte.", "Pour la sauce, faire fondre le ghee dans une sauteuse. Ajouter l'oignon, le piment, le gingembre, l'ail et le curcuma et faire cuire à feu doux, en remuant, jusqu'à ce que l'oignon soit tendre. Ajouter la coriandre, le cumin, le piment en poudre, le vinaigre, les boulettes de viande et l'eau. Remuer doucement. Couvrir et laisser mijoter 30 minutes.", "Mélanger le yogourt et le lait de coco. Verser dans la sauteuse et laisser frémir 10 minutes en couvrant partiellement la sauteuse. Servir avec du riz."]
+
   },
   {
     "id": 94,
@@ -1119,9 +1135,13 @@
     "page": 228,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1652.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe de ghee ou d'huile", "2 oignons moyens, hachés", "2 gousses d'ail, écrasées", "2 piments verts, hachés", "1 cuil. à soupe de gingembre frais râpé", "1 1/2 cuil. à café de curcuma moulu", "1 cuil. à café de cumin moulu", "1 cuil. à soupe de coriandre moulue", "1/2 à 1 cuil. à café de piment en poudre", "1 kg de bœuf ou d'agneau, coupé en cubes", "1 cuil. à café de sel", "400 g de tomates concassées en boîte", "250 ml de lait de coco", "Feuilles de coriandre, pour garnir"],
+"preparation": ["Faire chauffer le ghee dans une grande poêle. Faire fondre l'oignon à feu moyen, en remuant. Ajouter l'ail, le piment, le gingembre, le curcuma, le cumin, la coriandre et le piment. Réchauffer en remuant.", "Ajouter la viande. Faire cuire à feu vif en remuant : le mélange d'épices doit avoir bruni. Ajouter le sel et les tomates non égouttées. Couvrir et laisser mijoter 1 heure à 1 heure 30 : la viande doit être tendre.", "Verser le lait de coco et remuer. Laisser mijoter 5 minutes, jusqu'à léger épaississement. Le cas échéant, garnir de feuilles de coriandre. Servir.", "Note : Des noix de cajou crues et non salées font une garniture parfaite pour ce plat."]
+
   },
   {
     "id": 96,
@@ -1130,9 +1150,13 @@
     "page": 246,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1652.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg d'oignons", "5 gousses d'ail", "5 cm de gingembre frais, râpé", "2 piments rouges", "1 cuil. à café de paprika", "4 cuil. à soupe de feuilles de coriandre hachées", "2 cuil. à soupe de coriandre moulue", "2 cuil. à café de graines de cumin noires", "4 cuil. à soupe de yogourt", "4 cuil. à soupe de ghee ou d'huile", "1 kg d'agneau coupé en dés", "6 gousses de cardamome, légèrement écrasées", "1 cuil. à café de garam masala"],
+"preparation": ["Émincer la moitié des oignons et réserver. Hacher grossièrement le reste des oignons.", "Dans un mixer, réduire en une pâte homogène l'oignon haché, l'ail, le gingembre, le piment, le paprika, la coriandre fraîche et moulue, les graines de cumin et le yogourt.", "Faire fondre le ghee dans une grande poêle. Faire dorer l'oignon émincé 10 minutes à feu moyen. Ôter de la poêle à l'aide d'une écumoire et égoutter sur du papier absorbant.", "Ajouter l'agneau dans la poêle, en plusieurs fois, et faire brunir à feu vif. Ôter de la poêle et couvrir d'aluminium ménager.", "Ajouter la pâte à l'oignon dans la poêle. Faire cuire 5 minutes, jusqu'à ce que le ghee commence à se séparer de la pâte. Réduire le feu, remettre la viande dans la poêle avec la cardamome, couvrir et faire cuire 1 heure à feu doux : la viande doit être tendre.", "Ajouter l'oignon frit et le garam masala. Couvrir et faire cuire 15 minutes. Servir avec du riz et du naan."]
+
   },
   {
     "id": 97,
@@ -1141,9 +1165,13 @@
     "page": 255,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1653.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 kg de gigot d'agneau", "1 cuil. à soupe de jus de citron", "Poivre noir fraîchement moulu", "1 tête d'ail entière, non pelée", "2 cuil. à soupe de ghee ou d'huile", "1 1/2 cuil. à soupe de coriandre moulue", "2 cuil. à café de cumin moulu", "2 bâtons de cannelle", "2 clous de girofle", "4 feuilles de laurier", "1 cuil. à café de piment en poudre", "4 gousses de cardamome, légèrement écrasées", "375 ml d'eau", "125 g de yogourt"],
+"preparation": ["Préchauffer le four à 180°C (th. 4).", "Dégraisser le gigot. Enduire de toutes parts du jus de citron et du poivre. Mettre dans une lèchefrite avec la tête d'ail entière et le ghee. Faire cuire 50 minutes, jusqu'à ce que l'ail soit tendre.", "Prélever la pulpe des gousses d'ail. Répartir sur toute la surface du gigot et poudrer de la coriandre et du cumin. Ajouter la cannelle, les clous de girofle, le laurier, le piment en poudre et la cardamome.", "Faire rôtir le gigot 50 minutes de plus, jusqu'à ce qu'il soit cuit, en arrosant régulièrement des sucs de cuisson. Ôter du four et laisser reposer 10 à 15 minutes.", "Verser l'eau dans la lèchefrite et déglacer en remuant. Mettre la lèchefrite sur le feu et faire cuire à feu vif jusqu'à réduction et épaississement du liquide. Ôter les épices entières, saler et poivrer à volonté. Incorporer le yogourt et réchauffer. Découper la viande et napper de la sauce."]
+
   },
   {
     "id": 98,
@@ -1152,9 +1180,13 @@
     "page": 239,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1657.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 kg de gigot d'agneau, désossé", "1 oignon moyen, haché", "2 cuil. à café de gingembre frais râpé", "3 gousses d'ail", "1 cuil. à soupe de graines de coriandre", "2 cuil. à café de cumin moulu", "1 cuil. à café de gousses de cardamome", "1/2 cuil. à café de sel", "1 bonne pincée de poivre de Cayenne", "2 cuil. à soupe de ghee ou d'huile", "1 oignon moyen, émincé", "2 cuil. à soupe de concentré de tomates", "125 g de yogourt"],
+"preparation": ["Parer le gigot d'agneau. Couper en cubes de 3 cm de côté et mettre dans une jatte.", "Mettre dans un mixer l'oignon haché, le gingembre, l'ail, les graines de coriandre, le cumin, les gousses de cardamome, le sel et le poivre de Cayenne. Réduire en une pâte homogène. Verser le mélange d'épices sur l'agneau et mélanger pour bien enrober. Laisser mariner 1 heure.", "Faire fondre le ghee dans une grande poêle. Faire fondre l'oignon émincé à feu modéré en remuant. Ajouter le mélange à l'agneau et faire brunir la viande de toutes parts, pendant 8 à 10 minutes, en remuant. Ajouter le concentré de tomates et 2 cuil. à soupe de yogourt. Bien mélanger. Laisser mijoter, sans couvrir, jusqu'à l'absorption du liquide.", "Ajouter 2 cuil. à soupe de yogourt et remuer jusqu'à ce que le mélange soit sec. Répéter l'opération jusqu'à épuisement du yogourt.", "Couvrir et laisser mijoter 30 minutes à feu doux en remuant de temps en temps. Si le mélange devient trop sec, ajouter un peu d'eau. Servir avec du riz."]
+
   },
   {
     "id": 99,
@@ -1163,9 +1195,13 @@
     "page": 232,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1704.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg d'agneau", "1 cuil. à soupe de ghee ou d'huile", "2 oignons moyens, hachés", "125 g de yogourt", "1 cuil. à café de piment en poudre", "1 cuil. à soupe de coriandre moulue", "2 cuil. à café de cumin moulu", "1 cuil. à café de cardamome moulue", "1/2 cuil. à café de clous de girofle moulus", "1 cuil. à café de curcuma moulu", "3 gousses d'ail, écrasées", "1 cuil. à soupe de gingembre frais râpé", "1 cuil. à café de sel", "400 g de tomates en boîte, hachées", "30 g d'amandes concassées", "3 cuil. à café de garam masala", "Feuilles de coriandre, hachées, pour garnir"],
+"preparation": ["Couper l'agneau en cubes de 2,5 cm de côté.", "Faire chauffer le ghee dans une poêle et faire fondre l'oignon. Ajouter yogourt, piment, coriandre, cumin, cardamome, clous de girofle, curcuma, ail et gingembre. Mélanger. Ajouter le sel et les tomates non égouttées. Laisser mijoter 5 minutes sans couvrir.", "Ajouter l'agneau et remuer. Couvrir et faire cuire 1 heure à 1 heure 30 à feu doux. Lorsque la viande est cuite, ôter le couvercle et laisser la sauce épaissir.", "Faire griller les amandes à sec 3 à 4 minutes à feu moyen, en secouant la poêle, jusqu'à ce qu'elles soient brun doré. Ôter de la poêle pour qu'elles ne brûlent pas.", "Poudrer l'agneau de garam masala et mélanger. Parsemer des amandes et de feuilles de coriandre et servir."]
+
   },
   {
     "id": 100,
@@ -1174,9 +1210,13 @@
     "page": 84,
     "categorie": "Plat",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["375 g de farine roti (voir note) ou ordinaire", "1 cuil. à café de sel", "2 cuil. à soupe de ghee ou d'huile", "1 œuf, légèrement battu", "250 ml d'eau chaude", "Huile, pour badigeonner", "1 œuf, battu", "1/2 oignon rouge, finement haché", "FARCE À LA VIANDE ÉPICÉE - 1 cuil. à soupe de ghee", "FARCE À LA VIANDE ÉPICÉE - 1 oignon, finement haché", "FARCE À LA VIANDE ÉPICÉE - 3 gousses d'ail, écrasées", "FARCE À LA VIANDE ÉPICÉE - 2 cuil. à café de cumin moulu", "FARCE À LA VIANDE ÉPICÉE - 1 cuil. à café de coriandre moulue", "FARCE À LA VIANDE ÉPICÉE - 1 cuil. à café de curcuma moulu", "FARCE À LA VIANDE ÉPICÉE - 500 g de hachis de bœuf ou d'agneau maigre", "FARCE À LA VIANDE ÉPICÉE - 1 cuil. à café de piment rouge égrainé et finement haché", "FARCE À LA VIANDE ÉPICÉE - 1 cuil. à soupe de feuilles de coriandre fraîche hachées", "FARCE À LA VIANDE ÉPICÉE - Ghee ou huile à friture"],
+"preparation": ["Tamiser la farine au-dessus d'une jatte et incorporer le sel. Mélanger avec le ghee ou l'huile. Ajouter l'œuf et l'eau et mélanger au couteau pour obtenir une préparation humide. Transférer la préparation sur une surface farinée et pétrir 10 minutes pour obtenir une pâte homogène (rajouter de la farine si nécessaire). Ramasser la pâte en boule et huiler. Mettre dans une jatte huilée, couvrir de film alimentaire et laisser reposer 2 heures.", "Pour la farce à la viande, faire chauffer le ghee dans une poêle. Ajouter l'oignon et le faire fondre et dorer 5 minutes à feu doux. Ajouter l'ail, le cumin, la coriandre et le curcuma et faire cuire 1 minute. Augmenter le feu, ajouter le hachis de viande et faire brunir en émiettant à la fourchette. Poursuivre jusqu'à cuisson complète en ajoutant le piment quelques minutes avant la fin. Ôter du feu, incorporer la coriandre et saler à volonté.", "Sur une surface farinée, diviser la pâte en 12 et rouler chaque portion en boule. Se huiler les doigts, prendre une boule et la faire tourner en l'air pour obtenir un cercle de 15 cm de diamètre. Poser le roti sur une surface farinée et couvrir de film alimentaire pour qu'il ne se dessèche pas. Procéder de la même façon pour les 11 autres boules.", "Faire chauffer une poêle ou une grille et badigeonner de ghee ou d'huile. Enrouler un roti autour d'un rouleau à pâtisserie et le placer dans la poêle. Badigeonner rapidement d'œuf battu et placer 2 cuil. à soupe bombée de farce au centre. Faire cuire jusqu'à ce que le dessous soit doré. Parsemer la farce d'oignon haché, rabattre deux côtés du roti, puis les deux autres, en pressant pour bien enfermer la farce. À l'aide d'une spatule, glisser le roti sur une assiette. Remettre du ghee ou de l'huile dans la poêle et glisser le roti dans la poêle, sur l'autre face. Faire dorer. Procéder de la même façon pour les 11 autres rotis. Servir chaud.", "Note : De couleur crème, la farine roti s'achète dans les épiceries indiennes. Elle entre dans la composition des pains azymes. On peut la remplacer par de la farine de blé ordinaire."]
+
   },
   {
     "id": 101,
@@ -1185,9 +1225,13 @@
     "page": 60,
     "categorie": "Entrée",
     "ingredientPrincipal": "Agneau",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de filet d'agneau", "1 oignon, haché", "2 gousses d'ail, écrasées", "2 cm de lemon-grass (partie blanche seulement)", "2 lamelles de galanga frais", "1 cuil. à café de gingembre frais haché", "1 cuil. à café de cumin moulu", "1/2 cuil. à café de fenouil moulu", "1 cuil. à soupe de coriandre moulue", "1 cuil. à café de curcuma", "1 cuil. à soupe de cassonade", "1 cuil. à soupe de jus de citron"],
+"preparation": ["Parer le filet d'agneau. Couper la viande dans la largeur en très fines lanières (le travail est facilité si la viande est d'abord mise 30 minutes au congélateur).", "Dans un mixer, réduire en pâte l'oignon, l'ail, le lemon-grass, le galanga, le gingembre, le cumin, le fenouil, la coriandre, le curcuma, la cassonade et le jus de citron.", "Verser la pâte dans une jatte, ajouter l'agneau et bien mélanger. Couvrir et laisser 1 nuit au réfrigérateur.", "Enfiler la viande sur les brochettes et faire cuire 3 à 4 minutes de chaque côté sous le gril préchauffé. Enduire régulièrement du reste de la marinade pendant la cuisson."]
+
   },
   {
     "id": 102,
@@ -1222,9 +1266,13 @@
     "page": 170,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1663.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["350 g de filet de bœuf, finement émincé", "1 poivron rouge, coupé en fines lanières courtes", "6 gousses d'ail, finement hachées", "1/4 de cuil. à café de poivre", "4 cuil. à soupe d'huile", "400 g de nouilles de riz épaisses fraîches", "1 cuil. à soupe de sucre", "2 cuil. à soupe de sauce de poisson", "125 ml de bouillon de bœuf", "2 cuil. à café de Maïzena", "4 oignons nouveaux, coupés en biais en longues lamelles fines"],
+"preparation": ["Bien mélanger la viande, le poivron rouge, l'ail, le poivre et la moitié de l'huile dans une jatte et laisser mariner 30 minutes.", "Démêler doucement les nouilles. Faire chauffer le reste de l'huile dans une poêle à fond épais en nappant bien le fond et les côtés. Ajouter les nouilles et, à l'aide d'une spatule, les aplatir en une grosse galette du diamètre de la poêle. Faire cuire 10 à 15 minutes en aplatissant de temps en temps, jusqu'à ce que le dessous soit doré et croustillant. Ne jamais remuer ou soulever les nouilles pendant la cuisson. Glisser une spatule sous la galette et la retourner. Faire cuire l'autre face sans toucher à la galette : elle se casserait. Transférer sur un plat, couvrir et tenir au chaud.", "Faire chauffer un wok ou une poêle à fond épais. Verser le sucre et la sauce de poisson sur le mélange au bœuf. Faire cuire le mélange en deux fois à feu vif pendant 2 à 3 minutes. Mettre le bouillon et la Maïzena dans un bol et remuer en une pâte onctueuse. Ajouter à la viande et faire cuire 1 minute. Ne pas trop cuire la viande, elle durcirait.", "Dresser la galette sur un plat et couper les parts. Servir dans les assiettes et couvrir de préparation au bœuf. Décorer d'oignon nouveau et servir sans attendre."]
+
   },
   {
     "id": 105,
@@ -1259,9 +1307,13 @@
     "page": 169,
     "categorie": "Sauce",
     "ingredientPrincipal": "Ail",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["60 ml de jus de citron", "2 cuil. à soupe de sauce de poisson", "1 cuil. à soupe de sucre", "2 petits piments rouges, hachés", "3 gousses d'ail, finement hachées"],
+"preparation": ["Mélanger le jus de citron, la sauce de poisson et le sucre jusqu'à dissolution du sucre. Incorporer les piments rouges hachés et l'ail finement haché."]
+
   },
   {
     "id": 108,
@@ -1270,9 +1322,13 @@
     "page": 206,
     "categorie": "Plat",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1667.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["400 g de blancs de poulet", "60 ml de sauce de soja japonaise", "60 ml de mirin", "4 cm de gingembre frais, très finement râpé", "1 feuille de nori, finement hachée et émiettée", "40 g de Maïzena", "Huile à friture", "Pickles de gingembre (page 189) et fines lamelles de concombre, pour servir"],
+"preparation": ["Dénerver le poulet avec soin. Couper en morceaux en tranchant toute partie pointue pour qu'ils soient tous de taille égale. Mettre dans une jatte.", "Mélanger la sauce de soja, le mirin et le gingembre dans un bol et arroser le poulet de ce mélange. Remuer pour bien enrober les morceaux de marinade. Laisser mariner 15 minutes puis égoutter pour ôter l'excédent de marinade.", "Mélanger le nori avec la Maïzena. Avec le bout des doigts, rouler légèrement chaque morceau de poulet dans le mélange.", "Faire chauffer l'huile modérément dans une poêle. Faire dorer le poulet par fournées de 6 ou 7 morceaux, en les retournant régulièrement. Égoutter sur du papier absorbant. Servir avec du riz à la vapeur, des pickles de gingembre et des lamelles de concombre. Décorer avec des lanières de nori supplémentaires, le cas échéant."]
+
   },
   {
     "id": 109,
@@ -1281,9 +1337,13 @@
     "page": 290,
     "categorie": "Dessert",
     "ingredientPrincipal": "Amande",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 ml d'eau froide", "90 g de sucre en poudre", "2 cuil. à café d'agar agar (voir note)", "170 ml de lait en poudre", "1/2 cuil. à café d'essence d'amandes", "3 mandarines fraîches, pelées et coupées en quartiers ou 300 g de cerises fraîches, dénoyautées et réfrigérées"],
+"preparation": ["Mettre l'eau et le sucre dans une petite casserole. Verser l'agar agar en pluie. Porter à ébullition et laisser frémir 1 minute. Ôter du feu et ajouter le lait en poudre et l'essence d'amandes.", "Verser la préparation dans un moule de 18 x 28 cm. Réfrigérer au moins 1 heure.", "Couper la gelée en losanges et servir avec les fruits.", "Note : L'agar agar est similaire à la gélatine mais n'a pas besoin d'être réfrigéré pour prendre. À défaut, mettre 3 cuil. à café de gélatine à ramollir dans 125 ml d'eau froide. Incorporer le tout à la préparation à l'essence d'amandes, porter à ébullition et ôter du feu. Il n'est pas nécessaire de faire cuire. Reprendre la recette ci-dessus en prévoyant 5 heures de réfrigération."]
+
   },
   {
     "id": 110,
@@ -1322,9 +1382,13 @@
     "page": 122,
     "categorie": "Plat",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1671.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["400 g de pointe ou de filet de porc", "1/4 d'ananas moyen", "1 cuil. à soupe d'huile", "4 gousses d'ail, hachées", "4 oignons nouveaux, hachés", "1 cuil. à soupe de sauce de poisson", "1 cuil. à soupe de jus de citron vert", "15 g de feuilles de coriandre", "15 g de menthe fraîche, hachée"],
+"preparation": ["Congeler le porc jusqu'à ce qu'il soit ferme puis l'émincer finement. Ôter la peau de l'ananas et couper la pulpe en morceaux.", "Faire chauffer l'huile dans un wok ou une poêle à fond épais. Ajouter l'ail et l'oignon nouveau et faire cuire 1 minute. Ôter du wok.", "Faire chauffer le wok très vivement. Faire sauter le porc 3 minutes par fournées. Remettre toute la viande, l'ail et l'oignon nouveau dans le wok et ajouter l'ananas, la sauce de poisson et le jus de citron vert. Bien remuer. Juste avant de servir, parsemer des feuilles de coriandre et de la menthe et remuer légèrement. Servir avec du riz."]
+
   },
   {
     "id": 113,
@@ -1333,9 +1397,13 @@
     "page": 171,
     "categorie": "Plat",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1673.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 cuil. à soupe de noix de coco râpée grossièrement", "80 g de noix de cajou crues", "2 cuil. à soupe d'huile", "1 gros oignon, coupé en tronçons", "4 gousses d'ail, finement hachées", "2 cuil. à café de piment rouge haché", "350 g de cuisses de poulet, désossées et hachées", "1/2 poivron rouge, haché", "1/2 poivron vert, haché", "2 cuil. à soupe de sauce d'huîtres", "1 cuil. à soupe de sauce de poisson", "1 cuil. à café de sucre", "320 g d'ananas frais, haché", "3 oignons nouveaux, hachés"],
+"preparation": ["Préchauffer le four à 150°C (th. 2). Étaler la noix de coco dans une lèchefrite et faire griller au four 10 minutes jusqu'à ce qu'elle soit brun doré, en remuant la lèchefrite de temps en temps. Ôter de la lèchefrite pour que la noix de coco ne brûle pas et réserver.", "Augmenter la chaleur du four à 180°C (th. 4). Mettre les noix de cajou dans une lèchefrite et faire griller au four 15 minutes jusqu'à ce qu'elles soient bien dorées. Ôter de la lèchefrite et laisser refroidir.", "Faire chauffer l'huile dans un wok ou une grande poêle. Ajouter l'oignon, l'ail et le piment et faire sauter 2 minutes à feu moyen. Ôter de la poêle. Augmenter le feu et faire sauter le poulet, le poivron rouge et le poivron vert en 2 fois, jusqu'à ce que le poulet soit marron clair. Remettre le mélange à l'oignon dans le wok. Ajouter la sauce d'huîtres, la sauce de poisson, le sucre et l'ananas et remuer 2 minutes sur le feu.", "Dresser le mélange au poulet sur un plat, parsemer de noix de coco grillée et d'oignon nouveau. Servir sans attendre avec du riz à la vapeur."]
+
   },
   {
     "id": 114,
@@ -1344,9 +1412,13 @@
     "page": 152,
     "categorie": "Plat",
     "ingredientPrincipal": "Porc",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["155 g d'asperges", "150 g de tofu ferme", "1 cuil. à soupe d'huile", "2 gousses d'ail, écrasées", "400 g de porc haché", "1 piment rouge, égrainé et finement émincé (facultatif)", "3 cuil. à soupe de ciboulette de Chine, finement hachée", "3 cuil. à café de sauce d'huîtres", "3 cuil. à café de sauce de poisson", "1 cuil. à café de sucre"],
+"preparation": ["Peler les asperges et couper en morceaux. Mettre dans une jatte, couvrir d'eau en ébullition et laisser reposer 3 minutes. Égoutter. Couper le tofu en morceaux de la taille d'une bouchée.", "Placer un wok à feu vif. Lorsqu'il est très chaud, verser l'huile et remuer le wok pour napper le fond et les côtés. Ajouter l'ail, le porc et le piment, le cas échéant, et faire rapidement brunir la viande. Ajouter les asperges et le tofu et bien mélanger.", "Ajouter la ciboulette de Chine, la sauce d'huîtres, la sauce de poisson et le sucre et mélanger. Servir sans attendre avec du riz."]
+
   },
   {
     "id": 115,
@@ -1355,9 +1427,13 @@
     "page": 133,
     "categorie": "Plat",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1677.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["4 petites aubergines longues (soit 400 g)", "250 g de tofu ferme", "2 à 4 piments rouges ou verts frais", "4 gousses d'ail, écrasées", "4 racines de coriandre, hachées", "1 petit oignon, haché", "3 cuil. à café de cassonade", "2 cuil. à soupe de jus de citron vert", "2 cuil. à soupe de sauce de poisson", "1 cuil. à soupe d'huile", "15 g de basilic thaïlandais frais", "2 cuil. à café de crevettes séchées finement hachées (facultatif)"],
+"preparation": ["Faire chauffer un wok ou une poêle. Ajouter les aubergines et faire cuire, en retournant, jusqu'à ce que la peau commence à noircir de toutes parts. Ôter du feu et laisser refroidir. Émincer les aubergines en biais en lamelles de 2 cm d'épaisseur. Égoutter le tofu et couper en cubes de 3 cm.", "Dans un mixer, réduire en pâte onctueuse piments, ail, racines de coriandre, oignon, sucre, jus de citron vert et sauce de poisson.", "Faire chauffer l'huile dans le même wok, ajouter la pâte et remuer 1 minute à feu vif. Ajouter l'aubergine, remuer, couvrir et faire cuire 3 minutes.", "Ajouter le tofu et la moitié du basilic et réchauffer. Garnir du reste du basilic et, le cas échéant, de crevette séchée. Servir.", "Note : Ce plat se sert chaud ou froid en accompagnement. Pour une saveur moins relevée, n'utiliser que 2 piments."]
+
   },
   {
     "id": 116,
@@ -1366,9 +1442,13 @@
     "page": 219,
     "categorie": "Entrée",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 aubergines moyennes", "2 cuil. à soupe de graines de sésame blanches japonaises", "140 g de miso rouge", "2 cuil. à soupe de mirin", "2 cuil. à soupe de saké", "3 cuil. à soupe d'huile"],
+"preparation": ["Mettre 10 brochettes en bois à tremper dans de l'eau pendant la préparation de la recette. Couper les aubergines en cubes de 2 cm. Mettre dans une passoire à pieds et saler généreusement. Laisser dégorger 15 minutes pour ôter l'amertume des aubergines. Rincer soigneusement et essuyer à l'aide de papier absorbant.", "Égoutter les brochettes et essuyer à l'aide de papier absorbant. Enfiler les cubes d'aubergines sur les brochettes.", "Faire griller à sec les graines de sésame 3 à 4 minutes à feu moyen, en secouant la poêle, jusqu'à ce qu'elles soient brun doré. Ôter les graines de la poêle pour qu'elles ne brûlent pas.", "Mélanger le miso, le mirin et le saké dans une petite casserole. Porter à ébullition, réduire le feu et laisser frémir 5 minutes.", "Faire chauffer l'huile sur une plaque à barbecue et faire cuire les brochettes 5 minutes en les retournant fréquemment. Lorsqu'elles sont brun doré, arroser du mélange au miso et parsemer des graines de sésame grillées. Servir avec du riz."]
+
   },
   {
     "id": 117,
@@ -1377,9 +1457,13 @@
     "page": 274,
     "categorie": "Plat",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1681.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["7 g de levure chimique", "125 ml d'eau chaude", "1 cuil. à café de sucre en poudre", "330 g de riz court", "265 g de farine de riz", "2 cuil. à café de sel", "1,25 l de lait de coco", "12 à 15 œufs", "SAMBAL D'AUBERGINES - 2 aubergines, coupées en cubes de 2 cm", "SAMBAL D'AUBERGINES - 60 ml d'huile", "SAMBAL D'AUBERGINES - 2 oignons nouveaux, finement hachés", "SAMBAL D'AUBERGINES - 1 cuil. à café de cassonade", "SAMBAL D'AUBERGINES - 2 piments rouges, finement hachés", "SAMBAL D'AUBERGINES - 2 piments verts, finement hachés", "SAMBAL D'AUBERGINES - 2 cuil. à soupe de feuilles de coriandre fraîche hachées", "SAMBAL D'AUBERGINES - 1 cuil. à soupe de jus de citron"],
+"preparation": ["Préchauffer le four à 180°C (th. 4). Mettre la levure chimique, l'eau chaude et le sucre dans un bol. Placer dans un endroit chaud et laisser reposer 10 minutes, jusqu'à ce que le mélange soit mousseux.", "Étaler le riz dans une lèchefrite et faire dorer 15 minutes au four. Laisser refroidir légèrement, transférer dans un mixer et réduire en poudre fine.", "Mélanger le riz moulu, la farine et le sel dans une jatte. Incorporer petit à petit, en fouettant, le mélange à la levure et le lait de coco. Couvrir la pâte à crêpes et laisser reposer 1 heure dans un endroit chaud.", "Huiler légèrement une poêle antiadhésive de 23 cm de diamètre. Verser 80 ml de pâte à crêpes dans la poêle, en nappant bien le fond. Casser 1 œuf au centre et faire cuire 5 à 10 minutes à feu doux : la durée varie selon la poêle utilisée. Lorsque la crêpe est cuite et que les bords sont dorés et croustillants, faire glisser la crêpe sur une assiette et tenir au chaud. Faire cuire les autres crêpes de la même façon. Servir avec le sambal d'aubergines.", "Pour le sambal d'aubergines, poudrer les cubes d'aubergines de sel et laisser dégorger 20 minutes. Rincer avec soin et bien essuyer. Faire chauffer l'huile dans une grande poêle et faire dorer les cubes d'aubergines 10 minutes à feu vif. Ôter de la poêle et incorporer l'oignon, le sucre, le piment, la coriandre fraîche et le jus de citron."]
+
   },
   {
     "id": 118,
@@ -1388,9 +1472,13 @@
     "page": 140,
     "categorie": "Plat",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1683.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe d'huile", "1 oignon moyen, haché", "1 à 2 cuil. à soupe de pâte de curry verte (page 123)", "375 ml de lait de coco", "250 ml d'eau", "1 patate douce moyenne (300 g), coupée en cubes", "1 aubergine moyenne (200 g), coupée en quatre et émincée", "6 feuilles de citron kaffir", "2 cuil. à soupe de sauce de poisson", "2 cuil. à soupe de jus de citron vert", "2 cuil. à café de zeste de citron vert", "2 cuil. à café de cassonade", "Feuilles de coriandre, pour décorer"],
+"preparation": ["Faire chauffer l'huile dans un grand wok ou une poêle. Ajouter l'oignon et la pâte de curry et remuer 3 minutes à feu moyen.", "Verser le lait de coco et l'eau dans le wok. Porter à ébullition, réduire le feu et laisser frémir 5 minutes sans couvrir.", "Ajouter la patate douce dans le wok et faire cuire 6 minutes. Ajouter l'aubergine et les feuilles de citron et faire cuire 10 minutes, en remuant de temps en temps.", "Ajouter sauce de poisson, jus et zeste de citron, sucre et remuer. Parsemer de coriandre. Le cas échéant, garnir de feuilles de citron. Servir avec du riz à la vapeur.", "Note : On peut utiliser des aubergines thaïlandaises traditionnelles, que l'on ajoute au curry environ 6 minutes avant de servir."]
+
   },
   {
     "id": 119,
@@ -1399,9 +1487,13 @@
     "page": 162,
     "categorie": "Plat",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1686.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g d'aubergines moyennes", "80 ml d'huile", "4 gousses d'ail, finement hachées", "4 cm de gingembre frais, râpé", "2 oignons moyens, finement hachés", "80 ml de bouillon de volaille", "2 cuil. à café de haricots noirs en boîte, rincés et hachés", "2 cuil. à soupe de sauce d'huîtres", "1 cuil. à soupe de sauce de soja", "2 cuil. à café de sauce de poisson", "4 oignons nouveaux, coupés en biais en longues lanières"],
+"preparation": ["Émincer finement les aubergines dans la longueur et huiler légèrement chaque face.", "Faire chauffer une poêle à feu modéré. Ajouter l'aubergine, 4 à 5 lamelles à la fois, et faire dorer des deux côtés. Ôter de la poêle. La cuisson doit être assez lente pour permettre aux sucres naturels de caraméliser, ce qui donne une merveilleuse saveur. Si l'aubergine commence à brûler, réduire le feu et humecter légèrement.", "Augmenter le feu et ajouter le reste de l'huile, l'ail, le gingembre, l'oignon et 1 cuil. à soupe de bouillon. Couvrir et cuire 3 minutes. Ajouter le reste du bouillon, les haricots noirs, les sauces d'huîtres, de soja et de poisson. Porter à ébullition et laisser cuire 2 minutes. Remettre les lamelles d'aubergine dans la poêle et réchauffer 2 minutes. Parsemer d'oignon nouveau et servir.", "Note : Toujours bien rincer les haricots noirs, qui sont très salés. Après ouverture, ils se conservent indéfiniment au réfrigérateur."]
+
   },
   {
     "id": 120,
@@ -1421,9 +1513,13 @@
     "page": 154,
     "categorie": "Plat",
     "ingredientPrincipal": "Aubergine",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 grosse aubergine (environ 800 g)", "12 gousses d'ail, non pelées", "4 échalotes rouges asiatiques, non pelées", "600 g de filets de poisson blanc", "100 g de vermicelle de haricots mungo séché", "2 cuil. à soupe de sauce de poisson", "3 piments rouges, égrainés et hachés", "2 cuil. à soupe de menthe grossièrement hachée", "2 cuil. à soupe de feuilles de coriandre grossièrement hachées", "1 petite scarole", "1 petite laitue", "50 g de brins de coriandre", "SAUCE - 3 cuil. à soupe de sauce de poisson", "SAUCE - 3 cuil. à soupe de jus de citron vert", "SAUCE - 1 cuil. à café de sucre en poudre", "SAUCE - 1 piment rouge, égrainé et finement émincé"],
+"preparation": ["Préchauffer le four à 180°C (th. 4). Poser l'aubergine sur une lèchefrite et faire cuire 50 minutes, jusqu'à ce qu'elle soit tendre. Ajouter l'ail et les échalotes après 15 minutes de cuisson. Laisser refroidir.", "Badigeonner les filets de poisson avec l'huile et faire cuire sous un gril chaud. Laisser refroidir puis couper en morceaux.", "Plonger le vermicelle dans de l'eau bouillante et faire cuire 1 à 2 minutes. Égoutter, laisser refroidir et hacher.", "Couper l'aubergine en deux, prélever la pulpe cuite et mettre dans un mixer. Prélever la pulpe cuite de 6 des gousses d'ail et mettre dans le mixer. Ajouter le poisson, la sauce de poisson, le piment, la menthe et la coriandre et mixer pour obtenir une purée fine. Transférer dans une jatte, saler à volonté et incorporer le vermicelle.", "Pour la sauce, mettre la sauce de poisson, le jus de citron vert, le sucre et le piment dans un mixer. Prélever la pulpe du reste des gousses d'ail et ajouter. Mixer jusqu'à l'obtention d'une sauce onctueuse. Faire chauffer la sauce dans une petite casserole en remuant pour dissoudre le sucre. Laisser refroidir à température ambiante.", "Poser la jatte de purée sur un plat et l'entourer de feuilles de scarole et de laitue et de brins de coriandre. Servir la sauce séparément dans un bol. Chaque convive prend une feuille de laitue, pose dessus un brin de coriandre, une cuillerée de purée et 1 cuil. à café de sauce et roule le tout."]
+
   },
   {
     "id": 122,
@@ -1432,9 +1528,13 @@
     "page": 237,
     "categorie": "Dessert",
     "ingredientPrincipal": "Banane",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 bananes", "80 ml de jus de citron", "Noix de coco râpée"],
+"preparation": ["Peler les bananes et couper en rondelles épaisses. Plonger dans le jus de citron. Rouler chaque rondelle dans la noix de coco râpée. Servir à température ambiante."]
+
   },
   {
     "id": 123,
@@ -1443,9 +1543,13 @@
     "page": 281,
     "categorie": "Dessert",
     "ingredientPrincipal": "Banane",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1693.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe de noix de coco hachée, pour servir", "40 g de farine", "2 cuil. à soupe de farine de riz", "60 g de sucre en poudre", "25 g de noix de coco râpée", "250 ml de lait de coco", "1 œuf, légèrement battu", "Beurre, pour la cuisson", "4 grosses bananes", "60 g de beurre", "60 g de cassonade", "80 ml de jus de citron vert", "Lanières de zeste de citron vert, pour servir"],
+"preparation": ["Étaler la noix de coco hachée dans une lèchefrite et faire dorer 10 minutes au four à 150°C (th. 2), en secouant la lèchefrite de temps en temps. Ôter de la lèchefrite pour empêcher de brûler et réserver.", "Tamiser les deux farines au-dessus d'une jatte. Ajouter le sucre et la noix de coco râpée et mélanger à la cuillère. Creuser une fontaine au centre et verser le lait de coco et l'œuf. Mélanger en une pâte homogène.", "Faire fondre un peu de beurre dans une poêle à crêpes. Verser 3 cuil. à soupe de pâte à crêpes et faire cuire à feu moyen, jusqu'à ce que le dessous soit doré. Retourner et faire dorer l'autre face. Transférer sur un plat et couvrir d'un linge. Répéter l'opération avec le reste de la pâte à crêpes en beurrant la poêle si nécessaire.", "Couper les bananes en rondelles épaisses. Faire fondre le beurre dans une poêle, ajouter la banane, remuer pour enrober et faire brunir à feu moyen. Poudrer de la cassonade et secouer doucement la poêle jusqu'à dissolution. Incorporer le jus de citron. Répartir la banane entre les crêpes et replier. Parsemer de la noix de coco grillée et de lanières de zeste de citron."]
+
   },
   {
     "id": 124,
@@ -1454,9 +1558,13 @@
     "page": 184,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1696.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g d'aloyau de bœuf", "40 g de graines de sésame blanches", "125 ml de sauce de soja", "2 gousses d'ail, finement hachées", "3 oignons nouveaux, finement hachés", "1 cuil. à soupe d'huile de sésame", "1 cuil. à soupe d'huile"],
+"preparation": ["Congeler la viande pendant 30 minutes.", "Faire griller à sec les graines de sésame dans une poêle pendant 3 à 4 minutes, à feu moyen, en secouant la poêle. Lorsque les graines sont dorées, ôter de la poêle pour qu'elles ne brûlent pas. Moudre dans un moulin à café ou piler au mortier.", "Émincer la viande en très fines lamelles dans le sens contraire des fibres.", "Mélanger la viande, la sauce de soja, l'ail, l'oignon nouveau et la moitié des graines de sésame. Laisser mariner 2 heures.", "Mélanger les huiles et en badigeonner une plaque à four, une poêle à fond épais ou une plaque de barbecue. Faire chauffer très vivement et faire cuire la viande en 3 fois, 1 minute de chaque côté (ne pas trop cuire, elle deviendrait caoutchouteuse). Entre deux fournées, huiler de nouveau la plaque et la réchauffer. Poudrer la viande de graines de sésame et servir avec du kim chi."]
+
   },
   {
     "id": 125,
@@ -1465,9 +1573,13 @@
     "page": 88,
     "categorie": "Plat",
     "ingredientPrincipal": "Fruits de mer",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1698.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["PÂTE D'ÉPICES - 1 oignon moyen, râpé", "PÂTE D'ÉPICES - 4 gousses d'ail, hachées", "PÂTE D'ÉPICES - 5 cm de gingembre frais, râpé", "PÂTE D'ÉPICES - 3 tiges de lemon-grass (partie blanche), hachées", "PÂTE D'ÉPICES - 2 cuil. à café de curcuma moulu", "PÂTE D'ÉPICES - 1 cuil. à café de pâte de crevettes séchées", "PÂTE D'ÉPICES - 80 ml d'huile", "PÂTE D'ÉPICES - 1/4 de cuil. à café de sel", "4 blancs de calmars moyens", "2 filets de poisson blanc à chair ferme de 300 g chacun", "8 gambas crues", "Feuilles de bananier, pour servir", "2 citrons verts, coupés en quartiers"],
+"preparation": ["Pour la pâte d'épices, mettre l'oignon, l'ail, le gingembre, le lemon-grass, le curcuma, la pâte de crevettes, l'huile et le sel dans un mixer. Réduire en une pâte onctueuse.", "Couper les calmars en deux dans la longueur. À l'aide d'un couteau pointu, inciser l'intérieur du corps en lignes parallèles, sans traverser la chair. Couper la chair en morceaux de 4 x 3 cm.", "Laver tous les fruits de mer sous l'eau froide courante et essuyer à l'aide de papier absorbant. Badigeonner légèrement de pâte d'épices. Mettre sur un plateau et laisser mariner 15 minutes.", "Huiler une plaque de barbecue et faire chauffer doucement. Lorsque la plaque est chaude, disposer les filets de poissons et les gambas côte à côte. Faire cuire 3 minutes de chaque côté, en retournant une seule fois, ou jusqu'à ce que la chair de poisson soit ferme et les gambas roses ou orange. Ajouter le calmar et faire cuire 2 minutes, jusqu'à ce qu'il soit blanc et ferme. Attention à ne pas trop cuire.", "Dresser les fruits de mer sur un plateau tapissé de feuilles de bananier. Ajouter les citrons verts et servir sans attendre."]
+
   },
   {
     "id": 126,
@@ -1476,9 +1588,13 @@
     "page": 160,
     "categorie": "Plat",
     "ingredientPrincipal": "Poisson",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1700.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 petite dorade de 750 g, vidée et écaillée", "2 cuil. à café de grains de poivre vert, finement écrasés", "2 cuil. à café de piment rouge haché", "3 cuil. à café de sauce de poisson", "1 cuil. à soupe d'huile", "2 oignons moyens, finement émincés", "4 cm de gingembre frais, très finement émincé", "3 gousses d'ail, très finement émincées", "2 cuil. à café de sucre", "4 oignons nouveaux, coupés en morceaux de 4 cm puis en fines lanières", "Sauce au citron et à l'ail (page 169), pour servir"],
+"preparation": ["Laver l'intérieur et l'extérieur du poisson et essuyer à l'aide de papier absorbant. Faire deux incisions en biais dans la partie charnue du poisson, sur les deux faces.", "Réduire en pâte le poivre vert, le piment et la sauce de poisson dans un mixer ou un mortier. Enduire le poisson de cette pâte, couvrir et réfrigérer pendant 20 minutes.", "Faire chauffer le barbecue très vivement. Huiler légèrement. Faire cuire le poisson 8 minutes de chaque côté : la chair doit s'émietter facilement sous une fourchette.", "Pendant la cuisson du poisson, faire chauffer l'huile dans une poêle. Ajouter l'oignon et faire dorer à feu moyen en remuant. Ajouter le gingembre, l'ail et le sucre et faire cuire 3 minutes.", "Mettre le poisson sur un plat, napper du mélange à l'oignon, parsemer d'oignon nouveau et servir avec une sauce au citron et à l'ail et du riz à la vapeur."]
+
   },
   {
     "id": 127,
@@ -1502,9 +1618,13 @@
     "page": 124,
     "categorie": "Plat",
     "ingredientPrincipal": "Moules",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1707.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de petites moules fraîches", "1 cuil. à soupe d'huile", "1 oignon moyen, haché", "4 gousses d'ail, hachées", "2 tiges de lemon-grass (partie blanche), hachées", "1 à 2 cuil. à café de piment rouge haché", "250 ml de vin blanc", "1 cuil. à soupe de sauce de poisson", "30 g de basilic thaïlandais haché"],
+"preparation": ["Jeter toute moule ouverte. Gratter les moules à l'aide d'une brosse et les ébarber. Faire tremper les moules dans une jatte d'eau froide pendant 10 minutes. Égoutter.", "Faire chauffer l'huile dans un wok. Ajouter l'oignon, l'ail, le lemon-grass et le piment et faire cuire 4 minutes à feu doux, en remuant de temps en temps. Verser le vin et la sauce de poisson et faire cuire 3 minutes.", "Jeter les moules dans le wok et secouer. Couvrir le wok, augmenter le feu et faire ouvrir les moules 3 à 4 minutes (attention à ne pas trop les cuire, la chair durcirait). Jeter celles qui ne se sont pas ouvertes au bout de 4 minutes. Ajouter le basilic, remuer et servir avec du riz à la vapeur."]
+
   },
   {
     "id": 129,
@@ -1513,9 +1633,13 @@
     "page": 140,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Riz",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1710.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["100 g de pointe de porc", "300 g de cuisses de poulet désossées", "2 cuil. à soupe d'huile", "3 cm de barde porc, hachée", "4 gousses d'ail, hachées", "4 cm de gingembre frais, râpé", "2 cuil. à café de piment rouge haché", "500 g de riz parfumé au jasmin, cuit et refroidi (voir note)", "1 cuil. à soupe de sauce de poisson", "2 cuil. à café de sauce Golden Mountain", "2 oignons nouveaux, hachés", "30 g de basilic thaïlandais, haché", "15 g de feuilles de coriandre, hachées"],
+"preparation": ["Couper le porc et le poulet en dés.", "Faire chauffer l'huile dans un wok ou une grande poêle. Lorsqu'elle est très chaude, ajouter la barde de porc, l'ail, le gingembre et le piment. Remuer pendant 2 minutes.", "Ajouter le poulet et le porc et faire sauter 3 minutes, ou jusqu'à coloration. Séparer les grains de riz et ajouter dans le wok. Bien mélanger à l'aide de deux cuillères en bois. Lorsque le riz est chaud, ajouter la sauce de poisson et la sauce Golden Mountain. Incorporer l'oignon nouveau, le basilic et la majeure partie de la coriandre, en réservant quelques feuilles pour la décoration. Disposer la coriandre réservée et servir.", "Note : Si possible, faire cuire le riz la veille et le réfrigérer une nuit avant de le faire sauter. Il restera plus ferme."]
+
   },
   {
     "id": 130,
@@ -1524,9 +1648,13 @@
     "page": 230,
     "categorie": "Entrée",
     "ingredientPrincipal": "Oignon",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["80 g de farine besan (pois chiches)", "60 g de farine", "1 1/2 cuil. à café de bicarbonate de soude", "1 cuil. à café de piment en poudre", "1 œuf, légèrement battu", "300 ml d'eau", "4 gros oignons, coupés en deux et finement émincés", "4 gousses d'ail, hachées", "Huile à friture"],
+"preparation": ["Tamiser les farines, le bicarbonate de soude et le piment en poudre au-dessus d'une jatte. Creuser une fontaine au centre, verser l'œuf et l'eau et former une pâte onctueuse. Le cas échéant, ajouter un peu d'eau. Ajouter l'oignon et l'ail et bien mélanger.", "Faire chauffer 1 cm d'huile dans une poêle. Verser quelques cuil. à soupe de pâte et les aplatir en forme de galettes. Faire dorer les beignets des deux côtés et égoutter sur du papier absorbant. Répéter l'opération pour le reste de la pâte. Servir chaud avec de la sauce pimentée ou du chutney de mangue.", "Note : Pour une saveur plus douce, on peut remplacer le piment en poudre par du paprika."]
+
   },
   {
     "id": 131,
@@ -1550,9 +1678,13 @@
     "page": 283,
     "categorie": "Dessert",
     "ingredientPrincipal": "Biscuit",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1713.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 blancs d'œufs", "60 g de sucre glace tamisé", "45 g de beurre fondu", "60 g de farine"],
+"preparation": ["Préchauffer le four à 180°C (th. 4). Tapisser une plaque à four de papier sulfurisé et tracer 3 cercles de 8 cm de diamètre.", "Mettre les blancs d'œufs dans une jatte et les faire mousser au fouet. Verser le sucre glace et le beurre et bien mélanger. Ajouter la farine et remuer en une préparation onctueuse. Laisser reposer 15 minutes.", "À l'aide d'une spatule étaler 1 1/2 cuil. à café rases de la préparation sur chaque cercle. Faire cuire 5 minutes, jusqu'à ce que les bords soient légèrement marron. Glisser une spatule sous les biscuits et ôter de la plaque à four. Placer un message de bonne fortune sur chaque biscuit. Plier chaque biscuit en deux, en forme de croissant, puis poser sur le bord d'une jatte pour le replier légèrement. Laisser refroidir sur une grille.", "Note : Il faut cuire les biscuits par 2 ou 3 pour qu'ils ne durcissent pas trop rapidement : ils se casseraient pendant le pliage."]
+
   },
   {
     "id": 133,
@@ -1651,9 +1783,13 @@
     "page": 273,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1715.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 kg de rond de gîte de bœuf", "2 cuil. à soupe d'huile", "3 cuil. à soupe de poudre de curry de Sri Lanka (page 126)", "3 gousses d'ail, écrasées", "2 cuil. à soupe de gingembre frais râpé", "3 cuil. à soupe de lemon-grass (partie blanche) haché", "2 oignons moyens, hachés", "3 cuil. à soupe de concentré de tamarin", "3 cuil. à soupe de vinaigre", "500 ml de bouillon de bœuf", "500 ml de lait de coco"],
+"preparation": ["Parer la viande. Lier avec de la ficelle de cuisine pour qu'elle conserve sa forme.", "Faire chauffer l'huile dans une cocotte. Ajouter la viande et faire brunir à feu vif. Ôter de la cocotte et réserver.", "Réduire le feu. Ajouter la poudre de curry, l'ail, le gingembre, le lemon-grass et l'oignon. Faire cuire 5 minutes à feu moyen : l'huile commence à se séparer des épices.", "Remettre la viande dans la cocotte. Ajouter le tamarin, le vinaigre, le bouillon et le lait de coco et porter à ébullition. Réduire le feu, couvrir et laisser frémir 1 heure 45.", "Ôter la viande de la cocotte et tenir au chaud. Porter le liquide à ébullition et faire épaissir 10 minutes. Émincer la viande, napper de la sauce et servir.", "Note : À défaut de poudre de curry de Sri Lanka, se procurer une poudre de curry «spéciale viande» dans une épicerie asiatique."]
+
   },
   {
     "id": 140,
@@ -1662,9 +1798,13 @@
     "page": 195,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["8 champignons chinois séchés", "150 g de vermicelle de haricots mungo séché", "1 cuil. à soupe de graines de sésame blanches", "150 g d'aloyau de bœuf, en partie congelé", "4 gousses d'ail, finement hachées", "2 cuil. à soupe de sauce de soja", "2 cuil. à soupe d'eau", "2 cuil. à café d'huile de sésame", "1 à 2 cuil. à café de piment rouge haché", "1 grosse carotte", "1/2 poivron rouge moyen", "75 g d'asperges", "2 cuil. à soupe d'huile", "6 oignons nouveaux, finement émincés", "Sauce de soja et huile de sésame, pour servir"],
+"preparation": ["Faire ramollir les champignons 20 à 30 minutes dans de l'eau chaude. Faire tremper le vermicelle 10 minutes.", "Faire griller à sec les graines de sésame 3 à 4 minutes dans une poêle, à feu moyen, en secouant la poêle. Lorsqu'elles sont dorées, ôter de la poêle pour qu'elles ne brûlent pas.", "Émincer la viande en très fines lanières. Mélanger avec l'ail, la sauce de soja, l'eau, l'huile de sésame et le piment. Faire mariner 15 minutes. Couper carotte, poivron rouge et asperges en fines lanières de 4 cm. Égoutter le vermicelle. Égoutter les champignons en réservant 2 cuil. à soupe de liquide. Émincer en jetant les pieds durs. Mélanger avec la viande. Égoutter et réserver.", "Faire chauffer un wok ou une grande poêle à fond épais à feu moyen. Lorsqu'il est très chaud, verser un peu d'huile. Faire sauter le mélange à la viande en 2 fois. Ôter du wok. Ajouter un peu d'huile. Faire sauter les légumes 2 minutes, couvrir et étuver 1 minute, jusqu'à ce qu'ils soient tendres. Ajouter le vermicelle, le liquide réservé et l'oignon nouveau. Remuer. Remettre la viande dans le wok, couvrir et étuver 1 minute.", "Répartir le vermicelle entre 4 bols, parsemer des graines de sésame et servir avec de la sauce de soja et de l'huile de sésame."]
+
   },
   {
     "id": 141,
@@ -1688,9 +1828,13 @@
     "page": 151,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1718.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de gîte de bœuf, en partie congelé", "2 cuil. à café de sel", "1/4 de cuil. à café de piment en poudre", "1 cuil. à café de poivre noir", "1 cuil. à soupe de cassonade", "4 gousses d'ail, écrasées", "2 cuil. à café d'huile de sésame", "1 cuil. à soupe d'huile d'arachide", "SALADE DE PAPAYE VERTE - 1 petite papaye verte, pelée et égrainée", "SALADE DE PAPAYE VERTE - 1 carotte", "SALADE DE PAPAYE VERTE - 2 gousses d'ail, écrasées", "SALADE DE PAPAYE VERTE - 6 cm de gingembre frais, râpé", "SALADE DE PAPAYE VERTE - 2 petits piments rouges", "SALADE DE PAPAYE VERTE - 2 cuil. à soupe de sauce de poisson", "SALADE DE PAPAYE VERTE - 4 feuilles de citron kaffir, coupées en fines lanières", "SALADE DE PAPAYE VERTE - 1 cuil. à soupe de jus de citron vert", "SALADE DE PAPAYE VERTE - 2 cuil. à café de cassonade", "SALADE DE PAPAYE VERTE - 1 cuil. à café d'huile de sésame", "SALADE DE PAPAYE VERTE - 30 g de feuilles de coriandre", "SALADE DE PAPAYE VERTE - 160 g de cacahuètes grillées non salées"],
+"preparation": ["Préchauffer le four à 120°C (th. 1/2).", "Ôter les parties grasses de la viande. Émincer en lamelles de 2,5 mm d'épaisseur puis en lanières. Mélanger le sel, le piment en poudre, le poivre, le sucre, l'ail, l'huile de sésame et l'huile d'arachide dans une jatte. Ajouter les lanières de viande et, avec les doigts, bien les enrober de marinade. Couvrir et laisser mariner 4 heures au réfrigérateur.", "Mettre la viande sur une grille dans une lèchefrite et faire cuire 5 heures, ou jusqu'à ce qu'elle soit sèche.", "Passer la viande 3 minutes sous un gril chaud et servir avec la salade de papaye verte.", "Pour la salade de papaye verte, couper la papaye et la carotte en lamelles à l'aide d'un épluche-légumes. Mélanger la papaye et la carotte dans une jatte avec le reste des ingrédients et remuer légèrement.", "Note : Le bœuf séché se conserve jusqu'à 3 semaines dans un récipient hermétique ou jusqu'à 6 mois au congélateur."]
+
   },
   {
     "id": 143,
@@ -1699,9 +1843,13 @@
     "page": 240,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1721.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de paleron, de rond de gîte ou de flanchet de bœuf", "1/2 cuil. à café de cumin moulu", "1 cuil. à soupe de graines de coriandre", "1/2 cuil. à café de graines de cardamome", "1 cuil. à café de fenugrec moulu", "2 cuil. à café de piment en poudre", "1 cuil. à café de curcuma moulu", "1 cuil. à café de moutarde en poudre", "2 cuil. à soupe de ghee ou d'huile", "3 oignons moyens, émincés", "3 cuil. à café de gingembre frais râpé", "3 gousses d'ail, écrasées", "1 bâton de cannelle", "80 ml de vinaigre brun", "125 ml de bouillon de bœuf", "1 cuil. à café de sucre"],
+"preparation": ["Couper la viande en cubes de 3 cm de côté.", "Mixer finement le cumin, les graines de coriandre et de cardamome, le fenugrec, le piment en poudre, le curcuma et la moutarde en poudre.", "Faire fondre le ghee dans une poêle. Faire brunir la viande de toutes parts à feu moyen, en plusieurs fois. Transférer dans une jatte.", "Ajouter oignon, gingembre, ail et cannelle dans la poêle et remuer à feu doux : l'oignon doit être tendre. Ajouter les épices et la viande et remuer pour bien enrober la viande. Ajouter le vinaigre, le bouillon, le sucre, du sel et du poivre à volonté. Couvrir et laisser mijoter 1 heure 30 à feu doux. Ôter la cannelle avant de servir."]
+
   },
   {
     "id": 144,
@@ -1710,9 +1858,13 @@
     "page": 155,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1723.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g d'aloyau de bœuf", "2 cuil. à café de flocons de piment", "4 tiges de lemon-grass (partie blanche), finement hachées", "2 lamelles de galanga frais, finement haché", "2 lamelles de curcuma frais, finement haché", "4 gousses d'ail, écrasées", "4 cuil. à café de sucre de palme râpé ou de cassonade", "125 ml de sauce d'huître", "1 cuil. à café de sel", "2 cuil. à soupe d'huile"],
+"preparation": ["Couper la viande en longues lanières fines. Mettre les lanières dans une jatte de verre.", "Piler au mortier le piment, le lemon-grass, le galanga, le curcuma et l'ail. Ajouter le sucre de palme, la sauce d'huîtres, le sel et l'huile et bien mélanger.", "Verser la marinade sur la viande et bien mélanger pour l'enrober. Couvrir de film alimentaire et faire réfrigérer 4 heures. Enfiler la viande sur des brochettes préalablement trempées dans l'eau 30 minutes.", "Préchauffer le gril et faire brunir les brochettes sur les deux faces. On peut également les faire cuire au barbecue."]
+
   },
   {
     "id": 145,
@@ -1721,9 +1873,13 @@
     "page": 60,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["750 g de bœuf haché", "1 petit oignon, râpé", "30 g de persil frais haché", "2 cuil. à soupe de feuilles de coriandre hachées", "1/2 cuil. à café de cumin moulu", "1/2 cuil. à café de muscade moulue", "1/2 cuil. à café de cardamome moulue", "1/2 cuil. à café d'origan séché", "1/2 cuil. à café de menthe séchée", "Quartiers de citron"],
+"preparation": ["Mélanger le bœuf haché, l'oignon, le persil, la coriandre, le cumin, la muscade, la cardamome, l'origan et la menthe. Laisser reposer 1 heure.", "S'humecter les mains et former 24 saucisses (koftas). Sur chaque brochette, enfiler 1 quartier de citron entre 2 koftas.", "Placer les brochettes sous un gril chaud ou sur une plaque préchauffée et cuire 10 à 12 minutes en les retournant."]
+
   },
   {
     "id": 146,
@@ -1732,9 +1888,13 @@
     "page": 180,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1727.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de filet de bœuf", "4 gousses d'ail, finement hachées", "2 cuil. à soupe d'huile", "1 cuil. à soupe de sauce de poisson", "1 cuil. à café de sucre", "1/2 cuil. à café de sel", "1/2 cuil. à café de poivre noir", "1 petite laitue", "1 petit concombre libanais", "1/2 oignon rouge"],
+"preparation": ["Couper la viande en cubes. Mettre dans une jatte avec l'ail, l'huile, la sauce de poisson, le sucre, le sel et le poivre. Bien mélanger. Couvrir et laisser mariner 1 heure au réfrigérateur.", "Laver la laitue et séparer les feuilles. Couper le concombre et l'oignon en rondelles.", "Faire chauffer un wok très vivement. Faire sauter les cubes de bœuf en 3 fois en remuant le wok et en les retournant, jusqu'à ce qu'ils soient très saisis à l'extérieur mais encore roses à l'intérieur.", "Placer la viande au centre d'un plat de service, décorer avec la laitue, le concombre et l'oignon et servir sans attendre."]
+
   },
   {
     "id": 147,
@@ -1743,9 +1903,13 @@
     "page": 266,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["800 g de paleron ou de flanchet de bœuf", "2 pommes de terre moyennes", "200 g de gombos", "155 g d'oignon grossièrement haché", "4 gousses d'ail, écrasées", "3 cuil. à café de gingembre frais finement haché", "1 cuil. à café de curcuma moulu", "1/2 cuil. à café de paprika", "1/2 cuil. à café de piment en poudre", "4 cuil. à soupe d'huile", "1 cuil. à soupe d'huile de sésame", "1 cuil. à café de cumin moulu", "375 ml d'eau ou de bouillon de bœuf", "2 cuil. à soupe de ciboulette de Chine, finement hachée", "1 citron, coupé en quartiers"],
+"preparation": ["Couper le bœuf en cubes de 3 cm de côté. Peler les pommes de terre et couper en cubes. Ôter le pédoncule des gombos. S'ils sont gros, couper en deux dans la longueur.", "Mettre l'oignon, l'ail, le gingembre, le curcuma, le paprika et le piment dans un mixer. Réduire en une pâte épaisse.", "Faire chauffer les huiles dans une sauteuse. Ajouter le mélange à l'oignon et faire cuire 20 minutes à feu doux, en ajoutant de l'eau si le mélange commence à attacher ou à brûler. La pâte est cuite lorsqu'elle est brun doré et entourée d'un filet d'huile.", "Ajouter le bœuf et faire brunir 5 minutes en remuant. Ajouter le cumin et mélanger. Verser l'eau ou le bouillon, couvrir et laisser frémir 2 heures, jusqu'à ce que la viande soit tendre. Ajouter les pommes de terre et les gombos 3/4 d'heure avant la fin de la cuisson. 10 minutes avant la fin, ôter le couvercle pour que la sauce réduise. Saler à volonté, parsemer de la ciboulette de Chine et servir avec du riz et des quartiers de citron."]
+
   },
   {
     "id": 148,
@@ -1754,9 +1918,13 @@
     "page": 136,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1732.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe d'huile", "1 gros oignon, haché", "1 à 2 cuil. à soupe de pâte de curry verte (page 123)", "500 g de bœuf dans la tranche, coupé en épaisses lanières", "185 ml de lait de coco", "60 ml d'eau", "6 feuilles de citron kaffir", "100 g d'aubergines thaïlandaises", "2 cuil. à soupe de sauce de poisson", "1 cuil. à café de cassonade", "2 cuil. à café de zeste de citron finement râpé", "15 g de feuilles de coriandre", "30 g de basilic frais, coupé en lanières"],
+"preparation": ["Faire chauffer l'huile dans un wok ou une grande poêle. Ajouter l'oignon et la pâte de curry et remuer 2 minutes à feu moyen.", "Faire chauffer le wok très vivement. Ajouter la viande, par fournées, et faire brunir. Remettre toute la viande dans le wok. Ajouter le lait de coco, l'eau et les feuilles de citron. Porter à ébullition, réduire le feu, couvrir et laisser frémir 10 minutes. Ajouter les aubergines et laisser mijoter 10 minutes sans couvrir.", "Ajouter la sauce de poisson, le sucre et le zeste et mélanger. Incorporer la coriandre et le basilic. Servir avec du riz à la vapeur.", "Note : On peut remplacer les aubergines thaïlandaises par des aubergines longues finement émincées."]
+
   },
   {
     "id": 149,
@@ -1765,9 +1933,13 @@
     "page": 128,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1735.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 cuil. à soupe d'huile", "500 g de gîte de bœuf, coupé en gros cubes", "1 à 2 cuil. à soupe de pâte de curry musaman (voir ci-dessus)", "2 gros oignons, coupés en rondelles épaisses", "2 grosses pommes de terre, pelées et coupées en dés", "375 ml de lait de coco", "250 ml d'eau", "2 gousses de cardamome", "2 feuilles de laurier", "2 cuil. à soupe de concentré de tamarin", "2 cuil. à café de cassonade", "80 g de cacahuètes grillées et non salées, hachées (facultatif)", "2 piments rouges, finement émincés"],
+"preparation": ["Faire chauffer l'huile dans un wok ou une grande poêle à fond épais et faire brunir la viande à feu moyen, en plusieurs fois. Ôter du wok et réserver sur du papier absorbant.", "Ajouter la pâte de curry dans le wok et remuer 1 minute. Ajouter l'oignon et les dés de pommes de terre et faire dorer en remuant sans cesse. Ôter du wok et réserver.", "Verser le lait de coco et l'eau. Porter à ébullition en remuant. Réduire le feu et laisser frémir 15 minutes sans couvrir.", "Remettre la viande, l'oignon et les pommes de terre dans le wok. Ajouter les gousses de cardamome, les feuilles de laurier, le tamarin et le sucre. Bien mélanger. Laisser mijoter 20 minutes sans couvrir, jusqu'à ce que la viande soit tendre. Ôter la cardamome et les feuilles de laurier. Le cas échéant, ajouter les cacahuètes. Parsemer de piment émincé et servir avec du riz à la vapeur."]
+
   },
   {
     "id": 150,
@@ -1776,9 +1948,13 @@
     "page": 226,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+"image": "app-complete-5/IMG_1738.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de paleron ou de flanchet de bœuf", "25 g de coriandre moulue", "6 cuil. à café de cumin moulu", "1 cuil. à café de graines de moutarde brunes", "1/2 cuil. à café de grains de poivre noir concassés", "1 cuil. à café de piment en poudre", "1 cuil. à café de curcuma moulu", "1 cuil. à café de sel", "2 cuil. à café d'ail écrasé", "2 cuil. à café de gingembre râpé", "2 à 3 cuil. à soupe de vinaigre de vin blanc", "1 cuil. à soupe d'huile ou de ghee", "1 oignon moyen, haché", "60 g de concentré de tomates", "250 ml de bouillon de bœuf"],
+"preparation": ["Parer la viande et la couper en cubes de 2,5 cm de côté.", "Mélanger dans un bol coriandre, cumin, graines de moutarde, poivre, piment, curcuma, sel, ail et gingembre. Verser le vinaigre et mélanger en une pâte onctueuse.", "Faire chauffer l'huile dans une grande poêle et faire fondre l'oignon à feu moyen. Ajouter la pâte d'épices et remuer 1 minute. Ajouter la viande et remuer pour bien l'enrober. Ajouter le concentré de tomates et le bouillon. Couvrir et laisser mijoter 1 heure 30 : la viande doit être tendre."]
+
   },
   {
     "id": 151,
@@ -1802,9 +1978,13 @@
     "page": 179,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1740.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 oignon rouge, finement émincé", "185 ml de vinaigre de riz", "3 piments rouges, finement hachés", "2 cuil. à soupe de sauce de poisson", "2 cuil. à soupe de jus de citron vert", "6 gousses d'ail, finement hachées", "2 cuil. à soupe de sucre", "500 g de filet de bœuf", "1/2 cuil. à café de poivre noir", "1 l d'eau", "410 g de tomates en boîte, hachées", "12 crêpes de riz", "75 g de feuilles de laitue, coupées en lanières", "10 g de menthe fraîche", "1 petit concombre libanais, émincé"],
+"preparation": ["Dans un bol, mélanger l'oignon avec 3 cuil. à soupe de vinaigre. Réserver. Pour la sauce, mettre le piment, la sauce de poisson, le jus de citron vert, la moitié de l'ail et la moitié du sucre dans un bol. Bien mélanger et réserver. Émincer le bœuf en fines lamelles, ajouter le poivre et réserver.", "Verser l'eau dans une grande casserole et porter à ébullition. Ajouter la tomate, le reste de l'ail, le reste du sucre et le reste du vinaigre. Laisser mijoter 20 minutes.", "À l'aide d'un pinceau à pâtisserie, badigeonner d'eau les deux faces de chaque crêpe de riz. Laisser reposer 2 minutes pour qu'elles ramollissent. Les empiler sur une assiette, asperger d'un peu d'eau et couvrir de film alimentaire pour maintenir les crêpes humides jusqu'à l'emploi.", "Passer le mélange à la tomate au mixer. Mettre dans la casserole le bouillon à la tomate obtenu et réchauffer jusqu'au point de frémissement. Faire cuire le bœuf en plusieurs fois jusqu'à coloration et transférer dans un saladier.", "Pour servir, placer les crêpes de riz, la laitue, la menthe et le concombre séparément sur un plat. Chaque convive prend une crêpe, pose dessus quelques lamelles de bœuf, de la laitue, du concombre, de la menthe et de l'oignon mariné, roule le tout et le trempe dans la sauce avant de manger."]
+
   },
   {
     "id": 153,
@@ -1813,9 +1993,13 @@
     "page": 271,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1742.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["45 g de noix de coco râpée", "500 g de bœuf haché", "1 gousse d'ail, écrasée", "1 oignon moyen, finement haché", "1 cuil. à café de cumin moulu", "1/4 de cuil. à café de cannelle moulue", "1/2 cuil. à café de zeste de citron vert finement râpé", "1 cuil. à soupe d'aneth frais haché", "1 œuf, légèrement battu", "100 g de chapelure sèche", "Huile à friture", "Raita au yogourt et à la menthe (page 237), pour servir"],
+"preparation": ["Étaler la noix de coco dans une lèchefrite et faire dorer 10 minutes dans le four à 150°C (th. 2), en secouant la lèchefrite de temps en temps.", "Mettre la noix de coco, le bœuf, l'ail, l'oignon, le cumin, la cannelle, le zeste de citron vert et l'aneth dans une jatte et bien mélanger. Saler et poivrer à volonté.", "Former des boulettes avec quelques cuil. à soupe de mélange chacune. Plonger dans l'œuf et rouler dans la chapelure en enrobant bien.", "Faire chauffer l'huile dans un wok ou une sauteuse et faire dorer les boulettes par fournées, à feu modéré, pendant 5 minutes. Égoutter sur du papier absorbant. Servir avec du raita au yogourt et à la menthe."]
+
   },
   {
     "id": 154,
@@ -1824,9 +2008,13 @@
     "page": 60,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["750 g de rumsteak maigre", "125 ml de sauce de soja", "125 ml de xérès ou de saké", "1 gousse d'ail écrasée", "1 cuil. à café de gingembre moulu", "1 cuil. à café de sucre"],
+"preparation": ["Couper le rumsteak en fines lanières de 15 cm de longueur et les enfiler sur des brochettes.", "Mélanger la sauce de soja, le xérès ou le saké, l'ail, le gingembre et le sucre. Plonger les brochettes dans la marinade et laisser mariner 1 heure au réfrigérateur.", "Égoutter et placer les brochettes sur un gril préchauffé et huilé ou une plaque de barbecue. Faire cuire 3 à 4 minutes de chaque côté."]
+
   },
   {
     "id": 155,
@@ -1865,9 +2053,13 @@
     "page": 222,
     "categorie": "Entrée",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 cuil. à soupe de sauce de soja japonaise", "2 cuil. à soupe de mirin", "2 cuil. à café d'huile de sésame", "1 cuil. à café de sucre", "2 cuil. à soupe de graines de sésame blanches japonaises", "350 g d'aloyau de bœuf", "1 poivron vert", "6 oignons nouveaux", "Huile à friture", "2 œufs, battus", "60 g de farine de blé"],
+"preparation": ["Mettre la sauce de soja, le mirin, l'huile de sésame, le sucre et la moitié des graines de sésame dans une jatte. Couper la viande en cubes, ajouter dans la marinade, remuer et laisser mariner 20 minutes. Faire tremper 12 petites brochettes en bois dans de l'eau pendant 15 minutes.", "Couper le poivron vert en morceaux. Couper la partie ferme des oignons nouveaux en tronçons, en éliminant les extrémités vert foncé.", "Égoutter la viande et essuyer à l'aide de papier absorbant. Enfiler un morceau de viande, de poivron vert et d'oignon nouveau sur chaque brochette, le tout deux fois.", "Faire chauffer 1 cm d'huile dans une poêle. Lorsqu'elle est modérément chaude, rouler chaque brochette dans l'œuf battu puis dans la farine. Secouer pour ôter l'excédent. Faire dorer les brochettes dans la poêle, par fournées de 2 ou 3, en les retournant régulièrement. Parsemer du reste des graines de sésame et servir sans attendre."]
+
   },
   {
     "id": 158,
@@ -1876,9 +2068,13 @@
     "page": 161,
     "categorie": "Soupe",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1747.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg d'os à moelle de bœuf", "350 g de paleron de bœuf", "5 cm de gingembre frais, finement émincé", "1 cuil. à café de sel", "2,5 l d'eau", "6 grains de poivre noir", "1 bâton de cannelle", "4 clous de girofle", "6 graines de coriandre", "2 cuil. à soupe de sauce de poisson", "400 g de nouilles de riz fraîches épaisses", "150 g de rumsteak, finement émincé", "3 oignons nouveaux, finement hachés", "1 oignon moyen, très finement émincé", "GARNITURES - Piment rouge haché, germes de soja, feuilles de basilic pourpre, oignon nouveau haché, fins quartiers de citron vert, feuilles de coriandre", "GARNITURES - sauce de piment et sauce hoisin (facultatif)"],
+"preparation": ["Mettre dans une cocotte les os, le paleron, le gingembre, le sel et l'eau. Porter à ébullition, réduire le feu et laisser frémir doucement 3 heures 30, sans couvrir. Écumer au fur et à mesure. Ajouter poivre, cannelle, clous de girofle, graines de coriandre et sauce de poisson et faire cuire 40 minutes. Ôter la viande et laisser refroidir. Tamiser le bouillon en jetant les os et les épices. Le remettre dans la casserole. Émincer le paleron tiède en très fines lamelles dans le sens contraire des fibres. Réserver.", "Peu avant de servir, plonger les nouilles dans une casserole d'eau bouillante et laisser 10 secondes seulement afin qu'elles ne se défassent pas. Égoutter avec soin et répartir entre 4 grands bols individuels.", "Dresser les garnitures sur un plat creux au centre de la table.", "Porter le bouillon de bœuf à ébullition. Mettre quelques lamelles de paleron cuit et de rumsteak cru dans chaque bol de nouilles. Arroser de bouillon en ébullition, parsemer d'oignon nouveau haché et de rondelles d'oignon et servir. Chaque convive se sert de garnitures et peut ajouter de la sauce de piment ou de la sauce hoisin, selon son goût.", "Note : La réussite de ce plat tient à la saveur du bouillon, pour lequel il n'existe aucun substitut. La cuisson est longue mais en vaut vraiment la peine. Il peut être préparé à l'avance et congelé, ce qui laisse peu d'opérations à faire au dernier moment."]
+
   },
   {
     "id": 159,
@@ -1947,9 +2143,13 @@
     "page": 165,
     "categorie": "Entrée",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1749.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["350 g de filet de bœuf en partie congelé (voir note)", "1 cuil. à soupe de grains de poivre vert, grossièrement hachés", "4 gousses d'ail, écrasées", "3 tiges de lemon-grass (partie blanche), très finement émincées", "3 cuil. à soupe d'huile", "1/4 de cuil. à café de sel", "1/4 de cuil. à café de poivre noir", "250 g de cresson", "125 g de tomates-cerises, coupées en 2", "4 oignons nouveaux, hachés", "2 cuil. à soupe de jus de citron vert"],
+"preparation": ["Émincer la viande en fines lamelles. Mettre dans une jatte avec les grains de poivre hachés, l'ail, le lemon-grass, 2 cuil. à soupe d'huile, le sel et le poivre. Bien mélanger, couvrir et réfrigérer 30 minutes.", "Effeuiller le cresson en ôtant les grosses tiges dures et couper les feuilles en morceaux. Laver avec soin et bien égoutter. Tapisser un plat avec le cresson et disposer les moitiés de tomates tout autour.", "Faire chauffer très vivement le reste de l'huile dans un wok ou une poêle à fond épais jusqu'à ce qu'elle fume légèrement. Ajouter le mélange au bœuf et sa marinade et faire sauter rapidement. Ôter du wok, empiler au centre du lit de cresson et arroser du jus de citron. Servir sans attendre.", "Note : Si le temps le permet, congeler en partie la viande, pendant 30 minutes, en facilite la découpe."]
+
   },
   {
     "id": 164,
@@ -1958,9 +2158,13 @@
     "page": 150,
     "categorie": "Entrée",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1755.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 gousses d'ail, finement hachées", "4 racines de coriandre, finement hachées", "1/2 cuil. à café de poivre noir moulu", "3 cuil. à soupe d'huile", "400 g de rumsteak", "1 petite laitue", "200 g de tomates-cerises", "1 concombre libanais moyen", "4 oignons nouveaux", "15 g de feuilles de coriandre", "ASSAISONNEMENT - 2 cuil. à soupe de sauce de poisson", "ASSAISONNEMENT - 2 cuil. à soupe de jus de citron vert", "ASSAISONNEMENT - 1 cuil. à soupe de sauce de soja", "ASSAISONNEMENT - 1 cuil. à café de piment rouge frais haché", "ASSAISONNEMENT - 2 cuil. à café de cassonade"],
+"preparation": ["Mélanger ensemble l'ail, la racine de coriandre, le poivre noir et 2 cuil. à soupe d'huile. Piler le mélange au mortier ou le réduire en pâte dans un mixer. Répartir la pâte de façon égale sur la viande.", "Faire chauffer le reste de l'huile à feu vif dans une poêle ou un wok. Ajouter la viande et faire cuire 4 minutes de chaque côté, en ne retournant qu'une fois. Ôter de la poêle et laisser refroidir.", "Laver la laitue et séparer les feuilles. Couper les tomates en deux et le concombre en tronçons. Hacher les oignons nouveaux.", "Pour l'assaisonnement, mélanger la sauce de poisson, le jus de citron vert, la sauce de soja, le piment et la cassonade dans un bol. Remuer jusqu'à dissolution du sucre.", "Couper la viande en fines lanières. Tapisser un plat de feuilles de laitue et disposer la tomate, le concombre, l'oignon et les lanières de viande. Arroser de l'assaisonnement et parsemer des feuilles de coriandre. Servir sans attendre."]
+
   },
   {
     "id": 165,
@@ -1969,9 +2173,13 @@
     "page": 141,
     "categorie": "Entrée",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1755.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 gousses d'ail, finement hachées", "4 racines de coriandre, finement hachées", "1/2 cuil. à café de poivre noir moulu", "3 cuil. à soupe d'huile", "400 g de rumsteak", "1 petite laitue", "200 g de tomates-cerises", "1 concombre libanais moyen", "4 oignons nouveaux", "15 g de feuilles de coriandre", "ASSAISONNEMENT - 2 cuil. à soupe de sauce de poisson", "ASSAISONNEMENT - 2 cuil. à soupe de jus de citron vert", "ASSAISONNEMENT - 1 cuil. à soupe de sauce de soja", "ASSAISONNEMENT - 1 cuil. à café de piment rouge frais haché", "ASSAISONNEMENT - 2 cuil. à café de cassonade"],
+"preparation": ["Mélanger ensemble l'ail, la racine de coriandre, le poivre noir et 2 cuil. à soupe d'huile. Piler le mélange au mortier ou le réduire en pâte dans un mixer. Répartir la pâte de façon égale sur la viande.", "Faire chauffer le reste de l'huile à feu vif dans une poêle ou un wok. Ajouter la viande et faire cuire 4 minutes de chaque côté, en ne retournant qu'une fois. Ôter de la poêle et laisser refroidir.", "Laver la laitue et séparer les feuilles. Couper les tomates en deux et le concombre en tronçons. Hacher les oignons nouveaux.", "Pour l'assaisonnement, mélanger la sauce de poisson, le jus de citron vert, la sauce de soja, le piment et la cassonade dans un bol. Remuer jusqu'à dissolution du sucre.", "Couper la viande en fines lanières. Tapisser un plat de feuilles de laitue et disposer la tomate, le concombre, l'oignon et les lanières de viande. Arroser de l'assaisonnement et parsemer des feuilles de coriandre. Servir sans attendre."]
+
   },
   {
     "id": 166,
@@ -1995,9 +2203,13 @@
     "page": 203,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1757.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["750 g d'aloyau de bœuf, en partie congelé", "15 oignons nouveaux", "3 carottes", "400 g de champignons boutons", "1/2 chou chinois", "150 g de tofu ferme", "Sauce aux graines de sésame (page 168) ou sauce shabu-shabu prête à l'emploi, pour servir", "220 g de riz court, cuit", "2 l de bouillon de volaille"],
+"preparation": ["Émincer la viande en très fines lamelles et réserver. Couper la partie ferme des oignons nouveaux en tronçons de 4 cm et jeter les extrémités vert foncé. Émincer très finement les carottes. Émincer les champignons. Hacher le chou en bouchées en ôtant les parties dures. Couper le tofu en bouchées.", "Disposer les légumes préparés, le tofu et la viande séparément sur un plat de service. Couvrir de film alimentaire et faire réfrigérer 30 minutes avant la cuisson.", "Dresser le couvert avec, pour chaque convive, une assiette, un bol de sauce aux graines de sésame, un bol de riz, des baguettes, des cuillères à soupe et une serviette. Disposer le plat de service et le récipient de cuisson de façon à ce que chacun les atteigne facilement.", "Lorsque les convives sont à table, verser le bouillon dans le récipient de cuisson, couvrir et porter au point de frémissement. Chaque convive prend un ingrédient ou deux avec ses baguettes et les plonge dans le bouillon 1 minute (les légumes doivent être juste tendres et la viande encore rose au centre). Il trempe ensuite les aliments dans son bol de sauce et les mange accompagnés de riz. Le reste du bouillon peut être servi en soupe à la fin du repas.", "Note : On peut remplacer le dashi par du bouillon de volaille. Le récipient de cuisson peut être un wok électrique ou un nécessaire à fondue."]
+
   },
   {
     "id": 168,
@@ -2036,9 +2248,13 @@
     "page": 139,
     "categorie": "Entrée",
     "ingredientPrincipal": "Concombre",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1760.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 concombres libanais", "2 cuil. à soupe de vinaigre de vin blanc", "2 cuil. à café de sucre en poudre", "1 à 2 cuil. à soupe de sauce de piment", "1/2 oignon rouge, haché", "15 g de feuilles de coriandre", "160 g de cacahuètes grillées et non salées, hachées", "2 cuil. à soupe d'ail frit", "1/2 cuil. à café de piment haché", "1 cuil. à soupe de sauce de poisson"],
+"preparation": ["Peler les concombres et couper en deux dans la longueur. Ôter les graines à l'aide d'une cuillère à café et émincer en fines lamelles.", "Dans un bol, mélanger le vinaigre et le sucre jusqu'à dissolution de celui-ci. Transférer dans une jatte et mélanger avec le concombre, la sauce de piment, l'oignon et la coriandre. Laisser mariner 45 minutes.", "Avant de servir, ajouter cacahuètes, ail, piment et sauce de poisson et remuer à peine."]
+
   },
   {
     "id": 171,
@@ -2047,9 +2263,13 @@
     "page": 276,
     "categorie": "Plat",
     "ingredientPrincipal": "Fruits de mer",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1762.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de crevettes crues", "2 blancs de calmars", "250 g de moules", "3 cuil. à soupe d'huile", "2 oignons moyens, émincés", "2 gousses d'ail, écrasées", "1 cuil. à soupe de gingembre frais râpé", "1/2 cuil. à café de curcuma moulu", "1 cuil. à café de piment en poudre", "1 cuil. à café de paprika", "60 ml de purée de tomates", "1 cuil. à café de sucre de palme râpé ou de cassonade"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Couper les blancs de calmars en carrés de 6 cm de côté et, à l'aide d'un couteau pointu, inciser la chair en forme de croisillons. Gratter et ébarber les moules.", "Faire chauffer l'huile dans une poêle ou un wok. Ajouter l'oignon, l'ail et le gingembre et faire cuire 3 à 5 minutes à feu moyen, jusqu'à ce que l'oignon soit tendre.", "Ajouter le curcuma, le piment en poudre et le paprika et faire cuire 2 minutes : l'huile doit commencer à se séparer des épices.", "Ajouter les fruits de mer et faire cuire 3 à 5 minutes à feu vif, jusqu'à ce que les crevettes soient roses. Incorporer la purée de tomates et le sucre et réchauffer la sauce 3 minutes. Servir avec du riz ou des nouilles."]
+
   },
   {
     "id": 172,
@@ -2058,9 +2278,13 @@
     "page": 176,
     "categorie": "Plat",
     "ingredientPrincipal": "Calmar",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["100 g de vermicelle de haricots mungo séché", "350 g de blancs de calmars, coupés en anneaux", "2 cuil. à soupe de sauce de poisson", "2 cuil. à soupe d'huile", "3 gousses d'ail, finement hachées", "3 tiges de lemon-grass (partie blanche), finement émincées", "2 cuil. à café de sucre", "1/4 de cuil. à café de sel", "1/4 de cuil. à café de poivre", "1 oignon rouge, finement émincé", "2 tomates mûres, coupées en dés", "2 cuil. à soupe de jus de citron vert", "2 cuil. à soupe de ciboulette de Chine hachée"],
+"preparation": ["Faire tremper le vermicelle 5 à 10 minutes dans de l'eau chaude pour le ramollir. Égoutter.", "Mettre le calmar dans une jatte avec 1 cuil. à soupe de sauce de poisson, 1 cuil. à soupe d'huile, la moitié de l'ail et du lemon-grass et le sucre. Saler et poivrer. Bien mélanger et laisser mariner 15 minutes.", "Faire chauffer un wok très vivement. Faire colorer le calmar en deux fois. Ôter du wok. Réchauffer le wok, ajouter le reste de l'huile et faire sauter 1 minute le reste de l'ail et du lemon-grass et l'oignon. Ajouter la tomate, remuer. Incorporer le vermicelle et le calmar. Bien mélanger. Ajouter le jus de citron, la ciboulette de Chine et le reste de la sauce de poisson. Servir sans attendre."]
+
   },
   {
     "id": 173,
@@ -2084,9 +2308,13 @@
     "page": 166,
     "categorie": "Plat",
     "ingredientPrincipal": "Canard",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1769.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["15 g de champignons chinois séchés", "1 canard de 1,5 kg", "2 cuil. à café d'huile", "2 cuil. à soupe de sauce de soja", "2 cuil. à soupe de vin de riz chinois", "2 cuil. à café de sucre", "2 larges lanières de zeste d'orange", "125 g de cresson"],
+"preparation": ["Faire tremper les champignons 20 minutes dans de l'eau chaude. Égoutter et émincer.", "À l'aide d'un gros couteau ou d'un fendoir, couper le canard en morceaux. Disposer les morceaux sur une grille et arroser d'eau en ébullition : l'eau va faire gonfler la peau et humidifier la viande. Égoutter et essuyer à l'aide de papier absorbant.", "Huiler une poêle à fond épais. Faire brunir le canard en plusieurs fournées, 8 minutes à feu moyen, en retournant régulièrement les morceaux (plus ils seront foncés à cette étape, plus la couleur finale sera belle). Entre chaque fournée, essuyer la poêle à l'aide de papier absorbant pour ôter l'excédent d'huile.", "Essuyer de nouveau la poêle et remettre tout le canard. Ajouter les champignons, la sauce de soja, le vin, le sucre et le zeste d'orange. Porter à ébullition, réduire le feu et laisser mijoter doucement 35 minutes, jusqu'à ce que le canard soit tendre.", "À l'aide de papier absorbant, essuyer le dessus des morceaux de canard. Saler et poivrer à volonté et laisser reposer 10 minutes, à couvert. Ôter le canard de la sauce et éliminer le zeste d'orange. Prélever de petits brins de cresson et disposer sur le côté d'un grand plat. Placer les morceaux de canard de l'autre côté (pas sur le cresson, qui ramollirait). Napper le canard d'un peu de sauce et servir.", "Note : Braisée à feu doux, la chair de canard est très tendre et fond dans la bouche. Si le feu est trop fort, la viande risque de se dessécher et de perdre sa saveur."]
+
   },
   {
     "id": 175,
@@ -2110,9 +2338,13 @@
     "page": 288,
     "categorie": "Dessert",
     "ingredientPrincipal": "Carotte",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1772.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 l de lait", "240 g de carotte râpée", "40 g de raisins secs", "125 g de sucre en poudre", "1/4 de cuil. à café de cannelle moulue", "1/4 de cuil. à café de cardamome moulue", "80 ml de crème liquide", "2 cuil. à soupe de pistaches non salées hachées"],
+"preparation": ["Verser le lait dans une grande casserole et remuer à feu doux jusqu'à ébullition. Réduire le feu et laisser frémir jusqu'à réduction de moitié, en remuant de temps en temps pour que le lait n'attache pas au fond de la casserole.", "Ajouter la carotte râpée et les raisins secs et faire cuire 15 minutes de plus.", "Ajouter le sucre, la cannelle, la cardamome et la crème et faire cuire, en remuant, jusqu'à ce que le sucre soit dissous. Servir le pudding chaud dans des assiettes creuses et parsemer des pistaches hachées."]
+
   },
   {
     "id": 177,
@@ -2132,9 +2364,13 @@
     "page": 206,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Champignon",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 cm de gingembre frais", "500 g de champignons de Paris", "6 oignons nouveaux", "60 ml de vinaigre de riz japonais", "60 ml de sauce de soja japonaise", "2 cuil. à soupe de mirin"],
+"preparation": ["Émincer le gingembre en très fines lamelles, mettre dans une jatte et couvrir d'eau glacée. Réserver.", "Frotter les champignons à l'aide de papier absorbant et ôter la base sableuse. Émincer finement les oignons nouveaux en conservant la majeure partie des tiges vertes. Mélanger les champignons et l'oignon nouveau dans une jatte.", "Mélanger dans un bol le vinaigre, la sauce de soja, le mirin et du sel à volonté. Verser sur le mélange aux champignons, remuer pour bien enrober et laisser mariner 15 minutes.", "Ôter les champignons et l'oignon nouveau de la marinade à l'aide d'une écumoire. Dresser sur un plat. Égoutter le gingembre et répartir les lamelles sur les champignons."]
+
   },
   {
     "id": 179,
@@ -2188,9 +2424,13 @@
     "page": 252,
     "categorie": "Plat",
     "ingredientPrincipal": "Chou-fleur",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 petit chou-fleur, divisé en petits bouquets", "240 g de petits pois", "4 cuil. à soupe de ghee ou d'huile", "1 oignon moyen, finement émincé", "1 cuil. à café d'ail écrasé", "1 cuil. à café de gingembre râpé", "3/4 de cuil. à café de curcuma moulu", "1 cuil. à soupe de coriandre moulue", "1 cuil. à soupe de pâte vindaloo", "2 cuil. à café de sucre", "2 gousses de cardamome, légèrement écrasées", "200 g de yogourt", "2 grosses tomates, coupées en lamelles"],
+"preparation": ["Faire cuire à la vapeur le chou-fleur et les petits pois jusqu'à ce qu'ils soient tendres.", "Faire fondre le ghee dans une poêle et faire dorer l'oignon, l'ail et le gingembre à feu moyen. Ajouter le curcuma, la coriandre, la pâte vindaloo, le sucre, la cardamome et le yogourt. Cuire 3 à 4 minutes.", "Ajouter le chou-fleur et les pois et laisser mijoter 3 minutes. Servir avec du riz."]
+
   },
   {
     "id": 183,
@@ -2214,9 +2454,13 @@
     "page": 236,
     "categorie": "Condiment",
     "ingredientPrincipal": "Coriandre",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 bouquet de coriandre (90 g), racines comprises", "25 g de noix de coco râpée", "1 cuil. à soupe de cassonade", "1 cuil. à café de sel", "1 cuil. à soupe de gingembre frais râpé", "1 petit oignon haché", "2 cuil. à soupe de jus de citron", "1 à 2 petits piments verts égrainés"],
+"preparation": ["Laver, sécher et hacher grossièrement la coriandre. Mettre dans un mixer avec la noix de coco râpée, la cassonade, le sel, le gingembre, l'oignon, le jus de citron et les piments verts. Hacher finement 1 minute. Servir glacé."]
+
   },
   {
     "id": 185,
@@ -2225,9 +2469,13 @@
     "page": 188,
     "categorie": "Condiment",
     "ingredientPrincipal": "Mangue",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["3 grosses mangues vertes", "sel", "2 piments rouges", "1/2 cuil. à café de garam masala", "330 g de sucre brut", "250 ml de vinaigre blanc", "1 cuil. à soupe de gingembre râpé", "95 g de dattes hachées"],
+"preparation": ["Peler 3 grosses mangues vertes, dénoyauter, émincer et saler. Égrainer 2 piments rouges et hacher finement.", "Mettre dans une casserole 1/2 cuil. à café de garam masala, 330 g de sucre brut et 250 ml de vinaigre blanc. Remuer, porter à ébullition. Réduire le feu, laisser frémir 5 minutes.", "Ajouter la mangue, le piment, 1 cuil. à soupe de gingembre râpé et 95 g de dattes hachées. Laisser frémir 1 heure. Verser dans des bocaux stérilisés et fermer. Conserver au réfrigérateur."]
+
   },
   {
     "id": 186,
@@ -2236,9 +2484,13 @@
     "page": 158,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crabe",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["200 g de crevettes crues", "200 g de chair de crabe en boîte", "200 g de pommes de terre", "60 g de farine avec levure incorporée", "250 ml de lait de coco", "2 cuil. à café de sauce de poisson", "1/2 cuil. à café de sel", "1/2 cuil. à café de poivre noir", "1 cuil. à café de sucre", "huile à friture", "feuilles de laitue, pour servir", "feuilles de menthe hachées, pour garnir", "sauce vietnamienne, pour servir"],
+"preparation": ["Décortiquer les crevettes, ôter le boyau et hacher finement la chair. Égoutter la chair de crabe. Râper finement les pommes de terre en éliminant le plus d'eau possible.", "Mélanger dans une jatte chair de crevettes et de crabe, pommes de terre, farine, lait de coco, sauce de poisson, sel, poivre et sucre.", "Faire chauffer l'huile dans une poêle ou un wok. Faire dorer le mélange par fournées de 3 croquettes de quelques cuil. à soupe chacune. Égoutter sur du papier absorbant.", "Dresser les croquettes sur le lit de salade et décorer de feuilles de menthe. Servir avec la sauce vietnamienne.", "Note : On râpe les pommes de terre au dernier moment pour qu'elles ne s'oxydent pas."]
+
   },
   {
     "id": 187,
@@ -2247,9 +2499,13 @@
     "page": 36,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crabe",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["200 g de miettes de crabe égouttées", "250 g de crevettes crues décortiquées et hachées", "4 oignons nouveaux hachés", "3 champignons chinois séchés trempés et hachés", "3 cuil. à soupe de germes de soja hachés", "1 cuil. à soupe de sauce teriyaki", "2 gousses d'ail écrasées", "2 cuil. à café de gingembre frais râpé", "pâte won-ton"],
+"preparation": ["Dans une jatte, mélanger la chair de crabe, les crevettes, les oignons nouveaux, les champignons, les germes de soja, la sauce teriyaki, l'ail et le gingembre. Mettre 1 cuil. à soupe de farce au centre d'un carré de pâte won-ton, rassembler les pointes et pincer. Toujours conserver la pâte sous un linge humide jusqu'à l'emploi. Répéter l'opération jusqu'à épuisement de la pâte.", "Tapisser le fond d'un panier en bambou ou d'une marmite à vapeur de papier sulfurisé. Disposer les dim sums en veillant à ce qu'ils ne se touchent pas, couvrir et faire étuver 8 minutes (le cas échéant, procéder en plusieurs fournées). Servir."]
+
   },
   {
     "id": 188,
@@ -2258,9 +2514,13 @@
     "page": 163,
     "categorie": "Plat",
     "ingredientPrincipal": "Crabe",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1783.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["200 g de vermicelle de haricots mungo séché", "2 cuil. à soupe d'huile", "10 échalotes rouges asiatiques, très finement émincées", "3 gousses d'ail, finement hachées", "2 tiges de lemon-grass (partie blanche), très finement émincées", "1 poivron rouge, coupé en fines allumettes de 4 cm", "170 g de chair de crabe en boîte, bien égouttée", "2 cuil. à soupe de sauce de poisson", "2 cuil. à soupe de jus de citron vert", "2 cuil. à café de sucre", "3 oignons nouveaux, très finement émincés en biais"],
+"preparation": ["Faire tremper le vermicelle 20 minutes dans de l'eau très chaude. Égoutter. Couper en morceaux.", "Faire chauffer l'huile dans un wok ou une poêle. Ajouter l'échalote, l'ail et le lemon-grass et faire sauter 2 minutes à feu vif. Ajouter le poivron rouge et faire cuire 30 secondes en remuant. Ajouter le vermicelle et remuer. Couvrir et réchauffer 1 minute.", "Ajouter le crabe, la sauce de poisson, le jus de citron et le sucre. Bien remuer avec deux cuillères en bois. Saler et poivrer à volonté, parsemer d'oignon nouveau et servir."]
+
   },
   {
     "id": 189,
@@ -2284,9 +2544,13 @@
     "page": 194,
     "categorie": "Plat",
     "ingredientPrincipal": "Légumes",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1785.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["200 g de pois cassés verts séchés", "100 g de riz court", "60 g de farine", "2 œufs, battus", "250 ml d'eau", "1 carotte moyenne", "1/2 poivron vert", "1/2 poivron rouge", "6 oignons nouveaux", "3 cm de gingembre frais", "2 gousses d'ail", "2 cuil. à café de sauce de soja", "2 cuil. à soupe d'huile", "1 cuil. à soupe d'huile de sésame", "oignons nouveaux, finement émincés, pour garnir", "sauce de piment douce, pour servir"],
+"preparation": ["Laver les pois et le riz dans une passoire sous l'eau froide courante, jusqu'à ce que l'eau reste claire. Mettre dans une casserole, couvrir d'eau froide et porter à ébullition. Faire cuire 25 minutes, en rajoutant de l'eau, le cas échéant, jusqu'à ce que les pois soient très tendres. Laisser refroidir puis réduire en purée au mixer. Ajouter la farine, les œufs et la majeure partie de l'eau. Battre jusqu'à l'obtention d'une pâte à crêpes onctueuse, en ajoutant le reste de l'eau au fur et à mesure. La consistance doit être fluide.", "Couper la carotte, les poivrons et les oignons nouveaux en fines allumettes d'environ 3 cm de longueur. Râper finement le gingembre et hacher l'ail. Verser la pâte à frire dans une jatte et incorporer les légumes, le gingembre, l'ail et la sauce de soja.", "Faire chauffer une poêle à fond épais à feu moyen. Lorsqu'elle est chaude, badigeonner d'un peu d'huile et d'huile de sésame. Verser 2 cuil. à soupe de pâte et faire cuire 3 à 5 minutes. Lorsque le dessous est cuit, glisser une spatule sous la crêpe pour la détacher. Retourner et faire cuire 2 minutes sur l'autre face. Couvrir la poêle pendant environ 30 secondes pour s'assurer que la crêpe est cuite et dresser sur une assiette. Tenir au chaud à four très doux pendant la cuisson des autres crêpes.", "Parsemer les crêpes d'oignon nouveau et servir avec la sauce de piment douce."]
+
   },
   {
     "id": 191,
@@ -2295,9 +2559,13 @@
     "page": 190,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Pomme de terre",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["SAUCE D'ACCOMPAGNEMENT - 2 cuil. à café de graines de sésame blanches", "2 gousses d'ail, finement hachées", "2 oignons nouveaux, très finement émincés", "60 ml de sauce de soja", "1 cuil. à soupe de vin blanc", "1 cuil. à soupe d'huile de sésame", "2 cuil. à café de sucre en poudre", "1 cuil. à café de piment rouge haché", "CRÊPES - 500 g de pommes de terre", "1 gros oignon, très finement haché", "2 œufs, battus", "2 cuil. à soupe de Maïzena", "60 ml d'huile"],
+"preparation": ["Pour la sauce, faire griller à sec les graines de sésame 3 à 4 minutes dans une poêle, à feu moyen, en secouant la poêle. Lorsqu'elles sont dorées, ôter de la poêle et laisser refroidir 5 minutes. Mélanger avec l'ail, l'oignon nouveau, la sauce de soja, le vin blanc, l'huile de sésame, le sucre et le piment. Bien mélanger et mettre dans un saladier de service.", "Peler les pommes de terre et râper grossièrement. Mettre dans une jatte avec l'oignon, les œufs et la Maïzena. Saler et poivrer à volonté. Bien mélanger en veillant à ce que la Maïzena soit bien délayée.", "Faire chauffer l'huile dans une grande poêle à fond épais. Verser environ 1 cuil. à soupe bombée de mélange et étaler doucement avec le dos d'une cuillère en un cercle d'environ 6 cm de diamètre. Faire dorer 2 à 3 minutes. Retourner à l'aide d'une spatule et faire cuire 2 minutes de l'autre côté. Faire cuire autant de crêpes en même temps que la poêle peut en contenir. Veiller à ce que la poêle ne soit pas trop chaude : les crêpes brûleraient et ne cuiraient pas uniformément. Tenir au chaud les crêpes cuites dans un four à 120 °C (th. 1/2).", "Servir en en-cas avec la sauce ou en plat complet avec du riz et du kim chi.", "Note : Il faut préparer tous les ingrédients avant de râper les pommes de terre : elles noircissent vite au contact de l'air."]
+
   },
   {
     "id": 192,
@@ -2328,9 +2596,13 @@
     "page": 32,
     "categorie": "Entrée",
     "ingredientPrincipal": "Pâte",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1791.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 canard de 1,7 kg", "3 l d'eau en ébullition", "1 cuil. à soupe de miel", "125 ml d'eau chaude", "1 concombre libanais", "12 oignons nouveaux", "2 cuil. à soupe de sauce hoisin", "CRÊPES MANDARIN - 310 g de farine", "2 cuil. à café de sucre en poudre", "250 ml d'eau en ébullition", "1 cuil. à soupe d'huile de sésame"],
+"preparation": ["Laver le canard, couper le cou et ôter les gros morceaux de graisse à l'intérieur. Tenir le canard au-dessus de l'évier et, avec précaution, l'arroser doucement de l'eau en ébullition en le faisant tourner pour ébouillanter toute la surface de la peau. Si nécessaire, faire bouillir davantage d'eau.", "Placer le canard sur une grille posée dans un plat allant au four. Mélanger le miel avec l'eau chaude et, à l'aide d'un pinceau, passer deux couches de ce mélange sur le canard, en veillant à le recouvrir entièrement. Le laisser sécher pendant 4 heures, de préférence en le suspendant dans un endroit frais et aéré. Une autre solution consiste à le suspendre à 1 mètre environ d'un ventilateur. La peau est bien sèche lorsque, au toucher, elle ressemble à du papier.", "Égrainer le concombre et le détailler en fines allumettes. Raccourcir chaque oignon nouveau à 8 cm et effilocher la partie verte à l'aide d'un couteau pointu. Plonger les oignons nouveaux dans l'eau glacée : les franges vont s'ouvrir et former un « plumeau ».", "Préchauffer le four à 210 °C (th. 6-7). Placer de nouveau le canard sur une grille posée dans un plat, et le faire rôtir pendant 30 minutes. Le retourner avec précaution sans abîmer la peau et faire cuire 30 minutes supplémentaires. Ôter le canard du four et laisser reposer 1 ou 2 minutes. Dresser sur un plat chaud.", "Pour les crêpes mandarin, mettre la farine et le sucre dans une jatte et verser l'eau en ébullition. Mélanger et laisser refroidir. Pétrir le mélange sur une surface farinée pour obtenir une pâte homogène. Couvrir et laisser reposer 30 minutes.", "Former deux boules avec 1 cuil. à soupe rase de pâte pour chacune. Les abaisser en cercles de 8 cm de diamètre. Enduire un cercle d'un peu d'huile de sésame et le recouvrir de l'autre cercle. Abaisser les deux épaisseurs ensemble pour obtenir une crêpe de 15 cm de diamètre. Répéter l'opération avec le reste de la pâte et de l'huile pour obtenir deux « doubles » crêpes.", "Faire chauffer une poêle et faire cuire les crêpes une par une. Lorsque de petites bulles se forment à la surface, retourner la crêpe et faire cuire l'autre côté en appuyant légèrement le dessus à l'aide d'un linge propre. La crêpe doit gonfler en cuisant. La mettre sur une assiette. Lorsqu'elle est froide, séparer les deux épaisseurs, les empiler sur une assiette et les couvrir pour qu'elles ne se dessèchent pas. Faire cuire le reste des crêpes.", "Pour servir, émincer le canard en fines lamelles. Dresser les crêpes et le canard sur des plats de service différents. Disposer les allumettes de concombre et les plumeaux d'oignons nouveaux sur un troisième plat. Verser la sauce hoisin dans un bol. Chaque convive prend une crêpe, la nappe d'un peu de sauce et ajoute quelques allumettes de concombre, un oignon nouveau et un morceau de canard. Il plie la crêpe, qui est alors prête à être dégustée.", "Note : On peut préparer les crêpes plusieurs heures à l'avance et les conserver, couvertes, dans un endroit frais. Les réchauffer brièvement avant de servir, soit à la vapeur, soit 2 minutes à four moyen, enveloppées dans de l'aluminium ménager."]
+
   },
   {
     "id": 195,
@@ -2346,7 +2618,7 @@
   {
     "id": 196,
     "livreId": 2,
-    "titre": "Cresson",
+    "titre": "Cresson.    A ENLEVER ********",
     "page": 19,
     "categorie": "Accompagnement",
     "ingredientPrincipal": "Cresson",
@@ -2361,25 +2633,33 @@
     "page": 165,
     "categorie": "Entrée",
     "ingredientPrincipal": "Cresson",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1798.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 gros magrets de canard avec leur peau", "1 cuil. à soupe de sauce Golden Mountain", "1/2 poivron vert", "1/2 poivron jaune", "250 g de cresson", "12 litchis frais ou en boîte", "2 cuil. à soupe de lanières de gingembre en pickles", "1 à 2 cuil. à soupe de grains de poivre vert (facultatif)", "1 cuil. à soupe de vinaigre de vin blanc", "2 cuil. à café de cassonade", "1 à 2 cuil. à café de piment rouge haché", "15 g de feuilles de coriandre"],
+"preparation": ["Préchauffer le four à 210 °C (th. 6-7). Badigeonner les magrets de sauce Golden Mountain et poser sur une grille dans un plat. Faire cuire au four 30 minutes. Sortir du four et laisser refroidir.", "Ôter les graines et les cloisons blanches des poivrons et émincer la pulpe en fines lanières. Ôter les tiges dures et ligneuses du cresson. Peler et dénoyauter les litchis frais ou égoutter avec soin les litchis en boîte.", "Dresser les lanières de poivron, le cresson, les litchis et le gingembre sur un grand plat de service. Émincer les magrets et incorporer à la salade. Dans un bol, mélanger les grains de poivre, le cas échéant, le vinaigre, le sucre, le piment et les feuilles de coriandre. Servir l'assaisonnement à part."]
+
   },
   {
     "id": 198,
     "livreId": 2,
-    "titre": "Salade de cresson au canard",
+    "titre": "Salade de cresson au canard et aux litchis",
     "page": 137,
     "categorie": "Entrée",
     "ingredientPrincipal": "Cresson",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1798.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 gros magrets de canard avec leur peau", "1 cuil. à soupe de sauce Golden Mountain", "1/2 poivron vert", "1/2 poivron jaune", "250 g de cresson", "12 litchis frais ou en boîte", "2 cuil. à soupe de lanières de gingembre en pickles", "1 à 2 cuil. à soupe de grains de poivre vert (facultatif)", "1 cuil. à soupe de vinaigre de vin blanc", "2 cuil. à café de cassonade", "1 à 2 cuil. à café de piment rouge haché", "15 g de feuilles de coriandre"],
+"preparation": ["Préchauffer le four à 210 °C (th. 6-7). Badigeonner les magrets de sauce Golden Mountain et poser sur une grille dans un plat. Faire cuire au four 30 minutes. Sortir du four et laisser refroidir.", "Ôter les graines et les cloisons blanches des poivrons et émincer la pulpe en fines lanières. Ôter les tiges dures et ligneuses du cresson. Peler et dénoyauter les litchis frais ou égoutter avec soin les litchis en boîte.", "Dresser les lanières de poivron, le cresson, les litchis et le gingembre sur un grand plat de service. Émincer les magrets et incorporer à la salade. Dans un bol, mélanger les grains de poivre, le cas échéant, le vinaigre, le sucre, le piment et les feuilles de coriandre. Servir l'assaisonnement à part."]
+
   },
   {
     "id": 199,
     "livreId": 2,
-    "titre": "Crevettes litchis",
+    "titre": "Crevettes aux litchis.   A ENLEVER*******",
     "page": 137,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crevette",
@@ -2394,31 +2674,43 @@
     "page": 98,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1800.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["300 g de crevettes crues", "50 g de vermicelle de riz séché", "1 œuf", "185 ml d'eau", "1 cuil. à soupe de sauce de poisson", "125 g de farine", "1/4 de cuil. à café de bagoong", "3 oignons nouveaux, émincés", "1 petit piment rouge, finement haché", "huile à friture", "sauce de piment douce, pour servir"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Passer la moitié des crevettes au mixer. Hacher le reste, mettre dans une jatte avec les crevettes mixées et bien mélanger.", "Mettre le vermicelle dans une jatte, couvrir d'eau très chaude et laisser tremper 1 minute. Égoutter et couper en morceaux.", "Dans un bol, battre l'œuf avec l'eau et la sauce de poisson. Tamiser la farine au-dessus d'une jatte, creuser une fontaine au centre, verser en filet le mélange à l'œuf et mélanger pour obtenir une pâte onctueuse.", "Ajouter le mélange aux crevettes, le bagoong, l'oignon nouveau, le piment et le vermicelle dans la jatte. Bien mélanger.", "Faire chauffer de l'huile dans un wok ou une grande poêle. Verser quelques cuil. à soupe du mélange et faire dorer 3 minutes. Égoutter sur du papier absorbant. Répéter l'opération jusqu'à épuisement du mélange. Servir avec la sauce de piment douce."]
+
   },
   {
     "id": 201,
     "livreId": 2,
-    "titre": "Brochettes de crevettes",
+    "titre": "Brochettes de boulettes de crevettes",
     "page": 180,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de crevettes crues", "50 g de barde de porc, hachée", "5 cm de gingembre frais, râpé", "4 gousses d'ail, finement hachées", "1 cuil. à soupe de Maïzena", "1 cuil. à soupe de sucre", "1 cuil. à café de sel", "12 tiges de canne à sucre", "2 cuil. à soupe d'huile", "POUR SERVIR - 24 crêpes de riz rondes de 15 cm de diamètre environ", "10 feuilles de laitue", "90 g de germes de soja", "20 g de menthe fraîche", "50 g de cacahuètes grillées et non salées, finement hachées", "sauce de piment douce"],
+"preparation": ["Décortiquer les crevettes, ôter le boyau et hacher grossièrement la chair. Étaler sur du papier absorbant et essuyer. Hacher finement la chair de crevette et la barde de porc dans un mixer.", "Mélanger dans une jatte le hachis à la crevette avec le gingembre, l'ail, la Maïzena, le sucre et le sel. Pétrir le mélange avec le bout des doigts pendant 2 minutes. Il aura ainsi une fine texture et sera plus facile à modeler autour des tiges de canne à sucre.", "Les mains humectées, former une boule grossière avec 2 cuil. à soupe de mélange. Modeler cette boule autour du centre d'une tige de canne à sucre en laissant un bord libre de 4 cm. Bien faire adhérer le mélange à la tige. Mettre la tige sur une feuille de papier sulfurisé et répéter l'opération avec le reste de la préparation. Réfrigérer les tiges pendant la préparation des garnitures d'accompagnement.", "À l'aide d'un pinceau à pâtisserie, badigeonner d'eau les deux faces de chaque crêpe de riz. Laisser reposer 2 minutes pour qu'elles ramollissent. Les empiler sur une assiette, asperger d'un peu d'eau et couvrir de film alimentaire pour maintenir les crêpes humides jusqu'à l'emploi. Empiler séparément les feuilles de laitue, les germes de soja et la menthe sur un plat de service.", "Huiler légèrement une grille et faire chauffer. Faire cuire les brochettes 7 minutes à feu modéré en les retournant régulièrement : la préparation à la crevette doit être cuite et bien dorée. On peut aussi faire griller les brochettes au barbecue.", "Pour servir, chaque convive prend une brochette, retire la viande et l'émince en fines lamelles. Il place les lamelles sur une crêpe de riz, couvre de quelques germes de soja et d'un peu de menthe et enveloppe le tout dans une feuille de laitue. Servir avec une sauce de piment douce.", "Note : On trouve de la canne à sucre congelée ou en boîte dans les épiceries asiatiques. Trop fibreuse, on ne la mange pas, mais elle est sucrée et maintient les boulettes humides. La barde de lard s'achète chez le boucher et prévient aussi le dessèchement."]
+
   },
   {
     "id": 202,
     "livreId": 2,
-    "titre": "Crêpes vietnamiennes en feuilles de bananier",
+    "titre": "Crevettes en feuilles de bananier",
     "page": 147,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1803.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["1 kg de crevettes crues", "8 petites feuilles de bananier", "1 cuil. à soupe de graines de sésame", "2,5 cm de gingembre frais, râpé", "2 petits piments rouges, finement hachés", "4 oignons nouveaux, finement hachés", "2 tiges de lemon-grass (partie blanche), finement hachées", "2 cuil. à café de cassonade", "1 cuil. à soupe de sauce de poisson", "2 cuil. à soupe de jus de citron vert", "2 cuil. à soupe de feuilles de coriandre hachées"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Mettre les feuilles de bananier dans une grande jatte, couvrir d'eau en ébullition et laisser ramollir 3 minutes. Égoutter et essuyer. Couper les feuilles de bananier en carrés de 18 cm de côté. Faire griller les graines de sésame à sec dans une poêle, à feu moyen, pendant 3 à 4 minutes, en secouant la poêle. Lorsqu'elles sont dorées, ôter de la poêle pour qu'elles ne brûlent pas.", "Mettre le gingembre, le piment, l'oignon nouveau et le lemon-grass dans un mixer et réduire en purée. Transférer dans une jatte. Incorporer le sucre, la sauce de poisson, le jus de citron, les graines de sésame et la coriandre et bien mélanger. Ajouter les crevettes et remuer pour enrober. Couvrir et laisser mariner 2 heures au réfrigérateur.", "Diviser le mélange en 8 portions et placer une portion sur chaque feuille de bananier. Replier la feuille pour enfermer le mélange et fixer la papillote à l'aide d'une brochette en bois.", "Faire étuver les papillotes 8 à 10 minutes au-dessus d'eau frémissante, jusqu'à ce que la garniture aux crevettes soit cuite.", "Note : Les feuilles de bananier s'achètent dans les épiceries asiatiques. Le cas échéant, on peut s'en procurer auprès d'un ami qui possède un bananier dans son jardin."]
+
   },
   {
     "id": 203,
@@ -2453,9 +2745,13 @@
     "page": 205,
     "categorie": "Plat",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1807.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["20 grosses crevettes crues", "farine de blé ou à tempura, pour enrober", "215 g de farine à tempura", "440 ml d'eau glacée", "2 jaunes d'œufs", "huile à friture", "1 grosse courgette, coupée en lanières", "1 poivron rouge, coupé en lanières", "1 oignon, coupé en rondelles", "sauce de soja japonaise, pour servir"],
+"preparation": ["Décortiquer les crevettes, sauf la queue, et ôter le boyau. Pratiquer 4 incisions dans la partie inférieure de chaque crevette et les étirer de façon à ce qu'elles soient bien droites.", "Fariner légèrement les crevettes, sauf la queue, et secouer pour ôter l'excédent. Dans une jatte, mélanger doucement les 215 g de farine à tempura, l'eau et les jaunes d'œufs. Utiliser tout de suite (la pâte à frire doit contenir quelques grumeaux).", "Faire chauffer l'huile dans un wok ou une poêle profonde, jusqu'à ce qu'elle soit modérément chaude. Plonger les crevettes par fournées dans la pâte à frire, en omettant la queue. Faire dorer rapidement dans l'huile, ôter et égoutter sur du papier absorbant. Répéter l'opération pour les morceaux de légumes, par fournées de 2 ou 3. Servir immédiatement avec la sauce de soja. Le cas échéant, ajouter quelques lanières de gingembre frais dans la sauce.", "Note : La farine à tempura s'achète dans les épiceries spécialisées : elle donne une pâte à frire très légère. On peut la remplacer par de la farine de blé, mais la pâte sera plus lourde."]
+
   },
   {
     "id": 206,
@@ -2475,9 +2771,13 @@
     "page": 208,
     "categorie": "Plat",
     "ingredientPrincipal": "Bœuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1810.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["2 cuil. à soupe de graines de sésame blanches japonaises", "1 gousse d'ail, écrasée", "3 cm de gingembre frais, râpé", "2 cuil. à soupe de sauce de soja japonaise", "1 cuil. à soupe de saké", "1 cuil. à café de sucre en poudre", "500 g d'aloyau de bœuf, coupé en 4 steaks", "3 oignons nouveaux, pour garnir", "1 cuil. à soupe d'huile", "SAUCE - 4 cm de gingembre frais", "1/2 cuil. à café de shichimi togarashi", "125 ml de sauce de soja japonaise", "2 cuil. à café de granulés de dashi", "2 cuil. à soupe d'eau"],
+"preparation": ["Faire griller à sec les graines de sésame 2 minutes à feu moyen, en secouant la poêle, jusqu'à ce qu'elles commencent à éclater. Piler au mortier.", "Mettre les graines pilées, l'ail, le gingembre, la sauce de soja, le saké et le sucre dans un bol et fouetter jusqu'à dissolution du sucre. Mettre les steaks dans un plat creux. Verser la marinade dessus et laisser mariner 30 minutes.", "Pour la sauce, couper le gingembre dans la longueur en fines lamelles d'environ 4 cm. Mettre le gingembre, le shichimi togarashi, la sauce de soja, le dashi et l'eau dans un bol et fouetter pour bien mélanger.", "Couper les oignons nouveaux dans la longueur en fines lanières d'environ 4 cm. Laisser tremper dans un bol d'eau glacée jusqu'à ce qu'elles bouclent. Égoutter.", "Badigeonner les steaks avec l'huile et faire griller 4 à 6 minutes de chaque côté : ne pas trop cuire, ils durciraient. Laisser reposer 5 minutes avant de les émincer diagonalement en lamelles. Dresser les lamelles sur des assiettes et arroser d'un peu de sauce. Garnir des boucles d'oignon nouveau et servir avec du riz à la vapeur et le reste de la sauce."]
+
   },
   {
     "id": 208,
@@ -2486,9 +2786,13 @@
     "page": 139,
     "categorie": "Plat",
     "ingredientPrincipal": "Poulet",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1812.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["10 g de champignons noirs séchés", "1 cuil. à soupe d'huile", "3 gousses d'ail, hachées", "6 cm de gingembre frais, coupé en fines lanières", "500 g de blancs de poulet, émincés", "4 oignons nouveaux, hachés", "1 cuil. à soupe de sauce Golden Mountain", "1 cuil. à soupe de sauce de poisson", "2 cuil. à café de cassonade", "1/2 poivron rouge, finement émincé", "15 g de feuilles de coriandre", "25 g de basilic thaï, haché"],
+"preparation": ["Mettre les champignons dans une jatte, couvrir d'eau chaude et laisser tremper 15 minutes. Égoutter et hacher grossièrement.", "Faire chauffer l'huile dans un wok, ajouter l'ail et le gingembre. Faire sauter 1 minute. Faire colorer le poulet à feu vif en plusieurs fois. Remettre tout le poulet dans le wok. Ajouter l'oignon nouveau et la sauce Golden Mountain et faire sauter 1 minute.", "Ajouter la sauce de poisson, le sucre et les champignons. Remuer, couvrir et laisser étuver 2 minutes. Parsemer du poivron rouge, de la coriandre et du basilic et servir."]
+
   },
   {
     "id": 209,
@@ -2530,20 +2834,28 @@
     "page": 212,
     "categorie": "Plat",
     "ingredientPrincipal": "Œuf",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["10 g de champignons shiitake séchés", "250 g de crevettes crues", "4 œufs", "1 cuil. à café de granulés de dashi", "2 cuil. à café de sauce de soja japonaise", "2 cuil. à café de saké", "2 cuil. à café d'huile", "100 g de petits pois surgelés", "3 oignons nouveaux, finement hachés"],
+"preparation": ["Faire tremper les champignons 15 minutes dans de l'eau chaude. Égoutter et émincer. Décortiquer les crevettes, ôter le boyau et essuyer à l'aide de papier absorbant.", "Battre les œufs, le dashi, la sauce de soja et le saké dans un bol.", "Faire chauffer l'huile dans une poêle. Ajouter les crevettes et faire sauter 2 minutes à feu moyen. Ajouter les pois, couvrir et laisser étuver 2 minutes.", "Ajouter le mélange aux œufs et faire cuire à feu doux en remuant pour brouiller grossièrement les œufs. Parsemer de l'oignon nouveau et servir avec du riz."]
+
   },
   {
     "id": 213,
     "livreId": 2,
-    "titre": "Nouilles aux crevettes",
+    "titre": "Nouilles frites",
     "page": 186,
     "categorie": "Plat",
     "ingredientPrincipal": "Nouilles",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": "app-complete-5/IMG_1815.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["40 g de graines de sésame blanches", "2 cuil. à soupe d'huile", "2 cuil. à café d'huile de sésame", "4 oignons nouveaux, hachés", "2 gousses d'ail, finement hachées", "2 cuil. à café de piment rouge finement haché", "300 g de crevettes crues, décortiquées et boyau ôté", "150 g de tofu ferme, coupé en dés", "100 g de champignons boutons, finement émincés", "1 poivron rouge, coupé en fines lanières", "2 cuil. à soupe d'eau", "2 cuil. à soupe de sauce de soja", "2 cuil. à café de sucre", "300 g de nouilles hokkien"],
+"preparation": ["Faire griller à sec les graines de sésame dans une poêle pendant 3 à 4 minutes, à feu moyen, en secouant la poêle. Lorsque les graines sont dorées, ôter de la poêle pour qu'elles ne brûlent pas. Moudre dans un moulin à café ou piler au mortier.", "Mélanger les huiles dans un bol et verser la moitié dans un wok ou une poêle à fond épais. Faire chauffer à feu modéré. Faire sauter l'oignon, l'ail, le piment et les crevettes 2 minutes. Ôter du wok et réserver. Faire dorer le tofu en remuant de temps en temps. Ôter du wok et réserver. Verser le reste de l'huile et ajouter les champignons et le poivron rouge. Faire sauter 3 minutes, ou jusqu'à ce qu'ils soient croustillants.", "Ajouter l'eau, la sauce de soja, le sucre et les nouilles. Démêler doucement les nouilles. Couvrir et étuver 5 minutes. Remuer. Ajouter les crevettes et le tofu, remuer 3 minutes à feu moyen. Parsemer des graines de sésame pilées et servir."]
+
   },
   {
     "id": 214,
@@ -2552,9 +2864,13 @@
     "page": 214,
     "categorie": "Plat",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+"image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["12 crevettes crues", "30 g de Maïzena", "1 cuil. à café de granulés de dashi", "2 cuil. à soupe d'eau", "3 cuil. à soupe de saké", "1/2 cuil. à café de sucre", "1/2 cuil. à café de sel", "3 jaunes d'œufs, légèrement battus"],
+"preparation": ["Décortiquer les crevettes, sauf la queue, et ôter le boyau. Porter une grande casserole d'eau à ébullition. Enrober chaque crevette de Maïzena et secouer pour ôter l'excédent. Les plonger par 2 ou 3 dans l'eau bouillante et faire cuire 7 secondes. Ôter les crevettes et les rincer sous l'eau froide courante.", "Mélanger le dashi, l'eau, le saké, le sucre et le sel dans une poêle. Porter à ébullition en remuant. Ajouter les crevettes et les enrober de la sauce. Verser l'œuf battu, couvrir et laisser mijoter 3 minutes à feu très doux. Servir avec des légumes et du riz à la vapeur.", "Note : Enrober les crevettes de Maïzena, les blanchir rapidement et les rincer leur donne une texture très croquante. Sans cela, elles se ramolliraient en cuisant dans le bouillon."]
+
   },
   {
     "id": 215,
@@ -2589,9 +2905,13 @@
     "page": 250,
     "categorie": "Entrée",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+   "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["350 g de crevettes crues", "1 oignon moyen, grossièrement haché", "2 gousses d'ail, hachées", "4 cm de gingembre frais, râpé", "1 à 2 cuil. à soupe de pâte de curry prête à l'emploi", "2 cuil. à soupe de jus de citron", "15 g de feuilles de coriandre", "1 cuil. à café de curcuma moulu", "1/2 cuil. à café de sel", "1/4 de cuil. à café de poivre noir concassé", "55 g de farine besan (pois chiches)", "huile à friture"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Mettre dans un mixer les crevettes, l'oignon, l'ail, le gingembre, la pâte de curry, le jus de citron, la coriandre, le curcuma, le sel et le poivre. Mixer 20 à 30 secondes pour bien mélanger. Couvrir et réfrigérer 30 minutes.", "Former des croquettes avec quelques cuil. à soupe de mélange à la crevette. Enrober de farine besan. Faire chauffer 2 cm d'huile dans une poêle et faire dorer les croquettes en plusieurs fois, 3 minutes à feu moyen. Égoutter sur du papier absorbant et servir, le cas échéant, avec du yogourt et du citron.", "Note : Plusieurs pâtes de curry indiennes conviennent pour les crevettes : rogan josh, balti, tikka masala, vindaloo et tandoori."]
+
   },
   {
     "id": 218,
@@ -2600,9 +2920,13 @@
     "page": 260,
     "categorie": "Plat",
     "ingredientPrincipal": "Crevette",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": null,
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["750 g de crevettes crues", "1 cuil. à café de curcuma moulu", "155 g d'oignon, grossièrement haché", "4 gousses d'ail, écrasées", "1/2 cuil. à café de paprika", "1 cuil. à café de piment rouge, égrainé et haché", "1 pincée de clous de girofle moulus", "1/4 de cuil. à café de cardamome moulue", "1 cuil. à café de gingembre frais, finement haché", "3 cuil. à soupe d'huile", "2 tomates, coupées en dés", "250 ml de crème de coco", "2 cuil. à soupe de feuilles de coriandre"],
+"preparation": ["Décortiquer les crevettes, sauf la queue, et ôter le boyau. Mélanger avec le curcuma.", "Dans un mixer, réduire en pâte onctueuse l'oignon, l'ail, le paprika, le piment, les clous de girofle, la cardamome et le gingembre.", "Faire chauffer l'huile dans une poêle profonde. Ajouter la pâte d'épices avec précaution (attention aux projections). Mélanger à l'huile et faire cuire 10 minutes à feu doux. Si le mélange commence à brûler, ajouter un peu d'eau. Une fois cuite, la pâte doit être brun doré et huileuse.", "Incorporer les crevettes, la tomate et la crème de coco et laisser mijoter 5 minutes : les crevettes doivent être cuites. Incorporer la coriandre, saler et servir avec du riz."]
+
   },
   {
     "id": 219,
@@ -2626,9 +2950,13 @@
     "page": 276,
     "categorie": "Plat",
     "ingredientPrincipal": "Fruits de mer",
-    "image": "IMG_1430.jpeg",
-    "favori": false,
-    "statut": "Indexé"
+    "image": "app-complete-5/IMG_1821.jpeg",
+"favori": false,
+"note": 0,
+"statut": "Indexé",
+"ingredients": ["500 g de crevettes crues", "2 blancs de calmars", "250 g de moules", "3 cuil. à soupe d'huile", "2 oignons moyens, émincés", "2 gousses d'ail, écrasées", "1 cuil. à soupe de gingembre frais râpé", "1/2 cuil. à café de curcuma moulu", "1 cuil. à café de piment en poudre", "1 cuil. à café de paprika", "60 ml de purée de tomates", "1 cuil. à café de sucre de palme râpé ou de cassonade"],
+"preparation": ["Décortiquer les crevettes et ôter le boyau. Couper les blancs de calmars en carrés de 6 cm de côté et, à l'aide d'un couteau pointu, inciser la chair en forme de croisillons. Gratter et ébarber les moules.", "Faire chauffer l'huile dans une poêle ou un wok. Ajouter l'oignon, l'ail et le gingembre et faire cuire 3 à 5 minutes à feu moyen, jusqu'à ce que l'oignon soit tendre.", "Ajouter le curcuma, le piment en poudre et le paprika et faire cuire 2 minutes : l'huile doit commencer à se séparer des épices.", "Ajouter les fruits de mer et faire cuire 3 à 5 minutes à feu vif, jusqu'à ce que les crevettes soient roses. Incorporer la purée de tomates et le sucre et réchauffer la sauce 3 minutes. Servir avec du riz ou des nouilles."]
+
   },
   {
     "id": 221,
