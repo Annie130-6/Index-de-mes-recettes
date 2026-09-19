@@ -44,6 +44,11 @@ nav button {
 .carte-recette { display:flex; gap:15px; align-items:flex-start; }
 .photo-recette { width:100px; border-radius:6px; flex-shrink:0; }
 
+.tri-boutons { display: flex; gap: 8px; margin: 8px 0; flex-wrap: wrap; }
+
+
+
+
 
 #btn-fin {
   position: fixed;
