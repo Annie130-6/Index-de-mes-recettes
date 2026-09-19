@@ -82,6 +82,30 @@ function carteLivreHTML(livre) {
 }
 
 let nombreAfficheLivres = 60;
+let triLivresMode = "defaut"; // "alpha" | "recentAncien" | "ancienRecent"
+
+function trierListeLivres(liste) {
+  const copie = [...liste];
+  if (triLivresMode === "alpha") {
+    copie.sort((a, b) => a.titre.localeCompare(b.titre, "fr", { sensitivity: "base" }));
+  } else if (triLivresMode === "recentAncien") {
+    copie.sort((a, b) => b.id - a.id);
+  } else if (triLivresMode === "ancienRecent") {
+    copie.sort((a, b) => a.id - b.id);
+  }
+  return copie;
+}
+
+function trierLivresAlpha() {
+  triLivresMode = triLivresMode === "alpha" ? "defaut" : "alpha";
+  rendreLivres();
+}
+
+function trierLivresDate() {
+  triLivresMode = triLivresMode === "recentAncien" ? "ancienRecent" : "recentAncien";
+  rendreLivres();
+}
+
 
 function afficherLivres() {
   cacherPages();
@@ -91,10 +115,16 @@ function afficherLivres() {
 }
 
 function rendreLivres() {
-  let html = `<h2>📚 Mes livres (${livres.length})</h2>
-    <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>`;
+  const listeTriee = trierListeLivres(livres);
 
-  livres.slice(0, nombreAfficheLivres).forEach(livre => {
+  let html = `<h2>📚 Mes livres (${livres.length})</h2>
+    <button class="btn-scroll-jump" onclick="sauterDeCartes(25)">⏩ +25</button>
+    <div class="tri-boutons">
+      <button onclick="trierLivresAlpha()">🔤 ${triLivresMode === "alpha" ? "✓ " : ""}A → Z</button>
+      <button onclick="trierLivresDate()">📅 ${triLivresMode === "ancienRecent" ? "Plus ancien → récent" : "Plus récent → ancien"}</button>
+    </div>`;
+
+  listeTriee.slice(0, nombreAfficheLivres).forEach(livre => {
     html += carteLivreHTML(livre);
   });
 
@@ -104,6 +134,7 @@ function rendreLivres() {
 
   pageLivres.innerHTML = html;
 }
+
 
 function afficherPlusDeLivres() {
   nombreAfficheLivres += 60;
@@ -184,6 +215,30 @@ let recettesLivreBase = [];
 
 let recettesActuelles = [];
 let nombreAffiche = 60;
+let triRecettesMode = "defaut"; // "alpha" | "recentAncien" | "ancienRecent"
+
+function trierListeRecettes(liste) {
+  const copie = [...liste];
+  if (triRecettesMode === "alpha") {
+    copie.sort((a, b) => a.titre.localeCompare(b.titre, "fr", { sensitivity: "base" }));
+  } else if (triRecettesMode === "recentAncien") {
+    copie.sort((a, b) => b.id - a.id);
+  } else if (triRecettesMode === "ancienRecent") {
+    copie.sort((a, b) => a.id - b.id);
+  }
+  return copie;
+}
+
+function trierRecettesAlpha() {
+  triRecettesMode = triRecettesMode === "alpha" ? "defaut" : "alpha";
+  rendreRecettes();
+}
+
+function trierRecettesDate() {
+  triRecettesMode = triRecettesMode === "recentAncien" ? "ancienRecent" : "recentAncien";
+  rendreRecettes();
+}
+
 
 function afficherRecettes(liste) {
   cacherPages();
@@ -228,10 +283,8 @@ function fermerDetailRecette() {
 
 
 
-
-
 function rendreRecettes() {
-  const liste = recettesActuelles;
+  const liste = trierListeRecettes(recettesActuelles);
 
   let html = `<div class="filtres">
     <button class="btn-mode" onclick="basculerMode()">Mode : ${modeCategories}</button>
@@ -242,9 +295,12 @@ function rendreRecettes() {
   });
   html += `</div></div>`;
 
-      html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
- 
+  html += `<div class="tri-boutons">
+    <button onclick="trierRecettesAlpha()">🔤 ${triRecettesMode === "alpha" ? "✓ " : ""}A → Z</button>
+    <button onclick="trierRecettesDate()">📅 ${triRecettesMode === "ancienRecent" ? "Plus ancien → récent" : "Plus récent → ancien"}</button>
+  </div>`;
 
+  html += `<h2>🍽️ Recettes (${liste.length})</h2>`;
 
   liste.slice(0, nombreAffiche).forEach(recette => {
     html += carteRecetteHTML(recette);
@@ -256,6 +312,8 @@ function rendreRecettes() {
 
   results.innerHTML = html;
 }
+
+
 
 function afficherPlusDeRecettes() {
   nombreAffiche += 60;
